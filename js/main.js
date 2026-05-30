@@ -31,7 +31,7 @@
     }));
 
     // Data-driven sections
-    hydrate('data/indicators.json', window.renderIndicators);
+    hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); });
     hydrate('data/mortgage-rates.json', window.renderMortgageChart);
     hydrate('data/news.json', window.renderNews);
     hydrate('data/sold-homes.json', window.initSoldHomes);

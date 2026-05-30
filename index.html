@@ -3,12 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Anna Nguyen — South Bay Real Estate | San Jose, Santa Clara, Sunnyvale, Mountain View</title>
-  <meta name="description" content="Anna Nguyen, South Bay California real estate specialist. Daily market trends, leading indicators, mortgage rates, Bay Area housing news, and recent sold homes for San Jose, Santa Clara, Sunnyvale & Mountain View." />
+  <title>Anna Nguyen — Specializing in Buying &amp; Selling Homes in the South Bay</title>
+  <meta name="description" content="Anna Nguyen specializes in buying and selling homes in the South Bay — San Jose, Santa Clara, Sunnyvale & Mountain View. Daily market trends, mortgage rates, a home-affordability calculator, buyer & seller guides, and Bay Area housing news." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
+
+  <!-- SEO: structured data for Google -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "name": "Anna Nguyen",
+    "description": "South Bay California real estate specialist serving San Jose, Santa Clara, Sunnyvale, and Mountain View.",
+    "telephone": "+1-408-823-1538",
+    "email": "annagoogol@gmail.com",
+    "url": "https://700799.github.io/south-bay-housing/",
+    "image": "https://700799.github.io/south-bay-housing/assets/img/anna-headshot.jpg",
+    "areaServed": [
+      { "@type": "City", "name": "San Jose" },
+      { "@type": "City", "name": "Santa Clara" },
+      { "@type": "City", "name": "Sunnyvale" },
+      { "@type": "City", "name": "Mountain View" }
+    ],
+    "knowsAbout": ["Residential real estate", "Home buying", "Home selling", "Silicon Valley housing market"]
+  }
+  </script>
 </head>
 <body>
 
@@ -34,8 +55,9 @@
     <div class="wrap">
       <div>
         <p class="cities">San Jose · Santa Clara · Sunnyvale · Mountain View</p>
-        <h1>Your South Bay Real Estate Specialist</h1>
-        <p>Buying or selling in Silicon Valley? Get data-driven guidance, daily market intelligence, and a trusted advocate from offer to close.</p>
+        <h1>Anna Nguyen</h1>
+        <p class="hero-tagline">Specializing in buying &amp; selling homes in the South Bay.</p>
+        <p>Data-driven guidance, daily market intelligence, and a trusted advocate from offer to close.</p>
         <div class="hero-cta">
           <a href="#contact" class="btn btn--primary">I'm Buying →</a>
           <a href="#contact" class="btn btn--ghost">I'm Selling →</a>
@@ -56,12 +78,7 @@
       <p class="eyebrow">About Anna</p>
       <h2>Engineering precision, marketing savvy, Silicon Valley roots</h2>
       <p class="lead">Anna Nguyen brings a background in key roles at companies like <strong>Facebook, Cisco, and VeriSign</strong> to her real estate practice. That experience inside the Valley's leading employers gives her a firsthand understanding of the tech-driven forces that move the South Bay housing market — and a sharp, analytical approach to pricing, negotiation, and strategy for her clients.</p>
-      <ul class="cred-list">
-        <li>🏢 Facebook · Cisco · VeriSign</li>
-        <li>🎓 MBA — Santa Clara University</li>
-        <li>🎓 BS — University of Washington</li>
-        <li>📍 South Bay specialist</li>
-      </ul>
+      <p class="cred-line">MBA, Santa Clara University &nbsp;·&nbsp; BS, University of Washington &nbsp;·&nbsp; South Bay specialist</p>
     </div>
   </section>
 
@@ -69,8 +86,12 @@
   <section class="section" id="market">
     <div class="wrap">
       <p class="eyebrow">Market Trends</p>
-      <h2>Sales trends: weekly, monthly &amp; seasonal</h2>
-      <p class="lead">How the South Bay market is moving across different time horizons. Use these views to time your buying or selling decision.</p>
+      <h2>Live market snapshot <span class="badge">Updated daily</span></h2>
+      <p class="lead">Real South Bay &amp; U.S. housing signals — mortgage rates, Treasury yields, local inventory, days on market and more — refreshed automatically every day from the Federal Reserve (FRED). Scroll down for the full indicator table and seasonal context.</p>
+      <div class="stat-tiles" id="trendStats">
+        <p style="color:var(--slate)">Loading live stats…</p>
+      </div>
+      <h3 class="subhead">Weekly · Monthly · Seasonal context</h3>
       <div class="tabs" role="tablist">
         <button class="tab" role="tab" aria-selected="true" data-tab="weekly">Weekly</button>
         <button class="tab" role="tab" aria-selected="false" data-tab="monthly">Monthly</button>
@@ -107,12 +128,12 @@
       <h2>Factors that affect buying &amp; selling in the South Bay</h2>
       <p class="lead">The Silicon Valley market has its own drivers. These are the forces I watch most closely for my clients.</p>
       <div class="grid grid-3">
-        <div class="card"><h3>💼 Tech job market</h3><p>Hiring, layoffs, RSU vesting and IPO activity at major employers directly shape buyer demand and budgets across the South Bay.</p></div>
-        <div class="card"><h3>📈 Mortgage rates</h3><p>Every move in the 30-year fixed shifts monthly payments and purchasing power — critical in a high-price market.</p></div>
-        <div class="card"><h3>🏠 Inventory &amp; lock-in</h3><p>Homeowners holding low pandemic-era mortgages are slow to sell, keeping supply tight and supporting prices.</p></div>
-        <div class="card"><h3>🎓 Schools &amp; location</h3><p>Top-rated school boundaries, commute access and walkability command persistent premiums.</p></div>
-        <div class="card"><h3>🧾 Taxes &amp; Prop 13</h3><p>Property tax basis, transfer taxes and capital-gains considerations factor heavily into seller timing.</p></div>
-        <div class="card"><h3>🌗 Seasonality</h3><p>Spring and early summer bring the most activity; timing your listing can affect both speed and price.</p></div>
+        <div class="card"><h3>Tech job market</h3><p>Hiring, layoffs, RSU vesting and IPO activity at major employers directly shape buyer demand and budgets across the South Bay.</p></div>
+        <div class="card"><h3>Mortgage rates</h3><p>Every move in the 30-year fixed shifts monthly payments and purchasing power — critical in a high-price market.</p></div>
+        <div class="card"><h3>Inventory &amp; lock-in</h3><p>Homeowners holding low pandemic-era mortgages are slow to sell, keeping supply tight and supporting prices.</p></div>
+        <div class="card"><h3>Schools &amp; location</h3><p>Top-rated school boundaries, commute access and walkability command persistent premiums.</p></div>
+        <div class="card"><h3>Taxes &amp; Prop 13</h3><p>Property tax basis, transfer taxes and capital-gains considerations factor heavily into seller timing.</p></div>
+        <div class="card"><h3>Seasonality</h3><p>Spring and early summer bring the most activity; timing your listing can affect both speed and price.</p></div>
       </div>
     </div>
   </section>
@@ -198,11 +219,11 @@
       <p class="lead">The best books and research from the past decade — short summaries to make you a smarter buyer or seller.</p>
       <div class="grid grid-2">
         <div class="lit-col">
-          <h3 class="col-title">📚 Top 5 Books</h3>
+          <h3 class="col-title">Top 5 Books</h3>
           <div id="booksList">Loading…</div>
         </div>
         <div class="lit-col">
-          <h3 class="col-title">📰 Top 5 Journal &amp; Research Summaries</h3>
+          <h3 class="col-title">Top 5 Journal &amp; Research Summaries</h3>
           <div id="journalsList">Loading…</div>
         </div>
       </div>
@@ -217,9 +238,9 @@
       <p class="lead">Whether you're making your first move or your fifth, I'll guide you with data, care, and local expertise. Reach out for a free, no-pressure consultation.</p>
       <div class="contact-grid">
         <div class="contact-methods">
-          <a href="tel:+14088231538"><span class="ic">📞</span> 408-823-1538</a>
-          <a href="mailto:annagoogol@gmail.com"><span class="ic">✉️</span> annagoogol@gmail.com</a>
-          <a href="#sold"><span class="ic">🏡</span> San Jose · Santa Clara · Sunnyvale · Mountain View</a>
+          <a href="tel:+14088231538"><span class="ic-label">Call</span> 408-823-1538</a>
+          <a href="mailto:annagoogol@gmail.com"><span class="ic-label">Email</span> annagoogol@gmail.com</a>
+          <p class="serving">Serving San Jose · Santa Clara · Sunnyvale · Mountain View</p>
         </div>
         <!-- Replace FORM_ID with your Formspree form ID (https://formspree.io) -->
         <form class="contact-form" action="https://formspree.io/f/FORM_ID" method="POST">

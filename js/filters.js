@@ -41,7 +41,7 @@
 
   function homeCard(h) {
     return `<article class="card home-card">
-      <div class="home-photo">${h.image ? `<img src="${esc(h.image)}" alt="${esc(h.address)}" style="width:100%;height:100%;object-fit:cover">` : '🏡 SOLD'}</div>
+      <div class="home-photo">${h.image ? `<img src="${esc(h.image)}" alt="${esc(h.address)}" style="width:100%;height:100%;object-fit:cover">` : 'SOLD'}</div>
       <div class="home-body">
         <p class="home-price">${usd(h.price)}</p>
         <p class="home-addr">${esc(h.address)}</p>

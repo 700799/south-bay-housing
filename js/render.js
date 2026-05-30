@@ -4,6 +4,34 @@
     String(s == null ? '' : s).replace(/[&<>"']/g, (c) =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+  // Shared delta styling (good/bad/flat + arrow) used by table and stat tiles.
+  function deltaParts(r) {
+    const isGood =
+      r.direction === 'flat' ? null :
+      (r.good_when === 'down' ? r.direction === 'down' : r.direction === 'up');
+    return {
+      cls: isGood == null ? 'flat' : isGood ? 'good' : 'bad',
+      arrow: r.direction === 'up' ? '▲' : r.direction === 'down' ? '▼' : '–',
+      sign: r.delta > 0 ? '+' : '',
+    };
+  }
+
+  // ---- Live stat tiles (Market Trends) ----
+  window.renderStatTiles = function (data) {
+    const el = document.getElementById('trendStats');
+    if (!el) return;
+    const rows = (data && data.rows) || [];
+    if (!rows.length) { el.innerHTML = '<p style="color:var(--slate)">Live stats unavailable right now.</p>'; return; }
+    el.innerHTML = rows.map((r) => {
+      const d = deltaParts(r);
+      return `<div class="stat-tile">
+        <div class="stat-tile-val">${esc(r.value)}${esc(r.unit || '')}</div>
+        <div class="stat-tile-label">${esc(r.label)}</div>
+        <div class="delta ${d.cls}"><span class="arrow">${d.arrow}</span>${d.sign}${esc(r.delta)}${esc(r.unit || '')} <span class="period">${esc(r.deltaPeriod || '')}</span></div>
+      </div>`;
+    }).join('');
+  };
+
   // ---- Leading indicators table ----
   window.renderIndicators = function (data) {
     const body = document.getElementById('indicatorsBody');
@@ -12,22 +40,23 @@
       return;
     }
     body.innerHTML = data.rows.map((r) => {
-      const isGood =
-        r.direction === 'flat' ? null :
-        (r.good_when === 'down' ? r.direction === 'down' : r.direction === 'up');
-      const cls = isGood == null ? 'flat' : isGood ? 'good' : 'bad';
-      const arrow = r.direction === 'up' ? '▲' : r.direction === 'down' ? '▼' : '–';
-      const sign = r.delta > 0 ? '+' : '';
+      const d = deltaParts(r);
       return `<tr>
         <td>${esc(r.label)}</td>
         <td class="val">${esc(r.value)}${esc(r.unit || '')}</td>
-        <td><span class="delta ${cls}"><span class="arrow">${arrow}</span>${sign}${esc(r.delta)}${esc(r.unit || '')}</span></td>
+        <td><span class="delta ${d.cls}"><span class="arrow">${d.arrow}</span>${d.sign}${esc(r.delta)}${esc(r.unit || '')}</span></td>
         <td class="period">${esc(r.deltaPeriod || '')}</td>
       </tr>`;
     }).join('');
   };
 
-  // ---- News ----
+  // ---- News (live, daily) ----
+  // Google News titles end with " - Source"; strip that since we show the source separately.
+  function cleanTitle(t, source) {
+    let s = String(t || '');
+    if (source && s.endsWith(' - ' + source)) s = s.slice(0, -(source.length + 3));
+    return s.replace(/\s+-\s+[^-]+$/,'').trim() || s.trim();
+  }
   window.renderNews = function (data) {
     const grid = document.getElementById('newsGrid');
     const items = (data && data.items) || [];
@@ -35,20 +64,18 @@
     grid.innerHTML = items.map((n) => `
       <a class="card news-item" href="${esc(n.link)}" target="_blank" rel="noopener">
         <p class="news-meta">${esc(n.source || 'News')}${n.published ? ' · ' + esc(n.published) : ''}</p>
-        <h3>${esc(n.title)}</h3>
-        ${n.summary ? `<p>${esc(n.summary)}</p>` : ''}
+        <h3>${esc(cleanTitle(n.title, n.source))}</h3>
+        <span class="news-readmore">Read article →</span>
       </a>`).join('');
   };
 
-  // ---- Books / journals ----
+  // ---- Books / journals (rich multi-paragraph summaries, no outbound links) ----
   function litItem(it) {
-    const link = it.link
-      ? ` <a href="${esc(it.link)}" target="_blank" rel="noopener">read more →</a>`
-      : '';
+    const paras = Array.isArray(it.summary) ? it.summary : [it.summary || ''];
     return `<div class="lit-item">
       <h4>${esc(it.title)}</h4>
       <p class="by">${esc(it.author || '')}${it.year ? ' · ' + esc(it.year) : ''}</p>
-      <p>${esc(it.summary || '')}${link}</p>
+      ${paras.map((p) => `<p>${esc(p)}</p>`).join('')}
     </div>`;
   }
   window.renderLit = function (elId, data) {

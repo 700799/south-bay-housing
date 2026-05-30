@@ -11,27 +11,38 @@ import { writeJson, copySeed, nowIso } from './lib/util.mjs';
 const KEY = process.env.FRED_API_KEY;
 const meta = { lastRun: nowIso(), fred: 'seed', news: 'seed' };
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Fetch one FRED dataset with a single retry (handles transient rate limits),
+// write it on success, or fall back to its seed file. Returns true on success.
+async function tryFred(outName, seedBase, fetcher) {
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const data = await fetcher();
+      await writeJson(outName, data);
+      console.log(`FRED ${seedBase} updated.`);
+      return true;
+    } catch (e) {
+      console.error(`FRED ${seedBase} attempt ${attempt} failed:`, e.message);
+      if (attempt < 2) await sleep(2000);
+    }
+  }
+  await copySeed(seedBase);
+  console.warn(`FRED ${seedBase}: using seed fallback.`);
+  return false;
+}
+
 async function run() {
-  // --- FRED: mortgage rates + indicators ---
+  // --- FRED: mortgage rates + indicators (fetched independently so one
+  // transient failure can't seed both) ---
   if (!KEY) {
     console.warn('FRED_API_KEY not set — using seed data for rates + indicators.');
     await copySeed('mortgage-rates');
     await copySeed('indicators');
   } else {
-    try {
-      const [rates, indicators] = await Promise.all([
-        fetchMortgageRates(KEY),
-        fetchIndicators(KEY),
-      ]);
-      await writeJson('mortgage-rates.json', rates);
-      await writeJson('indicators.json', indicators);
-      meta.fred = 'ok';
-      console.log('FRED data updated.');
-    } catch (e) {
-      console.error('FRED fetch failed, using seed:', e.message);
-      await copySeed('mortgage-rates');
-      await copySeed('indicators');
-    }
+    const okRates = await tryFred('mortgage-rates.json', 'mortgage-rates', () => fetchMortgageRates(KEY));
+    const okInd = await tryFred('indicators.json', 'indicators', () => fetchIndicators(KEY));
+    meta.fred = okRates && okInd ? 'ok' : okRates || okInd ? 'partial' : 'seed';
   }
 
   // --- News ---

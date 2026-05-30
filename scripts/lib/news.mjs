@@ -13,11 +13,14 @@ const tag = (block, name) => {
   return m ? m[1].trim() : '';
 };
 
+// Decode encoded angle brackets first, then strip ALL tags (literal or encoded),
+// then decode remaining entities. This prevents Google News descriptions (which
+// contain HTML-encoded <a> link markup) from leaking into the text.
 const clean = (s) =>
   s.replace(/<!\[CDATA\[|\]\]>/g, '')
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"')
-    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&nbsp;/g, ' ')
     .replace(/\s+/g, ' ').trim();
 
 function parseItems(xml) {
@@ -32,14 +35,15 @@ function parseItems(xml) {
     const pub = tag(block, 'pubDate');
     const source = clean(tag(block, 'source')) || 'Google News';
     const date = pub ? new Date(pub).toISOString().slice(0, 10) : '';
-    const summary = clean(tag(block, 'description')).slice(0, 220);
-    items.push({ title, link, source, published: date, summary });
+    // Intentionally omit the RSS description: Google News descriptions are just
+    // link dumps to related coverage, not useful summaries.
+    items.push({ title, link, source, published: date });
   }
   return items;
 }
 
 const score = (it) => {
-  const t = (it.title + ' ' + it.summary).toLowerCase();
+  const t = it.title.toLowerCase();
   return PRIORITY.reduce((n, k) => (t.includes(k) ? n + 1 : n), 0);
 };
 
