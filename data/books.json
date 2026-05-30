@@ -1,10 +1,55 @@
 {
   "reviewed": "2026-05-30",
   "items": [
-    {"title": "The Millionaire Real Estate Agent (revised insights, widely read 2016–2025)", "author": "Gary Keller", "year": 2017, "summary": "A models-based playbook arguing that lead generation, budgeting, and hiring discipline — not luck — drive results. Most relevant to sellers choosing an agent: it explains the systems behind consistent marketing and pricing.", "link": "https://www.google.com/search?q=The+Millionaire+Real+Estate+Agent+Gary+Keller"},
-    {"title": "Your First Home", "author": "Gary Keller, Jay Papasan", "year": 2019, "summary": "A step-by-step guide for first-time buyers covering pre-approval, agent selection, offers, and closing. Strong on the emotional and financial readiness questions South Bay buyers face.", "link": "https://www.google.com/search?q=Your+First+Home+Gary+Keller"},
-    {"title": "Home Buying Kit For Dummies", "author": "Eric Tyson, Ray Brown", "year": 2020, "summary": "A comprehensive, jargon-free reference on mortgages, inspections, and negotiation. Useful for understanding loan trade-offs when rates are elevated.", "link": "https://www.google.com/search?q=Home+Buying+Kit+For+Dummies"},
-    {"title": "The Book on Negotiating Real Estate", "author": "J Scott, Mark Ferguson, Carol Scott", "year": 2019, "summary": "Tactics for structuring offers and counteroffers in competitive markets — directly applicable to multiple-offer South Bay scenarios on both the buy and sell side.", "link": "https://www.google.com/search?q=The+Book+on+Negotiating+Real+Estate"},
-    {"title": "Zillow Talk: Rewriting the Rules of Real Estate", "author": "Spencer Rascoff, Stan Humphries", "year": 2016, "summary": "Data-driven myth-busting on pricing, timing, and renovations that pay off. A good primer on how listing strategy and seasonality affect sale price.", "link": "https://www.google.com/search?q=Zillow+Talk+Rascoff+Humphries"}
+    {
+      "title": "The Millionaire Real Estate Agent",
+      "author": "Gary Keller",
+      "year": 2017,
+      "summary": [
+        "Gary Keller distills two decades of top-producer data into a models-based system built on lead generation over lead receiving, disciplined budgeting, and hiring the right people at the right time. Its central argument is that consistent results come from repeatable systems and clear numbers — not luck, charisma, or a hot market.",
+        "In a market as competitive as the South Bay, that discipline is exactly what separates agents who reliably win offers and command strong list prices from those who don't. For a San Jose or Sunnyvale seller, the book doubles as a checklist for choosing representation: ask to see the marketing system, the pricing process, and the database of past results behind an agent's pitch.",
+        "The deeper lesson for Silicon Valley clients is that real estate is a data and process business. The agents who consistently outperform in a high-stakes market are the ones who treat every listing with a system, and this book explains what that system should look like."
+      ]
+    },
+    {
+      "title": "Your First Home",
+      "author": "Gary Keller & Jay Papasan",
+      "year": 2019,
+      "summary": [
+        "Written for first-time buyers, this guide walks through readiness, pre-approval, choosing an agent, making the offer, and closing — all in plain, reassuring language. It reframes a home as both a financial asset and a life decision, and it's refreshingly honest about the emotional swings of the buying process.",
+        "Those swings are amplified in the South Bay, where entry prices are high and competition for well-priced homes is intense. The book's insistence on getting fully pre-approved and clear on your priorities before touring is precisely the preparation that lets Santa Clara or Mountain View buyers move decisively when the right home finally appears.",
+        "For anyone making their first move in Silicon Valley, its biggest gift is confidence: it turns an intimidating, high-dollar process into a series of understandable steps."
+      ]
+    },
+    {
+      "title": "Home Buying Kit For Dummies",
+      "author": "Eric Tyson & Ray Brown",
+      "year": 2020,
+      "summary": [
+        "A comprehensive, jargon-free reference covering mortgages, inspections, negotiation, and the mechanics of closing. Its strength is breadth — it demystifies loan types, discount points, and the trade-offs that ultimately determine your monthly payment.",
+        "With South Bay payments among the highest in the nation, understanding those trade-offs is anything but academic. A fraction of a percentage point on the rate, or a different down-payment structure, can change affordability by hundreds of dollars a month on a Silicon Valley home.",
+        "The book gives buyers the vocabulary and confidence to weigh financing options intelligently in a higher-rate environment, which is exactly the conversation that matters most in a market where price tags routinely cross seven figures."
+      ]
+    },
+    {
+      "title": "The Book on Negotiating Real Estate",
+      "author": "J Scott, Mark Ferguson & Carol Scott",
+      "year": 2019,
+      "summary": [
+        "This is a tactical guide to structuring offers and counteroffers, reading the other side, and protecting your position through terms and contingencies — not just price. It treats negotiation as a skill that can be learned and rehearsed.",
+        "South Bay deals are frequently won and lost on terms: contingency timelines, appraisal-gap coverage, rent-backs, and certainty of close often matter as much as the headline number. Whether you're competing in a multiple-offer San Jose situation or weighing offers as a seller, the book's frameworks map directly onto how Silicon Valley transactions actually get done.",
+        "Its core message — that the best outcome comes from preparation and creative structuring rather than brinkmanship — is the right mindset for navigating the South Bay's fast, high-value market."
+      ]
+    },
+    {
+      "title": "Zillow Talk: Rewriting the Rules of Real Estate",
+      "author": "Spencer Rascoff & Stan Humphries",
+      "year": 2016,
+      "summary": [
+        "Drawing on Zillow's enormous dataset, the authors bust common myths about pricing, timing, and which renovations actually pay off, making the case for evidence over folklore at every step of a sale.",
+        "Their data-driven view of listing strategy and seasonality resonates in the South Bay, where pricing a home a touch below the comparables can ignite competition and push the final price well above asking. The book's findings echo what the local market rewards: strategy, not guesswork.",
+        "For the analytically minded Silicon Valley client, it's a persuasive reminder that how a home is priced, timed, and marketed should be driven by data — and that small, evidence-based decisions compound into meaningfully better outcomes."
+      ]
+    }
   ]
 }

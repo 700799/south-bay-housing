@@ -1,10 +1,55 @@
 {
   "reviewed": "2026-05-30",
   "items": [
-    {"title": "Mortgage Rates and the Lock-In Effect on Housing Supply", "author": "Federal Reserve / FHFA research (working papers, 2023–2024)", "year": 2024, "summary": "Finds that homeowners with low pre-2022 mortgages are reluctant to sell, constraining inventory and supporting prices even as demand softens — a key dynamic behind the South Bay's tight supply.", "link": "https://www.google.com/search?q=mortgage+rate+lock-in+effect+housing+supply+research"},
-    {"title": "Seasonality in House Prices and Time-on-Market", "author": "Journal of Housing Economics (survey of findings)", "year": 2021, "summary": "Documents that homes listed in spring tend to sell faster and at modest price premiums versus winter, informing optimal listing timing.", "link": "https://www.google.com/search?q=seasonality+house+prices+journal+of+housing+economics"},
-    {"title": "List Price Anchoring and Final Sale Price", "author": "Real Estate Economics (research summary)", "year": 2019, "summary": "Shows how the initial list price anchors buyer perception and bidding; strategic pricing below market can generate competition and higher final prices.", "link": "https://www.google.com/search?q=list+price+anchoring+final+sale+price+real+estate+economics"},
-    {"title": "The Effect of Interest Rates on Home Affordability and Demand", "author": "NBER / housing finance working papers", "year": 2023, "summary": "Quantifies how each percentage-point change in mortgage rates shifts monthly payments and buyer purchasing power, highly relevant to high-price South Bay markets.", "link": "https://www.google.com/search?q=interest+rates+home+affordability+demand+NBER"},
-    {"title": "iBuyers, Agents, and Seller Outcomes", "author": "Journal of Real Estate research (2020–2022)", "year": 2022, "summary": "Compares net proceeds and speed across selling channels, generally finding traditional agent-assisted sales yield higher net prices despite convenience alternatives.", "link": "https://www.google.com/search?q=iBuyer+versus+agent+seller+outcomes+research"}
+    {
+      "title": "Mortgage Rates and the Lock-In Effect on Housing Supply",
+      "author": "Federal Reserve / FHFA research (working papers)",
+      "year": 2024,
+      "summary": [
+        "This body of research documents the 'lock-in effect': homeowners holding low pre-2022 mortgages are reluctant to sell and surrender their cheap financing, which sharply reduces the number of homes coming to market. The cheaper the locked-in loan relative to today's rates, the stronger the reluctance.",
+        "It is one of the clearest explanations for the South Bay's persistently tight inventory. Even as higher rates cool demand, constrained supply keeps prices firm across San Jose, Santa Clara, Sunnyvale, and Mountain View — which is why well-priced listings still draw multiple offers.",
+        "For sellers, the research underscores the scarcity value of bringing a home to market when so many neighbors are staying put. For buyers, it explains why patience, preparation, and decisiveness matter more than ever in Silicon Valley."
+      ]
+    },
+    {
+      "title": "Seasonality in House Prices and Time-on-Market",
+      "author": "Journal of Housing Economics (survey of findings)",
+      "year": 2021,
+      "summary": [
+        "The research establishes a consistent seasonal pattern: homes listed in spring tend to sell faster and at modest price premiums compared with fall and winter listings, even after controlling for property characteristics.",
+        "That pattern holds strongly in the South Bay, where the spring market — fueled by the school calendar and the tech bonus and RSU-vesting cycles — is the busiest of the year. Buyer demand concentrates into a few months, and competition peaks alongside it.",
+        "The practical takeaway is that timing a listing to the season can measurably affect both speed and final price, making seasonality a core part of any Silicon Valley seller's go-to-market strategy."
+      ]
+    },
+    {
+      "title": "List Price Anchoring and Final Sale Price",
+      "author": "Real Estate Economics (research summary)",
+      "year": 2019,
+      "summary": [
+        "This work examines how the initial list price 'anchors' buyer perception and shapes the bidding that follows, finding that the opening number meaningfully influences where negotiations land.",
+        "It is the academic backbone of a tactic common in the South Bay: pricing slightly below recent comparables to generate multiple offers and let competition push the price up. The strategy only works because anchoring and scarcity are real, measurable forces.",
+        "Understanding anchoring helps sellers set a deliberate pricing strategy rather than guessing, and helps buyers avoid overpaying simply because a list price was set aggressively high — a discipline that pays off in a market where stakes are measured in hundreds of thousands of dollars."
+      ]
+    },
+    {
+      "title": "The Effect of Interest Rates on Home Affordability and Demand",
+      "author": "NBER / housing-finance working papers",
+      "year": 2023,
+      "summary": [
+        "These papers quantify how each percentage-point move in mortgage rates reshapes monthly payments, household purchasing power, and ultimately the level of buyer demand.",
+        "In a market with seven-figure entry prices, that math is magnified. A single point on the rate can swing a South Bay buyer's monthly payment by thousands of dollars and reprice exactly what they can afford, which is why local demand is so sensitive to Fed policy and the 10-year Treasury yield.",
+        "The research is a reminder of why tracking rates — as the daily indicators on this page do — is central to timing a Silicon Valley purchase, and why pre-approval should be revisited whenever the market moves."
+      ]
+    },
+    {
+      "title": "iBuyers, Agents, and Seller Outcomes",
+      "author": "Journal of Real Estate research",
+      "year": 2022,
+      "summary": [
+        "This research compares selling channels — instant-buyer (iBuyer) programs versus traditional agent-assisted sales — measuring net proceeds, speed, and the true cost of convenience.",
+        "It generally finds that agent-assisted sales yield higher net prices, with the speed of an instant cash offer coming at a measurable discount. The convenience is real, but so is the price paid for it.",
+        "In the high-value South Bay, where small percentage differences translate into very large dollar amounts, that gap is especially consequential. It is a key reason most Silicon Valley sellers still pursue a full, well-marketed sale rather than accept a quick cash offer."
+      ]
+    }
   ]
 }

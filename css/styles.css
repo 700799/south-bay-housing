@@ -113,6 +113,20 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 560px; }
 .news-item:hover { border-color: var(--gold); }
 .news-meta { font-size: .8rem; color: var(--slate); margin: 0 0 8px; text-transform: uppercase; letter-spacing: .04em; }
 .news-item h3 { font-size: 1.05rem; margin: 0 0 8px; }
+.news-readmore { color: var(--gold-dark); font-weight: 700; font-size: .9rem; }
+
+/* Hero tagline + about credentials line */
+.hero-tagline { color: var(--gold); font-family: var(--serif); font-size: 1.5rem; margin: 0 0 14px; font-weight: 500; }
+.cred-line { color: var(--navy); font-weight: 600; font-size: .98rem; margin: 6px 0 0; }
+.subhead { font-size: 1.1rem; color: var(--navy); margin: 30px 0 14px; }
+
+/* Live stat tiles (Market Trends) */
+.stat-tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 8px 0 6px; }
+.stat-tile { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); }
+.stat-tile-val { font-family: var(--serif); font-size: 1.9rem; color: var(--navy); line-height: 1; font-variant-numeric: tabular-nums; }
+.stat-tile-label { color: var(--slate); font-size: .82rem; font-weight: 600; margin: 8px 0 10px; text-transform: uppercase; letter-spacing: .04em; min-height: 2.2em; }
+.stat-tile .delta { font-size: .9rem; }
+.stat-tile .delta .period { display: block; font-weight: 500; margin-top: 2px; }
 
 /* Filters + sold homes */
 .filter-group { margin-bottom: 16px; }
@@ -149,7 +163,8 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 560px; }
 .contact .lead { color: #cdd5e4; }
 .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; align-items: start; }
 .contact-methods a { display: flex; align-items: center; gap: 12px; color: #fff; text-decoration: none; font-size: 1.1rem; font-weight: 600; margin-bottom: 16px; }
-.contact-methods .ic { width: 42px; height: 42px; border-radius: 50%; background: var(--gold); color: #1a1300; display: grid; place-items: center; flex: 0 0 auto; }
+.contact-methods .ic-label { background: var(--gold); color: #1a1300; font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; padding: 6px 12px; border-radius: 999px; flex: 0 0 auto; }
+.contact-methods .serving { color: #cdd5e4; font-weight: 600; margin: 8px 0 0; }
 form.contact-form { background: #fff; border-radius: var(--radius); padding: 24px; }
 form.contact-form label { display: block; font-size: .82rem; font-weight: 700; color: var(--navy); margin: 0 0 6px; text-transform: uppercase; letter-spacing: .04em; }
 form.contact-form input, form.contact-form select, form.contact-form textarea {
@@ -168,6 +183,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
   .hero .wrap { grid-template-columns: 1fr; }
   .headshot { margin: 0 auto; }
   .grid-3 { grid-template-columns: 1fr 1fr; }
+  .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .contact-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
@@ -176,5 +192,6 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
   .nav-links a { padding: 10px 0; width: 100%; }
   .nav-toggle { display: block; }
   .grid-3, .grid-2 { grid-template-columns: 1fr; }
+  .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .section { padding: 48px 0; }
 }
