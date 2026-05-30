@@ -75,7 +75,7 @@ const ROW_DEFS = [
   { key: 'fedfunds', id: 'FEDFUNDS', label: 'Fed Funds Rate', unit: '%', good: 'down' },
   { key: 'unrate', id: 'UNRATE', label: 'U.S. Unemployment', unit: '%', good: 'down' },
   { key: 'umcsent', id: 'UMCSENT', label: 'Consumer Sentiment', unit: '', good: 'up' },
-  { key: 'inventory', id: 'ACTLISCOU41940', fallback: 'ACTLISCOUUS', label: 'Active Listings (San Jose MSA)', unit: '', good: 'up' },
+  { key: 'inventory', id: 'ACTLISCOU41940', fallback: 'ACTLISCOUUS', label: 'Active Listings (South Bay Metro)', unit: '', good: 'up' },
   { key: 'dom', id: 'MEDDAYONMAR41940', fallback: 'MEDDAYONMARUS', label: 'Median Days on Market', unit: ' days', good: 'down' },
 ];
 

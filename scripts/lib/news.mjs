@@ -1,10 +1,14 @@
 // Dependency-free RSS fetch + parse for Bay Area real-estate news.
 // Runs in GitHub Actions (server-side) to avoid browser CORS limits on RSS.
 
+// `when:30d` restricts Google News results to the past 30 days.
 const FEEDS = [
-  'https://news.google.com/rss/search?q=South+Bay+OR+%22San+Jose%22+housing+market+real+estate&hl=en-US&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=%22Santa+Clara+County%22+OR+Sunnyvale+OR+%22Mountain+View%22+home+prices&hl=en-US&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=(South+Bay+OR+%22San+Jose%22)+housing+market+real+estate+when:30d&hl=en-US&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=(%22Santa+Clara+County%22+OR+Sunnyvale+OR+%22Mountain+View%22)+home+prices+when:30d&hl=en-US&gl=US&ceid=US:en',
 ];
+
+// Drop anything older than this many days (belt-and-suspenders with when:30d).
+const MAX_AGE_DAYS = 30;
 
 const PRIORITY = ['san jose', 'santa clara', 'sunnyvale', 'mountain view', 'bay area', 'silicon valley', 'south bay'];
 
@@ -61,7 +65,13 @@ export async function fetchNews(limit = 6) {
       all.push(it);
     }
   }
-  all.sort((a, b) => score(b) - score(a) || (a.published < b.published ? 1 : -1));
+  // Keep only the past 30 days.
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - MAX_AGE_DAYS);
+  const cutoffIso = cutoff.toISOString().slice(0, 10);
+  all = all.filter((it) => !it.published || it.published >= cutoffIso);
+  // Most recent first, then by South Bay relevance.
+  all.sort((a, b) => (a.published < b.published ? 1 : a.published > b.published ? -1 : 0) || score(b) - score(a));
   if (!all.length) throw new Error('No news items parsed');
   return { updated: new Date().toISOString(), source: 'Google News RSS', items: all.slice(0, limit) };
 }

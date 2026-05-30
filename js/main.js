@@ -40,7 +40,7 @@
 
     // Data-driven sections
     hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); });
-    hydrate('data/mortgage-rates.json', window.renderMortgageChart);
+    hydrate('data/mortgage-rates.json', (d) => { window.renderMortgageChart(d); if (window.applyLiveRate) window.applyLiveRate(d); });
     hydrate('data/news.json', window.renderNews);
     hydrate('data/books.json', (d) => window.renderLit('booksList', d));
     hydrate('data/journals.json', (d) => window.renderLit('journalsList', d));
