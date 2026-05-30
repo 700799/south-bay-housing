@@ -177,6 +177,55 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 720px; }
 .checklist input:checked ~ .check-body { opacity: .5; text-decoration: line-through; text-decoration-color: var(--line); }
 .checklist-note { margin-top: 18px; color: var(--slate); font-size: .92rem; }
 
+/* Mortgage calculator */
+.calc { display: grid; grid-template-columns: 1.1fr .9fr; gap: 24px; align-items: start; }
+.calc-inputs label { display: block; font-size: .85rem; font-weight: 600; color: var(--navy); margin-bottom: 14px; }
+.calc-inputs .calc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.calc-inputs input, .calc-inputs select { width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; font: inherit; margin-top: 6px; }
+.calc-range input[type="range"] { padding: 0; accent-color: var(--gold); }
+.calc-range span { color: var(--gold-dark); font-weight: 700; }
+.calc-output { background: var(--navy); color: #fff; border-radius: var(--radius); padding: 24px; box-shadow: var(--shadow); }
+.calc-label { color: #cdd5e4; text-transform: uppercase; letter-spacing: .06em; font-size: .78rem; font-weight: 700; margin: 0; }
+.calc-total { font-family: var(--serif); font-size: 2.6rem; margin: 6px 0 16px; }
+.calc-breakdown { list-style: none; padding: 0; margin: 0; }
+.calc-breakdown li { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,.12); font-size: .95rem; color: #e6eaf2; }
+.calc-breakdown .calc-sub { color: #aab4c8; border-bottom: 0; margin-top: 4px; }
+.calc-note { color: #aab4c8; font-size: .82rem; margin: 16px 0 0; }
+.calc-note a { color: var(--gold); }
+
+/* Buyer/seller guides timeline */
+.guides-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.guide-title { font-size: 1.3rem; margin: 0 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--gold); display: inline-block; }
+.timeline { list-style: none; counter-reset: step; padding: 0; margin: 0; }
+.timeline li { counter-increment: step; position: relative; padding: 0 0 18px 40px; border-left: 2px solid var(--line); margin-left: 14px; color: var(--slate); font-size: .95rem; }
+.timeline li:last-child { border-left-color: transparent; padding-bottom: 0; }
+.timeline li::before { content: counter(step); position: absolute; left: -16px; top: -4px; width: 30px; height: 30px; background: var(--navy); color: #fff; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-size: .85rem; }
+.timeline li strong { color: var(--navy); }
+
+/* City cards */
+.city-card h3 { margin-top: 0; }
+.city-meta { color: var(--navy); font-weight: 600; font-size: .85rem; margin: 12px 0 0; }
+.city-listings { display: inline-block; margin-top: 12px; color: var(--gold-dark); font-weight: 700; text-decoration: none; }
+.city-listings:hover { text-decoration: underline; }
+
+/* Glossary + FAQ */
+.glossary { margin: 0; }
+.glossary dt { font-weight: 700; color: var(--navy); margin-top: 14px; }
+.glossary dd { margin: 4px 0 0; color: var(--slate); font-size: .95rem; }
+.faq-list details { background: #fff; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 10px; box-shadow: var(--shadow); }
+.faq-list summary { cursor: pointer; padding: 14px 40px 14px 18px; font-weight: 700; color: var(--navy); list-style: none; position: relative; }
+.faq-list summary::-webkit-details-marker { display: none; }
+.faq-list summary::after { content: "+"; position: absolute; right: 18px; top: 13px; color: var(--gold-dark); font-weight: 700; font-size: 1.2rem; }
+.faq-list details[open] summary::after { content: "\2013"; }
+.faq-list details p { margin: 0; padding: 0 18px 16px; color: var(--slate); font-size: .95rem; }
+
+/* Valuation form */
+.valuation-form { max-width: 640px; }
+.valuation-form label { display: block; font-size: .82rem; font-weight: 700; color: var(--navy); text-transform: uppercase; letter-spacing: .04em; }
+.valuation-form input, .valuation-form textarea { width: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; font: inherit; margin: 6px 0 16px; }
+.valuation-form .calc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.valuation-form textarea { min-height: 90px; resize: vertical; }
+
 /* Contact */
 .contact { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; }
 .contact h2 { color: #fff; }

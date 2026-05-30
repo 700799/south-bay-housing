@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=6" />
+  <link rel="stylesheet" href="css/styles.css?v=7" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -33,6 +33,24 @@
     "knowsAbout": ["Residential real estate", "Home buying", "Home selling", "Silicon Valley housing market"]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "How much do I need for a down payment in the South Bay?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Conventional loans often start at 5% down, but in a competitive market like Silicon Valley many buyers put down 20% to strengthen their offer and avoid mortgage insurance. There are also low-down-payment and first-time-buyer programs. The right amount depends on your goals, cash, and the home's price." } },
+      { "@type": "Question", "name": "How long does it take to buy a home?",
+        "acceptedAnswer": { "@type": "Answer", "text": "From getting pre-approved to closing typically runs 30 to 60 days once you're in contract. Finding the right home can take days to months depending on inventory and your criteria." } },
+      { "@type": "Question", "name": "What is Proposition 13 and how does it affect my property taxes?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Prop 13 caps California property taxes at roughly 1% of assessed value plus local add-ons, and limits annual increases to about 2% until the property changes hands. When you buy, the home is reassessed to the purchase price, which becomes your new tax basis." } },
+      { "@type": "Question", "name": "Is it a good time to buy if mortgage rates are high?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Higher rates raise monthly payments but often mean less buyer competition and more room to negotiate. Many buyers purchase now and refinance later if rates fall. The best time depends on your finances and how long you plan to stay." } },
+      { "@type": "Question", "name": "What does it cost to sell a home in California?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Sellers typically pay real estate commissions, a share of escrow and title fees, county transfer tax, and any agreed-upon credits or repairs. Total costs commonly run in the range of 6 to 8% of the sale price." } }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -43,11 +61,12 @@
       <button class="nav-toggle" aria-label="Toggle menu" id="navToggle">☰</button>
       <nav class="nav-links" id="navLinks">
         <a href="#market">Market</a>
-        <a href="#indicators">Indicators</a>
         <a href="#mortgage">Mortgage</a>
+        <a href="#calculator">Calculator</a>
         <a href="#news">News</a>
+        <a href="#guides">Guides</a>
         <a href="#inspection">Inspection</a>
-        <a href="#learn">Learn</a>
+        <a href="#faq">FAQ</a>
         <a href="#contact" class="nav-cta">Contact</a>
       </nav>
     </div>
@@ -58,9 +77,8 @@
     <div class="wrap">
       <div>
         <p class="cities">San Jose · Santa Clara · Sunnyvale · Mountain View</p>
-        <h1>Anna Nguyen</h1>
+        <h1>Specializing in buying &amp; selling homes in the South Bay</h1>
         <p class="hero-role">Realtor® · Intero Real Estate Services · DRE #02339207</p>
-        <p class="hero-tagline">Specializing in buying &amp; selling homes in the South Bay.</p>
         <p>Data-driven guidance, daily market intelligence, and a trusted advocate from offer to close.</p>
         <div class="hero-cta">
           <a href="#contact" class="btn btn--primary">I'm Buying →</a>
@@ -174,14 +192,118 @@
     </div>
   </section>
 
+  <!-- MORTGAGE CALCULATOR -->
+  <section class="section" id="calculator">
+    <div class="wrap">
+      <p class="eyebrow">Plan Your Purchase</p>
+      <h2>Mortgage affordability calculator</h2>
+      <p class="lead">Estimate your monthly payment on a South Bay home. The interest rate is pre-filled with today's live 30-year average — adjust any field to see your payment update instantly.</p>
+      <div class="calc">
+        <div class="calc-inputs">
+          <label class="calc-range">Home price <span id="calcPriceOut">$1,500,000</span>
+            <input type="range" id="calcPrice" min="300000" max="4000000" step="25000" value="1500000" />
+          </label>
+          <div class="calc-row">
+            <label>Down payment (%)<input type="number" id="calcDownPct" min="0" max="100" step="1" value="20" /></label>
+            <label>Loan term<select id="calcTerm"><option value="30">30 years</option><option value="15">15 years</option></select></label>
+          </div>
+          <div class="calc-row">
+            <label>Interest rate (%)<input type="number" id="calcRate" min="0" max="15" step="0.01" value="6.5" /></label>
+            <label>Property tax (%/yr)<input type="number" id="calcTax" min="0" max="3" step="0.01" value="1.25" /></label>
+          </div>
+          <div class="calc-row">
+            <label>Home insurance ($/yr)<input type="number" id="calcIns" min="0" step="100" value="1800" /></label>
+            <label>HOA ($/mo)<input type="number" id="calcHoa" min="0" step="25" value="0" /></label>
+          </div>
+        </div>
+        <div class="calc-output">
+          <p class="calc-label">Estimated monthly payment</p>
+          <p class="calc-total" id="calcTotal">—</p>
+          <ul class="calc-breakdown" id="calcBreakdown"></ul>
+          <p class="calc-note">Estimate only — not a loan offer or pre-approval. Property tax, insurance, and HOA vary by home. <a href="#contact">Reach out</a> for financing guidance.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- NEWS -->
   <section class="section" id="news">
     <div class="wrap">
       <p class="eyebrow">Bay Area Housing News</p>
       <h2>Top real estate headlines <span class="badge">Updated daily</span></h2>
-      <p class="lead">Curated daily from the latest Bay Area real-estate coverage.</p>
+      <p class="lead">The latest South Bay real-estate coverage from the past 30 days, refreshed automatically each day.</p>
       <div class="grid grid-2" id="newsGrid">
         <div class="card">Loading news…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BUYER & SELLER GUIDES -->
+  <section class="section section--alt" id="guides">
+    <div class="wrap">
+      <p class="eyebrow">Step by Step</p>
+      <h2>Your roadmap to buying or selling</h2>
+      <p class="lead">Know what's ahead. Here's how each journey unfolds in the South Bay — and where I'll guide you at every step.</p>
+      <div class="guides-grid">
+        <div class="guide">
+          <h3 class="guide-title">Buying a home</h3>
+          <ol class="timeline">
+            <li><strong>Get pre-approved.</strong> Meet with a lender to confirm your budget and get a pre-approval letter — essential for competing in Silicon Valley.</li>
+            <li><strong>Define needs &amp; budget.</strong> We pin down must-haves, cities, schools, and commute so we search with focus.</li>
+            <li><strong>Tour homes.</strong> We see listings quickly while they're fresh, and review disclosures and comps together.</li>
+            <li><strong>Make an offer.</strong> We craft competitive terms — price, contingencies, timeline — to win without overpaying.</li>
+            <li><strong>Escrow &amp; inspections.</strong> Open escrow, complete inspections, and review reports before removing contingencies.</li>
+            <li><strong>Appraisal &amp; loan.</strong> Your lender finalizes the appraisal and underwriting toward loan approval.</li>
+            <li><strong>Close &amp; get keys.</strong> Sign, fund, record — and the home is yours.</li>
+          </ol>
+        </div>
+        <div class="guide">
+          <h3 class="guide-title">Selling a home</h3>
+          <ol class="timeline">
+            <li><strong>Prep &amp; price.</strong> We review comps and set a strategic price designed to attract strong offers.</li>
+            <li><strong>Stage &amp; photograph.</strong> Repairs, staging, and professional media make your home stand out.</li>
+            <li><strong>List &amp; market.</strong> We launch on the MLS with targeted online and local exposure.</li>
+            <li><strong>Review offers.</strong> We evaluate price and terms together and negotiate the strongest deal.</li>
+            <li><strong>Escrow &amp; contingencies.</strong> Buyer completes inspections and removes contingencies on schedule.</li>
+            <li><strong>Appraisal.</strong> The buyer's lender confirms value to keep financing on track.</li>
+            <li><strong>Close.</strong> Sign, record, and hand over the keys — congratulations.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CITY GUIDES -->
+  <section class="section" id="cities">
+    <div class="wrap">
+      <p class="eyebrow">South Bay Neighborhoods</p>
+      <h2>City guides</h2>
+      <p class="lead">A quick look at the four communities I serve — each with its own character and market.</p>
+      <div class="grid grid-2">
+        <div class="card city-card">
+          <h3>San Jose</h3>
+          <p>The Bay Area's largest city offers the widest range of neighborhoods and price points — from Willow Glen and Almaden to Evergreen and North San Jose. Strong for first-time buyers seeking relative value and for families wanting space.</p>
+          <p class="city-meta">Big employers nearby · Diverse housing stock · Broadest price range in the South Bay</p>
+          <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/San-Jose_CA" target="_blank" rel="noopener">View active listings in San Jose →</a>
+        </div>
+        <div class="card city-card">
+          <h3>Santa Clara</h3>
+          <p>Central and convenient, home to major tech campuses, Levi's Stadium, and Santa Clara University. Popular with buyers who want a short commute and a mix of established homes and newer townhome communities.</p>
+          <p class="city-meta">Tech-campus adjacent · Central location · Mix of homes &amp; townhomes</p>
+          <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Santa-Clara_CA" target="_blank" rel="noopener">View active listings in Santa Clara →</a>
+        </div>
+        <div class="card city-card">
+          <h3>Sunnyvale</h3>
+          <p>Consistently in-demand for its top-rated schools, walkable downtown, and proximity to major employers. Inventory moves fast, and well-priced homes routinely draw multiple offers.</p>
+          <p class="city-meta">Strong schools · Walkable downtown · High demand, fast market</p>
+          <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Sunnyvale_CA" target="_blank" rel="noopener">View active listings in Sunnyvale →</a>
+        </div>
+        <div class="card city-card">
+          <h3>Mountain View</h3>
+          <p>Home to Google and a vibrant Castro Street, Mountain View blends tech energy with community charm. Among the most competitive — and priciest — markets in the South Bay.</p>
+          <p class="city-meta">Premium pricing · Major employer base · Vibrant downtown</p>
+          <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Mountain-View_CA" target="_blank" rel="noopener">View active listings in Mountain View →</a>
+        </div>
       </div>
     </div>
   </section>
@@ -224,6 +346,92 @@
         <li><label><input type="checkbox" /><span class="check-body"><strong>Hazards &amp; seismic safety items.</strong> For older homes, check for asbestos and lead paint (pre-1978), confirm the water heater and furnace are seismically strapped, and review whether the property sits in a liquefaction or flood zone.</span></label></li>
       </ol>
       <p class="checklist-note">This is a general guide, not a substitute for a licensed home inspector. Have questions about a specific property? <a href="#contact">Reach out — I'm happy to help.</a></p>
+    </div>
+  </section>
+
+  <!-- CLOSING COSTS -->
+  <section class="section section--alt" id="costs">
+    <div class="wrap">
+      <p class="eyebrow">Know the Numbers</p>
+      <h2>California closing costs: who pays what</h2>
+      <p class="lead">A general guide to typical closing costs in a South Bay transaction. These are customary — every term is negotiable and actual costs vary by contract and city.</p>
+      <div class="table-scroll">
+        <table class="indicators costs-table">
+          <thead><tr><th>Cost</th><th>Typically paid by</th><th>Notes</th></tr></thead>
+          <tbody>
+            <tr><td>Real estate commission</td><td>Seller</td><td>Negotiated; the largest single closing cost.</td></tr>
+            <tr><td>Escrow fee</td><td>Split (varies)</td><td>Often shared 50/50; custom varies by county.</td></tr>
+            <tr><td>Owner's title insurance</td><td>Seller (customary)</td><td>Protects the buyer's ownership.</td></tr>
+            <tr><td>Lender's title insurance</td><td>Buyer</td><td>Required by the mortgage lender.</td></tr>
+            <tr><td>County transfer tax</td><td>Seller (customary)</td><td>$1.10 per $1,000 of value in Santa Clara County.</td></tr>
+            <tr><td>City transfer tax</td><td>Varies by city</td><td>Some cities add their own; many South Bay cities have none.</td></tr>
+            <tr><td>Loan origination &amp; points</td><td>Buyer</td><td>Lender fees; points are optional to buy down the rate.</td></tr>
+            <tr><td>Appraisal &amp; inspections</td><td>Buyer</td><td>Appraisal, home, pest, and any specialty inspections.</td></tr>
+            <tr><td>Prorated property taxes</td><td>Both</td><td>Split based on the closing date.</td></tr>
+            <tr><td>Recording fees</td><td>Buyer</td><td>County fees to record the deed and loan.</td></tr>
+            <tr><td>HOA transfer &amp; documents</td><td>Varies</td><td>Applies to condos/townhomes with an HOA.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="checklist-note">Customary, not fixed — everything in a purchase agreement is negotiable. I'll walk you through your specific estimate. Not legal or tax advice.</p>
+    </div>
+  </section>
+
+  <!-- GLOSSARY & FAQ -->
+  <section class="section" id="faq">
+    <div class="wrap">
+      <p class="eyebrow">Learn the Lingo</p>
+      <h2>Glossary &amp; FAQ</h2>
+      <p class="lead">Plain-English answers to the terms and questions that come up most for South Bay buyers and sellers.</p>
+      <div class="grid grid-2">
+        <div>
+          <h3 class="col-title">Key terms</h3>
+          <dl class="glossary">
+            <dt>Pre-approval</dt><dd>A lender's written estimate of how much you can borrow, based on verified finances. Essential for a competitive offer.</dd>
+            <dt>Escrow</dt><dd>A neutral third party that holds funds and documents until all sale conditions are met.</dd>
+            <dt>Contingency</dt><dd>A condition in the contract (loan, appraisal, inspection) that must be satisfied or the buyer can cancel.</dd>
+            <dt>Contingency removal</dt><dd>When the buyer formally waives a contingency, signaling commitment and putting their deposit at risk.</dd>
+            <dt>PITI</dt><dd>Principal, Interest, Taxes, and Insurance — the four parts of a typical monthly mortgage payment.</dd>
+            <dt>Points</dt><dd>An optional upfront fee (1 point = 1% of the loan) paid to lower your interest rate.</dd>
+            <dt>Appraisal gap</dt><dd>The difference when a home appraises below the offer price; the buyer may need to cover it in cash.</dd>
+            <dt>Earnest money</dt><dd>A good-faith deposit that shows you're serious; it's credited toward your purchase at closing.</dd>
+            <dt>Prop 13</dt><dd>California law capping property tax at ~1% of assessed value, reset to your purchase price when you buy.</dd>
+            <dt>HOA</dt><dd>Homeowners Association — collects dues for shared maintenance in many condos and townhomes.</dd>
+          </dl>
+        </div>
+        <div>
+          <h3 class="col-title">Frequently asked questions</h3>
+          <div class="faq-list">
+            <details><summary>How much do I need for a down payment in the South Bay?</summary><p>Conventional loans often start at 5% down, but many Silicon Valley buyers put 20% down to strengthen their offer and avoid mortgage insurance. Low-down-payment and first-time-buyer programs also exist. The right amount depends on your goals, cash, and the home's price.</p></details>
+            <details><summary>How long does it take to buy a home?</summary><p>Once you're in contract, closing typically runs 30–60 days. Finding the right home can take days to months depending on inventory and your criteria.</p></details>
+            <details><summary>What is Proposition 13 and how does it affect my taxes?</summary><p>Prop 13 caps California property taxes at roughly 1% of assessed value plus local add-ons and limits annual increases to about 2% until the home changes hands. When you buy, it's reassessed to your purchase price — your new tax basis.</p></details>
+            <details><summary>Is it a good time to buy if mortgage rates are high?</summary><p>Higher rates raise payments but often mean less competition and more negotiating room. Many buyers purchase now and refinance later if rates fall. The best time depends on your finances and how long you'll stay.</p></details>
+            <details><summary>What does it cost to sell a home in California?</summary><p>Sellers typically pay commissions, a share of escrow and title fees, county transfer tax, and any agreed credits or repairs — commonly in the 6–8% of sale price range.</p></details>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOME VALUATION CTA -->
+  <section class="section section--alt" id="valuation">
+    <div class="wrap">
+      <p class="eyebrow">For Sellers</p>
+      <h2>What's your South Bay home worth?</h2>
+      <p class="lead">Get a complimentary, no-obligation home valuation based on current market data and recent comparable sales in your neighborhood.</p>
+      <!-- Replace FORM_ID with your Formspree form ID (https://formspree.io) -->
+      <form class="contact-form valuation-form" action="https://formspree.io/f/FORM_ID" method="POST">
+        <input type="hidden" name="_subject" value="Home valuation request" />
+        <input type="hidden" name="intent" value="Home valuation request" />
+        <div class="calc-row">
+          <label>Name<input name="name" type="text" required /></label>
+          <label>Email<input name="email" type="email" required /></label>
+        </div>
+        <label>Property address<input name="address" type="text" placeholder="Street, City" required /></label>
+        <label>Anything I should know? (optional)<textarea name="message" placeholder="Timeline, condition, recent updates…"></textarea></label>
+        <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <button class="btn btn--primary" type="submit">Request my valuation</button>
+      </form>
     </div>
   </section>
 
@@ -273,8 +481,9 @@
   <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=6"></script>
-  <script src="js/chart.js?v=6"></script>
-  <script src="js/main.js?v=6"></script>
+  <script src="js/render.js?v=7"></script>
+  <script src="js/chart.js?v=7"></script>
+  <script src="js/calculator.js?v=7"></script>
+  <script src="js/main.js?v=7"></script>
 </body>
 </html>
