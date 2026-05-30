@@ -254,6 +254,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
   .grid-3 { grid-template-columns: 1fr 1fr; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .contact-grid { grid-template-columns: 1fr; }
+  .calc, .guides-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .nav-links { position: absolute; top: 64px; left: 0; right: 0; background: var(--navy); flex-direction: column; gap: 0; padding: 8px 20px 16px; display: none; }
@@ -262,5 +263,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
   .nav-toggle { display: block; }
   .grid-3, .grid-2 { grid-template-columns: 1fr; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }
+  .calc-inputs .calc-row, .valuation-form .calc-row { grid-template-columns: 1fr; }
+  .calc-total { font-size: 2.1rem; }
   .section { padding: 48px 0; }
 }
