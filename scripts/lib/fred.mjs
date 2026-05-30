@@ -67,16 +67,21 @@ function changeOver(obsDesc, days) {
 
 const WINDOWS = [['7d', 7], ['14d', 14], ['30d', 30], ['60d', 60]];
 
-// Series -> table row metadata. San Jose MSA series fall back to US.
+// Series -> table row metadata. Local San Jose / South Bay series fall back to
+// California / U.S. equivalents so a missing local series never blanks the row.
 const ROW_DEFS = [
   { key: 'mortgage30', id: 'MORTGAGE30US', label: '30-Yr Fixed Mortgage', unit: '%', good: 'down' },
   { key: 'mortgage15', id: 'MORTGAGE15US', label: '15-Yr Fixed Mortgage', unit: '%', good: 'down' },
   { key: 'dgs10', id: 'DGS10', label: '10-Yr Treasury Yield', unit: '%', good: 'down' },
   { key: 'fedfunds', id: 'FEDFUNDS', label: 'Fed Funds Rate', unit: '%', good: 'down' },
-  { key: 'unrate', id: 'UNRATE', label: 'U.S. Unemployment', unit: '%', good: 'down' },
+  { key: 'sjunrate', id: 'SANJ906URN', fallback: 'CAUR', label: 'San Jose-Metro Unemployment', unit: '%', good: 'down' },
   { key: 'umcsent', id: 'UMCSENT', label: 'Consumer Sentiment', unit: '', good: 'up' },
+  { key: 'listprice', id: 'MEDLISPRI41940', fallback: 'MEDLISPRIUS', label: 'Median List Price (South Bay Metro)', unit: '', good: 'up', format: 'usd' },
+  { key: 'newlistings', id: 'NEWLISCOU41940', fallback: 'NEWLISCOUUS', label: 'New Listings (South Bay Metro)', unit: '', good: 'up' },
   { key: 'inventory', id: 'ACTLISCOU41940', fallback: 'ACTLISCOUUS', label: 'Active Listings (South Bay Metro)', unit: '', good: 'up' },
   { key: 'dom', id: 'MEDDAYONMAR41940', fallback: 'MEDDAYONMARUS', label: 'Median Days on Market', unit: ' days', good: 'down' },
+  { key: 'hpi', id: 'ATNHPIUS41940Q', fallback: 'SFXRSA', label: 'Home Price Index (San Jose Metro)', unit: '', good: 'up' },
+  { key: 'income', id: 'MHICA06085A052NCEN', fallback: 'MEHOINUSCAA646N', label: 'Median Household Income (Santa Clara County)', unit: '', good: 'up', format: 'usd' },
 ];
 
 // Pull ~4 months of history (desc) so 7/14/30/60-day comparisons are possible.
@@ -105,6 +110,7 @@ export async function fetchIndicators(key) {
       key: def.key, label: def.label,
       value: round(obs[0].value), unit: def.unit,
       good_when: def.good, changes,
+      ...(def.format ? { format: def.format } : {}),
     });
     await sleep(250); // space out calls to stay well under FRED rate limits
   }

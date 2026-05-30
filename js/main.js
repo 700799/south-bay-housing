@@ -38,8 +38,16 @@
       if (panel) panel.classList.add('active');
     }));
 
+    // News carousel arrows (mobile users just swipe)
+    const track = document.getElementById('newsGrid');
+    const scrollBy = () => Math.max(260, Math.round((track ? track.clientWidth : 300) * 0.85));
+    const prev = document.getElementById('newsPrev');
+    const next = document.getElementById('newsNext');
+    if (track && prev) prev.addEventListener('click', () => track.scrollBy({ left: -scrollBy(), behavior: 'smooth' }));
+    if (track && next) next.addEventListener('click', () => track.scrollBy({ left: scrollBy(), behavior: 'smooth' }));
+
     // Data-driven sections
-    hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); });
+    hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); window.renderTrendTabs(d); });
     hydrate('data/mortgage-rates.json', (d) => { window.renderMortgageChart(d); if (window.applyLiveRate) window.applyLiveRate(d); });
     hydrate('data/news.json', window.renderNews);
     hydrate('data/books.json', (d) => window.renderLit('booksList', d));
