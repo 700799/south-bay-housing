@@ -12,6 +12,14 @@
   }
 
   document.addEventListener('DOMContentLoaded', () => {
+    // Back-to-top button: show after scrolling down a bit
+    const toTop = document.getElementById('toTop');
+    if (toTop) {
+      const onScroll = () => toTop.classList.toggle('show', window.scrollY > 500);
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    }
+
     // Mobile nav toggle
     const toggle = document.getElementById('navToggle');
     const links = document.getElementById('navLinks');

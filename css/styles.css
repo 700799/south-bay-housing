@@ -89,7 +89,7 @@ img { max-width: 100%; display: block; }
 
 /* Indicators table */
 .table-scroll { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--line); background: #fff; box-shadow: var(--shadow); }
-table.indicators { width: 100%; border-collapse: collapse; min-width: 560px; }
+table.indicators { width: 100%; border-collapse: collapse; min-width: 720px; }
 .indicators th, .indicators td { text-align: left; padding: 14px 18px; border-bottom: 1px solid var(--line); font-size: .96rem; }
 .indicators th { background: #fafaf8; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--slate); }
 .indicators tr:last-child td { border-bottom: 0; }
@@ -125,8 +125,10 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 560px; }
 .stat-tile { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); }
 .stat-tile-val { font-family: var(--serif); font-size: 1.9rem; color: var(--navy); line-height: 1; font-variant-numeric: tabular-nums; }
 .stat-tile-label { color: var(--slate); font-size: .82rem; font-weight: 600; margin: 8px 0 10px; text-transform: uppercase; letter-spacing: .04em; min-height: 2.2em; }
-.stat-tile .delta { font-size: .9rem; }
-.stat-tile .delta .period { display: block; font-weight: 500; margin-top: 2px; }
+.stat-tile-changes { display: flex; gap: 16px; flex-wrap: wrap; }
+.stat-tile .chg { font-size: .85rem; display: flex; align-items: center; gap: 6px; }
+.stat-tile .chg-k { color: var(--slate); font-weight: 700; font-size: .7rem; text-transform: uppercase; }
+.stat-tile .delta { font-size: .85rem; }
 
 /* Filters + sold homes */
 .filter-group { margin-bottom: 16px; }
@@ -157,6 +159,23 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 560px; }
 .lit-item .by { font-size: .82rem; color: var(--slate); margin: 0 0 6px; }
 .lit-item p { margin: 0; font-size: .92rem; color: var(--slate); }
 
+/* Back to top */
+.to-top { position: fixed; right: 18px; bottom: 18px; z-index: 60; background: var(--navy); color: #fff; text-decoration: none; font-weight: 700; font-size: .9rem; padding: 11px 16px; border-radius: 999px; box-shadow: var(--shadow); border: 1px solid rgba(255,255,255,.18); opacity: 0; visibility: hidden; transform: translateY(10px); transition: opacity .2s ease, transform .2s ease, visibility .2s; }
+.to-top.show { opacity: 1; visibility: visible; transform: translateY(0); }
+.to-top:hover { background: var(--gold); color: #1a1300; }
+
+/* Home inspection checklist */
+.checklist { list-style: none; counter-reset: chk; padding: 0; margin: 0; display: grid; gap: 12px; }
+.checklist li { counter-increment: chk; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.checklist label { display: flex; align-items: flex-start; gap: 14px; padding: 16px 18px; cursor: pointer; }
+.checklist input { appearance: none; -webkit-appearance: none; width: 26px; height: 26px; flex: 0 0 auto; border: 2px solid var(--gold); border-radius: 7px; position: relative; cursor: pointer; margin: 2px 0 0; transition: background .12s ease; }
+.checklist input:checked { background: var(--gold); }
+.checklist input:checked::after { content: "✓"; position: absolute; inset: 0; display: grid; place-items: center; color: #1a1300; font-weight: 800; font-size: 1rem; }
+.checklist .check-body { font-size: .98rem; color: var(--slate); }
+.checklist .check-body strong { color: var(--navy); }
+.checklist input:checked ~ .check-body { opacity: .5; text-decoration: line-through; text-decoration-color: var(--line); }
+.checklist-note { margin-top: 18px; color: var(--slate); font-size: .92rem; }
+
 /* Contact */
 .contact { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; }
 .contact h2 { color: #fff; }
@@ -180,7 +199,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
 
 /* Responsive */
 @media (max-width: 900px) {
-  .hero .wrap { grid-template-columns: 1fr; }
+  .hero .wrap { grid-template-columns: 1fr; padding-top: 24px; padding-bottom: 36px; gap: 22px; }
   .headshot { margin: 0 auto; }
   .grid-3 { grid-template-columns: 1fr 1fr; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }

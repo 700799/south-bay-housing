@@ -4,48 +4,62 @@
     String(s == null ? '' : s).replace(/[&<>"']/g, (c) =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-  // Shared delta styling (good/bad/flat + arrow) used by table and stat tiles.
-  function deltaParts(r) {
+  const WINDOWS = [['7d', '7-Day'], ['14d', '14-Day'], ['30d', '30-Day'], ['60d', '60-Day']];
+
+  // Good/bad/flat styling for a given change relative to whether up or down is "good".
+  function dParts(direction, delta, good_when) {
     const isGood =
-      r.direction === 'flat' ? null :
-      (r.good_when === 'down' ? r.direction === 'down' : r.direction === 'up');
+      direction === 'flat' ? null :
+      (good_when === 'down' ? direction === 'down' : direction === 'up');
     return {
       cls: isGood == null ? 'flat' : isGood ? 'good' : 'bad',
-      arrow: r.direction === 'up' ? '▲' : r.direction === 'down' ? '▼' : '–',
-      sign: r.delta > 0 ? '+' : '',
+      arrow: direction === 'up' ? '▲' : direction === 'down' ? '▼' : '–',
+      sign: delta > 0 ? '+' : '',
     };
   }
 
-  // ---- Live stat tiles (Market Trends) ----
+  // Render a single change (e.g. the 7-day delta) as a colored span.
+  function changeCell(ch, unit, good_when) {
+    if (!ch || ch.delta == null) return '<span class="delta flat">–</span>';
+    const p = dParts(ch.direction, ch.delta, good_when);
+    return `<span class="delta ${p.cls}"><span class="arrow">${p.arrow}</span>${p.sign}${esc(ch.delta)}${esc(unit || '')}</span>`;
+  }
+
+  // ---- Live stat tiles (Market Trends): value + 7-day and 30-day comparisons ----
   window.renderStatTiles = function (data) {
     const el = document.getElementById('trendStats');
     if (!el) return;
     const rows = (data && data.rows) || [];
     if (!rows.length) { el.innerHTML = '<p style="color:var(--slate)">Live stats unavailable right now.</p>'; return; }
     el.innerHTML = rows.map((r) => {
-      const d = deltaParts(r);
+      const c = r.changes || {};
       return `<div class="stat-tile">
         <div class="stat-tile-val">${esc(r.value)}${esc(r.unit || '')}</div>
         <div class="stat-tile-label">${esc(r.label)}</div>
-        <div class="delta ${d.cls}"><span class="arrow">${d.arrow}</span>${d.sign}${esc(r.delta)}${esc(r.unit || '')} <span class="period">${esc(r.deltaPeriod || '')}</span></div>
+        <div class="stat-tile-changes">
+          <span class="chg"><span class="chg-k">7d</span> ${changeCell(c['7d'], r.unit, r.good_when)}</span>
+          <span class="chg"><span class="chg-k">30d</span> ${changeCell(c['30d'], r.unit, r.good_when)}</span>
+        </div>
       </div>`;
     }).join('');
   };
 
-  // ---- Leading indicators table ----
+  // ---- Leading indicators table: 7 / 14 / 30 / 60-day comparison columns ----
   window.renderIndicators = function (data) {
+    const head = document.getElementById('indicatorsHead');
     const body = document.getElementById('indicatorsBody');
+    if (head) head.innerHTML = `<tr><th>Indicator</th><th>Latest</th>${WINDOWS.map((w) => `<th>${w[1]}</th>`).join('')}</tr>`;
     if (!data || !data.rows || !data.rows.length) {
-      body.innerHTML = '<tr><td colspan="4" style="padding:24px;color:var(--slate)">Indicators unavailable.</td></tr>';
+      body.innerHTML = '<tr><td colspan="6" style="padding:24px;color:var(--slate)">Indicators unavailable.</td></tr>';
       return;
     }
     body.innerHTML = data.rows.map((r) => {
-      const d = deltaParts(r);
+      const c = r.changes || {};
+      const cells = WINDOWS.map((w) => `<td>${changeCell(c[w[0]], r.unit, r.good_when)}</td>`).join('');
       return `<tr>
         <td>${esc(r.label)}</td>
         <td class="val">${esc(r.value)}${esc(r.unit || '')}</td>
-        <td><span class="delta ${d.cls}"><span class="arrow">${d.arrow}</span>${d.sign}${esc(r.delta)}${esc(r.unit || '')}</span></td>
-        <td class="period">${esc(r.deltaPeriod || '')}</td>
+        ${cells}
       </tr>`;
     }).join('');
   };
