@@ -42,7 +42,6 @@
     hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); });
     hydrate('data/mortgage-rates.json', window.renderMortgageChart);
     hydrate('data/news.json', window.renderNews);
-    hydrate('data/sold-homes.json', window.initSoldHomes);
     hydrate('data/books.json', (d) => window.renderLit('booksList', d));
     hydrate('data/journals.json', (d) => window.renderLit('journalsList', d));
     hydrate('data/meta.json', window.renderMeta);
