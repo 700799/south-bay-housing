@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/styles.css?v=5" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -44,6 +44,7 @@
         <a href="#mortgage">Mortgage</a>
         <a href="#news">News</a>
         <a href="#sold">Sold Homes</a>
+        <a href="#inspection">Inspection</a>
         <a href="#learn">Learn</a>
         <a href="#contact" class="nav-cta">Contact</a>
       </nav>
@@ -146,11 +147,11 @@
       <p class="lead">The key economic and housing signals that move the South Bay market — refreshed automatically each day.</p>
       <div class="table-scroll">
         <table class="indicators">
-          <thead>
-            <tr><th>Indicator</th><th>Latest</th><th>Change</th><th>Period</th></tr>
+          <thead id="indicatorsHead">
+            <tr><th>Indicator</th><th>Latest</th><th>7-Day</th><th>14-Day</th><th>30-Day</th><th>60-Day</th></tr>
           </thead>
           <tbody id="indicatorsBody">
-            <tr><td colspan="4" style="padding:24px;color:var(--slate)">Loading indicators…</td></tr>
+            <tr><td colspan="6" style="padding:24px;color:var(--slate)">Loading indicators…</td></tr>
           </tbody>
         </table>
       </div>
@@ -230,6 +231,28 @@
     </div>
   </section>
 
+  <!-- HOME INSPECTION CHECKLIST -->
+  <section class="section section--alt" id="inspection">
+    <div class="wrap">
+      <p class="eyebrow">For Buyers &amp; Sellers</p>
+      <h2>10 most important home inspection tips in the South Bay</h2>
+      <p class="lead">Our older housing stock, seismic risk, and expansive clay soils make some inspections matter more here than almost anywhere. Use this checklist when touring or preparing a home — tap each item to check it off.</p>
+      <ol class="checklist">
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Foundation &amp; seismic readiness.</strong> We're in earthquake country. Look for foundation cracks and confirm whether the home is bolted to its foundation with cripple-wall bracing. An older, un-retrofitted San Jose or Santa Clara home may need seismic work.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Sewer lateral camera scope.</strong> Many South Bay neighborhoods still have decades-old clay sewer laterals prone to root intrusion and cracks. Pay for a camera inspection — and note some cities require a sewer-lateral compliance certificate at sale.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Roof age &amp; condition.</strong> Ranch homes from the 1950s–70s are common here. Verify the roof's remaining life and look for evidence of past leaks, especially before the winter rains.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Electrical panel &amp; capacity.</strong> Watch for outdated or recalled panels (Federal Pacific, Zinsco), knob-and-tube wiring, and panels too small for modern loads or EV charging.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Plumbing &amp; pipe material.</strong> Older homes may have galvanized supply lines that corrode and cut water pressure. Check for slab leaks and budget for a possible repipe.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Permits vs. actual square footage.</strong> Unpermitted additions, converted garages, and ADUs are widespread in the Bay Area. Confirm the permitted square footage matches city records.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Drainage, grading &amp; soils.</strong> Expansive clay soils and poor drainage cause movement and crawl-space moisture. Confirm the ground slopes away from the house and look for French drains or signs of past water intrusion.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Termites &amp; dry rot (Section 1).</strong> A wood-destroying-organism report is standard in California. Subterranean termites and dry rot are common in older South Bay homes — review Section 1 items closely.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>HVAC, insulation &amp; cooling.</strong> Check the furnace age and whether the home has (or can add) air conditioning, which buyers increasingly want. Inspect attic insulation and ductwork condition.</span></label></li>
+        <li><label><input type="checkbox" /><span class="check-body"><strong>Hazards &amp; seismic safety items.</strong> For older homes, check for asbestos and lead paint (pre-1978), confirm the water heater and furnace are seismically strapped, and review whether the property sits in a liquefaction or flood zone.</span></label></li>
+      </ol>
+      <p class="checklist-note">This is a general guide, not a substitute for a licensed home inspector. Have questions about a specific property? <a href="#contact">Reach out — I'm happy to help.</a></p>
+    </div>
+  </section>
+
   <!-- CONTACT -->
   <section class="section contact" id="contact">
     <div class="wrap">
@@ -272,10 +295,12 @@
     </div>
   </footer>
 
+  <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/filters.js"></script>
-  <script src="js/render.js"></script>
-  <script src="js/chart.js"></script>
-  <script src="js/main.js"></script>
+  <script src="js/filters.js?v=5"></script>
+  <script src="js/render.js?v=5"></script>
+  <script src="js/chart.js?v=5"></script>
+  <script src="js/main.js?v=5"></script>
 </body>
 </html>

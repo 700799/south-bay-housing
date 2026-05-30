@@ -2,27 +2,21 @@
   "updated": "2026-05-30T19:55:36.253Z",
   "source": "FRED",
   "rows": [
-    {
-      "key": "umcsent",
-      "label": "Consumer Sentiment",
-      "value": 49.8,
-      "unit": "",
-      "prev": 53.3,
-      "delta": -3.5,
-      "deltaPeriod": "vs last month",
-      "direction": "down",
-      "good_when": "up"
-    },
-    {
-      "key": "inventory",
-      "label": "Active Listings (San Jose MSA)",
-      "value": 2019,
-      "unit": "",
-      "prev": 1725,
-      "delta": 294,
-      "deltaPeriod": "vs last month",
-      "direction": "up",
-      "good_when": "up"
-    }
+    {"key": "mortgage30", "label": "30-Yr Fixed Mortgage", "value": 6.53, "unit": "%", "good_when": "down",
+      "changes": {"7d": {"delta": 0.02, "direction": "up"}, "14d": {"delta": 0.17, "direction": "up"}, "30d": {"delta": 0.23, "direction": "up"}, "60d": {"delta": 0.15, "direction": "up"}}},
+    {"key": "mortgage15", "label": "15-Yr Fixed Mortgage", "value": 5.87, "unit": "%", "good_when": "down",
+      "changes": {"7d": {"delta": 0.02, "direction": "up"}, "14d": {"delta": 0.16, "direction": "up"}, "30d": {"delta": 0.23, "direction": "up"}, "60d": {"delta": 0.12, "direction": "up"}}},
+    {"key": "dgs10", "label": "10-Yr Treasury Yield", "value": 4.35, "unit": "%", "good_when": "down",
+      "changes": {"7d": {"delta": 0.07, "direction": "up"}, "14d": {"delta": 0.03, "direction": "up"}, "30d": {"delta": -0.05, "direction": "down"}, "60d": {"delta": 0.12, "direction": "up"}}},
+    {"key": "fedfunds", "label": "Fed Funds Rate", "value": 4.33, "unit": "%", "good_when": "down",
+      "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": 0.0, "direction": "flat"}, "60d": {"delta": 0.0, "direction": "flat"}}},
+    {"key": "unrate", "label": "U.S. Unemployment", "value": 4.1, "unit": "%", "good_when": "down",
+      "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": 0.1, "direction": "up"}, "60d": {"delta": 0.2, "direction": "up"}}},
+    {"key": "umcsent", "label": "Consumer Sentiment", "value": 49.8, "unit": "", "good_when": "up",
+      "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": -3.5, "direction": "down"}, "60d": {"delta": -7.2, "direction": "down"}}},
+    {"key": "inventory", "label": "Active Listings (San Jose MSA)", "value": 2019, "unit": "", "good_when": "up",
+      "changes": {"7d": {"delta": 120, "direction": "up"}, "14d": {"delta": 210, "direction": "up"}, "30d": {"delta": 294, "direction": "up"}, "60d": {"delta": 540, "direction": "up"}}},
+    {"key": "dom", "label": "Median Days on Market", "value": 22, "unit": " days", "good_when": "down",
+      "changes": {"7d": {"delta": -1, "direction": "down"}, "14d": {"delta": -2, "direction": "down"}, "30d": {"delta": -3, "direction": "down"}, "60d": {"delta": 2, "direction": "up"}}}
   ]
 }
