@@ -1,0 +1,14 @@
+{
+  "updated": "2026-05-30T13:00:00Z",
+  "source": "seed",
+  "rows": [
+    {"key": "mortgage30", "label": "30-Yr Fixed Mortgage", "value": 6.74, "unit": "%", "prev": 6.71, "delta": 0.03, "deltaPeriod": "vs last week", "direction": "up", "good_when": "down"},
+    {"key": "mortgage15", "label": "15-Yr Fixed Mortgage", "value": 5.95, "unit": "%", "prev": 5.90, "delta": 0.05, "deltaPeriod": "vs last week", "direction": "up", "good_when": "down"},
+    {"key": "dgs10", "label": "10-Yr Treasury Yield", "value": 4.38, "unit": "%", "prev": 4.31, "delta": 0.07, "deltaPeriod": "vs prior day", "direction": "up", "good_when": "down"},
+    {"key": "fedfunds", "label": "Fed Funds Rate", "value": 4.33, "unit": "%", "prev": 4.33, "delta": 0.0, "deltaPeriod": "vs last month", "direction": "flat", "good_when": "down"},
+    {"key": "unrate", "label": "U.S. Unemployment", "value": 4.1, "unit": "%", "prev": 4.0, "delta": 0.1, "deltaPeriod": "vs last month", "direction": "up", "good_when": "down"},
+    {"key": "umcsent", "label": "Consumer Sentiment", "value": 58.2, "unit": "", "prev": 57.0, "delta": 1.2, "deltaPeriod": "vs last month", "direction": "up", "good_when": "up"},
+    {"key": "inventory", "label": "Active Listings (San Jose MSA)", "value": 1180, "unit": "", "prev": 1095, "delta": 85, "deltaPeriod": "vs last month", "direction": "up", "good_when": "up"},
+    {"key": "dom", "label": "Median Days on Market", "value": 18, "unit": " days", "prev": 21, "delta": -3, "deltaPeriod": "vs last month", "direction": "down", "good_when": "down"}
+  ]
+}

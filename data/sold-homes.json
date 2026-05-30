@@ -1,0 +1,21 @@
+{
+  "note": "Representative recent South Bay sales. Curated sample data — replace with real closed transactions and photos.",
+  "homes": [
+    {"id": "sj-001", "address": "1248 Cherry Ave, San Jose, CA 95125", "city": "San Jose", "price": 1485000, "type": "House", "beds": 3, "baths": 2, "sqft": 1680, "soldDate": "2026-04-18", "image": ""},
+    {"id": "sj-002", "address": "532 N 4th St #5, San Jose, CA 95112", "city": "San Jose", "price": 720000, "type": "Condo", "beds": 2, "baths": 2, "sqft": 1040, "soldDate": "2026-04-02", "image": ""},
+    {"id": "sj-003", "address": "3890 Rivermark Plaza, San Jose, CA 95134", "city": "San Jose", "price": 1320000, "type": "Townhome", "beds": 3, "baths": 2, "sqft": 1520, "soldDate": "2026-03-22", "image": ""},
+    {"id": "sj-004", "address": "1700 Almaden Rd, San Jose, CA 95125", "city": "San Jose", "price": 2180000, "type": "House", "beds": 4, "baths": 3, "sqft": 2480, "soldDate": "2026-05-09", "image": ""},
+    {"id": "sc-001", "address": "2455 Warburton Ave, Santa Clara, CA 95050", "city": "Santa Clara", "price": 1675000, "type": "House", "beds": 3, "baths": 2, "sqft": 1740, "soldDate": "2026-04-27", "image": ""},
+    {"id": "sc-002", "address": "3551 Monroe St #12, Santa Clara, CA 95051", "city": "Santa Clara", "price": 935000, "type": "Condo", "beds": 2, "baths": 2, "sqft": 1120, "soldDate": "2026-03-30", "image": ""},
+    {"id": "sc-003", "address": "1090 Pmt Ter, Santa Clara, CA 95054", "city": "Santa Clara", "price": 1395000, "type": "Townhome", "beds": 3, "baths": 3, "sqft": 1610, "soldDate": "2026-05-02", "image": ""},
+    {"id": "sv-001", "address": "812 W McKinley Ave, Sunnyvale, CA 94086", "city": "Sunnyvale", "price": 1925000, "type": "House", "beds": 4, "baths": 2, "sqft": 1860, "soldDate": "2026-05-15", "image": ""},
+    {"id": "sv-002", "address": "1255 N Fair Oaks Ave, Sunnyvale, CA 94089", "city": "Sunnyvale", "price": 1180000, "type": "Townhome", "beds": 3, "baths": 2, "sqft": 1430, "soldDate": "2026-04-11", "image": ""},
+    {"id": "sv-003", "address": "555 E Weddell Dr #2, Sunnyvale, CA 94089", "city": "Sunnyvale", "price": 845000, "type": "Condo", "beds": 2, "baths": 2, "sqft": 980, "soldDate": "2026-03-19", "image": ""},
+    {"id": "sv-004", "address": "1395 Cottonwood Dr, Sunnyvale, CA 94087", "city": "Sunnyvale", "price": 2320000, "type": "House", "beds": 4, "baths": 3, "sqft": 2210, "soldDate": "2026-05-21", "image": ""},
+    {"id": "mv-001", "address": "245 Bryant St, Mountain View, CA 94041", "city": "Mountain View", "price": 2680000, "type": "House", "beds": 4, "baths": 3, "sqft": 2360, "soldDate": "2026-05-12", "image": ""},
+    {"id": "mv-002", "address": "505 Cypress Point Dr #14, Mountain View, CA 94043", "city": "Mountain View", "price": 910000, "type": "Condo", "beds": 2, "baths": 1, "sqft": 1010, "soldDate": "2026-04-08", "image": ""},
+    {"id": "mv-003", "address": "1885 Latham St, Mountain View, CA 94041", "city": "Mountain View", "price": 1560000, "type": "Townhome", "beds": 3, "baths": 3, "sqft": 1580, "soldDate": "2026-03-28", "image": ""},
+    {"id": "mv-004", "address": "720 Sierra Vista Ave, Mountain View, CA 94043", "city": "Mountain View", "price": 1990000, "type": "House", "beds": 3, "baths": 2, "sqft": 1720, "soldDate": "2026-05-04", "image": ""},
+    {"id": "sj-005", "address": "6210 Gunter Way, San Jose, CA 95123", "city": "San Jose", "price": 1145000, "type": "House", "beds": 3, "baths": 2, "sqft": 1390, "soldDate": "2026-04-24", "image": ""}
+  ]
+}
