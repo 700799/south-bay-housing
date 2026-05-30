@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=5" />
+  <link rel="stylesheet" href="css/styles.css?v=6" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -16,6 +16,9 @@
     "@context": "https://schema.org",
     "@type": "RealEstateAgent",
     "name": "Anna Nguyen",
+    "jobTitle": "Realtor",
+    "worksFor": { "@type": "Organization", "name": "Intero Real Estate Services" },
+    "identifier": "CA DRE #02339207",
     "description": "South Bay California real estate specialist serving San Jose, Santa Clara, Sunnyvale, and Mountain View.",
     "telephone": "+1-408-823-1538",
     "email": "annagoogol@gmail.com",
@@ -43,7 +46,6 @@
         <a href="#indicators">Indicators</a>
         <a href="#mortgage">Mortgage</a>
         <a href="#news">News</a>
-        <a href="#sold">Sold Homes</a>
         <a href="#inspection">Inspection</a>
         <a href="#learn">Learn</a>
         <a href="#contact" class="nav-cta">Contact</a>
@@ -57,6 +59,7 @@
       <div>
         <p class="cities">San Jose · Santa Clara · Sunnyvale · Mountain View</p>
         <h1>Anna Nguyen</h1>
+        <p class="hero-role">Realtor® · Intero Real Estate Services · DRE #02339207</p>
         <p class="hero-tagline">Specializing in buying &amp; selling homes in the South Bay.</p>
         <p>Data-driven guidance, daily market intelligence, and a trusted advocate from offer to close.</p>
         <div class="hero-cta">
@@ -183,35 +186,6 @@
     </div>
   </section>
 
-  <!-- SOLD HOMES -->
-  <section class="section section--alt" id="sold">
-    <div class="wrap">
-      <p class="eyebrow">Recently Sold</p>
-      <h2>Browse sold homes in the South Bay</h2>
-      <p class="lead">Filter recent sales by city, price range, and property type. Combine filters to narrow your search.</p>
-
-      <div class="filter-group">
-        <div class="filter-label">City</div>
-        <div class="pills" id="filterCity"></div>
-      </div>
-      <div class="filter-group">
-        <div class="filter-label">Price range</div>
-        <div class="pills" id="filterBand"></div>
-      </div>
-      <div class="filter-group">
-        <div class="filter-label">Property type</div>
-        <div class="pills" id="filterType"></div>
-      </div>
-
-      <div class="filter-bar">
-        <span class="result-count" id="resultCount"></span>
-        <button class="clear-btn" id="clearFilters" hidden>Clear all filters</button>
-      </div>
-
-      <div class="grid grid-3" id="homesGrid"></div>
-    </div>
-  </section>
-
   <!-- BOOKS & JOURNALS -->
   <section class="section" id="learn">
     <div class="wrap">
@@ -289,18 +263,18 @@
 
   <footer class="footer">
     <div class="wrap">
-      <strong>Anna Nguyen</strong> — South Bay Real Estate · <a href="tel:+14088231538">408-823-1538</a> · <a href="mailto:annagoogol@gmail.com">annagoogol@gmail.com</a>
+      <strong>Anna Nguyen</strong>, Realtor® · Intero Real Estate Services · DRE #02339207<br>
+      <a href="tel:+14088231538">408-823-1538</a> · <a href="mailto:annagoogol@gmail.com">annagoogol@gmail.com</a>
       <div id="dataUpdated"></div>
-      <p class="disclaimer">Market indicators, mortgage rates, and news are provided for informational purposes only from public sources (FRED, public news feeds) and may not reflect real-time conditions. Sold-home data shown is representative sample data. Not financial advice.</p>
+      <p class="disclaimer"><strong>Equal Housing Opportunity.</strong> Market indicators, mortgage rates, and news are provided for informational purposes only from public sources (FRED, public news feeds) and may not reflect real-time conditions. Not financial advice.</p>
     </div>
   </footer>
 
   <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/filters.js?v=5"></script>
-  <script src="js/render.js?v=5"></script>
-  <script src="js/chart.js?v=5"></script>
-  <script src="js/main.js?v=5"></script>
+  <script src="js/render.js?v=6"></script>
+  <script src="js/chart.js?v=6"></script>
+  <script src="js/main.js?v=6"></script>
 </body>
 </html>
