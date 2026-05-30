@@ -1,6 +1,5 @@
 {
-  "lastRun": "2026-05-30T13:00:00Z",
-  "fred": "seed",
-  "news": "seed",
-  "note": "Initial seed data. Real values populate after the daily GitHub Actions workflow runs with a FRED_API_KEY configured."
+  "lastRun": "2026-05-30T19:25:44.976Z",
+  "fred": "ok",
+  "news": "ok"
 }
