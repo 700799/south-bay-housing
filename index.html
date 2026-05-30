@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=8" />
+  <link rel="stylesheet" href="css/styles.css?v=9" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -109,36 +109,27 @@
     <div class="wrap">
       <p class="eyebrow">Market Trends</p>
       <h2>Live market snapshot <span class="badge">Updated daily</span></h2>
-      <p class="lead">Real South Bay &amp; U.S. housing signals — mortgage rates, Treasury yields, local inventory, days on market and more — refreshed automatically every day from the Federal Reserve (FRED). Scroll down for the full indicator table and seasonal context.</p>
+      <p class="lead">Real South Bay &amp; U.S. housing signals — refreshed automatically every day from the Federal Reserve (FRED). Each stat below shows what's moving <strong>and why it matters for buying or selling</strong>. Scroll down for the full indicator table.</p>
       <div class="stat-tiles" id="trendStats">
         <p style="color:var(--slate)">Loading live stats…</p>
       </div>
-      <h3 class="subhead">Weekly · Monthly · Seasonal context</h3>
+      <h3 class="subhead">Compare by time window: weekly, monthly &amp; seasonal</h3>
       <div class="tabs" role="tablist">
         <button class="tab" role="tab" aria-selected="true" data-tab="weekly">Weekly</button>
         <button class="tab" role="tab" aria-selected="false" data-tab="monthly">Monthly</button>
         <button class="tab" role="tab" aria-selected="false" data-tab="seasonal">Seasonal</button>
       </div>
       <div class="tabpanel active" id="tab-weekly">
-        <div class="grid grid-3">
-          <div class="card"><h3>New listings</h3><p>Fresh inventory is trickling in week-over-week. Well-priced, move-in-ready homes are still drawing multiple offers within the first weekend.</p></div>
-          <div class="card"><h3>Pending sales</h3><p>Pendings remain brisk for turnkey properties; buyers are acting quickly on homes priced to the comps.</p></div>
-          <div class="card"><h3>Days on market</h3><p>Median days on market stays low for desirable homes, while overpriced listings linger and see reductions.</p></div>
-        </div>
+        <div class="grid grid-3" id="trendWeekly"></div>
+        <p class="trend-context">Week-over-week, rates move fastest — they set your payment and how much home your budget reaches.</p>
       </div>
       <div class="tabpanel" id="tab-monthly">
-        <div class="grid grid-3">
-          <div class="card"><h3>Median price</h3><p>Month-over-month prices are holding firm across San Jose, Santa Clara, Sunnyvale and Mountain View, supported by limited supply.</p></div>
-          <div class="card"><h3>Inventory</h3><p>Active listings are gradually building from winter lows, giving buyers slightly more choice heading into summer.</p></div>
-          <div class="card"><h3>Sale-to-list ratio</h3><p>Homes continue to close at or above asking in competitive segments, especially single-family homes near top schools and transit.</p></div>
-        </div>
+        <div class="grid grid-3" id="trendMonthly"></div>
+        <p class="trend-context">Month-over-month, listing prices, new supply and local jobs show where negotiating power is shifting.</p>
       </div>
       <div class="tabpanel" id="tab-seasonal">
-        <div class="grid grid-3">
-          <div class="card"><h3>Spring surge</h3><p>Spring is historically the most active season — more listings and more buyers. Sellers often capture premium pricing and faster sales.</p></div>
-          <div class="card"><h3>Summer steady</h3><p>Activity stays healthy through summer, with families aiming to close before the school year.</p></div>
-          <div class="card"><h3>Fall &amp; winter</h3><p>Inventory thins out, but motivated buyers remain. Less competition can mean opportunity for well-prepared buyers.</p></div>
-        </div>
+        <div class="grid grid-3" id="trendSeasonal"></div>
+        <p class="trend-context">Over a season, inventory, days-on-market and home values reveal whether it's tilting toward buyers or sellers.</p>
       </div>
     </div>
   </section>
@@ -169,10 +160,10 @@
       <div class="table-scroll">
         <table class="indicators">
           <thead id="indicatorsHead">
-            <tr><th>Indicator</th><th>Latest</th><th>7-Day</th><th>14-Day</th><th>30-Day</th><th>60-Day</th></tr>
+            <tr><th>Indicator</th><th>Why it matters</th><th>Latest</th><th>7-Day</th><th>14-Day</th><th>30-Day</th><th>60-Day</th></tr>
           </thead>
           <tbody id="indicatorsBody">
-            <tr><td colspan="6" style="padding:24px;color:var(--slate)">Loading indicators…</td></tr>
+            <tr><td colspan="7" style="padding:24px;color:var(--slate)">Loading indicators…</td></tr>
           </tbody>
         </table>
       </div>
@@ -231,9 +222,13 @@
     <div class="wrap">
       <p class="eyebrow">Bay Area Housing News</p>
       <h2>Top real estate headlines <span class="badge">Updated daily</span></h2>
-      <p class="lead">The latest South Bay real-estate coverage from the past 30 days, refreshed automatically each day.</p>
-      <div class="grid grid-2" id="newsGrid">
-        <div class="card">Loading news…</div>
+      <p class="lead">The latest South Bay real-estate coverage from the past 30 days, refreshed automatically each day. Swipe to browse.</p>
+      <div class="carousel">
+        <button class="carousel-btn prev" id="newsPrev" aria-label="Previous">‹</button>
+        <div class="carousel-track" id="newsGrid">
+          <div class="card">Loading news…</div>
+        </div>
+        <button class="carousel-btn next" id="newsNext" aria-label="Next">›</button>
       </div>
     </div>
   </section>
@@ -481,9 +476,9 @@
   <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=8"></script>
-  <script src="js/chart.js?v=8"></script>
-  <script src="js/calculator.js?v=8"></script>
-  <script src="js/main.js?v=8"></script>
+  <script src="js/render.js?v=9"></script>
+  <script src="js/chart.js?v=9"></script>
+  <script src="js/calculator.js?v=9"></script>
+  <script src="js/main.js?v=9"></script>
 </body>
 </html>

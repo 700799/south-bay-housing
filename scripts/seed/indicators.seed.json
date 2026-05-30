@@ -10,13 +10,21 @@
       "changes": {"7d": {"delta": 0.07, "direction": "up"}, "14d": {"delta": 0.05, "direction": "up"}, "30d": {"delta": -0.04, "direction": "down"}, "60d": {"delta": 0.1, "direction": "up"}}},
     {"key": "fedfunds", "label": "Fed Funds Rate", "value": 4.33, "unit": "%", "good_when": "down",
       "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": 0.0, "direction": "flat"}, "60d": {"delta": 0.0, "direction": "flat"}}},
-    {"key": "unrate", "label": "U.S. Unemployment", "value": 4.1, "unit": "%", "good_when": "down",
+    {"key": "sjunrate", "label": "San Jose-Metro Unemployment", "value": 3.9, "unit": "%", "good_when": "down",
       "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": 0.1, "direction": "up"}, "60d": {"delta": 0.2, "direction": "up"}}},
     {"key": "umcsent", "label": "Consumer Sentiment", "value": 58.2, "unit": "", "good_when": "up",
       "changes": {"7d": {"delta": 0.0, "direction": "flat"}, "14d": {"delta": 0.0, "direction": "flat"}, "30d": {"delta": 1.2, "direction": "up"}, "60d": {"delta": 2.4, "direction": "up"}}},
+    {"key": "listprice", "label": "Median List Price (South Bay Metro)", "value": 1395000, "unit": "", "good_when": "up", "format": "usd",
+      "changes": {"7d": {"delta": 0, "direction": "flat"}, "14d": {"delta": 0, "direction": "flat"}, "30d": {"delta": 20000, "direction": "up"}, "60d": {"delta": 45000, "direction": "up"}}},
+    {"key": "newlistings", "label": "New Listings (South Bay Metro)", "value": 1090, "unit": "", "good_when": "up",
+      "changes": {"7d": {"delta": 25, "direction": "up"}, "14d": {"delta": 50, "direction": "up"}, "30d": {"delta": 95, "direction": "up"}, "60d": {"delta": 180, "direction": "up"}}},
     {"key": "inventory", "label": "Active Listings (South Bay Metro)", "value": 1180, "unit": "", "good_when": "up",
       "changes": {"7d": {"delta": 40, "direction": "up"}, "14d": {"delta": 65, "direction": "up"}, "30d": {"delta": 85, "direction": "up"}, "60d": {"delta": 150, "direction": "up"}}},
     {"key": "dom", "label": "Median Days on Market", "value": 18, "unit": " days", "good_when": "down",
-      "changes": {"7d": {"delta": -1, "direction": "down"}, "14d": {"delta": -2, "direction": "down"}, "30d": {"delta": -3, "direction": "down"}, "60d": {"delta": -1, "direction": "down"}}}
+      "changes": {"7d": {"delta": -1, "direction": "down"}, "14d": {"delta": -2, "direction": "down"}, "30d": {"delta": -3, "direction": "down"}, "60d": {"delta": -1, "direction": "down"}}},
+    {"key": "hpi", "label": "Home Price Index (San Jose Metro)", "value": 738.0, "unit": "", "good_when": "up",
+      "changes": {"7d": {"delta": 0, "direction": "flat"}, "14d": {"delta": 0, "direction": "flat"}, "30d": {"delta": 0, "direction": "flat"}, "60d": {"delta": 1.5, "direction": "up"}}},
+    {"key": "income", "label": "Median Household Income (Santa Clara County)", "value": 159674, "unit": "", "good_when": "up", "format": "usd",
+      "changes": {"7d": {"delta": 0, "direction": "flat"}, "14d": {"delta": 0, "direction": "flat"}, "30d": {"delta": 0, "direction": "flat"}, "60d": {"delta": 0, "direction": "flat"}}}
   ]
 }

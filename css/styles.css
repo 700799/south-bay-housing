@@ -89,7 +89,8 @@ img { max-width: 100%; display: block; }
 
 /* Indicators table */
 .table-scroll { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--line); background: #fff; box-shadow: var(--shadow); }
-table.indicators { width: 100%; border-collapse: collapse; min-width: 720px; }
+table.indicators { width: 100%; border-collapse: collapse; min-width: 880px; }
+.indicators .why { color: var(--slate); font-size: .85rem; max-width: 280px; }
 .indicators th, .indicators td { text-align: left; padding: 14px 18px; border-bottom: 1px solid var(--line); font-size: .96rem; }
 .indicators th { background: #fafaf8; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--slate); }
 .indicators tr:last-child td { border-bottom: 0; }
@@ -130,6 +131,24 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 720px; }
 .stat-tile .chg { font-size: .85rem; display: flex; align-items: center; gap: 6px; }
 .stat-tile .chg-k { color: var(--slate); font-weight: 700; font-size: .7rem; text-transform: uppercase; }
 .stat-tile .delta { font-size: .85rem; }
+.stat-why { color: var(--slate); font-size: .82rem; margin: 10px 0 0; padding-top: 10px; border-top: 1px solid var(--line); }
+
+/* Numeric trend cards (Weekly/Monthly/Seasonal) */
+.trend-card h3 { font-size: 1.02rem; margin: 0 0 8px; }
+.trend-val { font-family: var(--serif); font-size: 1.9rem; color: var(--navy); margin: 0; line-height: 1; font-variant-numeric: tabular-nums; }
+.trend-delta { margin: 8px 0 8px; font-size: .9rem; }
+.trend-delta .period { color: var(--slate); font-weight: 500; }
+.trend-desc { color: var(--slate); font-size: .85rem; margin: 0; }
+.trend-context { color: var(--slate); font-size: .9rem; font-style: italic; margin: 16px 0 0; }
+
+/* News carousel */
+.carousel { position: relative; }
+.carousel-track { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; padding: 4px 2px 10px; scrollbar-width: thin; }
+.carousel-track > .news-item { flex: 0 0 320px; scroll-snap-align: start; }
+.carousel-btn { position: absolute; top: 38%; transform: translateY(-50%); width: 42px; height: 42px; border-radius: 50%; border: 1px solid var(--line); background: #fff; color: var(--navy); font-size: 1.6rem; line-height: 1; cursor: pointer; box-shadow: var(--shadow); z-index: 2; display: grid; place-items: center; }
+.carousel-btn:hover { border-color: var(--gold); color: var(--gold-dark); }
+.carousel-btn.prev { left: -8px; }
+.carousel-btn.next { right: -8px; }
 
 /* Filters + sold homes */
 .filter-group { margin-bottom: 16px; }
@@ -265,5 +284,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .calc-inputs .calc-row, .valuation-form .calc-row { grid-template-columns: 1fr; }
   .calc-total { font-size: 2.1rem; }
+  .carousel-btn { display: none; }
+  .carousel-track > .news-item { flex: 0 0 86%; }
   .section { padding: 48px 0; }
 }
