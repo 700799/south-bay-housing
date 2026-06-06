@@ -47,7 +47,7 @@ async function run() {
 
   // --- News ---
   try {
-    const news = await fetchNews(6);
+    const news = await fetchNews(20);
     await writeJson('news.json', news);
     meta.news = 'ok';
     console.log(`News updated (${news.items.length} items).`);
