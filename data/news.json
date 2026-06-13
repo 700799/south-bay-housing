@@ -1,11 +1,29 @@
 {
-  "updated": "2026-06-12T16:20:53.291Z",
+  "updated": "2026-06-13T15:02:50.792Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "The small South African ‘fisherman’s paradise’ where houses went from R1,500 to over R20 million - Daily Investor",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1kyaUw2STRaWDdqVDdpRVhyZXFEOXRMSnNaVEVSalN3YUpJSlgwZ0VqOWFEcUdWZVMzaENyU0ExTXZ0SG9sWTZWdXhWT0xYTms2aHFwU1RyckZvUFpVWFNCaGNFUE54ZXZ1MEE3Y2tHM283cW1QWUd4bktWRmlCcFNaM0VSYS1FMlhNMGJzY3hvVFZkSzZCaUJPc3B3TnNNMEJuQzlyWHRWTUY2cE9jMWo3NURhVlIwX0Q2OU5hT3VaYlQ1VU1EMEZ1a0Y2RHEx?oc=5",
+      "source": "Daily Investor",
+      "published": "2026-06-13"
+    },
     {
       "title": "Apple buys Sunnyvale office building as tech titan widens footprint - SiliconValley.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFBfWFJ1YWdwQUlaRldsT1hjU01jX004MWtRMWFfb0haS3NDWWh1YUJFdUJjUlQtNnRteUl6ODBjSGFGRjBpRDRWb3pfLXp5WVNZaWZRWDQ0NHZLM042Ym9YUGRzQWpmMkFsMHBUVUhVSG9ISkZyVTJ3Z09yZHJrdTk4ejVDelIxT21HdjZiMlp0UzZfMWtPM0pTanV2cEZzTHhlTV9YLWxzY29HMXotM3hPY9IBswFBVV95cUxNUFBfWFJ1YWdwQUlaRldsT1hjU01jX004MWtRMWFfb0haS3NDWWh1YUJFdUJjUlQtNnRteUl6ODBjSGFGRjBpRDRWb3pfLXp5WVNZaWZRWDQ0NHZLM042Ym9YUGRzQWpmMkFsMHBUVUhVSG9ISkZyVTJ3Z09yZHJrdTk4ejVDelIxT21HdjZiMlp0UzZfMWtPM0pTanV2cEZzTHhlTV9YLWxzY29HMXotM3hPYw?oc=5",
       "source": "SiliconValley.com",
+      "published": "2026-06-12"
+    },
+    {
+      "title": "Mountain View 1960s rancher sells for $602K above asking price - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEtYNjRobzQ2d2hxUWtNUlhEWWxRTnVYUUMxLTZEYnJHU0Z6dHVKaGNVN2FhSmhDdWh3VHV3ZDVycXJOVDA0NmtpQlpQYmRTdGRDTzVjNVBIeUdhVmFfUDJVd0N5elJCRG5TZ2JFeEd3eG5rVVNRUE5UMVBjRldlOVhWczdPX3kwMGVPWVdnc1Z4ZGlvRkpYSXlWSlRETGgzeXQxbXBPb0QzV3NxLUZiM1Vwanh0QQ?oc=5",
+      "source": "Palo Alto Online",
+      "published": "2026-06-12"
+    },
+    {
+      "title": "Apple strikes again in Sunnyvale with a $162M office pickup - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGJaM1VCR2VaQVZVX3FPbDhON1NNVjlIcmtwOFJ3Q0M1cW01TFNrS24wRDRJTXhYM2dGLW1iVzc1cmNBczJrWkRGa09XdlVaVElBcGE1bDFtd01EVTZQQXhBVzN3ZDdmaW9BTmVVTXpwczBSRERMOEE2Ql9xQi02eW5KTVlkSTlRSkZBaU1MS1d5VmVnVmptSm9HamtmVXpZeHdn?oc=5",
+      "source": "The Real Deal",
       "published": "2026-06-12"
     },
     {
@@ -15,28 +33,10 @@
       "published": "2026-06-12"
     },
     {
-      "title": "Borenstein: Turn the lemon A’s Oakland Coliseum deal into lemonade - The Mercury News",
+      "title": "Borenstein: The A’s left Oakland but they still control the Coliseum. That must change. - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFB0cmxKS1pOdXBNMnFYdEFRYVQ5RmtlcGFKQU1nWVFrbU1xXzEwdm5IS0c4MU1sQ2dQQXZUa2d5TThWc0lVOTRTejVibVlqM05VY3VueS1tYWZyc2MwbkV4VjFDanNzSTN4RHNUSkdUa1dZc3ZfQmRCMWFxTnpCOE5aSnZXenVYcWJaN243eU90dEtXZ0FtWERLNWNRS1l1dElmUy1pbWRkTDhXemI2UDU5ZHTSAboBQVVfeXFMUEQ0NzJ1SmMxWmw2YmVIWjNyRVdvY004dnhMWUtNMEhIbVByOHJMMGhrODhpZUgyWmVmcGZ3LWdfajZSbzNIa0Z3VG1ZeUdfMjJUNGFFVlRPcURoVldHNlhuemFTeXdRYXRKWVVHWEowMGw0dDFGLWE4SUdoY1NJMmtLdXZpeFFyNWIwYXZWbUZiNkJlNUoydEVaNFljSmJHbTNQMGxMSGRCTk1yWjRpelAyLU8tN1o2M05R?oc=5",
       "source": "The Mercury News",
       "published": "2026-06-12"
-    },
-    {
-      "title": "San Jose rolls out the welcome mat with Viva CalleSJ on Sunday - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVMxT1lKNTlaWGZJS1hvYVZpX2JENFEtMVZLbWlRYWlDUi1ObDgwdGVvLU9BeEtBc1NBUDAxMmhBUlRzaEZMeDVaeDlCdFJUUUJMaFZKSWFtd3ZYSnZqV1lPQmN3RFgxVGQyaGtLTzRrZ2llM3VWd1prUHAyZ2VucjRkaG5SZ20zMVZiZWlOa2NCNTVmcFV2bHFYN2JGQ3ppT19XcXpB0gGrAUFVX3lxTE13NHdrRkhJZXVCUEZLX0FSNEI2d19mSm5ZZFAtU3VINDV4ZFJaLWM4Y3FOdVl0bW91UVJGd28zRFNqYUl4QkpnaG1ac2VBVG9rTTNIeEhGUXc0dVFRRW5neG0zbTFxTWxsODdwRm5Gbk16RXh2SlhGTjZLbXN1dDl6RGY5bDctZzQ5d3dseVhVN3U3VDMxbU9zdWI3eXIyaGhhY2NWbTg1U2JXOA?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-06-11"
-    },
-    {
-      "title": "San Jose business park becomes part of $1.8 billion real estate deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEZ1UHpjSzdHaS1vVFBnZFVpQk9hcXIzTnpEYlU0ZlBfaUxJd3pNWS1aVXppNWxBT1ZhZTB1NjA2b3Q1NnVkQUg5WnFTR3hkbS0zTWRpRFZPOTBRSmlJbFRlMXpBaVlCZ2Y0TVZydFQ0THU5YVlDX0paTGM2akoxRzh4MVNmdHlsRGZQT3JWTHZuLXk2d25hR2tGY0hRR1BuLXhoNGFLQUJqdUhOYnfSAbMBQVVfeXFMT2VUSDJQUm5KR1d5cmxDUFhYd2kwUFFHQ2c2S3ZLVGhMbGxadG5qUTJKcjloUF9xTHVjOXROZkFwM1NWb1JOdEU5d2MyR0FMT1dBZW1TWktGcEl1MHRiNlBtSWpydVU5eWVNMndQcTQxaS1zNW9PYVdiRllfWnViRGFoU1pjRjd1MXpjLXp0Skc0UFk0azNEN3J1MDJSZnVsdVhWMHI3WF9JVVZzckNYODFrdjQ?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-06-11"
-    },
-    {
-      "title": "What were the best deals for residential properties in Santa Clara the week of May 4? - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFUxUjdmTnJsanVHTDdfNEJoNkxac2FtaS1lRU1Gclg4Q1lxaWEwWkxFNzJCUG9TM1VxUGk5TWRFcVRVM2xlVU52X29GRWd2Yk85VUxxTUIzX2VpUzJXQ25rSTlsRE9XSWhEU29LUDlTYUlPOHUzck9kTko3Z0hGTVV5NHJZbUFsMXZwTHhzTV9pT1J1dEh5YXhSMDI4d21PUEJ0NjhONlRUNHhDcU91Sml4dGNqR0ZTYi1lZmQzLVZ3aU5lRHRWSNIByAFBVV95cUxNeFUxUjdmTnJsanVHTDdfNEJoNkxac2FtaS1lRU1Gclg4Q1lxaWEwWkxFNzJCUG9TM1VxUGk5TWRFcVRVM2xlVU52X29GRWd2Yk85VUxxTUIzX2VpUzJXQ25rSTlsRE9XSWhEU29LUDlTYUlPOHUzck9kTko3Z0hGTVV5NHJZbUFsMXZwTHhzTV9pT1J1dEh5YXhSMDI4d21PUEJ0NjhONlRUNHhDcU91Sml4dGNqR0ZTYi1lZmQzLVZ3aU5lRHRWSA?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-06-11"
     }
   ]
 }
