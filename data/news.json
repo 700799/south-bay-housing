@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-16T18:05:44.651Z",
+  "updated": "2026-06-17T16:39:53.769Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Real estate firms eye 400-plus homes at San Jose office building site - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTV3UExZeEcyVGtWNDBEQW9zRWl0bldMTFlma1BYMGtLeEhkeDJnRVdPcm5hYXF3OUdKQ0d4WXlDZmtVaE5pTWtpWjg4Q0RCZzZUVGlEcUhOblUzaUNGcnJwQ0JJalhSdjNHY1hndDZmTkc1Z0VjdnN3ekI5dUJlUGZmTVJOM0t6aVJieGlWdGtEbXNKX2hJV2JPNW1tX1Z6YzFCSGFjRHRqNVdEUVHSAbMBQVVfeXFMTWhJLUNjZXVjQ3BiQWdiNEZEdjRONVR3R2FSMUI3NVBpdms4MlVyREIwSEh2ZlNlOE1uWGRqWGkySlFyb3cyYUJoc0R5bnotRzkzVXlQQ1padVBJOHBlVXRxM3ZFbkhIb3AzQzd2MjZFS0E4bFpjQjBNSFFNakU1VkNKNThnR1U4VE1iZnhfT285WnVUeUFlbmV5TDl4aW9Dd2g5cXJyZjl4a2ItMGphUTk3MDA?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-06-17"
+    },
+    {
+      "title": "Kalthia buys another distressed Bay Area hotel months after foreclosed loan sale - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXl4NHBmcWxmdUktQTJLUllhclVMM0Y4UlcyaEY1cjdUUnFJdlp6ZGVXQmY0WGlLLWdrZmJvcEVxTWdwMHB3TU1sZlNjOUhvOHNnX2JfY1RMY0pqcVpoSzFRSTFRUEJjVjNaUlZOb09ZS2hxejMyLUQ4NzBVVndSQk1GN21tVFgwWDlwamxtemVxY2VXdHlBNkV4Wl9tTWFWTGZF?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-06-17"
+    },
+    {
+      "title": "Is Toll Brothers (TOL) Expanding Too Fast Or Sharpening Its Luxury Niche With New Communities? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1Naa012Z0R1dnVnbDRiTWtzdkpuS0EyMUNILU44TGNzU3pMYkZzOXRTVzdJdW9Qd3lJSE16RGlSQnVHenRCd0VMUURtaTQ4bU1fZTc1WXRrMVBxSEMxODB5MWQ1SFhSdDd4LWw1R1ZqX1Q4NTB2LVo3dmlXZkdnTHNEUEVhcHVmYmhKbGNCbE5YRDBtam8tOG5Pc1JVME4zRGJ6UHRWR05nRnk2QmkzbTV0SktPZlhHaFJOb0J6NEZnRUp2VC00eTZxakVLRFFocFI0T9IB2gFBVV95cUxNMnpiN0wtTlA5NVl6dkZfNmRCa0pUV3l2bTlxdnJNM2M2RlNKbzMwV2pPVFVQUU5NSllicTNmLUFaVXY3UGFaelhuS1BmNnYzSEdpdzVQNXRuakFpc1E5Q2RHa2Y1dVdlMXN4RDFWU3VGVldVUUVGZ0xCVm5xMVhuUWtCNTdJdVdVYV9xbVhmWFg3eU5wOHBUQmNLSkZFWmwtU0JZUThoa25BMnVDaW9saTN3d3ZKUVBpNkphQVdBTThrNjZ3LVFvMkpiZ3ZIam8wR1EzdHRMYWRnUQ?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-06-17"
+    },
     {
       "title": "Meunier Brothers Real Estate Joins Mountain View Chamber of Comme - The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTlNQkg5U3dIUXJHdVNrc3piQnA4SDYySmMxWUI1M2x5T1JYWURoRzB6azNmV1c4NlJka0dyVFVnenpycWJvVS1kYmxiWmpIQkVnODR4QThySzlPQ29ub0NKUlBJblhjcjJ4VVlmcGRrZmUwcDVjRno3MUM2dURSdjhaSkNDUG53Q2ZNdXhNRGQyS2UzN1U5VmFlUzFzYmhMdm9FaGYxVHJIYzMyRjVqZGR0RQ?oc=5",
@@ -15,28 +33,10 @@
       "published": "2026-06-16"
     },
     {
-      "title": "SpaceX IPO expected to fuel South Bay luxury home surge - MSN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQi1VQUFvU1oyLTdXQ1BFVTk0eWtqS1prMlJaenFOUWNiUi1LVGtNeXhYWGdCZlVndHZtOHNhOVp4SnNyZzlIWkRlVkRXYVpHYnd1RUxaejBJNXY4NzNXdjRxN1k0ZnhZRHR1RXI0QURKUFc0RVdUakwyRlpSd3ROMUw4NVZOcjJfVHVmSjNOdDZxV1hrQVdBMU5aMnRiM3h2OF9tOUNkLVVvelloeEE?oc=5",
-      "source": "MSN",
-      "published": "2026-06-15"
-    },
-    {
-      "title": "Record $13.8 Million Paid for Hillsboro Inlet/Pompano Beach Home - TAPinto",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDBoZ19Jem9MRDBsSVVSZkJCWkR6OFNJRjkyNXJFNzB6UG9hOFBQRWxHVEY1b2V2TjZ0aUp2U055ZGptNFJGcjQyWG1uSmMzX2RLVE0xWG1abnBOTjV3b1lqbUg4YmdVSGZlYXlweUx0RTFIVWp0SkNXQnVkYWJTVXhZaHIxbVcyaFFPUFlPUWhYYnphaWpKRkkwWUVxMHN2ZWIyOTkwY2dGa0pTazdxOUxKTkVaLUVqWmNxa2hINzBFT3ZsU0tuSElDQ1ZxWm4yc29n?oc=5",
-      "source": "TAPinto",
-      "published": "2026-06-15"
-    },
-    {
-      "title": "Minty fresh: Alamo Square’s Colgate Mansion trades for $700K above asking - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkc1MHVNMWR0Z3RnRUxLY0hsTDNTZ3podTRYT0pvZmVfSEZRNGV6ZFhlLVN4SEtyZmlCM2R3dEJtanRUOWU0T0hkbTh3aU1iV3dFY2M3QnYwWHg0TUhkTG54ZmNialNJREU0U2tHdm5WeDF4ZktiSV8xMzc3amRxdlItdWxvY3pqakgtbEZWbV9OUmd0SVdTcG52MA?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-06-15"
-    },
-    {
-      "title": "6 town houses to be built in Campbell under housing project Senate Bill 684, helping 1st time homebuyers - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ19qSzVtRXZjQ3VyTnV2dkZtRmF3S1c3ZFdwUHN3RnNudmlpTU1DZWpVaE82NXA0dEdZeTFYeXZ2WFFXSER6b0hHRVM4eXVDd3I2SVFmd2VuZTFrQk1UaktqYnk5S1A5Ulowenp6b2x0czZXRG5lbmVKS1ZhREJCTnJWSjlQOHV5d2hqZVRoX19QaHZ3S3ViQUdvcEtlc0hfcWZxSkFURnc0bV95VHB0aEFNbEd4Rk9SUXZWd0NGNzYzd9IBxwFBVV95cUxOMnJNVWk1bE1sT01KclpPY09YRUdHRE4ycmJBR3BadGo2a3pCenFmaUpfT3YyeWU2VXRreUU4T2cxR2NGQVY5QXFEV1ZuZldrbVFkaGZTWjVqLVd2c1h6VTQ4R0NJNWphVlBwZEdhNy1zTXBnYlJiVnFXOXFDTTc0ajJGdDF5Um13OWtSS2F0di1hOG9IZTk4MF9BcmtQbnBZV3I0cHlsLUZCa1k4LXMxMFo1V1FVOTJocVE5QzB6T1ZQMDBBNjVr?oc=5",
-      "source": "ABC7 Bay Area",
-      "published": "2026-06-14"
+      "title": "Beyond Local: May home sales down 5.1 per cent from year earlier, but CREA says momentum building - The Albertan",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYURyZ2hQNGVFelhkdDlzYW9KdWpWSER6ajJKNHJlWk9HZUxRZ201WUJhMnh6d2FhVnpzTXZNSXRJMnU4d0MzZFhhX0lHT2FqUE01TGlPTGQ5Q1hBN0xJdXMwTEpyeTJEM1dpdjBwT00yamJUcnhtUXVuR1cwMTVPczRIM1JIdk40eXRYeVVzUVBuanlnZTlHQ2JuU1lGbVVUOGQtN2dtcjY0TWVrSS1PYjIzakhUVEhhM3Q3U3RpeVVhQUt0MUV5bDREODlyYjIwU0E?oc=5",
+      "source": "The Albertan",
+      "published": "2026-06-16"
     }
   ]
 }
