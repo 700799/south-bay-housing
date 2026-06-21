@@ -1,12 +1,24 @@
 {
-  "updated": "2026-06-20T15:04:24.442Z",
+  "updated": "2026-06-21T15:12:08.510Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "San Jose’s budget lands with wins, losses, work to do - San José Spotlight",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnhDVmtvOXVOV21ISkZUY2JEZXJaY3FWSjVlSmFtNjVrQloyY0ExWHBnc0xtbDBPNS1oalY4Y25hSTEzQ0hQaGVwUXhDT3hNbVBndC1pdjdmSHN6UGpSYkpnZEJibXFLYVc5T2tXM1BPNVBzeVVGQkxMTlJ2Y2VwdmVXbl9RVGs?oc=5",
+      "source": "San José Spotlight",
+      "published": "2026-06-20"
+    },
     {
       "title": "Cape’s coast of cash: Atlantic Seaboard property price average reaches R23.25m - News24",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2RMUllIX2xIU3c2dmlLNm9SS0tLaVVFc3V6T2phcmx5VTZsMGtkaUtlRk1vRnYwVUNpRUMtek5vb3J0OThCUEFhV3R0ZnBNVG81RWJWRWVuN1pPY0s4RGxSOWNQc1I0cFpQaTBRRGdBQ25nSWJ1eEtwTWJIWmo4R1ZFRGpEY1pGcFlLOWZraWVOZWd3UVh1RU9POVJaUXZPaUwtbGw4U2tOUFZOY3RIOTRnd2Q3V1JWZjM0cUlycUlVWk1jWXhZTA?oc=5",
       "source": "News24",
       "published": "2026-06-20"
+    },
+    {
+      "title": "132 S Mountain View Ave Unit 1325, Los Angeles, CA 90057 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0xDVVZYT1VWTmVhNE5tRHZVUll4cXU3bkZ0WmJhak9IVGJ6Qm92TFZYLU5JNWR0OGR0NnlVaE9iNHV6bEV4ZTkxSG50TlNGLW1OaHJ5aTlsRFNaREpMQzR5ZkRnOGx1S1dvNDd1bmhzRFp6XzE4MDRXZFhrdWtONkE5elR0RGc1NEx6WXc3emZBMnBZYU13LTE3T21YUU1EcTRJVEU2S0tSQQ?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-06-19"
     },
     {
       "title": "California’s Housing Prices Reach Record Highs - The MortgagePoint",
@@ -16,7 +28,7 @@
     },
     {
       "title": "Bay Area sales help set new record for California median home prices - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcjZxWVljTDluVlVzc3I0anZ6dUo3WkNmZ3lyTVFCLUZQdzZOaHhrV3BvbmxVTGtLd2piVkFHU1RxeEVDcDM2eFZRc25PUjRSOXNiWUF3amRwTlVUNmNWb3dKY1V2SDY5TE5MRGltX2ZNRkFiNHZId1dkSngzNkZ6QU12NEVyVUw4STBvMTJKRFQ2cFdWTzY2c1BtY3IzcjFfbVk3RDBYaDJrM1JMb3R4eWVtRjJRaUluQkMyNkREVDdZc2s4S3gtVm05aVJwekFISi03b0JULXlEZ0RmMnV6ZDdiMDZVSFMyTHNEckhmclJvbThDRGY1VHQxX1hTS0lSclpCNjIxMklYc28?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVXBDbU12bTJleGFVSWNPdnVSZmZ0a0M4d2Z3ZE90WUdwMnY3eHNVNmZkMV9SUy1vOC1TNUw0TllhVm1nNmM1SUJwWnRxZ0xaM0lKek5nMHo2WHZUOWI1N2NSMFVma3ZNRk8xVnB0eU41VjY5ZlQ2SlNWMXRKRE4xaFNFY0t3Z2w5NXd5SkgyempYZ3NEVEFNa2pnNmJsYlhSSW1QMmt6ZEJhbDVOTXhFMGpMVjlURUJ0NzR4Vkg2Qk94NEY5NXVZVV9veFozeE04dENkMUtGZnNabU9OaGUwWXpwM2NONlhtTGd4NnJYOFc4dVhZcGNFU21yUWRoU1R5akJRSEFLWQ?oc=5",
       "source": "MSN",
       "published": "2026-06-18"
     },
@@ -24,18 +36,6 @@
       "title": "Star turn for Hong Kong luxury housing as Richie Jen buys US$8.8 million flat - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU09oNFVHOHIzekVlQnItQ2xWWngwU1ZjUVJvNjVkOExXOGRQbHAzLVJTSUdJX2ZkSmFJWVBPSWJPVUZTc1RBM3QyeTlpWkgtTWZqNEN1S2t2WHpseFRobkJlVVI4R0hWdW1JaGplenN3ZEs4XzNIZjVCbHprUkREazhMN21CQlNTSDJteDVEbnhNZHJ3S1haVGNWTmsyRC1hRnQydVczU1o2Z9IBqgFBVV95cUxQYm9QVG00WmhWbHZBdEsxWm1Ydnk0MjE2aGV6WjNJdllOb3RENnhOd0tYRnRVaEtsTU5qMEhxeHUwUXVzMmpvTHB0aEZjdFltYkpEN2JjTlZudHpfcDA5LVQ5MXBtXzN2RERxcWZiSEx6MFlnVzBpdkNHZ3ZSR01YemR1OWp2YnQyYXF3ckN0TUc1bnB4dmFPY1FPV3NEQmh1OGNZblltWEJRQQ?oc=5",
       "source": "South China Morning Post",
-      "published": "2026-06-18"
-    },
-    {
-      "title": "California’s housing prices reach staggering new high as city drives sales through the roof - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRCbGJjX1FpMW9QaHNnZ25zTWYwUWRQZVQ0T3lyVDhZUXF4ZTZQNjExQURPU3R0cDR4UE5wYnNfNmRlYlBhSThicTlFM2VyVElXcDVrYXZTUDZhWExBOFlvVVZMSW9ObVpGM1luUldRcnpkc1dWQkRKOEwxbThFRVhtNVdmZFppaTRXS2JQTVpYUXMtc0RURzI2MnByUlV6T3hRdW5wTndja0U?oc=5",
-      "source": "New York Post",
-      "published": "2026-06-18"
-    },
-    {
-      "title": "Lennar files construction plans for Lookout Ridge, its second community in Sugarloaf Mountain - GrowthSpotter",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSnJvWG8tNUpJRUJDaFFrV0NzUlo3NTZYdFNhZDljZFZhYlJEaDZMbzlPZG1FcUlGeTNjQ1lyU241Qm1pTnhhMURFVGFOTzg4WEFsdFlDQXN2WDZ4bEl5NlNPT1d0RHJWc2xOdTlrUW80UFB6cVd6U0pFczVDajloMzc1ODJ3bHpCTHVxdmdZZll1UC0zQU90QktPM3pzUk5sNjljTmp1OEdnamswdThtYm42SzV5ZTRPSENhLTA1ejhUaFVQeUpDLXFJTmdoSzg?oc=5",
-      "source": "GrowthSpotter",
       "published": "2026-06-18"
     }
   ]
