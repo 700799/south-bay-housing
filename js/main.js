@@ -46,10 +46,38 @@
     if (track && prev) prev.addEventListener('click', () => track.scrollBy({ left: -scrollBy(), behavior: 'smooth' }));
     if (track && next) next.addEventListener('click', () => track.scrollBy({ left: scrollBy(), behavior: 'smooth' }));
 
+    // Hub card live-stat helpers
+    const setStat = (id, html, live) => window.setCardStat && window.setCardStat(id, html, live);
+    const usdShort = (v) => {
+      v = Number(v);
+      if (Math.abs(v) >= 1e6) return '$' + (v / 1e6).toFixed(2).replace(/\.?0+$/, '') + 'M';
+      if (Math.abs(v) >= 1e3) return '$' + Math.round(v / 1e3) + 'K';
+      return '$' + Math.round(v).toLocaleString('en-US');
+    };
+    function updateMarketCards(d) {
+      const rows = (d && d.rows) || [];
+      const by = {}; rows.forEach((r) => { by[r.key] = r; });
+      if (by.listprice) setStat('market', 'Median list ' + usdShort(by.listprice.value), true);
+      else if (by.mortgage30) setStat('market', by.mortgage30.value + '% 30-yr fixed', true);
+      if (rows.length) setStat('indicators', rows.length + ' indicators tracked', true);
+    }
+    function updateMortgageCards(d) {
+      const l = d && d.latest;
+      if (!l) return;
+      if (l['30yr'] != null) {
+        setStat('mortgage', l['30yr'] + '% · 30-yr fixed', true);
+        setStat('calculator', 'Prefilled at ' + l['30yr'] + '%', true);
+      }
+    }
+    function updateNewsCard(d) {
+      const n = ((d && d.items) || []).length;
+      if (n) setStat('news', n + ' recent headline' + (n === 1 ? '' : 's'), true);
+    }
+
     // Data-driven sections
-    hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); window.renderTrendTabs(d); });
-    hydrate('data/mortgage-rates.json', (d) => { window.renderMortgageChart(d); if (window.applyLiveRate) window.applyLiveRate(d); });
-    hydrate('data/news.json', window.renderNews);
+    hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); window.renderTrendTabs(d); updateMarketCards(d); });
+    hydrate('data/mortgage-rates.json', (d) => { window.renderMortgageChart(d); if (window.applyLiveRate) window.applyLiveRate(d); updateMortgageCards(d); });
+    hydrate('data/news.json', (d) => { window.renderNews(d); updateNewsCard(d); });
     hydrate('data/books.json', (d) => window.renderLit('booksList', d));
     hydrate('data/journals.json', (d) => window.renderLit('journalsList', d));
     hydrate('data/meta.json', window.renderMeta);
