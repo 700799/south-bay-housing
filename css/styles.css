@@ -56,10 +56,12 @@ img { max-width: 100%; display: block; }
 .btn--primary:hover { background: var(--gold-dark); color: #fff; }
 .btn--ghost { background: transparent; color: #fff; border: 1.5px solid rgba(255,255,255,.6); }
 .btn--ghost:hover { border-color: #fff; }
+.btn--call { background: #fff; color: var(--navy); box-shadow: var(--shadow); }
+.btn--call:hover { background: var(--gold); color: #1a1300; }
 
 /* Hero */
 .hero { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; }
-.hero .wrap { display: grid; grid-template-columns: 1.3fr .9fr; gap: 40px; align-items: center; padding-top: 64px; padding-bottom: 64px; }
+.hero .wrap { display: grid; grid-template-columns: 1.3fr .9fr; gap: 32px; align-items: center; padding-top: 48px; padding-bottom: 48px; }
 .hero h1 { color: #fff; font-size: clamp(2.1rem, 5vw, 3.4rem); margin: 0 0 14px; }
 .hero p { color: #cdd5e4; font-size: 1.12rem; max-width: 54ch; }
 .hero .cities { color: var(--gold); font-weight: 600; letter-spacing: .02em; }
@@ -260,6 +262,9 @@ form.contact-form input, form.contact-form select, form.contact-form textarea {
 }
 form.contact-form textarea { min-height: 110px; resize: vertical; }
 .hp { position: absolute; left: -9999px; }
+.form-status { margin: 14px 0 0; font-size: .92rem; font-weight: 600; }
+.form-status.ok { color: var(--green); }
+.form-status.err { color: var(--red); }
 
 /* Footer */
 .footer { background: #0e1830; color: #9aa6bd; padding: 32px 0; font-size: .88rem; }
@@ -314,8 +319,8 @@ body.drawer-open { overflow: hidden; }
 
 /* Responsive */
 @media (max-width: 900px) {
-  .hero .wrap { grid-template-columns: 1fr; padding-top: 24px; padding-bottom: 36px; gap: 22px; }
-  .headshot { margin: 0 auto; }
+  .hero .wrap { padding-top: 32px; padding-bottom: 32px; gap: 24px; }
+  .headshot { max-width: 280px; }
   .grid-3 { grid-template-columns: 1fr 1fr; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .contact-grid { grid-template-columns: 1fr; }
@@ -328,6 +333,8 @@ body.drawer-open { overflow: hidden; }
   .nav-links a { padding: 10px 0; width: 100%; }
   .nav-links button { padding: 10px 0; width: 100%; text-align: left; }
   .nav-toggle { display: block; }
+  .hero .wrap { grid-template-columns: 1fr; padding-top: 18px; padding-bottom: 24px; gap: 16px; }
+  .headshot { margin: 0 auto; max-width: 240px; }
   .hub-grid { grid-template-columns: 1fr; }
   .drawer { width: 100%; }
   .drawer-body { padding: 22px 18px 56px; }
