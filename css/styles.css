@@ -281,8 +281,7 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
 .hub-card { display: flex; flex-direction: column; gap: 8px; text-align: left; font: inherit; color: inherit; cursor: pointer; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; box-shadow: var(--shadow); transition: transform .1s ease, box-shadow .2s ease, border-color .2s ease; }
 .hub-card:hover { transform: translateY(-3px); border-color: var(--gold); box-shadow: 0 12px 30px rgba(20, 33, 61, .14); }
 .hub-card:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
-.hub-cat { text-transform: uppercase; letter-spacing: .12em; font-size: .72rem; font-weight: 700; color: var(--gold-dark); }
-.hub-title { font-family: var(--serif); font-size: 1.25rem; line-height: 1.2; color: var(--navy); font-weight: 600; }
+.hub-title { font-family: var(--serif); font-size: 1.25rem; line-height: 1.2; color: var(--navy); font-weight: 700; }
 .hub-blurb { color: var(--slate); font-size: .92rem; flex: 1 0 auto; }
 .hub-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 4px; }
 .hub-stat { background: #f1efe9; color: var(--navy); border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; font-size: .8rem; font-weight: 700; font-variant-numeric: tabular-nums; }
