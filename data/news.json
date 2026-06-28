@@ -1,11 +1,29 @@
 {
-  "updated": "2026-06-27T14:44:03.445Z",
+  "updated": "2026-06-28T14:49:37.067Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "The One South Market Apartments from Essex Property Trust - classic high-rise living in downtown San - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSW1IbGlrb0tMWWRTUzVlLTZVT3F2TDBrLThrWjRqeFoyd3RoRS1xd3hqY3BQSkd3NDFVWUdUVXhqcEtKSzhfOWJCQ2VDaXBtbGFuTXVBQWNURm1naDJCRERWS1lUWWdSVXhUU29MajlzYTdjNm9wSkloWU14V2c4MF9EVlVncmlUNnFKMDBNY0RNaHY1VmwxbWFZV1hiMVp3NVBFWFRKRklfOUVEeHdaVUlicEYtMmRVWFRzRUI0VUx5UQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "published": "2026-06-28"
+    },
     {
       "title": "Mountain View at Rocking K - Mountain View Inspiration Community - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY20xXzlKdkxxMnRwTThkaEVOVlhEeE40NS1RbWlpNmxITHFNcUNaQ0ZxVTBWNldLbFBFTjFudll4aWtiVTdCZ0RrRFBOQmRSYkFWZUU3Um5EdElPU1lDVElfRVFweURxRkNGUjZqellFWjV6d2dZTVctTG10MXNJTk5NNmZsWjEtb2UxOFBHMF94dDMwOFBtQ3JqZHlnMHZ6bGxxcENrTjlhYVdhWjVKNS14Y0I0Q3ZVVGpYUk9hZnNFMmNzMjg0b0ZsbzNDOElBZF9PMHBUS283N3lUV2ZjU3VwOWJzQ25BTXc?oc=5",
       "source": "Realtor.com",
+      "published": "2026-06-27"
+    },
+    {
+      "title": "Omar Isac Arellano Obituary (2026) - Sunnyvale, TX - New Hope Funeral Home - Sunnyvale - Legacy | Obituary Search",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnpIMENGV2hNTU1uUEE5djR0NWp6OWkxY2M1b1Z3dUhsUmhQclNQcF9DLUlBZ3lFNWlpT19WWjFPZXBWR3VCa21Ib3p1Qmh4NHk0bVBYU005alpIaU9sdUN3ZDUyX2I4eG5XYVhaZEgzdG5SRkwta1lXMnF6YkJaa0ZR?oc=5",
+      "source": "Legacy | Obituary Search",
+      "published": "2026-06-27"
+    },
+    {
+      "title": "Top 20 home sales across Australia for financial year - realestate.com.au",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUI0NjBrRlM2bkdONk9QclJMUGhkLVExTTM0RDZwRDFsZjR3SlVObjhndEFicUc5Z19CcjJWZFpsVjJwSzJLWVJZMkVocExsdk1CTDRTejQ1RHdBWVNxZzlhLVM5X2NmZVNBUHNzb1NJci1nczVTQlVGbV8zZ2lidWI5YVJfUjBrOWlJYWRFM0J2N2M?oc=5",
+      "source": "realestate.com.au",
       "published": "2026-06-27"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlBUWmxzaE13aUNTTUlxMTktdXpxU3B1bXBhZk9USjN1NjNhU2xjMDM1VFdqYVFKZTl6UmhqbXY0M1ZGT3cyZDRES3lzaUF0UFR6STlBWnJmOGpGbzFfbG1lZE1fTm1yMDJnZ1RPcXJpSDBBZE9xV090MVF5SHJpYUtQWHZkVWNCZVVtWkx1VEE2LUNpN2ZqOWJPcEVtcTU0QkUtbNIBuAFBVV95cUxPTWZHMnRNQnhOa3ZIQVhlUHNxV0NSQnlhVmhFb0xoYmFfeXlZRDFWSzFfbm10dTZpcUJpbXdwdWdlaDdtbDI3S2JTdkJSbklycS1vcGlQOVo1bFpCYTNJSXJabjBnY1Rwdmw5VTkyM2cxRlVjWDZqU092eXdKalFCbExwZGFRdjJQNWxuZ3VITmZEdFJHSUFRenhDeXoxWGFPczNFQXoxY1pWV053a294Q1hjallHbGpx?oc=5",
       "source": "NJ.com",
       "published": "2026-06-27"
-    },
-    {
-      "title": "Holland buys San Jose apartments for $1M over 2018 price - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUJDT0FxUExQUWZKMkd4OGxWVXh4SUVHSHpOZDBxWGxsd0FsZHlmWXJTbW1oZnVtS0E4TERSdTF3U2NwQkdKbnVoZUtnYmtidXBwX09WWGpoa3JzVnAtMm5aSWtNbnN3MEVKZ2gyaUFSUDJiQ180VFhRMG9sZW9LQkV6ejZvOWRSN2M0c3JUMUZJSE4tdlZtdDlGZ2F0cDVJNFM4?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-06-26"
-    },
-    {
-      "title": "School district eyes purchase of empty San Jose tower for worker homes - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazE4OFEyUmd1SFRDSTY2UThLU2NBTmlBRFhNVFQtTWF4bDlVTERSUURJTXFXMkxpdmY2Y050bmM4Z2Rxa2xla0ZLSVJTbHRWT05fOXZ5MHM1OTU0SnI0WVkzNVhCLVZDR1dxd1diZl9aZUNGN0hXMXIySlZNYWlpeHBRVE1YbkNEOVhmQUdyWHBFak8zVkcyRGxIQVB1U2dtS0NvcHpvWXZ3Z1hIMlRZ0gG0AUFVX3lxTE5Vc0tSaUl2VGFsUkg0TDJwMlduZzJaalNwSnl6bHZXa09mVHdMZTc1Mlp0S0RURjFXOTJpOTBobEZqUk9HeWxjdmU4SHJfU0NHNjhFMnVRdnNQclFFT3NRRTBzdzZEcVNEcVlZZkY0ZGRVNnZpSHU5TS1pZXpxRWNTRzcxeVpJLUpFLWhxZU9yblNITmY1YTBRNXVnaXVJbXF6Q0NQdVdFRnBLdURhbWRwYkloaA?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-06-26"
-    },
-    {
-      "title": "San Jose school district weighs buying downtown tower for employee housing - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGh3U3hhcmNWbXI5ejAtcFlXVS1UYnVMNDZnSVZBeC1fbE1oQU1CNUt1M0EtTVRLOTAzSVpUTnR6WUdoQnA5bzMtZ3hVU2IyUlNJcG9YNGtPQXhqQnp0ZklYb3QyRVpIMDVzSElHVjdyZFpwdGpZLWpvU1J5LXNlZFlzbktqOVg2d2d3ZkJhTzZYZkYtSUZnUUJjbEhMYl9uNTZWY3FpQnRLcVBsMjZPV1plZ9IBswFBVV95cUxOMGh3U3hhcmNWbXI5ejAtcFlXVS1UYnVMNDZnSVZBeC1fbE1oQU1CNUt1M0EtTVRLOTAzSVpUTnR6WUdoQnA5bzMtZ3hVU2IyUlNJcG9YNGtPQXhqQnp0ZklYb3QyRVpIMDVzSElHVjdyZFpwdGpZLWpvU1J5LXNlZFlzbktqOVg2d2d3ZkJhTzZYZkYtSUZnUUJjbEhMYl9uNTZWY3FpQnRLcVBsMjZPV1plZw?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-06-26"
     }
   ]
 }
