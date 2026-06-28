@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=9" />
+  <link rel="stylesheet" href="css/styles.css?v=10" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -21,7 +21,7 @@
     "identifier": "CA DRE #02339207",
     "description": "South Bay California real estate specialist serving San Jose, Santa Clara, Sunnyvale, and Mountain View.",
     "telephone": "+1-408-823-1538",
-    "email": "annagoogol@gmail.com",
+    "email": "Anna@annabayhomes.com",
     "url": "https://annabayhomes.com/",
     "image": "https://annabayhomes.com/assets/img/anna-headshot.jpg",
     "areaServed": [
@@ -60,13 +60,12 @@
       <a href="#top" class="brand">Anna <span>Nguyen</span></a>
       <button class="nav-toggle" aria-label="Toggle menu" id="navToggle">☰</button>
       <nav class="nav-links" id="navLinks">
-        <a href="#market">Market</a>
-        <a href="#mortgage">Mortgage</a>
-        <a href="#calculator">Calculator</a>
-        <a href="#news">News</a>
-        <a href="#guides">Guides</a>
-        <a href="#inspection">Inspection</a>
-        <a href="#faq">FAQ</a>
+        <button type="button" data-drawer="market">Market</button>
+        <button type="button" data-drawer="mortgage">Mortgage</button>
+        <button type="button" data-drawer="calculator">Calculator</button>
+        <button type="button" data-drawer="news">News</button>
+        <button type="button" data-drawer="guides">Guides</button>
+        <button type="button" data-drawer="faq">FAQ</button>
         <a href="#contact" class="nav-cta">Contact</a>
       </nav>
     </div>
@@ -94,22 +93,198 @@
     </div>
   </section>
 
-  <!-- ABOUT -->
-  <section class="section section--alt" id="about">
+  <!-- HUB: card grid. Each card opens a drawer with the full content. -->
+  <section class="section hub" id="explore">
     <div class="wrap">
-      <p class="eyebrow">About Anna</p>
-      <h2>Engineering precision, marketing savvy, Silicon Valley roots</h2>
-      <p class="lead">Anna Nguyen brings a background in key roles at companies like <strong>Facebook, Cisco, and VeriSign</strong> to her real estate practice. That experience inside the Valley's leading employers gives her a firsthand understanding of the tech-driven forces that move the South Bay housing market — and a sharp, analytical approach to pricing, negotiation, and strategy for her clients.</p>
-      <p class="cred-line">MBA, Santa Clara University &nbsp;·&nbsp; BS, University of Washington &nbsp;·&nbsp; South Bay specialist</p>
+      <p class="eyebrow">Explore</p>
+      <h2>Everything in one place</h2>
+      <p class="lead">Tap any card to open it — live South Bay market data, tools, neighborhood guides, and more. Live figures refresh automatically every day.</p>
+      <div class="hub-grid">
+
+        <button class="hub-card" type="button" data-drawer="about">
+          <span class="hub-cat">About Anna</span>
+          <span class="hub-title">Meet Anna Nguyen</span>
+          <span class="hub-blurb">Engineering precision, marketing savvy, and Silicon Valley roots.</span>
+          <span class="hub-stat">Facebook · Cisco · VeriSign</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="market">
+          <span class="hub-cat">Market Trends</span>
+          <span class="hub-title">Live market snapshot</span>
+          <span class="hub-blurb">Daily South Bay &amp; U.S. housing signals, straight from the Federal Reserve.</span>
+          <span class="hub-stat" id="cardStat-market">Updated daily</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="indicators">
+          <span class="hub-cat">Leading Indicators</span>
+          <span class="hub-title">Daily market dashboard</span>
+          <span class="hub-blurb">Every key economic and housing signal in one comparison table.</span>
+          <span class="hub-stat" id="cardStat-indicators">12 daily indicators</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="mortgage">
+          <span class="hub-cat">Financing</span>
+          <span class="hub-title">Mortgage rate trends</span>
+          <span class="hub-blurb">30- and 15-year fixed rates over the past year. Lower rates, more buying power.</span>
+          <span class="hub-stat" id="cardStat-mortgage">Updated daily</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="calculator">
+          <span class="hub-cat">Plan Your Purchase</span>
+          <span class="hub-title">Affordability calculator</span>
+          <span class="hub-blurb">Estimate your monthly payment on a South Bay home in seconds.</span>
+          <span class="hub-stat" id="cardStat-calculator">Live rate prefilled</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="news">
+          <span class="hub-cat">Housing News</span>
+          <span class="hub-title">Bay Area headlines</span>
+          <span class="hub-blurb">The latest South Bay real-estate coverage, refreshed automatically each day.</span>
+          <span class="hub-stat" id="cardStat-news">Updated daily</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="factors">
+          <span class="hub-cat">Know the Market</span>
+          <span class="hub-title">What moves the market</span>
+          <span class="hub-blurb">The forces that shape buying and selling in Silicon Valley.</span>
+          <span class="hub-stat">6 key drivers</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="guides">
+          <span class="hub-cat">Step by Step</span>
+          <span class="hub-title">Buyer &amp; seller guides</span>
+          <span class="hub-blurb">Your roadmap from first step to keys — for both sides of the deal.</span>
+          <span class="hub-stat">Buy &amp; sell timelines</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="cities">
+          <span class="hub-cat">Neighborhoods</span>
+          <span class="hub-title">City guides</span>
+          <span class="hub-blurb">San Jose, Santa Clara, Sunnyvale &amp; Mountain View at a glance.</span>
+          <span class="hub-stat">4 communities</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="learn">
+          <span class="hub-cat">Learn</span>
+          <span class="hub-title">Top reads</span>
+          <span class="hub-blurb">The best books and research on buying &amp; selling, summarized.</span>
+          <span class="hub-stat">Top 5 books · 5 papers</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="inspection">
+          <span class="hub-cat">For Buyers &amp; Sellers</span>
+          <span class="hub-title">Inspection checklist</span>
+          <span class="hub-blurb">The 10 checks that matter most in our older, seismic South Bay housing stock.</span>
+          <span class="hub-stat">10-point checklist</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="costs">
+          <span class="hub-cat">Know the Numbers</span>
+          <span class="hub-title">Closing costs</span>
+          <span class="hub-blurb">Who customarily pays what in a California transaction.</span>
+          <span class="hub-stat">11 line items</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="faq">
+          <span class="hub-cat">Learn the Lingo</span>
+          <span class="hub-title">Glossary &amp; FAQ</span>
+          <span class="hub-blurb">Plain-English terms and the questions that come up most.</span>
+          <span class="hub-stat">10 terms · 5 FAQs</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="valuation">
+          <span class="hub-cat">For Sellers</span>
+          <span class="hub-title">Home valuation</span>
+          <span class="hub-blurb">What's your South Bay home worth? Get a complimentary estimate.</span>
+          <span class="hub-stat">Free, no obligation</span>
+          <span class="hub-go">Open →</span>
+        </button>
+
+      </div>
     </div>
   </section>
 
-  <!-- MARKET TRENDS -->
-  <section class="section" id="market">
+  <!-- CONTACT -->
+  <section class="section contact" id="contact">
     <div class="wrap">
-      <p class="eyebrow">Market Trends</p>
-      <h2>Live market snapshot <span class="badge">Updated daily</span></h2>
-      <p class="lead">Real South Bay &amp; U.S. housing signals — refreshed automatically every day from the Federal Reserve (FRED). Each stat below shows what's moving <strong>and why it matters for buying or selling</strong>. Scroll down for the full indicator table.</p>
+      <p class="eyebrow">Let's Talk</p>
+      <h2>Ready to buy or sell in the Bay Area?</h2>
+      <p class="lead">Whether you're making your first move or your fifth, I'll guide you with data, care, and local expertise. Reach out for a free, no-pressure consultation.</p>
+      <div class="contact-grid">
+        <div class="contact-methods">
+          <a href="tel:+14088231538"><span class="ic-label">Call</span> 408-823-1538</a>
+          <a href="mailto:Anna@annabayhomes.com"><span class="ic-label">Email</span> Anna@annabayhomes.com</a>
+          <p class="serving">Serving San Jose · Santa Clara · Sunnyvale · Mountain View</p>
+        </div>
+        <!-- Replace FORM_ID with your Formspree form ID (https://formspree.io) -->
+        <form class="contact-form" action="https://formspree.io/f/FORM_ID" method="POST">
+          <label for="cname">Name</label>
+          <input id="cname" name="name" type="text" required />
+          <label for="cemail">Email</label>
+          <input id="cemail" name="email" type="email" required />
+          <label for="cintent">I'm interested in</label>
+          <select id="cintent" name="intent">
+            <option>Buying a home</option>
+            <option>Selling a home</option>
+            <option>Both / not sure yet</option>
+            <option>A market valuation</option>
+          </select>
+          <label for="cmsg">Message</label>
+          <textarea id="cmsg" name="message" placeholder="Tell me a little about what you're looking for…"></textarea>
+          <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          <button class="btn btn--primary" type="submit" style="width:100%">Send message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="wrap">
+      <strong>Anna Nguyen</strong>, Realtor® · Intero Real Estate Services · DRE #02339207<br>
+      <a href="tel:+14088231538">408-823-1538</a> · <a href="mailto:Anna@annabayhomes.com">Anna@annabayhomes.com</a>
+      <div id="dataUpdated"></div>
+      <p class="disclaimer"><strong>Equal Housing Opportunity.</strong> Market indicators, mortgage rates, and news are provided for informational purposes only from public sources (FRED, public news feeds) and may not reflect real-time conditions. Not financial advice.</p>
+    </div>
+  </footer>
+
+  <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
+
+  <!-- ============ DRAWERS ============ -->
+  <div class="drawer-scrim" id="drawerScrim"></div>
+
+  <!-- About -->
+  <aside class="drawer" id="drawer-about" role="dialog" aria-modal="true" aria-labelledby="dt-about" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">About Anna</p><h2 class="drawer-title" id="dt-about">Engineering precision, marketing savvy, Silicon Valley roots</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
+      <p class="lead">Anna Nguyen brings a background in key roles at companies like <strong>Facebook, Cisco, and VeriSign</strong> to her real estate practice. That experience inside the Valley's leading employers gives her a firsthand understanding of the tech-driven forces that move the South Bay housing market — and a sharp, analytical approach to pricing, negotiation, and strategy for her clients.</p>
+      <p class="cred-line">MBA, Santa Clara University &nbsp;·&nbsp; BS, University of Washington &nbsp;·&nbsp; South Bay specialist</p>
+    </div>
+  </aside>
+
+  <!-- Market Trends -->
+  <aside class="drawer" id="drawer-market" role="dialog" aria-modal="true" aria-labelledby="dt-market" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Market Trends</p><h2 class="drawer-title" id="dt-market">Live market snapshot <span class="badge">Updated daily</span></h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
+      <p class="lead">Real South Bay &amp; U.S. housing signals — refreshed automatically every day from the Federal Reserve (FRED). Each stat below shows what's moving <strong>and why it matters for buying or selling</strong>.</p>
       <div class="stat-tiles" id="trendStats">
         <p style="color:var(--slate)">Loading live stats…</p>
       </div>
@@ -132,30 +307,15 @@
         <p class="trend-context">Over a season, inventory, days-on-market and home values reveal whether it's tilting toward buyers or sellers.</p>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- FACTORS -->
-  <section class="section section--alt" id="factors">
-    <div class="wrap">
-      <p class="eyebrow">Know the Market</p>
-      <h2>Factors that affect buying &amp; selling in the South Bay</h2>
-      <p class="lead">The Silicon Valley market has its own drivers. These are the forces I watch most closely for my clients.</p>
-      <div class="grid grid-3">
-        <div class="card"><h3>Tech job market</h3><p>Hiring, layoffs, RSU vesting and IPO activity at major employers directly shape buyer demand and budgets across the South Bay.</p></div>
-        <div class="card"><h3>Mortgage rates</h3><p>Every move in the 30-year fixed shifts monthly payments and purchasing power — critical in a high-price market.</p></div>
-        <div class="card"><h3>Inventory &amp; lock-in</h3><p>Homeowners holding low pandemic-era mortgages are slow to sell, keeping supply tight and supporting prices.</p></div>
-        <div class="card"><h3>Schools &amp; location</h3><p>Top-rated school boundaries, commute access and walkability command persistent premiums.</p></div>
-        <div class="card"><h3>Taxes &amp; Prop 13</h3><p>Property tax basis, transfer taxes and capital-gains considerations factor heavily into seller timing.</p></div>
-        <div class="card"><h3>Seasonality</h3><p>Spring and early summer bring the most activity; timing your listing can affect both speed and price.</p></div>
-      </div>
+  <!-- Leading Indicators -->
+  <aside class="drawer" id="drawer-indicators" role="dialog" aria-modal="true" aria-labelledby="dt-indicators" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Leading Indicators</p><h2 class="drawer-title" id="dt-indicators">Daily market dashboard <span class="badge">Updated daily</span></h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
     </div>
-  </section>
-
-  <!-- LEADING INDICATORS TABLE -->
-  <section class="section" id="indicators">
-    <div class="wrap">
-      <p class="eyebrow">Leading Indicators</p>
-      <h2>Daily market dashboard <span class="badge">Updated daily</span></h2>
+    <div class="drawer-body">
       <p class="lead">The key economic and housing signals that move the South Bay market — refreshed automatically each day.</p>
       <div class="table-scroll">
         <table class="indicators">
@@ -168,26 +328,30 @@
         </table>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- MORTGAGE CHART -->
-  <section class="section section--alt" id="mortgage">
-    <div class="wrap">
-      <p class="eyebrow">Financing</p>
-      <h2>Mortgage rate trends <span class="badge">Updated daily</span></h2>
+  <!-- Mortgage chart -->
+  <aside class="drawer" id="drawer-mortgage" role="dialog" aria-modal="true" aria-labelledby="dt-mortgage" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Financing</p><h2 class="drawer-title" id="dt-mortgage">Mortgage rate trends <span class="badge">Updated daily</span></h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">30-year and 15-year fixed rates over the past year. Lower rates mean more buying power.</p>
       <div class="chart-wrap">
         <div class="chart-stats" id="chartStats"></div>
         <div class="canvas-box"><canvas id="mortgageChart"></canvas></div>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- MORTGAGE CALCULATOR -->
-  <section class="section" id="calculator">
-    <div class="wrap">
-      <p class="eyebrow">Plan Your Purchase</p>
-      <h2>Mortgage affordability calculator</h2>
+  <!-- Calculator -->
+  <aside class="drawer" id="drawer-calculator" role="dialog" aria-modal="true" aria-labelledby="dt-calculator" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Plan Your Purchase</p><h2 class="drawer-title" id="dt-calculator">Mortgage affordability calculator</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">Estimate your monthly payment on a South Bay home. The interest rate is pre-filled with today's live 30-year average — adjust any field to see your payment update instantly.</p>
       <div class="calc">
         <div class="calc-inputs">
@@ -211,17 +375,19 @@
           <p class="calc-label">Estimated monthly payment</p>
           <p class="calc-total" id="calcTotal">—</p>
           <ul class="calc-breakdown" id="calcBreakdown"></ul>
-          <p class="calc-note">Estimate only — not a loan offer or pre-approval. Property tax, insurance, and HOA vary by home. <a href="#contact">Reach out</a> for financing guidance.</p>
+          <p class="calc-note">Estimate only — not a loan offer or pre-approval. Property tax, insurance, and HOA vary by home. <a href="#contact" class="linklike" data-close>Reach out</a> for financing guidance.</p>
         </div>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- NEWS -->
-  <section class="section" id="news">
-    <div class="wrap">
-      <p class="eyebrow">Bay Area Housing News</p>
-      <h2>Top real estate headlines <span class="badge">Updated daily</span></h2>
+  <!-- News -->
+  <aside class="drawer" id="drawer-news" role="dialog" aria-modal="true" aria-labelledby="dt-news" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Bay Area Housing News</p><h2 class="drawer-title" id="dt-news">Top real estate headlines <span class="badge">Updated daily</span></h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">The latest South Bay real-estate coverage from the past 30 days, refreshed automatically each day. Swipe to browse.</p>
       <div class="carousel">
         <button class="carousel-btn prev" id="newsPrev" aria-label="Previous">‹</button>
@@ -231,13 +397,34 @@
         <button class="carousel-btn next" id="newsNext" aria-label="Next">›</button>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- BUYER & SELLER GUIDES -->
-  <section class="section section--alt" id="guides">
-    <div class="wrap">
-      <p class="eyebrow">Step by Step</p>
-      <h2>Your roadmap to buying or selling</h2>
+  <!-- Factors -->
+  <aside class="drawer" id="drawer-factors" role="dialog" aria-modal="true" aria-labelledby="dt-factors" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Know the Market</p><h2 class="drawer-title" id="dt-factors">Factors that affect buying &amp; selling in the South Bay</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
+      <p class="lead">The Silicon Valley market has its own drivers. These are the forces I watch most closely for my clients.</p>
+      <div class="grid grid-3">
+        <div class="card"><h3>Tech job market</h3><p>Hiring, layoffs, RSU vesting and IPO activity at major employers directly shape buyer demand and budgets across the South Bay.</p></div>
+        <div class="card"><h3>Mortgage rates</h3><p>Every move in the 30-year fixed shifts monthly payments and purchasing power — critical in a high-price market.</p></div>
+        <div class="card"><h3>Inventory &amp; lock-in</h3><p>Homeowners holding low pandemic-era mortgages are slow to sell, keeping supply tight and supporting prices.</p></div>
+        <div class="card"><h3>Schools &amp; location</h3><p>Top-rated school boundaries, commute access and walkability command persistent premiums.</p></div>
+        <div class="card"><h3>Taxes &amp; Prop 13</h3><p>Property tax basis, transfer taxes and capital-gains considerations factor heavily into seller timing.</p></div>
+        <div class="card"><h3>Seasonality</h3><p>Spring and early summer bring the most activity; timing your listing can affect both speed and price.</p></div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Guides -->
+  <aside class="drawer" id="drawer-guides" role="dialog" aria-modal="true" aria-labelledby="dt-guides" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Step by Step</p><h2 class="drawer-title" id="dt-guides">Your roadmap to buying or selling</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">Know what's ahead. Here's how each journey unfolds in the South Bay — and where I'll guide you at every step.</p>
       <div class="guides-grid">
         <div class="guide">
@@ -266,13 +453,15 @@
         </div>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- CITY GUIDES -->
-  <section class="section" id="cities">
-    <div class="wrap">
-      <p class="eyebrow">South Bay Neighborhoods</p>
-      <h2>City guides</h2>
+  <!-- Cities -->
+  <aside class="drawer" id="drawer-cities" role="dialog" aria-modal="true" aria-labelledby="dt-cities" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">South Bay Neighborhoods</p><h2 class="drawer-title" id="dt-cities">City guides</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">A quick look at the four communities I serve — each with its own character and market.</p>
       <div class="grid grid-2">
         <div class="card city-card">
@@ -301,13 +490,15 @@
         </div>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- BOOKS & JOURNALS -->
-  <section class="section" id="learn">
-    <div class="wrap">
-      <p class="eyebrow">Learn</p>
-      <h2>Top reads on buying &amp; selling a home</h2>
+  <!-- Learn -->
+  <aside class="drawer" id="drawer-learn" role="dialog" aria-modal="true" aria-labelledby="dt-learn" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Learn</p><h2 class="drawer-title" id="dt-learn">Top reads on buying &amp; selling a home</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">The best books and research from the past decade — short summaries to make you a smarter buyer or seller.</p>
       <div class="grid grid-2">
         <div class="lit-col">
@@ -320,13 +511,15 @@
         </div>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- HOME INSPECTION CHECKLIST -->
-  <section class="section section--alt" id="inspection">
-    <div class="wrap">
-      <p class="eyebrow">For Buyers &amp; Sellers</p>
-      <h2>10 most important home inspection tips in the South Bay</h2>
+  <!-- Inspection -->
+  <aside class="drawer" id="drawer-inspection" role="dialog" aria-modal="true" aria-labelledby="dt-inspection" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">For Buyers &amp; Sellers</p><h2 class="drawer-title" id="dt-inspection">10 most important home inspection tips in the South Bay</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">Our older housing stock, seismic risk, and expansive clay soils make some inspections matter more here than almost anywhere. Use this checklist when touring or preparing a home — tap each item to check it off.</p>
       <ol class="checklist">
         <li><label><input type="checkbox" /><span class="check-body"><strong>Foundation &amp; seismic readiness.</strong> We're in earthquake country. Look for foundation cracks and confirm whether the home is bolted to its foundation with cripple-wall bracing. An older, un-retrofitted San Jose or Santa Clara home may need seismic work.</span></label></li>
@@ -340,15 +533,17 @@
         <li><label><input type="checkbox" /><span class="check-body"><strong>HVAC, insulation &amp; cooling.</strong> Check the furnace age and whether the home has (or can add) air conditioning, which buyers increasingly want. Inspect attic insulation and ductwork condition.</span></label></li>
         <li><label><input type="checkbox" /><span class="check-body"><strong>Hazards &amp; seismic safety items.</strong> For older homes, check for asbestos and lead paint (pre-1978), confirm the water heater and furnace are seismically strapped, and review whether the property sits in a liquefaction or flood zone.</span></label></li>
       </ol>
-      <p class="checklist-note">This is a general guide, not a substitute for a licensed home inspector. Have questions about a specific property? <a href="#contact">Reach out — I'm happy to help.</a></p>
+      <p class="checklist-note">This is a general guide, not a substitute for a licensed home inspector. Have questions about a specific property? <a href="#contact" class="linklike" data-close>Reach out — I'm happy to help.</a></p>
     </div>
-  </section>
+  </aside>
 
-  <!-- CLOSING COSTS -->
-  <section class="section section--alt" id="costs">
-    <div class="wrap">
-      <p class="eyebrow">Know the Numbers</p>
-      <h2>California closing costs: who pays what</h2>
+  <!-- Closing costs -->
+  <aside class="drawer" id="drawer-costs" role="dialog" aria-modal="true" aria-labelledby="dt-costs" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Know the Numbers</p><h2 class="drawer-title" id="dt-costs">California closing costs: who pays what</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">A general guide to typical closing costs in a South Bay transaction. These are customary — every term is negotiable and actual costs vary by contract and city.</p>
       <div class="table-scroll">
         <table class="indicators costs-table">
@@ -370,49 +565,47 @@
       </div>
       <p class="checklist-note">Customary, not fixed — everything in a purchase agreement is negotiable. I'll walk you through your specific estimate. Not legal or tax advice.</p>
     </div>
-  </section>
+  </aside>
 
-  <!-- GLOSSARY & FAQ -->
-  <section class="section" id="faq">
-    <div class="wrap">
-      <p class="eyebrow">Learn the Lingo</p>
-      <h2>Glossary &amp; FAQ</h2>
+  <!-- Glossary & FAQ -->
+  <aside class="drawer" id="drawer-faq" role="dialog" aria-modal="true" aria-labelledby="dt-faq" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Learn the Lingo</p><h2 class="drawer-title" id="dt-faq">Glossary &amp; FAQ</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">Plain-English answers to the terms and questions that come up most for South Bay buyers and sellers.</p>
-      <div class="grid grid-2">
-        <div>
-          <h3 class="col-title">Key terms</h3>
-          <dl class="glossary">
-            <dt>Pre-approval</dt><dd>A lender's written estimate of how much you can borrow, based on verified finances. Essential for a competitive offer.</dd>
-            <dt>Escrow</dt><dd>A neutral third party that holds funds and documents until all sale conditions are met.</dd>
-            <dt>Contingency</dt><dd>A condition in the contract (loan, appraisal, inspection) that must be satisfied or the buyer can cancel.</dd>
-            <dt>Contingency removal</dt><dd>When the buyer formally waives a contingency, signaling commitment and putting their deposit at risk.</dd>
-            <dt>PITI</dt><dd>Principal, Interest, Taxes, and Insurance — the four parts of a typical monthly mortgage payment.</dd>
-            <dt>Points</dt><dd>An optional upfront fee (1 point = 1% of the loan) paid to lower your interest rate.</dd>
-            <dt>Appraisal gap</dt><dd>The difference when a home appraises below the offer price; the buyer may need to cover it in cash.</dd>
-            <dt>Earnest money</dt><dd>A good-faith deposit that shows you're serious; it's credited toward your purchase at closing.</dd>
-            <dt>Prop 13</dt><dd>California law capping property tax at ~1% of assessed value, reset to your purchase price when you buy.</dd>
-            <dt>HOA</dt><dd>Homeowners Association — collects dues for shared maintenance in many condos and townhomes.</dd>
-          </dl>
-        </div>
-        <div>
-          <h3 class="col-title">Frequently asked questions</h3>
-          <div class="faq-list">
-            <details><summary>How much do I need for a down payment in the South Bay?</summary><p>Conventional loans often start at 5% down, but many Silicon Valley buyers put 20% down to strengthen their offer and avoid mortgage insurance. Low-down-payment and first-time-buyer programs also exist. The right amount depends on your goals, cash, and the home's price.</p></details>
-            <details><summary>How long does it take to buy a home?</summary><p>Once you're in contract, closing typically runs 30–60 days. Finding the right home can take days to months depending on inventory and your criteria.</p></details>
-            <details><summary>What is Proposition 13 and how does it affect my taxes?</summary><p>Prop 13 caps California property taxes at roughly 1% of assessed value plus local add-ons and limits annual increases to about 2% until the home changes hands. When you buy, it's reassessed to your purchase price — your new tax basis.</p></details>
-            <details><summary>Is it a good time to buy if mortgage rates are high?</summary><p>Higher rates raise payments but often mean less competition and more negotiating room. Many buyers purchase now and refinance later if rates fall. The best time depends on your finances and how long you'll stay.</p></details>
-            <details><summary>What does it cost to sell a home in California?</summary><p>Sellers typically pay commissions, a share of escrow and title fees, county transfer tax, and any agreed credits or repairs — commonly in the 6–8% of sale price range.</p></details>
-          </div>
-        </div>
+      <h3 class="col-title">Key terms</h3>
+      <dl class="glossary">
+        <dt>Pre-approval</dt><dd>A lender's written estimate of how much you can borrow, based on verified finances. Essential for a competitive offer.</dd>
+        <dt>Escrow</dt><dd>A neutral third party that holds funds and documents until all sale conditions are met.</dd>
+        <dt>Contingency</dt><dd>A condition in the contract (loan, appraisal, inspection) that must be satisfied or the buyer can cancel.</dd>
+        <dt>Contingency removal</dt><dd>When the buyer formally waives a contingency, signaling commitment and putting their deposit at risk.</dd>
+        <dt>PITI</dt><dd>Principal, Interest, Taxes, and Insurance — the four parts of a typical monthly mortgage payment.</dd>
+        <dt>Points</dt><dd>An optional upfront fee (1 point = 1% of the loan) paid to lower your interest rate.</dd>
+        <dt>Appraisal gap</dt><dd>The difference when a home appraises below the offer price; the buyer may need to cover it in cash.</dd>
+        <dt>Earnest money</dt><dd>A good-faith deposit that shows you're serious; it's credited toward your purchase at closing.</dd>
+        <dt>Prop 13</dt><dd>California law capping property tax at ~1% of assessed value, reset to your purchase price when you buy.</dd>
+        <dt>HOA</dt><dd>Homeowners Association — collects dues for shared maintenance in many condos and townhomes.</dd>
+      </dl>
+      <h3 class="col-title" style="margin-top:28px">Frequently asked questions</h3>
+      <div class="faq-list">
+        <details><summary>How much do I need for a down payment in the South Bay?</summary><p>Conventional loans often start at 5% down, but many Silicon Valley buyers put 20% down to strengthen their offer and avoid mortgage insurance. Low-down-payment and first-time-buyer programs also exist. The right amount depends on your goals, cash, and the home's price.</p></details>
+        <details><summary>How long does it take to buy a home?</summary><p>Once you're in contract, closing typically runs 30–60 days. Finding the right home can take days to months depending on inventory and your criteria.</p></details>
+        <details><summary>What is Proposition 13 and how does it affect my taxes?</summary><p>Prop 13 caps California property taxes at roughly 1% of assessed value plus local add-ons and limits annual increases to about 2% until the home changes hands. When you buy, it's reassessed to your purchase price — your new tax basis.</p></details>
+        <details><summary>Is it a good time to buy if mortgage rates are high?</summary><p>Higher rates raise payments but often mean less competition and more negotiating room. Many buyers purchase now and refinance later if rates fall. The best time depends on your finances and how long you'll stay.</p></details>
+        <details><summary>What does it cost to sell a home in California?</summary><p>Sellers typically pay commissions, a share of escrow and title fees, county transfer tax, and any agreed credits or repairs — commonly in the 6–8% of sale price range.</p></details>
       </div>
     </div>
-  </section>
+  </aside>
 
-  <!-- HOME VALUATION CTA -->
-  <section class="section section--alt" id="valuation">
-    <div class="wrap">
-      <p class="eyebrow">For Sellers</p>
-      <h2>What's your South Bay home worth?</h2>
+  <!-- Valuation -->
+  <aside class="drawer" id="drawer-valuation" role="dialog" aria-modal="true" aria-labelledby="dt-valuation" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">For Sellers</p><h2 class="drawer-title" id="dt-valuation">What's your South Bay home worth?</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
       <p class="lead">Get a complimentary, no-obligation home valuation based on current market data and recent comparable sales in your neighborhood.</p>
       <!-- Replace FORM_ID with your Formspree form ID (https://formspree.io) -->
       <form class="contact-form valuation-form" action="https://formspree.io/f/FORM_ID" method="POST">
@@ -428,57 +621,13 @@
         <button class="btn btn--primary" type="submit">Request my valuation</button>
       </form>
     </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section class="section contact" id="contact">
-    <div class="wrap">
-      <p class="eyebrow">Let's Talk</p>
-      <h2>Ready to buy or sell in the Bay Area?</h2>
-      <p class="lead">Whether you're making your first move or your fifth, I'll guide you with data, care, and local expertise. Reach out for a free, no-pressure consultation.</p>
-      <div class="contact-grid">
-        <div class="contact-methods">
-          <a href="tel:+14088231538"><span class="ic-label">Call</span> 408-823-1538</a>
-          <a href="mailto:annagoogol@gmail.com"><span class="ic-label">Email</span> annagoogol@gmail.com</a>
-          <p class="serving">Serving San Jose · Santa Clara · Sunnyvale · Mountain View</p>
-        </div>
-        <!-- Replace FORM_ID with your Formspree form ID (https://formspree.io) -->
-        <form class="contact-form" action="https://formspree.io/f/FORM_ID" method="POST">
-          <label for="cname">Name</label>
-          <input id="cname" name="name" type="text" required />
-          <label for="cemail">Email</label>
-          <input id="cemail" name="email" type="email" required />
-          <label for="cintent">I'm interested in</label>
-          <select id="cintent" name="intent">
-            <option>Buying a home</option>
-            <option>Selling a home</option>
-            <option>Both / not sure yet</option>
-            <option>A market valuation</option>
-          </select>
-          <label for="cmsg">Message</label>
-          <textarea id="cmsg" name="message" placeholder="Tell me a little about what you're looking for…"></textarea>
-          <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" />
-          <button class="btn btn--primary" type="submit" style="width:100%">Send message</button>
-        </form>
-      </div>
-    </div>
-  </section>
-
-  <footer class="footer">
-    <div class="wrap">
-      <strong>Anna Nguyen</strong>, Realtor® · Intero Real Estate Services · DRE #02339207<br>
-      <a href="tel:+14088231538">408-823-1538</a> · <a href="mailto:annagoogol@gmail.com">annagoogol@gmail.com</a>
-      <div id="dataUpdated"></div>
-      <p class="disclaimer"><strong>Equal Housing Opportunity.</strong> Market indicators, mortgage rates, and news are provided for informational purposes only from public sources (FRED, public news feeds) and may not reflect real-time conditions. Not financial advice.</p>
-    </div>
-  </footer>
-
-  <a href="#top" class="to-top" id="toTop" aria-label="Back to top">↑ Top</a>
+  </aside>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=9"></script>
-  <script src="js/chart.js?v=9"></script>
-  <script src="js/calculator.js?v=9"></script>
-  <script src="js/main.js?v=9"></script>
+  <script src="js/render.js?v=10"></script>
+  <script src="js/chart.js?v=10"></script>
+  <script src="js/calculator.js?v=10"></script>
+  <script src="js/drawer.js?v=10"></script>
+  <script src="js/main.js?v=10"></script>
 </body>
 </html>
