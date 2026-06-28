@@ -3,7 +3,7 @@
    confirmation instead of being redirected. */
 (function () {
   // ▼▼▼ PASTE ANNA'S WEB3FORMS ACCESS KEY HERE (free key from https://web3forms.com) ▼▼▼
-  const WEB3FORMS_ACCESS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+  const WEB3FORMS_ACCESS_KEY = 'ec6122db-70e4-46aa-ad84-a5139c5b6d1b';
   // ▲▲▲ that's the only manual step — both forms use this one key ▲▲▲
 
   const ENDPOINT = 'https://api.web3forms.com/submit';
