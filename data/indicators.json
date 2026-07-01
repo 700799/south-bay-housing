@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T15:30:22.667Z",
+  "updated": "2026-07-01T15:43:49.686Z",
   "source": "FRED",
   "rows": [
     {
@@ -60,20 +60,20 @@
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.08,
+          "delta": -0.13,
           "direction": "down"
         },
         "14d": {
-          "delta": -0.1,
+          "delta": -0.09,
           "direction": "down"
         },
         "30d": {
-          "delta": -0.1,
+          "delta": -0.07,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.03,
-          "direction": "up"
+          "delta": -0.02,
+          "direction": "down"
         }
       }
     },
