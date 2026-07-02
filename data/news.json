@@ -1,16 +1,10 @@
 {
-  "updated": "2026-07-02T03:31:14.400Z",
+  "updated": "2026-07-02T15:17:39.006Z",
   "source": "Google News RSS",
   "items": [
     {
-      "title": "SpaceX IPO sparks race for luxury housing in Southern California - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUEdPRF9GbU1pMmhfcVNPcDlEU1l6bVpXdzQ5Ml9iSUpKTXFUbVotbGJfbFZCNVdJeWFPTzBnSGlHMTVHaHpjWER0YkxsS0czQ01VRV9iZmo1RnFlLVNWa0YtUnRiUUkwOGRURXo4ci10TUtuZDR5dXQ0QUVxZw?oc=5",
-      "source": "AOL.com",
-      "published": "2026-07-01"
-    },
-    {
       "title": "Interest In South Bays Luxury Housing Market Soars After SpaceX IPO: Report - Patch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFhwU0NRaGMwa2ZXajB3SzFBalRUUGhXWUs4X0QxNmJpNFp2MGlWRXFUR2poX0t2c1pEME9ydGFLLU5XdFVZLTRVMm9OVzhrUDJKMmY0eGM3YjMtbzBqYThwTmdMYkJiYUJtNDdCeVA1OXRkN1dVc2xPRmxPcGZVWkxFNmdkNWgzckpZdlRQQVFaUmxwWlBZV09lRldDc3pSbzRuc3JhWmFURkVCcFRMTzRR0gHHAUFVX3lxTE5pbHA0dEQ3eWZHWmVUQ2wzRXNTTTdzR3kwaHdENy1zc3ltMElHU0ZtR015Ujh1SGRkcEpDNW15VWZqMW1QZmlzdnhJN09rRmJtdE1SRGNSbzVIdWcwMk9pU284Wm9qNVR1ZGlFYUpOUEItcVh3V0Y2eWJPYVRUUG5hWGM1dHFBWWF5dWNwZ0JLOFhaZ3NScEZDVUJ0eE1sQklaeWJyekdDeVZFb2lORzhueEhtdERfTzlzZ0p5aWJoR083R2NHN2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWxwNHREN3lmR1plVENsM0VzU003c0d5MGh3RDctc3N5bTBJR1NGbUdNeVI4dUhkZHBKQzVteVVmajFtUGZpc3Z4STdPa0ZibXRNUkRjUm81SHVnMDJPaVNvOFpvajVUdWRpRWFKTlBCLXFYd1dGNnliT2FUVFBuYVhjNXRxQVlheXVjcGdCSzhYWmdzUnBGQ1VCdHhNbEJJWnlicnpHQ3lWRW9pTkc4bnhIbXREX085c2dKeWliaEdPN0djRzdn0gHHAUFVX3lxTE5pbHA0dEQ3eWZHWmVUQ2wzRXNTTTdzR3kwaHdENy1zc3ltMElHU0ZtR015Ujh1SGRkcEpDNW15VWZqMW1QZmlzdnhJN09rRmJtdE1SRGNSbzVIdWcwMk9pU284Wm9qNVR1ZGlFYUpOUEItcVh3V0Y2eWJPYVRUUG5hWGM1dHFBWWF5dWNwZ0JLOFhaZ3NScEZDVUJ0eE1sQklaeWJyekdDeVZFb2lORzhueEhtdERfTzlzZ0p5aWJoR083R2NHN2c?oc=5",
       "source": "Patch",
       "published": "2026-06-30"
     },
@@ -24,6 +18,12 @@
       "title": "3754 Mountain View Ave, Los Angeles, CA 90066 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXRiZWNLSkE4YmV0c1BreklzZTBOMmN6cERsT3lkSGxnMU9UczdBTG9FaktsejhFQUhQUjhzeHMtSTFPOUpVUXhhMlV4N215c0loZ1oxaWs1RDIxaHQ2R2tfeUpNb2RFdkk3Ulo1TV9aWXJHMWRIU3MxNE5vTTFyNnhwclloN0ZCenZhZU5xamJNZ0NLQzFxaUx0NW8?oc=5",
       "source": "Realtor.com",
+      "published": "2026-06-30"
+    },
+    {
+      "title": "Interest In SoCals Luxury Housing Market Soars After SpaceX IPO: Report - Patch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1VaaVBhTjlMTzh0YnU1MXVXbXV2UV9mOUREcTVKa3RIVlhzWnl3VFRmemN5bTJuRHZGWnY1WUhFZUpleTJuVWJyZHgxSTJzLS1GRzVvc1U3SVllR2ZOaVRYdTNtbXdULUh6NFRYN3p2RllaWjRPM0xWVmIzdHRuRWZXaWliNi1OQXhibGdKTE5sRTFSYW8xX0oxRDNfUGgzZTZEcGVCeUFxRzQ50gHCAUFVX3lxTE8tLTlSMDQzMzZudWJRYjJRcTBKMkh2YjlVWE1uNl9qNVZ4bzRJd1pXT215SERMTTBEZGstS0pXZllhUVNROEltQnBERTl1MUhpUjE2UVFzcWpQQlZsbjAzb3Z3SllVems0VnlsVlkwZ1R2OEduYmlOQzE2bjRmT2R0bUN0ajRCUGc2Zzc1LTFtd3RyRHd2TUNOUkRWSVNDTVpRYzkwR3FNQk9NWXljNkVTZXgyMWdpT2IxdU5RcmxEYXFB?oc=5",
+      "source": "Patch",
       "published": "2026-06-30"
     },
     {
@@ -51,28 +51,28 @@
       "published": "2026-06-29"
     },
     {
-      "title": "Cities With the Fastest-growing Home Prices in Hawaii - Stacker",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDVNdnpNZVQtVVNtaXFJWGNqZVNQaWJSTjBGckVaSTlFUWtVcE10anloeVlLTHZRWXcwVnpMZDFuYnU2WU80d0VDN1F0OUllcExnX1RadE1pV044NXF1Nzd3MkZCZUNwcGhwQWUta2EzbDYwYlh6Smc3ejRuZ2hHd2JB?oc=5",
+      "title": "Florida Trend Real Estate News - Florida Trend",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02WXRPVUFHVnowZlEyVGFKRXBheThMeGpoVHpWazZIVWpweTE1X1ZxS2ozVWpnNWVnZVJocVpOMG4yUTkwLTNKYjBCOUJHV1V1Wmc?oc=5",
+      "source": "Florida Trend",
+      "published": "2026-06-29"
+    },
+    {
+      "title": "SpaceX IPO sparks race for luxury housing in Southern California - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUEdPRF9GbU1pMmhfcVNPcDlEU1l6bVpXdzQ5Ml9iSUpKTXFUbVotbGJfbFZCNVdJeWFPTzBnSGlHMTVHaHpjWER0YkxsS0czQ01VRV9iZmo1RnFlLVNWa0YtUnRiUUkwOGRURXo4ci10TUtuZDR5dXQ0QUVxZw?oc=5",
+      "source": "AOL.com",
+      "published": "2026-06-29"
+    },
+    {
+      "title": "Cities With the Fastest-growing Home Prices in California - Stacker",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdC0zekw2X05OS0xUQ1RWTGh6ZGlYb0JQNm41ekZvbnFjMG9lZjcyNktpN3FobG0zRTJmRDVIYWtfVHpXZFFTVkNDS2ozZEg2VF8wVjlpLTItaU9RMGQtdXE0XzkzY2QxSVJWUDRqbzVRRDJtVGlYYkNQOXFDOFRrU1dpRHNYVnkydDVMeQ?oc=5",
       "source": "Stacker",
       "published": "2026-06-29"
     },
     {
-      "title": "Mountain View at Rocking K - Mountain View Inspiration Community - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmtxYlkzSkpEcEZ2OVZtVTRaRjNma1pITWw3cE45anN5WkF1bEZXNnBBbjNEUjRSUFRDMUpIN2JDNGdxVTNYX2RaLWhGRnA2QVVGNEdlcWVfdXcxZzZjRWFOYVgxQ3ZnbzI5dUlORFFqUzB3dS0zcUJrd084UTdIczJDSVAtdjBaeHhLOW5vQzdpUVplb0lLMU5fM0V1amcxQkJnNWJtb2tjbF9kcmpBZktCeUdmeEJCLXc2S0tOLXBtTGRqQXZwa2E2VE95cUhVQWZzZ2FOdGlMQ3ZTOVE?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-06-27"
-    },
-    {
-      "title": "Omar Isac Arellano Obituary (2026) - Sunnyvale, TX - New Hope Funeral Home - Sunnyvale - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnpIMENGV2hNTU1uUEE5djR0NWp6OWkxY2M1b1Z3dUhsUmhQclNQcF9DLUlBZ3lFNWlpT19WWjFPZXBWR3VCa21Ib3p1Qmh4NHk0bVBYU005alpIaU9sdUN3ZDUyX2I4eG5XYVhaZEgzdG5SRkwta1lXMnF6YkJaa0ZR?oc=5",
-      "source": "Legacy obituary",
-      "published": "2026-06-27"
-    },
-    {
-      "title": "Holland buys San Jose apartments for $1M over 2018 price - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1lsYmdRQWhNb3FNaDJab0NUSU9XWVJ3WHVPWWt4TUwyMmFaNi14S2czdTU2azFwSmZERXBOYWZKT0VnbkRWWnNieEFtUzRuaENiSGhSUktGT2ZibVFrT1R6V0JGV256MGxvNVJYb1pBY1pwcUpDUGFvWVVWTVF5N2NpU3FVNFgwOS03QTdyOUx2dFRmMUFrUXdxYnBQOWVDdnFCc21ENUNCNUYtSFE?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-06-26"
+      "title": "Cities With the Fastest-growing Home Prices in Hawaii - Stacker",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDVNdnpNZVQtVVNtaXFJWGNqZVNQaWJSTjBGckVaSTlFUWtVcE10anloeVlLTHZRWXcwVnpMZDFuYnU2WU80d0VDN1F0OUllcExnX1RadE1pV044NXF1Nzd3MkZCZUNwcGhwQWUta2EzbDYwYlh6Smc3ejRuZ2hHd2JB?oc=5",
+      "source": "Stacker",
+      "published": "2026-06-29"
     }
   ]
 }
