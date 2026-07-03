@@ -1,61 +1,11 @@
 {
-  "updated": "2026-07-02T15:17:37.991Z",
+  "updated": "2026-07-03T15:12:46.897Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 6.49,
-      "unit": "%",
-      "good_when": "down",
-      "changes": {
-        "7d": {
-          "delta": 0.02,
-          "direction": "up"
-        },
-        "14d": {
-          "delta": -0.03,
-          "direction": "down"
-        },
-        "30d": {
-          "delta": -0.02,
-          "direction": "down"
-        },
-        "60d": {
-          "delta": 0.26,
-          "direction": "up"
-        }
-      }
-    },
-    {
-      "key": "mortgage15",
-      "label": "15-Yr Fixed Mortgage",
-      "value": 5.84,
-      "unit": "%",
-      "good_when": "down",
-      "changes": {
-        "7d": {
-          "delta": 0.03,
-          "direction": "up"
-        },
-        "14d": {
-          "delta": 0,
-          "direction": "flat"
-        },
-        "30d": {
-          "delta": -0.01,
-          "direction": "down"
-        },
-        "60d": {
-          "delta": 0.26,
-          "direction": "up"
-        }
-      }
-    },
-    {
-      "key": "dgs10",
-      "label": "10-Yr Treasury Yield",
-      "value": 4.44,
+      "value": 6.43,
       "unit": "%",
       "good_when": "down",
       "changes": {
@@ -64,15 +14,65 @@
           "direction": "down"
         },
         "14d": {
-          "delta": 0.01,
-          "direction": "up"
+          "delta": -0.04,
+          "direction": "down"
         },
         "30d": {
-          "delta": -0.01,
+          "delta": -0.1,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.05,
+          "delta": 0.13,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "mortgage15",
+      "label": "15-Yr Fixed Mortgage",
+      "value": 5.79,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": -0.05,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -0.02,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": -0.08,
+          "direction": "down"
+        },
+        "60d": {
+          "delta": 0.15,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "dgs10",
+      "label": "10-Yr Treasury Yield",
+      "value": 4.48,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": 0.07,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": -0.01,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": 0.01,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.09,
           "direction": "up"
         }
       }
@@ -155,25 +155,25 @@
     {
       "key": "listprice",
       "label": "Median List Price (South Bay Metro)",
-      "value": 1398000,
+      "value": 1385000,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -500,
+          "delta": -13000,
           "direction": "down"
         },
         "14d": {
-          "delta": -500,
+          "delta": -13000,
           "direction": "down"
         },
         "30d": {
-          "delta": -500,
+          "delta": -13000,
           "direction": "down"
         },
         "60d": {
-          "delta": 33000,
-          "direction": "up"
+          "delta": -13500,
+          "direction": "down"
         }
       },
       "format": "usd"
@@ -181,24 +181,24 @@
     {
       "key": "newlistings",
       "label": "New Listings (South Bay Metro)",
-      "value": 1492,
+      "value": 1234,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -140,
+          "delta": -258,
           "direction": "down"
         },
         "14d": {
-          "delta": -140,
+          "delta": -258,
           "direction": "down"
         },
         "30d": {
-          "delta": -140,
+          "delta": -258,
           "direction": "down"
         },
         "60d": {
-          "delta": -218,
+          "delta": -398,
           "direction": "down"
         }
       }
@@ -206,24 +206,24 @@
     {
       "key": "inventory",
       "label": "Active Listings (South Bay Metro)",
-      "value": 2199,
+      "value": 2212,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": 180,
+          "delta": 13,
           "direction": "up"
         },
         "14d": {
-          "delta": 180,
+          "delta": 13,
           "direction": "up"
         },
         "30d": {
-          "delta": 180,
+          "delta": 13,
           "direction": "up"
         },
         "60d": {
-          "delta": 474,
+          "delta": 193,
           "direction": "up"
         }
       }
@@ -231,24 +231,24 @@
     {
       "key": "dom",
       "label": "Median Days on Market",
-      "value": 29,
+      "value": 37,
       "unit": " days",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 1,
+          "delta": 8,
           "direction": "up"
         },
         "14d": {
-          "delta": 1,
+          "delta": 8,
           "direction": "up"
         },
         "30d": {
-          "delta": 1,
+          "delta": 8,
           "direction": "up"
         },
         "60d": {
-          "delta": 5,
+          "delta": 9,
           "direction": "up"
         }
       }
