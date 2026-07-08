@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-07T15:43:49.067Z",
+  "updated": "2026-07-08T15:23:13.032Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "San Francisco rent tops $4,000 amid AI hiring boom and Bay Area housing shortage - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDVsRVFfZ0E5S0k0OTBvZ3J3ZlRmVFFnRzB2MlNDWDBMd2N2a2pRSGNKbWZBcGJCRFA2Ykh3dlhOV0xOczF5NEs3b3hzT2xIeG9uTWhta2ZuakltVkRVczFsbmg0UDJsbnRjUHlJMTQ1TDc3LUFWQnRwcm5Vd3lIX9IBiAFBVV95cUxNVDdLUVhwTDdnS1Jxd3ZNenAtSURXdThrN0ZTMVA1Y3lIZUV5UGxFNnBrQU11aXljdTlLN3Z0UjFjNDI5QW5zcld5NEdoUXA0NVM1dzZxVl9VMVpYUGlwRXdJTWxGY1RialFQOEtHMHNMNjVEV290YjdTLWFNX1Yzb3V3WmZ0VDFm?oc=5",
+      "source": "NBC Bay Area",
+      "published": "2026-07-08"
+    },
+    {
+      "title": "California’s first ADU condo sale offers cheaper path to homeownership in San Jose - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNEF2NXFIZFpEa2tFSEo1QW5jNms1b1dVWkJKcjBTbExVUmRJcUtka1RHRGNSWDk4U2NWZTRNZEZZWTEzVW5wNkxkVzh3RVBIQ1V6MldfOWRPWWpDSVhhYmMtbWpzRmJweGJlWUswUGY5ZEQ1anh4TTdNUmYtR2NYMEc2LTZQWnIzWG1VanhFalItNlMtRWJlUUNoWGVQUFZxRjd0WWduMm5RVmpOVmwxYXJmUGpwOWdxMy16OFZ4ZzZGajly0gHEAUFVX3lxTFA0QXY1cUhkWkRra0VISjVBbmM2azVvV1VaQkpyMFNsTFVSZElxS2RrVEdEY1JYOThTY1ZlNE1kRllZMTNVbnA2TGRXOHdFUEhDVXoyV185ZE9ZakNJWGFiYy1tanNGYnB4YmVZSzBQZjlkRDVqeHhNN01SZi1HY1gwRzYtNlBacjNYbVVqeEVqUi02Uy1FYmVRQ2hYZVBQVnFGN3RZZ24yblFWak5WbDFhcmZQanA5Z3EzLXo4VnhnNkZqOXI?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-07-07"
+    },
+    {
+      "title": "Chunk of East Bay shopping mall is bought by local real estate groups - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3BYVzM0djlqb252QUxqUjRMRm9PSDBkWjYyOXJhVmxIU1pGQVZYZGF3WFVDVzlfVXg2a3lRUC1ldmRDb2tGMFBibXR2eWwyYkdrenVTY2pnbWViUmVzd2daYjFseHJFVE5YUUdDTU1NQTZQQlU1Tl9IaEFLYXZ5YUNmTkFtcmY0SUNrREV1WmRnNXVSaGRhb3gteTVpUVk1MlVOZzQyQW9hWmduVFZPOHNn0gGyAUFVX3lxTE13cFhXMzR2OWpvbnZBTGpSNExGb09IMGRaNjI5cmFWbEhTWkZBVlhkYXdYVUNXOV9VeDZreVFQLWV2ZENva0YwUGJtdHZ5bDJiR2t6dVNjamdtZWJSZXN3Z1piMWx4ckVUTlhRR0NNTU1BNlBCVTVOX0hoQUthdnlhQ2ZOQW1yZjRJQ2tERXVaZGc1dVJoZGFveC15NWlRWTUyVU5nNDJBb2FaZ25UVk84c2c?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-07-07"
+    },
+    {
+      "title": "SpaceX IPO sparks race for luxury housing in Southern California - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUEdPRF9GbU1pMmhfcVNPcDlEU1l6bVpXdzQ5Ml9iSUpKTXFUbVotbGJfbFZCNVdJeWFPTzBnSGlHMTVHaHpjWER0YkxsS0czQ01VRV9iZmo1RnFlLVNWa0YtUnRiUUkwOGRURXo4ci10TUtuZDR5dXQ0QUVxZw?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-07"
+    },
     {
       "title": "Commercial real estate woes weigh on Santa Clara County property values - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXpxMy1wY3lHSy04eHllY1I4WGs2YUNDSE5TQkRVbW5LZDhIZnZibWJ5aVF5UDJodlFuNW9OOXpFaFU4R1FpaENxZTBsenN0aWRoeUo1b3h4b1ZDQmZ3eGFlUDFhbmtVeXNJOG9RRHNSMUQ2NWg1RDdSaE9ZclZfY2M1OHFNUzZwRDFHd2NMZDE2THZSVEVpT2VsWkJfZG1sNDJleUlXVGx4Q084R2xB0gG0AUFVX3lxTE5TZXh4RDFJV0xYQlY2RnY0RzZ1SlRocFpocjU3VWcyaDBiMFpxVmsxQXFUaEdrZGNnWVRBVloxWU5uVC1UQkRyV182aEx3TjBiSTQtem45UE1QMVJCQjRPREd6dFpqT3FEVUl0VW1kaGdkclpBS3ptT0xIcWFCVWJ1QkRFODFMblc5bzY1UWZVOFBXNWJZMEk0NWhTMnZ4akhSa3JramJKTUpJWkdocHdWQ2tWUQ?oc=5",
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkRXMy04V0pkUEs3czdSMml2MXBaaU5pVV9rUS1uUzhsM2tqakRCUGVJVjVhRWZxbUdGZThzWndRQzZoUVltLTN1eFlyMmNmYUJPb2Nad0RndFo1eGFnRG1HRU1pSUhSdTVqZWxLNlVqbUVUTE9RUFRPRFNzdXROT1R3Q21EY21KcVJEeVktSF9xdmY3cWdwMXBuVHJIWk0?oc=5",
       "source": "CBS News",
       "published": "2026-07-02"
-    },
-    {
-      "title": "‘People will pay anything’: Why SF rents are breaking records this summer - The San Francisco Standard",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zS2hoT1BOa2NmSFpvc0puS2d3N0F0WUZoTV95Rm1fN19xR0NxM0ZMTmJhSzNlUEtJU0huV2kzZnJpX0EyaFZ2RkVpOG1vVElkeGM3dmxQNnVCWFM2cU1DY3AycXhDV3I3UUJoWHpLck8?oc=5",
-      "source": "The San Francisco Standard",
-      "published": "2026-07-02"
-    },
-    {
-      "title": "Housing plans in pricey Saratoga get lift from $100 million-plus deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWndHZmFSZzdtTGhSUTRCcEFzVV90UTBGNnFBSnE4YWtzQ0Flc1lxQ1hVWHNfM2Z3SzhuQmExcEZleEt5dDVZaHhnNkVrVjNRb2w5S25ib0xKNFktWFRoekIwRHdOVldyWFhaU0dRTnNTUi1nMElYZDdsM3M4NGxsc1N4X0NoZ2ZHSkFZTzVRZWlxNHRETW9xeEw5N3BZbFVGRllTMHltN003MknSAbABQVVfeXFMT0tlNWtoVF9BMGNTTmFsdmNDazRBeE1KUWpSYW5rSk80TU9URnVFWWJMYXBaUXA3ejh0bHpSVGNhXzJkZlFNNk9TQ2I0aEhneGROVVdRRjAxZVdfOEVvNEx6SGhmYlBYNlhEUG1vT0w0ZHdaRUdHRDNJVkZ5RVBuX2taa2QxTlBCTlRkYzJfamNhbXBQV1Iyc09ISWZ0RkdYY1lLOUlsQWp4NGZadE42TVk?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-02"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-07-01"
-    },
-    {
-      "title": "Prologis scoops up vacant industrial site in San Jose - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekttSGhOdWw5TkNETUhYcHhJVnR6bHZmZFpyMnRib19HNEIxSkUtRmhOUkgwbXBHMDJfYUZucE5fMEdtVlI3M2lzOUtYMG4zNGF0ektKTjFHd2NSdW5ab2o4UlR6eUN0VGt2bTVncWVFeWxEMkswOFh0TzRFZTY2ZU5tM1hZOHExeWwxN0tMMFMzaUJKU0JVdjJtYw?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-07-01"
     }
   ]
 }
