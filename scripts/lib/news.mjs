@@ -12,6 +12,25 @@ const MAX_AGE_DAYS = 56;
 
 const PRIORITY = ['san jose', 'santa clara', 'sunnyvale', 'mountain view', 'bay area', 'silicon valley', 'south bay'];
 
+// A relevant title must contain at least one Bay Area anchor...
+const ANCHORS = [
+  'san jose', 'santa clara', 'sunnyvale', 'mountain view', 'silicon valley', 'bay area',
+  'south bay', 'palo alto', 'cupertino', 'campbell', 'milpitas', 'saratoga', 'los gatos',
+  'morgan hill', 'gilroy',
+];
+// ...and none of these false-positive markers (SoCal "South Bay", other states, non-news).
+// Guards against e.g. SpaceX/SoCal luxury stories, "Mountain View Ave, Los Angeles",
+// "Sunnyvale, TX" obituaries, "Home Prices in Hawaii", and encyclopedia entries.
+const EXCLUDE = [
+  'spacex', 'socal', 'southern california', 'los angeles', 'texas', ' tx', 'hawaii',
+  'obituary', 'encyclopedia', 'britannica', 'arizona', 'tucson', 'new mexico', 'florida', 'nevada',
+];
+const relevant = (it) => {
+  const t = it.title.toLowerCase();
+  if (EXCLUDE.some((x) => t.includes(x))) return false;
+  return ANCHORS.some((x) => t.includes(x));
+};
+
 const tag = (block, name) => {
   const m = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`, 'i'));
   return m ? m[1].trim() : '';
@@ -65,13 +84,15 @@ export async function fetchNews(limit = 12) {
       all.push(it);
     }
   }
+  // Drop off-topic matches (SoCal / other states / non-news), keep genuine South Bay items.
+  all = all.filter(relevant);
   // Keep only the past 8 weeks.
   const cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - MAX_AGE_DAYS);
   const cutoffIso = cutoff.toISOString().slice(0, 10);
   all = all.filter((it) => !it.published || it.published >= cutoffIso);
-  // Most recent first, then by South Bay relevance.
-  all.sort((a, b) => (a.published < b.published ? 1 : a.published > b.published ? -1 : 0) || score(b) - score(a));
+  // Most South Bay-relevant first, then most recent.
+  all.sort((a, b) => (score(b) - score(a)) || (a.published < b.published ? 1 : a.published > b.published ? -1 : 0));
   if (!all.length) throw new Error('No news items parsed');
   return { updated: new Date().toISOString(), source: 'Google News RSS', items: all.slice(0, limit) };
 }

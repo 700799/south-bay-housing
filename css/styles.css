@@ -143,14 +143,8 @@ table.indicators { width: 100%; border-collapse: collapse; min-width: 880px; }
 .trend-desc { color: var(--slate); font-size: .85rem; margin: 0; }
 .trend-context { color: var(--slate); font-size: .9rem; font-style: italic; margin: 16px 0 0; }
 
-/* News carousel */
-.carousel { position: relative; }
-.carousel-track { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; padding: 4px 2px 10px; scrollbar-width: thin; }
-.carousel-track > .news-item { flex: 0 0 320px; scroll-snap-align: start; }
-.carousel-btn { position: absolute; top: 38%; transform: translateY(-50%); width: 42px; height: 42px; border-radius: 50%; border: 1px solid var(--line); background: #fff; color: var(--navy); font-size: 1.6rem; line-height: 1; cursor: pointer; box-shadow: var(--shadow); z-index: 2; display: grid; place-items: center; }
-.carousel-btn:hover { border-color: var(--gold); color: var(--gold-dark); }
-.carousel-btn.prev { left: -8px; }
-.carousel-btn.next { right: -8px; }
+/* News grid (static — all articles shown) */
+.news-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 
 /* Filters + sold homes */
 .filter-group { margin-bottom: 16px; }
@@ -343,7 +337,6 @@ body.drawer-open { overflow: hidden; }
   .stat-tiles { grid-template-columns: repeat(2, 1fr); }
   .calc-inputs .calc-row, .valuation-form .calc-row { grid-template-columns: 1fr; }
   .calc-total { font-size: 2.1rem; }
-  .carousel-btn { display: none; }
-  .carousel-track > .news-item { flex: 0 0 86%; }
+  .news-grid { grid-template-columns: 1fr; }
   .section { padding: 48px 0; }
 }

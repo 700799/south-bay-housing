@@ -38,14 +38,6 @@
       if (panel) panel.classList.add('active');
     }));
 
-    // News carousel arrows (mobile users just swipe)
-    const track = document.getElementById('newsGrid');
-    const scrollBy = () => Math.max(260, Math.round((track ? track.clientWidth : 300) * 0.85));
-    const prev = document.getElementById('newsPrev');
-    const next = document.getElementById('newsNext');
-    if (track && prev) prev.addEventListener('click', () => track.scrollBy({ left: -scrollBy(), behavior: 'smooth' }));
-    if (track && next) next.addEventListener('click', () => track.scrollBy({ left: scrollBy(), behavior: 'smooth' }));
-
     // Hub card live-stat helpers
     const setStat = (id, html, live) => window.setCardStat && window.setCardStat(id, html, live);
     const usdShort = (v) => {
