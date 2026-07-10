@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-09T15:57:39.218Z",
+  "updated": "2026-07-10T15:32:40.341Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Mountain View: 242 houses in Mossel Bay still empty after almost 4 years - Mossel Bay Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFhsZVRveC1mRVk3Z05FQ0JvdmYtN1lMOFBvUFVzanZPeHlaQWsxWjZGaTY5dV8tZEVMR1cxVDlhU2pGNlZhTVh4cnRacVZkUnpRMFE0QmJpNDFNMEE4OFd2a181TjhLMEtyekZITERkMkN0UFhEQ09YYkZfekdwUTZVRGctVXFIdjhIT0hLVlI5ZHptbDM1blpncmFKZVpjd3ptZC1JaGVNV1EydFRRVXBhM1lTZEljZW5od090U1pNbmVDZU9aWDRza2VETFFLMGtkbzdjSzlUYmdP?oc=5",
+      "source": "Mossel Bay Advertiser",
+      "published": "2026-07-10"
+    },
+    {
+      "title": "Mountain View sees slowest property value growth in Santa Clara County - Mountain View Voice",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTk9zYU9NcTIxb1ZTSmtCaTFWenR6Z3lKZjB1aEphZGJsX0NKazBGTnNjYld0LUxfd1ZWcTBKQ3dJRC1oaV9xd1hXSXoxZVZCdkcxRE9Qa0xLaU5ad1NSUlZ4YTdmVmFNYWpMWlJYanNXTW9ycnR5dnJvYjFVN3JWSkJzV2tUdXcxMFhyQkxpUFBLdFZHVkFlaDNORDNqTnhvWHJXOGRTa0VFNTgw?oc=5",
+      "source": "Mountain View Voice",
+      "published": "2026-07-09"
+    },
+    {
+      "title": "The 10 Counties With the Highest Property Taxes in California - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUIxWURQSzBPVHEtZ0JsbVZHVFljVnVVdkRSeXNZdGFtdlp5QVJnTHp1OXRabFNWTWU1eVl1VW40ZTNYR2ZVOXFXVG1DaFhTU0hsZW5yN19hbFlaUXhTYThUSEFDVUZSeHBhREVIN2VIb1R6b3V0bXZvYXdzaEZITmZ3Ync?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-09"
+    },
     {
       "title": "San Francisco rent tops $4,000 amid AI hiring boom and Bay Area housing shortage - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDVsRVFfZ0E5S0k0OTBvZ3J3ZlRmVFFnRzB2MlNDWDBMd2N2a2pRSGNKbWZBcGJCRFA2Ykh3dlhOV0xOczF5NEs3b3hzT2xIeG9uTWhta2ZuakltVkRVczFsbmg0UDJsbnRjUHlJMTQ1TDc3LUFWQnRwcm5Vd3lIX9IBiAFBVV95cUxNVDdLUVhwTDdnS1Jxd3ZNenAtSURXdThrN0ZTMVA1Y3lIZUV5UGxFNnBrQU11aXljdTlLN3Z0UjFjNDI5QW5zcld5NEdoUXA0NVM1dzZxVl9VMVpYUGlwRXdJTWxGY1RialFQOEtHMHNMNjVEV290YjdTLWFNX1Yzb3V3WmZ0VDFm?oc=5",
@@ -15,15 +33,21 @@
       "published": "2026-07-07"
     },
     {
+      "title": "California’s first ADU condo sale offers cheaper path to homeownership in San Jose - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNEF2NXFIZFpEa2tFSEo1QW5jNms1b1dVWkJKcjBTbExVUmRJcUtka1RHRGNSWDk4U2NWZTRNZEZZWTEzVW5wNkxkVzh3RVBIQ1V6MldfOWRPWWpDSVhhYmMtbWpzRmJweGJlWUswUGY5ZEQ1anh4TTdNUmYtR2NYMEc2LTZQWnIzWG1VanhFalItNlMtRWJlUUNoWGVQUFZxRjd0WWduMm5RVmpOVmwxYXJmUGpwOWdxMy16OFZ4ZzZGajly0gHEAUFVX3lxTFA0QXY1cUhkWkRra0VISjVBbmM2azVvV1VaQkpyMFNsTFVSZElxS2RrVEdEY1JYOThTY1ZlNE1kRllZMTNVbnA2TGRXOHdFUEhDVXoyV185ZE9ZakNJWGFiYy1tanNGYnB4YmVZSzBQZjlkRDVqeHhNN01SZi1HY1gwRzYtNlBacjNYbVVqeEVqUi02Uy1FYmVRQ2hYZVBQVnFGN3RZZ24yblFWak5WbDFhcmZQanA5Z3EzLXo4VnhnNkZqOXI?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-07-07"
+    },
+    {
       "title": "Chunk of East Bay shopping mall is bought by local real estate groups - East Bay Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3BYVzM0djlqb252QUxqUjRMRm9PSDBkWjYyOXJhVmxIU1pGQVZYZGF3WFVDVzlfVXg2a3lRUC1ldmRDb2tGMFBibXR2eWwyYkdrenVTY2pnbWViUmVzd2daYjFseHJFVE5YUUdDTU1NQTZQQlU1Tl9IaEFLYXZ5YUNmTkFtcmY0SUNrREV1WmRnNXVSaGRhb3gteTVpUVk1MlVOZzQyQW9hWmduVFZPOHNn0gGyAUFVX3lxTE13cFhXMzR2OWpvbnZBTGpSNExGb09IMGRaNjI5cmFWbEhTWkZBVlhkYXdYVUNXOV9VeDZreVFQLWV2ZENva0YwUGJtdHZ5bDJiR2t6dVNjamdtZWJSZXN3Z1piMWx4ckVUTlhRR0NNTU1BNlBCVTVOX0hoQUthdnlhQ2ZOQW1yZjRJQ2tERXVaZGc1dVJoZGFveC15NWlRWTUyVU5nNDJBb2FaZ25UVk84c2c?oc=5",
       "source": "East Bay Times",
       "published": "2026-07-07"
     },
     {
-      "title": "SpaceX IPO sparks race for luxury housing in Southern California - aol.com",
+      "title": "SpaceX IPO sparks race for luxury housing in Southern California - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUEdPRF9GbU1pMmhfcVNPcDlEU1l6bVpXdzQ5Ml9iSUpKTXFUbVotbGJfbFZCNVdJeWFPTzBnSGlHMTVHaHpjWER0YkxsS0czQ01VRV9iZmo1RnFlLVNWa0YtUnRiUUkwOGRURXo4ci10TUtuZDR5dXQ0QUVxZw?oc=5",
-      "source": "aol.com",
+      "source": "AOL.com",
       "published": "2026-07-07"
     },
     {
@@ -33,20 +57,14 @@
       "published": "2026-07-06"
     },
     {
-      "title": "Bay Area Hotel Market Recovering, But Distress Still Looms - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWJDR1RjV0M5aGt6MmNVVWZpQV9FeVpUUTFnbVRtWmNjTjViamNkMXE2eTYybVRrTDFBbHZadE9rQThGWFZ2VEhWQ1pqR3poaTRxRTJueFhlWjVFMjZVbnBVRjI4cC13ckgwLTk0UkhFU0ZjSExSQ1hxQy0tOEd6RE9XbGhXa0l2LVJxc0RhUEcxeGYzVFI2akFob0JQUFA3dTVfTnFhTmdCTEsy?oc=5",
-      "source": "Bisnow",
-      "published": "2026-07-06"
-    },
-    {
       "title": "Florida Trend Real Estate News - Florida Trend",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02WXRPVUFHVnowZlEyVGFKRXBheThMeGpoVHpWazZIVWpweTE1X1ZxS2ozVWpnNWVnZVJocVpOMG4yUTkwLTNKYjBCOUJHV1V1Wmc?oc=5",
       "source": "Florida Trend",
       "published": "2026-07-06"
     },
     {
-      "title": "What’s ahead for Brisbane’s property market? - Property Update",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TWV9TeDg2Njh2dXR4eGVmMDNzVVNudXI5YXJaVTZ4a1VyaTV5dDZGcDVzcm1tNUdDSU1FRjdTbUlyeWFRWTVQcjBHdE1hQmhLX1pSWVAtcXdYQU5zc2xlVm9fVHh5dUN1Zm16MmY4N2hGdlhoR1pF?oc=5",
+      "title": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction - Property Update",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90RlgtODZENjZyYkoxdTcxN3JRWi04akllOG9vZ3FOaDJwZG9TbWRwM1drOGJsZVZpc3NFZ1VRRllPNGFsM285Nkt6NTluLUJMNmszVi1ZcTZVc1ZrbWttMmZ3V1EwQ2RhX3BnTV95RkNYWUtOenktNA?oc=5",
       "source": "Property Update",
       "published": "2026-07-06"
     },
@@ -55,24 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1ZoRmpaXzc5VnF4bVJuWE9ZSlNKUmFVcV9XLTZJdVVyR2dOdGxwNHdCeU9QN2I3Z3dRd0ZPb3ljaWw2S3JmQzRzNG96b1o4TzVDZzlNUU1NeEV3V3dKUWhKc2VLbkRhRklXNHFaeV9IcXBJdEt1WS1VbXVXQW9YM2FWMlpHMWdYRGlkbm5DNnhCRWdScGlHRXpvS0NHbGttY2tuVEdqTXNTd0tJTzJoOTFtSV93V011Ym5peEluUUFlTGlZSkVrZmNRbVdQcjN6bHdMNVVNMEJBdw?oc=5",
       "source": "MSN",
       "published": "2026-07-05"
-    },
-    {
-      "title": "Interest in South Bay's luxury housing market soars after SpaceX IPO: Report - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd041OEdiYkZJX3hJOWVrZmVwY0JLdm03WWdib0U2UXBQZWh1Y2xGYThkVmhEQ0dPbGk5am5aWkJTejBaUlZrMTFITVNVVDdibTRPVGQzcjRpcjBYMDRNMHloQ1RMMjlFcEU4Wk9JdWR3dmFZU29waDFwNDVlbkdnZ0RVb1RMdE9TZ1NFMWU0OVUtQmZtZkJQa0l2eERQNm5pblhCRjUtc0Y5QWJuQUNHc1lZbms1VThTVkFNd2JJR3Z4bl9fV09mWEdlMDFEVjlaSjBfczVjVWJidWNsSXNmSjdTakM?oc=5",
-      "source": "MSN",
-      "published": "2026-07-04"
-    },
-    {
-      "title": "It’s not just S.F. anymore — rents are rising across the Bay Area - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODBjUnNxQjRLZDdxMjhEN3gtOHBBWXVrbmlmVnEzemYwRmwwTnRabXpTQ1NsYXQ0blVvc285NVBxcHhaZFFnblA3ZlNZbmxYOWxpS1NCMDRhcDA2TUlEVHlyNWVtYXdVb1RMNHl6UDFJVUxQWllXYVRpZWVUc1ZiWWU0VmNPb2JQTWk3cUp0SE43QQ?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "2026-07-03"
-    },
-    {
-      "title": "AI is fueling a shocking new trend in San Francisco real estate - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpnaHdvMkQtOVFvalY2Ti0yMndoTXEwY3BMb0Z3TjFIMHBKMUk5d0xsMFRRSC1GT2xPYU9oZ3M0UWMwMW9aa2I0SW9lQkU4eEVWR0hxWlVpZXdoRWxuNGs4c2JBeHd0NmcyRUtkOTdFNFIyN1Bqai1QRW1tWVJFay1QZHFXZFE?oc=5",
-      "source": "SFGATE",
-      "published": "2026-07-03"
     }
   ]
 }

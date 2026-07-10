@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-09T15:57:38.252Z",
+  "updated": "2026-07-10T15:32:39.336Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 6.43,
+      "value": 6.49,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.06,
-          "direction": "down"
+          "delta": 0.06,
+          "direction": "up"
         },
         "14d": {
-          "delta": -0.04,
-          "direction": "down"
+          "delta": 0,
+          "direction": "flat"
         },
         "30d": {
-          "delta": -0.1,
-          "direction": "down"
+          "delta": 0.01,
+          "direction": "up"
         },
         "60d": {
-          "delta": 0.13,
+          "delta": 0.12,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 5.79,
+      "value": 5.82,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.05,
-          "direction": "down"
+          "delta": 0.03,
+          "direction": "up"
         },
         "14d": {
           "delta": -0.02,
           "direction": "down"
         },
         "30d": {
-          "delta": -0.08,
-          "direction": "down"
+          "delta": 0.03,
+          "direction": "up"
         },
         "60d": {
-          "delta": 0.15,
+          "delta": 0.1,
           "direction": "up"
         }
       }
@@ -55,16 +55,16 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 4.55,
+      "value": 4.56,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.11,
+          "delta": 0.08,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.05,
+          "delta": 0.15,
           "direction": "up"
         },
         "30d": {
@@ -72,7 +72,7 @@
           "direction": "flat"
         },
         "60d": {
-          "delta": 0.17,
+          "delta": 0.18,
           "direction": "up"
         }
       }
