@@ -1,11 +1,29 @@
 {
-  "updated": "2026-07-10T15:32:40.341Z",
+  "updated": "2026-07-11T14:22:57.448Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Home sales surge in third quarter, price decline slows - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXNKTFFMVUNBaWVOU1lBX01Ca244REQ0YlNyV2lkTjdnNTFCNzhtbDZMV3g5UENzaFV3LUxGaktsYkdPZWdIVkpnLUhrNGN0OW9JdlVnZ0ZYYWx4bHFBTGpWbVFwNTg0aGFXLWNxREdWVUZDcjVtZGFoUVY3b2lKWXA0dDQ0cktiTFZsSWxMSlVYbGtPRTZtOXN0Yw?oc=5",
+      "source": "Yahoo",
+      "published": "2026-07-11"
+    },
     {
       "title": "Mountain View: 242 houses in Mossel Bay still empty after almost 4 years - Mossel Bay Advertiser",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFhsZVRveC1mRVk3Z05FQ0JvdmYtN1lMOFBvUFVzanZPeHlaQWsxWjZGaTY5dV8tZEVMR1cxVDlhU2pGNlZhTVh4cnRacVZkUnpRMFE0QmJpNDFNMEE4OFd2a181TjhLMEtyekZITERkMkN0UFhEQ09YYkZfekdwUTZVRGctVXFIdjhIT0hLVlI5ZHptbDM1blpncmFKZVpjd3ptZC1JaGVNV1EydFRRVXBhM1lTZEljZW5od090U1pNbmVDZU9aWDRza2VETFFLMGtkbzdjSzlUYmdP?oc=5",
       "source": "Mossel Bay Advertiser",
+      "published": "2026-07-10"
+    },
+    {
+      "title": "How The Rich Justify Buying $9+ Million Homes They Barely Use - Financial Samurai",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQURLdnRfakZoRUhfMjE3a0JvM3JvUFpvRE1FcHRVRzVVbmpNSXBmOFE4ZHVJT3VPdDdqVmFRYWJWbzdJLWphVG1pbVQ2VDNkLS1iV0M5UWRyTXB5Tk5VbXVOekw3VThDOUViZEY1ZUFpeXhIRVQ5SmdxdXZ0c2VhMXNOQmVIYWFobnlpT0JXU2czajRHNGZweA?oc=5",
+      "source": "Financial Samurai",
+      "published": "2026-07-10"
+    },
+    {
+      "title": "If you can, why not? The buyers paying for multiple Sydney CBD homes - Brisbane Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczUyWHZCUWZsN1l2cGJtMUo2M0pDemJjX3l1QVB5YUVQVkFrSUREM19RQlZ2UU9qVXNnSmltbjN6QktRS20wOTZOSDhfcVNRejktV0N4clBXZmo4QklLaGRyZmlXVDhzVzNDX1N0TllsX3VzYWpXOVE5MDBQRmE3Z214SlRDckt5c0VKWHM1elFmYVNrelhqOWRkWTlOcEdqaW9GY1BnOEpCZlB6YkZpdHBhR29uVFdDaXhLbVYyTEtpZy1uYk5XM1p0VWxJOW8?oc=5",
+      "source": "Brisbane Times",
       "published": "2026-07-10"
     },
     {
@@ -15,9 +33,9 @@
       "published": "2026-07-09"
     },
     {
-      "title": "The 10 Counties With the Highest Property Taxes in California - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUIxWURQSzBPVHEtZ0JsbVZHVFljVnVVdkRSeXNZdGFtdlp5QVJnTHp1OXRabFNWTWU1eVl1VW40ZTNYR2ZVOXFXVG1DaFhTU0hsZW5yN19hbFlaUXhTYThUSEFDVUZSeHBhREVIN2VIb1R6b3V0bXZvYXdzaEZITmZ3Ync?oc=5",
-      "source": "AOL.com",
+      "title": "Why You Should Buy a House Now - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZa21rbXlpSVl3SEtRRmRtZ095anNPb2xnWWNlcTF0ZnF6aUhST0V2NTVDMTF6ZzJ0UmFrVVd6RnljMnNrRGxxYTBTV1c4bmRWd1Z0RkZ0aDNBcmxQaENDRU91RjR6eTJEMHcwdERWRjg3R3VjVGNV?oc=5",
+      "source": "Yahoo",
       "published": "2026-07-09"
     },
     {
@@ -27,26 +45,20 @@
       "published": "2026-07-08"
     },
     {
+      "title": "Worst of slowdown in housing market activity may be starting to pass – surveyors - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1FuWXhhclZEYUdJTWlCVGVBZ2xTOXBva1lTLWJpdFloRnR2eUJrNTduc3VBVnlKMHlOYVdMTk9DT3c3Y3FGWEp3SWdzVlpCSWJpcHRULTREeFI3ZlV3amlteHNYY0ZsdnhGUWM3V2cya2NGV2Z1dVNfM0piTmw2RVBZWElVYVpOX2ROdg?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-08"
+    },
+    {
       "title": "California’s first ADU condo sale offers cheaper path to homeownership in San Jose - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHJhVEU3OEs2ZDBOc3E4Qkc0VWRsTUdhMXExam1iM0VnR1pNTy1KQVkwbGJJakhZQ0QwMjJBaWpPbm41SlBGdU44U2xWRTlLX0lrUFA1ZmY0N0VndkhhcjFEQkVQa3lPLW1hcXFXakhwWnFSV2VkTlJ5YnhBV3lSajFTVUdWaDl0bFJkbHY2RmJkWXRVeHM0REJpOUs4VmV3RWdNTFNEVHVLbUl4NUk1aTlQZ0pBaU8tMzNYenpB0gHDAUFVX3lxTE1WZlE1UHRaSTJwRWNta2wyVk5HbTFOeE00ZEFjWVhVWV9ISXV5bHhxd3E4Q0F0TEdEaFMtMWZuNUt0ZTAwbGFYZFFndDU5WFhsOGtnVi1vaFVkeDYtTTV2RExsRHlNNHp1b256bU9BUm1TXzc0aWxDUi10RnRVTzVneUpjSHh5OGd1TTdjNVRuTGpfUmh6b3J6eWtGU2hhRkRTRTM4WUtxTHlQYl9MeUIzMXh0d2Jma1hnSkh4bS1rMEQwaw?oc=5",
       "source": "The Mercury News",
       "published": "2026-07-07"
     },
     {
-      "title": "California’s first ADU condo sale offers cheaper path to homeownership in San Jose - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNEF2NXFIZFpEa2tFSEo1QW5jNms1b1dVWkJKcjBTbExVUmRJcUtka1RHRGNSWDk4U2NWZTRNZEZZWTEzVW5wNkxkVzh3RVBIQ1V6MldfOWRPWWpDSVhhYmMtbWpzRmJweGJlWUswUGY5ZEQ1anh4TTdNUmYtR2NYMEc2LTZQWnIzWG1VanhFalItNlMtRWJlUUNoWGVQUFZxRjd0WWduMm5RVmpOVmwxYXJmUGpwOWdxMy16OFZ4ZzZGajly0gHEAUFVX3lxTFA0QXY1cUhkWkRra0VISjVBbmM2azVvV1VaQkpyMFNsTFVSZElxS2RrVEdEY1JYOThTY1ZlNE1kRllZMTNVbnA2TGRXOHdFUEhDVXoyV185ZE9ZakNJWGFiYy1tanNGYnB4YmVZSzBQZjlkRDVqeHhNN01SZi1HY1gwRzYtNlBacjNYbVVqeEVqUi02Uy1FYmVRQ2hYZVBQVnFGN3RZZ24yblFWak5WbDFhcmZQanA5Z3EzLXo4VnhnNkZqOXI?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-07-07"
-    },
-    {
-      "title": "Chunk of East Bay shopping mall is bought by local real estate groups - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3BYVzM0djlqb252QUxqUjRMRm9PSDBkWjYyOXJhVmxIU1pGQVZYZGF3WFVDVzlfVXg2a3lRUC1ldmRDb2tGMFBibXR2eWwyYkdrenVTY2pnbWViUmVzd2daYjFseHJFVE5YUUdDTU1NQTZQQlU1Tl9IaEFLYXZ5YUNmTkFtcmY0SUNrREV1WmRnNXVSaGRhb3gteTVpUVk1MlVOZzQyQW9hWmduVFZPOHNn0gGyAUFVX3lxTE13cFhXMzR2OWpvbnZBTGpSNExGb09IMGRaNjI5cmFWbEhTWkZBVlhkYXdYVUNXOV9VeDZreVFQLWV2ZENva0YwUGJtdHZ5bDJiR2t6dVNjamdtZWJSZXN3Z1piMWx4ckVUTlhRR0NNTU1BNlBCVTVOX0hoQUthdnlhQ2ZOQW1yZjRJQ2tERXVaZGc1dVJoZGFveC15NWlRWTUyVU5nNDJBb2FaZ25UVk84c2c?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-07-07"
-    },
-    {
-      "title": "SpaceX IPO sparks race for luxury housing in Southern California - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUEdPRF9GbU1pMmhfcVNPcDlEU1l6bVpXdzQ5Ml9iSUpKTXFUbVotbGJfbFZCNVdJeWFPTzBnSGlHMTVHaHpjWER0YkxsS0czQ01VRV9iZmo1RnFlLVNWa0YtUnRiUUkwOGRURXo4ci10TUtuZDR5dXQ0QUVxZw?oc=5",
+      "title": "Average UK house price increases month on month for first time since February - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWnFTUFlSeG9UaGl2U3djWDY3dmd2eFN2RGF0VE5TLVdkajdWZmxUWHBaem9ra3czMVQ5eFBxbGJDd0xURnVRUGNzNk0xem1lcXpFTUhIbzlWTUc3Ymt5dXQ1TVYzcWttNlhvbWZ5bnNrcVNLdDBCai1zWXozUTFsMVBHYkQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-07"
     },
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02WXRPVUFHVnowZlEyVGFKRXBheThMeGpoVHpWazZIVWpweTE1X1ZxS2ozVWpnNWVnZVJocVpOMG4yUTkwLTNKYjBCOUJHV1V1Wmc?oc=5",
       "source": "Florida Trend",
       "published": "2026-07-06"
-    },
-    {
-      "title": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction - Property Update",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90RlgtODZENjZyYkoxdTcxN3JRWi04akllOG9vZ3FOaDJwZG9TbWRwM1drOGJsZVZpc3NFZ1VRRllPNGFsM285Nkt6NTluLUJMNmszVi1ZcTZVc1ZrbWttMmZ3V1EwQ2RhX3BnTV95RkNYWUtOenktNA?oc=5",
-      "source": "Property Update",
-      "published": "2026-07-06"
-    },
-    {
-      "title": "Employees benefitting from SpaceX stock surge could lead to boom in LA luxury real estate market - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1ZoRmpaXzc5VnF4bVJuWE9ZSlNKUmFVcV9XLTZJdVVyR2dOdGxwNHdCeU9QN2I3Z3dRd0ZPb3ljaWw2S3JmQzRzNG96b1o4TzVDZzlNUU1NeEV3V3dKUWhKc2VLbkRhRklXNHFaeV9IcXBJdEt1WS1VbXVXQW9YM2FWMlpHMWdYRGlkbm5DNnhCRWdScGlHRXpvS0NHbGttY2tuVEdqTXNTd0tJTzJoOTFtSV93V011Ym5peEluUUFlTGlZSkVrZmNRbVdQcjN6bHdMNVVNMEJBdw?oc=5",
-      "source": "MSN",
-      "published": "2026-07-05"
     }
   ]
 }
