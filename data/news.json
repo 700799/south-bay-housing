@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T15:42:45.029Z",
+  "updated": "2026-07-14T14:53:33.306Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -27,22 +27,10 @@
       "published": "2026-07-11"
     },
     {
-      "title": "2091 San Luis Ave Apt 8, Mountain View, CA 94043 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndoakdad3ZGX2RGZmxpdkM4ckRMa3NLalBsRlNibkw4aENQd1ZNZ3FDN0cxRW4xV1drMDhPeXdGMmlEZnBVZzNmT0VZYnRpbnlHUGJaemxzbnBXWlBJVlh4RlNlRlBqdnFUdVRQbXdaVmtVa2MwVmFrb3VpeXE0MTI2eGJoZklKcGhhQll6VXlmVUhCb3RIVC1mbGlhS0gx?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-11"
-    },
-    {
       "title": "Mountain View: 242 houses in Mossel Bay still empty after almost 4 years - Mossel Bay Advertiser",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFhsZVRveC1mRVk3Z05FQ0JvdmYtN1lMOFBvUFVzanZPeHlaQWsxWjZGaTY5dV8tZEVMR1cxVDlhU2pGNlZhTVh4cnRacVZkUnpRMFE0QmJpNDFNMEE4OFd2a181TjhLMEtyekZITERkMkN0UFhEQ09YYkZfekdwUTZVRGctVXFIdjhIT0hLVlI5ZHptbDM1blpncmFKZVpjd3ptZC1JaGVNV1EydFRRVXBhM1lTZEljZW5od090U1pNbmVDZU9aWDRza2VETFFLMGtkbzdjSzlUYmdP?oc=5",
       "source": "Mossel Bay Advertiser",
       "published": "2026-07-10"
-    },
-    {
-      "title": "Church buys South Bay building that was part of foreclosed tech campus - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPemNWZ292UEt3NjhjZ2Z1cFktY042TjJZR1pXSVZqWFZpTUYzV3NBTnFrUzFoMXRYOGdIY09jMWVnSFJlM1QtLWsyOHRXbUpoSUgtRW9UX2VJNjMzN1RaV29ZVzU1Tnd3ZzJpd1JqSnAzdlZHcTB1UUhnTE0teE0zTGNSSHh3WlVIanhwR0FJZGI5bmw2Y013U2NGNXFJSmNINW1HdmV6aHExUTEwbExJ0gG0AUFVX3lxTE5sU252WkJLRXlNc2JtRHdoWF96VDhWY0V1ekJsTHBIOGhKc05HQkd4WU9tQlgwSW9GVDhCdC1odWgzZTVZRmVMMHYyaDU2bl8wOUZCZVc4WlNpSDBGTG8ybENLdmh5Q1FBWGY2MTctaGtBWnE5VVU1Q1A4YmJ4Wm1hQ3BmRUhRakdXcWRoQVBrMHRnSVg3Mkd0SGp3QnF4bU1paG9lank3Q0dGRjJ5Ri0wVmZBeQ?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-07-09"
     },
     {
       "title": "San Francisco rent tops $4,000 amid AI hiring boom and Bay Area housing shortage - NBC Bay Area",
@@ -69,10 +57,22 @@
       "published": "2026-07-03"
     },
     {
-      "title": "South Bay apartment complex bought for above-average sales price - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlNjT29jelBORldIcThVUzlLUlNMSlNRMnBpUzNXbHFRWWJLRE9FcDczZDlYeW9pTElUM01CVF9aMk9abDFPajF1cWlSR051Qk1LcXFhYjBBTDF3NGNmU1RnY1hTWjRDVE5Sd0lIdHdVeTZOc0RBOE53ZGFCQl9ERE9SQlY1RzQwWlZINy00ZTNrMlFyU0o0TDRSNDlHSUJEMHlwZlB5aTJ1d9IBrwFBVV95cUxPdDkxY1Zob0ZDNDZYdm1GQkgtTThhUUthdFRLaUF4ODMxWG94cDhzcC1yUm9GS2ROVDBYV085U0NaUUdPQzJOck9WYnRUTUlDMDduaEZLd2E2R3BjNUcteUlPRTE0ank3UmZnVkwyY2Z3WG5PdUFKYUo5MXg5ak02YVVNUl9qbE5RemNKQlNEMlo1TERoZmVtMjJtU1FYQjRpQlZQOGZVeTFDVkZtSEJB?oc=5",
-      "source": "East Bay Times",
+      "title": "South Bay apartment complex bought for above-average sales price - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlh3dlFlZ29abVVPT21jZ2NHYUtTOW5wN0J1QWx3SXBxbG1IT196ZllsbHc4a1d4dUpqeUZISml5Q3Btb3AtS0NMcF9SSVpjTThhN1RuQXNrTFcwVHlhZ2UtbVpYcWhfVURYSHRYZXIzN1B3dTlMQ1hvX3BmaUVmVWVROEhtZ3ZWN2JfcTU4emZ4MDdySVdJbjhsU184UElSNjJSWFhOMGrSAa4BQVVfeXFMT0xNNjFpV29Ob1VMNWRTNFN6NGhnMDJPdTJLSF9Qcnlpckkwakk4YmR0Q3hWalZXUkdrTXhzaGd3U1FyeGpRUHFZLU5XU3c4U1FubnVieFBsN2hkQ096eDFfZEF1WE1fa1BxZkVDWFc5S0l6MEtLSEhwMWkxQXVadmZIaWdPMmswOGpqNW9zaGRDdkJXYXgySVZRejhzLTJGWGFJYmhuQURlWGhTZmJR?oc=5",
+      "source": "The Mercury News",
       "published": "2026-07-02"
+    },
+    {
+      "title": "Prologis scoops up vacant industrial site in San Jose - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekttSGhOdWw5TkNETUhYcHhJVnR6bHZmZFpyMnRib19HNEIxSkUtRmhOUkgwbXBHMDJfYUZucE5fMEdtVlI3M2lzOUtYMG4zNGF0ektKTjFHd2NSdW5ab2o4UlR6eUN0VGt2bTVncWVFeWxEMkswOFh0TzRFZTY2ZU5tM1hZOHExeWwxN0tMMFMzaUJKU0JVdjJtYw?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-07-01"
+    },
+    {
+      "title": "198 E Middlefield Rd, Mountain View, CA 94043 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXlobFkyMExnbWEyYWQ1Q0QwdUM1R3ZuUDRaTWpHUWthbGtDUC1xSEdXbXFNLVN6Z3dhaTE1ZG5Dd2JZM3N4MjlZbkdPaFAzNmpqSVI1aDY0VmFQYVpiTndPUDBZX0ZZUVJlMEp6RG9VNEg0ZmtBbVk1MzZJc2hBX1B4Wko0RnItNlFjSUZWdEpWblM4NV9tQVd2ZW4?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-01"
     }
   ]
 }
