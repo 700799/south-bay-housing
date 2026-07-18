@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T14:44:38.566Z",
+  "updated": "2026-07-18T14:20:28.663Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -15,8 +15,20 @@
       "published": "2026-06-03"
     },
     {
+      "title": "Silicon Valley industrial demand hits 12M square feet as supply dwindles - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmxVTmROcG1DOW1sbmJ1ek5OaXNXRlZKWHFDSVFobWszb2hIQ1BWcUJRbHNmRU1mNGxGNE54OFBXSkIyS3o5YVozUkhJbjVjMkFpNGJvellPbi05Qnk4WmtncGtucDlfZkFaYTdvNWE2Q0gyM2V2cHZWSWtnRGVIOUhXUDBuUUlWaWZKeWY3Sl9RVlpqVWNsWXh6MWw1TDIzQnJCWFplaw?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-07-17"
+    },
+    {
+      "title": "665 Alamo Ct, Mountain View, CA 94043 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2V3UXJRSmMxWHNuZU5QeDlhdkEydTdZZTFpdFlCWFpZM21YcHZOSGg2eU9OMXVEemdLS09CQ1Y2SkJZcW1qc2lCYThZX2hvQkxjYjNDRklXay1HYkEwdE9TRUlzbDlJYWhzbWpUdGhhem1uRFZBU1FSYmo5U2Rpc2IzRkI3aW84cGRtbVZnRTFSdw?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-17"
+    },
+    {
       "title": "South Bay hotel is bought at flat price by California lodging group - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnVpY283bGdIN0NlV1RtYnFXMDNFUWdMVUMwNmNZZXNFWW5sRFhyd3pWck94RVozYk8wckVkd2tPNHhlSkM2SjRfcFN3STBTb082NkRicDVHLVNVNVlJcmRVcHpxbmRPX1BfaTZHeURwOTFLNUowWVUxbFB4eXZVMzBNWHVpc2RoaG1xTTh0VldScXhlZ3BPVUk5VVNERk1oZWNDQWpUOWJTZ3RBU09j0gG0AUFVX3lxTE1ITEpDMmU4b3VJSWZlOVByZ2s4VEdnZm5EYVJNWlpMdTc4S2xFbWc1NXVVc0t2VG1zTzE5X1dIVVVSdGFhYmdXY2JIb1k3VndmbkZfcnNReGRFZ2YxYUl0Y1B1TmRmanVnNnlMYlczRFpxLUJBV1ZzcE15R21VNmJVNFRzTmVpQnVLdURjaFlvc2FPanQyNm9QRFBaVDlIWVdhdEFzcnB4OC1lQ2lVal9UQ19CSA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSExKQzJlOG91SUlmZTlQcmdrOFRHZ2ZuRGFSTVpaTHU3OEtsRW1nNTV1VXNLdlRtc08xOV9XSFVVUnRhYWJnV2NiSG9ZN1Z3Zm5GX3JzUXhkRWdmMWFJdGNQdU5kZmp1ZzZ5TGJXM0RacS1CQVdWc3BNeUdtVTZiVTRUc05laUJ1S3VEY2hZb3NhT2p0MjZvUERQWlQ5SFlXYXRBc3JweDgtZUNpVWpfVENfQkjSAbQBQVVfeXFMTUhMSkMyZThvdUlJZmU5UHJnazhUR2dmbkRhUk1aWkx1NzhLbEVtZzU1dVVzS3ZUbXNPMTlfV0hVVVJ0YWFiZ1djYkhvWTdWd2ZuRl9yc1F4ZEVnZjFhSXRjUHVOZGZqdWc2eUxiVzNEWnEtQkFXVnNwTXlHbVU2YlU0VHNOZWlCdUt1RGNoWW9zYU9qdDI2b1BEUFpUOUhZV2F0QXNycHg4LWVDaVVqX1RDX0JI?oc=5",
       "source": "The Mercury News",
       "published": "2026-07-16"
     },
@@ -33,22 +45,10 @@
       "published": "2026-07-14"
     },
     {
-      "title": "This Bay Area city is the most expensive for home renters - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMi1oTFQtWVJiRkI1STZndU5SVzdiSm9rVHBQcTJES2dPcHF0dVM0VVM4em5fbHJVTFptVWpUS09CcmY0ZUxHcjA0U1lLTUpaRUhYMlZ1aGhnYVNjc1otTEoxYnVwdVlUWHdLYm0xeTV5Q2p6LTBFc1ZTdWM1VkdjYTU4YXoydmRqQmZHY1lDd3d3QlAtS1FaSHJuR3hLb2fSAZ8BQVVfeXFMTzItaExULVlSYkZCNUk2Z3VOUlc3Ykpva1RwUHEyREtnT3BxdHVTNFVTOHpuX2xyVUxabVVqVEtPQnJmNGVMR3IwNFNZS01KWkVIWDJWdWhoZ2FTY3NaLUxKMWJ1cHVZVFh3S2JtMXk1eUNqei0wRXNWU3VjNVZHY2E1OGF6MnZkakJmR2NZQ3d3d0JQLUtRWkhybkd4S29n?oc=5",
-      "source": "KRON4",
+      "title": "Sunnyvale affordable housing project proposed at former bank site - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlUyQldaWEx5SWQtVWt6M0J2X0tkYUNEbWR0X0MtRi1jRGV0Z3VBMmtTQXFLSnA4WFB4WjRjdlhEY2xDWk9PUFczS3NSRzhyTkdleW9qZFoyVDlFeTJpWmlTSE1rZkloSWVwSjE2a29yWmdSZk5pek9KcTJwRTdiRHI5QXI1d2dXWFNsYUhIamRaODl1YkZob0ZjWWtSZFYyMldxUkpkMWNDaTJ2NFYwNzhjNGd1LVhfQUJFbQ?oc=5",
+      "source": "MSN",
       "published": "2026-07-14"
-    },
-    {
-      "title": "Residential transfers, inflation lead to uptick in Santa Clara County assessment roll - Los Altos Town Crier",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQzNIMGZQeXV0OUJZd09hQkdtRjJqNWM2dktPQUlwTDByNUljTXluVzg1RWYzc3dZM3RuZ1c3dFdfSkRLVzNlTFZMSmp0X0Zza3gzNG80ZVlvMnFyaks4aWhKZUNwWTB2WFRaVjdSSVlZaFE2cEhmeHVkSjFZdW1CeVVxVWtIUG1jVEtUTUN3NlNSSWROVnQyWU04WExLMDFoaTc3SENTd3h4VG9iQWhQQTgxQmdCYU1kaDNtNjI2VmlJaldPZmhXUzR5NnAwQWZLQnlEWXFuRG5vRHY0Y1JINTdKQ09pOHk0SVM4VUxVcVM5a0RielZRTU1nX1ZQVFk?oc=5",
-      "source": "Los Altos Town Crier",
-      "published": "2026-07-13"
-    },
-    {
-      "title": "1404 San Jose Rd, Saint Augustine South, FL 32086 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0NyaFdUYlJUNzlEQnZYYTA1SzhKR24zVkV4c0ZaazZyWTA4cFpfQkQ0Z3A3dmJHMGJwbVJtbUI2NU1tLXY4ZHBnd1JISG8xUGNmM1kxTHNIRE9rQmk0UUdaVjk2VEo3SlBJb3BWOTZFSEJHQzVwcU1vX2tSOG5MZnhzWjJpOTlFeXNwZE56Yk1GZHlBRnc?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-11"
     },
     {
       "title": "454 Poppy Pl, Mountain View, CA 94043 - Realtor.com",
@@ -57,22 +57,22 @@
       "published": "2026-07-11"
     },
     {
-      "title": "2091 San Luis Ave Apt 8, Mountain View, CA 94043 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndoakdad3ZGX2RGZmxpdkM4ckRMa3NLalBsRlNibkw4aENQd1ZNZ3FDN0cxRW4xV1drMDhPeXdGMmlEZnBVZzNmT0VZYnRpbnlHUGJaemxzbnBXWlBJVlh4RlNlRlBqdnFUdVRQbXdaVmtVa2MwVmFrb3VpeXE0MTI2eGJoZklKcGhhQll6VXlmVUhCb3RIVC1mbGlhS0gx?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-11"
-    },
-    {
-      "title": "Mountain View: 242 houses in Mossel Bay still empty after almost 4 years - Mossel Bay Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFhsZVRveC1mRVk3Z05FQ0JvdmYtN1lMOFBvUFVzanZPeHlaQWsxWjZGaTY5dV8tZEVMR1cxVDlhU2pGNlZhTVh4cnRacVZkUnpRMFE0QmJpNDFNMEE4OFd2a181TjhLMEtyekZITERkMkN0UFhEQ09YYkZfekdwUTZVRGctVXFIdjhIT0hLVlI5ZHptbDM1blpncmFKZVpjd3ptZC1JaGVNV1EydFRRVXBhM1lTZEljZW5od090U1pNbmVDZU9aWDRza2VETFFLMGtkbzdjSzlUYmdP?oc=5",
-      "source": "Mossel Bay Advertiser",
-      "published": "2026-07-10"
-    },
-    {
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
       "published": "2026-07-09"
+    },
+    {
+      "title": "California’s first ADU condo sale offers cheaper path to homeownership in San Jose - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHJhVEU3OEs2ZDBOc3E4Qkc0VWRsTUdhMXExam1iM0VnR1pNTy1KQVkwbGJJakhZQ0QwMjJBaWpPbm41SlBGdU44U2xWRTlLX0lrUFA1ZmY0N0VndkhhcjFEQkVQa3lPLW1hcXFXakhwWnFSV2VkTlJ5YnhBV3lSajFTVUdWaDl0bFJkbHY2RmJkWXRVeHM0REJpOUs4VmV3RWdNTFNEVHVLbUl4NUk1aTlQZ0pBaU8tMzNYenpB0gHDAUFVX3lxTE1WZlE1UHRaSTJwRWNta2wyVk5HbTFOeE00ZEFjWVhVWV9ISXV5bHhxd3E4Q0F0TEdEaFMtMWZuNUt0ZTAwbGFYZFFndDU5WFhsOGtnVi1vaFVkeDYtTTV2RExsRHlNNHp1b256bU9BUm1TXzc0aWxDUi10RnRVTzVneUpjSHh5OGd1TTdjNVRuTGpfUmh6b3J6eWtGU2hhRkRTRTM4WUtxTHlQYl9MeUIzMXh0d2Jma1hnSkh4bS1rMEQwaw?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-07-07"
+    },
+    {
+      "title": "San Francisco rent tops $4,000 amid AI hiring boom and Bay Area housing shortage - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDVsRVFfZ0E5S0k0OTBvZ3J3ZlRmVFFnRzB2MlNDWDBMd2N2a2pRSGNKbWZBcGJCRFA2Ykh3dlhOV0xOczF5NEs3b3hzT2xIeG9uTWhta2ZuakltVkRVczFsbmg0UDJsbnRjUHlJMTQ1TDc3LUFWQnRwcm5Vd3lIX9IBiAFBVV95cUxNVDdLUVhwTDdnS1Jxd3ZNenAtSURXdThrN0ZTMVA1Y3lIZUV5UGxFNnBrQU11aXljdTlLN3Z0UjFjNDI5QW5zcld5NEdoUXA0NVM1dzZxVl9VMVpYUGlwRXdJTWxGY1RialFQOEtHMHNMNjVEV290YjdTLWFNX1Yzb3V3WmZ0VDFm?oc=5",
+      "source": "NBC Bay Area",
+      "published": "2026-07-07"
     }
   ]
 }
