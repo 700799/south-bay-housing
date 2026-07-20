@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T14:24:08.119Z",
+  "updated": "2026-07-20T15:12:28.634Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,16 +9,22 @@
       "published": "2026-07-09"
     },
     {
-      "title": "Prometheus picks up Sunnyvale apartments for $70M as AI-driven housing crunch tightens in Silicon Valley - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnplUGlMalVkekZsZi1IR0ZvXzhland5bjJyNXVZQi1RZkhNZm03RFlDTUhTOU1pdVhXQk05b19WSjJtYkJoSGZmb0pOS0h5N1FLUTJwQWhqeGZvV29TZGU1MGp2a3BuZ09iRkw5VFJyTkluZGY5QkV5WUVWNXVRU1o4Mmp4VXViNlNTSGt1UDNYWEdqWHBTMGV6TUdSdGl1OXFiRTAtWQ?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-07-06"
-    },
-    {
       "title": "San Jose ranks second in U.S. for home sellers pulling listings, Redfin says - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWZYc19OUDlsYnRYcjBHN2d1d0QyOXJocGFwamwzY0dGaFpGWXFYN3BUcUhqRmI1MGJ0djVOTkEtM1RJeXBuVGlZQy1ZaTlwNVNHdzFwZVZWWkxicEozN21KNFI2X3RkVmNkOEpQdWxnOGtuaVJyaHI0MFJaX25MOUhJNDJXQjB2dFIwbWhJeEtWcDZVai1pdF9MblZfekEzbl9USU9n0gGuAUFVX3lxTE9GYnB6b284VUxPMERXM1ozU29EWllnc01yNFUwelhVeEktQlpUbzduOFd2TUl4SlBXVGhmaDNLUlFKeGpmU0dFLWgyWF9uQkJlN19OaUNpT2h5WndCWDdmem5yZVhhbS1lWGM0UUFIbUhhaFhUSkFxbml2R3Vrc0p4RHpPdUpnNmI3OHFlY0JuenU2eDVSa3o5N3FnTDI4MDFzdmVGMVVtcnRnREo4UQ?oc=5",
       "source": "NBC Bay Area",
       "published": "2026-06-03"
+    },
+    {
+      "title": "South Bay estate tops Dr. Phillips home sales from July 6 to 12 - West Orange Times Observer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnE4aEk2ajdjVC12SmFLWHVRVzBNbldSZDRrNlloR0F2ZkF0dTFpVGxMbTBVNGpXLTZXc0NpUGo4aThSVUJvbzhFbFBKZ19pOHhnMEJ3TG5IT2RDNmtHdzN0YndUcXpxLTNtRm5sTTMwcUR5aHNqekFGQmNSZDNyZXFhRU85ODZKRmg1aE9tbGxvck0wNEt0TmI5UWpvb04tc0ZRUklTSDB1cVh5ZGVQTA?oc=5",
+      "source": "West Orange Times Observer",
+      "published": "2026-07-20"
+    },
+    {
+      "title": "Not all Bay Area housing markets are benefitting from the AI boom - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3F1RWhBZzlNb0RxYXZ6RXh3T0x0VEJiUXhyRWdOdldIaTByYUw0S1B4NnFpY0lSWE1HbVMzMjU5WUt5US1SeG44SmVvdHlXMks1dm1LbmE0NXpmQ2E4QTJYWHJlX2s3TFpOUnFsNTJUWkd4SkFLQlNyREZSOEtoR3JzVC10WGZOY25weEpnV3ZvVGtkSUxpamMxQlNKaGp6TUZlMEotc3NRMklmV0lUSWdn?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-07-20"
     },
     {
       "title": "‘Crazier and crazier’: How the Bay Area housing market has shifted this year - San Francisco Chronicle",
@@ -31,6 +37,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmxVTmROcG1DOW1sbmJ1ek5OaXNXRlZKWHFDSVFobWszb2hIQ1BWcUJRbHNmRU1mNGxGNE54OFBXSkIyS3o5YVozUkhJbjVjMkFpNGJvellPbi05Qnk4WmtncGtucDlfZkFaYTdvNWE2Q0gyM2V2cHZWSWtnRGVIOUhXUDBuUUlWaWZKeWY3Sl9RVlpqVWNsWXh6MWw1TDIzQnJCWFplaw?oc=5",
       "source": "The Business Journals",
       "published": "2026-07-17"
+    },
+    {
+      "title": "A first-of-its-kind Bay Area home sale may change how Californians buy houses - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdENVSFJsME4xZWlvMWtBY29sdWJUcVlvOXRaTzNoUVU2QmdFNl85N1U5ejdHRVprVzJmNmZ2Q0p6SXpDRmtQX3puSDc2WF9LTmdGYkhqWUVFMlNwV0FBMWt6NERLTl9mZ2dmRGk5NUprcmZJMWZ6ejdmQVhvdjRHSFV1UjZ2OVE?oc=5",
+      "source": "SFGATE",
+      "published": "2026-07-15"
     },
     {
       "title": "MidPen floats 110-unit affordable housing project on former Wells Fargo site in Sunnyvale - The Real Deal",
@@ -51,12 +63,6 @@
       "published": "2026-07-14"
     },
     {
-      "title": "This Bay Area city is the most expensive for home renters - MSN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVZUaDdQd0ZnSWxCNkFWNl85MWF5VEhpaE9hTTRpT3lqbGVRT3JKZmUwODhFMHJYSHlPbk40cy1VSXkzcGZ0dXFpTWhoXzU2eWY1UDB1X0tDbTkyUXN0dW9ZSWpXdTNLRU1udENRbnhmNloxOGVYZjlHSDlGOGpaeUJjeTRsLVU1RV8yNXJTb1dVOWFVMWVNT2V6TEM3SWZVRTM1c05CcU1rSzk2MElzaDl3?oc=5",
-      "source": "MSN",
-      "published": "2026-07-14"
-    },
-    {
       "title": "454 Poppy Pl, Mountain View, CA 94043 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFdqaVMwakxBMGJSYThlakhaVmdNcFR5c2l1aWJLOU1WMjVwSUlMc3hYWG02bUQwWmR3a3ZxT0FVVk1aOXludy1WXzdBZ2ZqRVBKeEk1cFNjM3lOWW5UNjJRelMzc0k3NkdoeEIyNDNnOVJCbFlBWXF6Qzk2U0JuS0oyNzNzZ09INE5RTEJEQmxhdw?oc=5",
       "source": "Realtor.com",
@@ -67,12 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndoakdad3ZGX2RGZmxpdkM4ckRMa3NLalBsRlNibkw4aENQd1ZNZ3FDN0cxRW4xV1drMDhPeXdGMmlEZnBVZzNmT0VZYnRpbnlHUGJaemxzbnBXWlBJVlh4RlNlRlBqdnFUdVRQbXdaVmtVa2MwVmFrb3VpeXE0MTI2eGJoZklKcGhhQll6VXlmVUhCb3RIVC1mbGlhS0gx?oc=5",
       "source": "Realtor.com",
       "published": "2026-07-11"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-07-09"
     }
   ]
 }
