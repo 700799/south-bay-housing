@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:12:27.716Z",
+  "updated": "2026-07-21T15:04:46.165Z",
   "source": "FRED",
   "rows": [
     {
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 4.57,
+      "value": 4.55,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.03,
-          "direction": "up"
+          "delta": -0.01,
+          "direction": "down"
         },
         "14d": {
-          "delta": 0.08,
+          "delta": 0.06,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.14,
+          "delta": 0.06,
           "direction": "up"
         },
         "60d": {
-          "delta": -0.02,
+          "delta": -0.06,
           "direction": "down"
         }
       }
