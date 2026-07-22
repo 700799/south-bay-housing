@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T15:04:47.358Z",
+  "updated": "2026-07-22T15:05:22.358Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -15,9 +15,33 @@
       "published": "2026-06-03"
     },
     {
+      "title": "Google renews leases for millions of square feet of South Bay offices - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFdqRGR5UnJ2d01CXzU0QUprU1VTM0xZcUItV2FoMmhFMkFQdUxtejJEa0tqa3pZT1NkTkFXRk84MnhYVURnQTdGT3FvRHVtYk5Wb2FReEZKNWhnRDlJQlp5cGpMQ3pVM3FLQWNyajhoYXBfY3ZNQXVRVmpZQ0s3T0ppVE1Wa1E4amsxaVZRN29ncmdaREtFdVhVZzlodDJqVl9WOU1xdGJBeFliRmZLRlJzTdIBswFBVV95cUxOeFdqRGR5UnJ2d01CXzU0QUprU1VTM0xZcUItV2FoMmhFMkFQdUxtejJEa0tqa3pZT1NkTkFXRk84MnhYVURnQTdGT3FvRHVtYk5Wb2FReEZKNWhnRDlJQlp5cGpMQ3pVM3FLQWNyajhoYXBfY3ZNQXVRVmpZQ0s3T0ppVE1Wa1E4amsxaVZRN29ncmdaREtFdVhVZzlodDJqVl9WOU1xdGJBeFliRmZLRlJzTQ?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-07-22"
+    },
+    {
+      "title": "South Bay office leasing activity hits highest level since late 2024, report shows - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEJBMllNZFVranB2dE9WZmxfYjhiRGxWSFFmQ2s3bnVwWUJyQ09adl93aTJFb1JXSUdZYV83VUt1Ym94cXhtWElJUG1obVVFcWRSNEVZUFhqT3BoeklBTGxRUHBuS0JLbEFYNGlTV3dwRUN6NElFZVdEMkVjZ3h2VjRBcEZYcTZiaUlvQjBTX3RiNGJsXzRDeldzTnpjZWFybmsyUmFWTnhQNm0tZTYyUXoxZHpuQdIBuwFBVV95cUxQMHBNQjN4c1dFMGtaRmsxQVN5T2Z4VWxBSmFDd2hrU2xpSUZpYUlVQTRCS0MtX0NUeGpTX25ydlZZZ2xad2FDY18xRzRaUHd1UHE0QUdidVU3RXU1M0xuWDl1d0F1VW02QVNNU0FFY2RXS3JrcWlMaUg3OGhqYktJLThlRFhDeVJzYnJKbk44eGZvV01LSDQ3dmwyRDlsVUtxc0lQY1VZeHgtTWtUUTdjLURfSDhyTDZ4MUhB?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-07-21"
+    },
+    {
       "title": "Apple Sunnyvale Expansion Adds Another Major Office - AppleMagazine - AppleMagazine",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10YXhSLUQ3Z1pra1V3OXhuUll5N2VHdGlHbTZoY1VxOGhHN19za2hxa0VtanhBNnJ2YkZ4b2paRmRxR3kwZzg5cXBTcmExMXZ1VWNvNWJmR2VjOHlfNWdOT3lELWNnaWFBNkFvQ05XajRJWEnSAXhBVV95cUxOYXRKbjlhUTVKUXhKRmdYMHg3MXg4eVpuVXlHRmhzeGhlMThKS0JmM3Z3Qk5OQUE5M2lUUWtNQkwzVmcxajFfU25WQWNlMlJZd29vY21KVGdHMmN3VzRCblJWaU55bEFwNGdwNXVrbmI5OWtsUmV0aS0?oc=5",
       "source": "AppleMagazine",
+      "published": "2026-07-21"
+    },
+    {
+      "title": "1143 Solana Dr, Mountain View, CA 94040 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlYVG5xTXdPaEQ2dlVheENRMl9aTU5zS3BLdDFfaVhnR0E0SFlXNUJpS3JHQ1laalFJam5XOWRTV1pjbGJ3OXZKTjdGWUZGcENfemo4em1JTlQzRGs3ZVBsQ1ZWZk8zWnRnNEdWQ1hDZWhYaGxkcTVTVHBuUU9EbHVYMDVuUjVzaTNaUUlZb2VDU1g4?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-21"
+    },
+    {
+      "title": "1346 E Mountain View Rd Apt 201, Phoenix, AZ 85020 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUV0YmhlZHlsaU9hTmVqMEVkazltdU0ySXlid2kzdTVCaWZpWWZBTU5sLXViMkJDV05TWTlIaHhWZ3dFcUNHRXI2SThhOVl2UmFmY0pqcFhRRWVld0RDSWh2OU9aVkJOOGJaanBCbVRTM3RiT1BreTVYNTFqNTdtMF82OFRZVGRxVGpPVV93b2hnT1EtNmVpdHFCU2VnYkE5T2Ytd0YwVzd3ZnFDeUQzelNMcXlHVG5TUi1BcA?oc=5",
+      "source": "Realtor.com",
       "published": "2026-07-21"
     },
     {
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW9GdVJqNFgzVncwbVJxZlVtR0lrNmxkWlZzX1cyNmRXMlNyMHItZHlGTV94VUtvdXpwX2hYZl91djlCbkdyVThpbHZ5d00xaFRJakNVay12UjR5aGxENmxXVjBaN2RJLWpsY1NFQVVRLWtMTFRhUFRMYkpqamxzaHl6N1EwYXdpUWM2LUFFWlZ6ZzFERGh4RA?oc=5",
       "source": "San Francisco Chronicle",
       "published": "2026-07-19"
-    },
-    {
-      "title": "Bay Area housing and real estate news - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bUdXRzB0RXM3YTZFT3NVS0ZNOEFtdlVqbmpVVWVWalFuM0tpcThla1BBQXFTRzEwWkV5akdnM0FrSWdydmdDNDhtZ0RHMS1qN1UycHVfVS1TR1N6c0E?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-18"
-    },
-    {
-      "title": "395 N Murphy Ave, Sunnyvale, CA 94085 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanM0ekZzbDNtSU5kZjItbjh6c2VuQnpyS2JxSERvYWhmSnI5UHozdWNzX3dlaGFLZjZJRzBJTDFMdFBHbXg0ZS1iN3VoYWg5aFZPcXpya3RhNUFlMTBfTUlxMDB1UUxta25CV05YbUFaQmFjNVdqZjV3QzAxeUVNLWtaeVpZa3Q1QjRoRm1KR25udw?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-18"
-    },
-    {
-      "title": "A first-of-its-kind Bay Area home sale may change how Californians buy houses - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdENVSFJsME4xZWlvMWtBY29sdWJUcVlvOXRaTzNoUVU2QmdFNl85N1U5ejdHRVprVzJmNmZ2Q0p6SXpDRmtQX3puSDc2WF9LTmdGYkhqWUVFMlNwV0FBMWt6NERLTl9mZ2dmRGk5NUprcmZJMWZ6ejdmQVhvdjRHSFV1UjZ2OVE?oc=5",
-      "source": "SFGATE",
-      "published": "2026-07-15"
-    },
-    {
-      "title": "Sunnyvale affordable housing project proposed at former bank site - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmpXWVY2TjhSTUxidlNWb19OYnNrVjN6OW44MGp3SGxKQ2cyVThTV3dsNlVtY3doQzJvMkhXSk9EQmF0akdTNWFFekVlc1BDbWIxWjR2anlxY2JSWVlfTGlwSUE0dVdXVGJRdUhWM2NyelNDMHlreUVlQVgwbGhpeUlsaGdQVnFKTHhOb3lnUHhfM3daZnJabF9YY3N6TllMWWJ2OGZmeWFFYnlySmJ2QTNFTdIBswFBVV95cUxPZmpXWVY2TjhSTUxidlNWb19OYnNrVjN6OW44MGp3SGxKQ2cyVThTV3dsNlVtY3doQzJvMkhXSk9EQmF0akdTNWFFekVlc1BDbWIxWjR2anlxY2JSWVlfTGlwSUE0dVdXVGJRdUhWM2NyelNDMHlreUVlQVgwbGhpeUlsaGdQVnFKTHhOb3lnUHhfM3daZnJabF9YY3N6TllMWWJ2OGZmeWFFYnlySmJ2QTNFTQ?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-07-14"
     }
   ]
 }
