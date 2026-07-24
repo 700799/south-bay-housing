@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-23T15:10:01.278Z",
+  "updated": "2026-07-24T14:56:57.458Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWlQbGFLZ0tmak9ZQUhRV3JiWG5JTGJ0MF9VRDhUVGVvTUR6NXU1ai1ocTEwMWlNQUx6SXh4bGxxdWdJNzRzeTd6OUU0UkZhdjBQNzNza09NNTNDc0JNSHVDNGhQR0Y2TXFVQTZYUVNkRVZhS2xKWjJLTHVrN19rOHBDRHdYRlVPbk43MVBGcG9zWkhHZUlrNGwtZ2w0cjRaNkUyaFVpajJMRVhHREE?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-07-24"
+    },
     {
       "title": "Mountain View sees slowest property value growth in Santa Clara County - Mountain View Voice",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTk9zYU9NcTIxb1ZTSmtCaTFWenR6Z3lKZjB1aEphZGJsX0NKazBGTnNjYld0LUxfd1ZWcTBKQ3dJRC1oaV9xd1hXSXoxZVZCdkcxRE9Qa0xLaU5ad1NSUlZ4YTdmVmFNYWpMWlJYanNXTW9ycnR5dnJvYjFVN3JWSkJzV2tUdXcxMFhyQkxpUFBLdFZHVkFlaDNORDNqTnhvWHJXOGRTa0VFNTgw?oc=5",
@@ -15,21 +21,39 @@
       "published": "2026-06-03"
     },
     {
+      "title": "San Francisco, rest of Bay Area a tale of two real estate markets - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHU3cnM3RXpKalNCajFxbWFCRmlkV2g3SWhNQWJIZE9ld1BzS3VRcGd0THNQVXNQWHM1Um4yZGNqSDdLdkhtZ09OVGM5MlZjWGhKNGtkSFdpVldmUUwyQjVPendDY0NVaDRtQmNidWVHMHZuX1ZYVTVDN1B3N3ZlcFp6bGk1OTM0M1l2U3dQSTl0WTF3ZHVoWVo1MHBNQm1IZ2dtWnd0NVctc1Bx?oc=5",
+      "source": "CBS News",
+      "published": "2026-07-24"
+    },
+    {
+      "title": "Dai Thanh Supermarket opens its largest San Jose grocery store so far - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3h2M21INXhlNUJTUTh4X0lVUnc4a3FQLWJXYTBYM2ppSEF2Z1FVVE1HbVlHakQyTlhmNDNiZ1ZMTXJESjV1Ylk1VmFPeWs0VGtibWpBcWdZeHd0X1V1dURJaWJXWVZFUWxBeWFVa1I3YmF2bDVWRDZXdkpUR1BpR3hHWHlOZGxibjFWc3BMMUlra2NjM19kRW83UlNCNzNseWFTbndYZXpGa05Z0gGyAUFVX3lxTE56UVdEdFVkTmtEWUg1cEpnSlVXbFh6WDFndjZjamMwdG5XSnAzUWE3c2JaT1N2SmFnaXNTaTNpVDJULXljXzFjdnUxX3h4Z18tbkotVWV0TGEzbjZIOVpYMEhqT0VXNmZyNmtSbWVmVDZnM3R2c2ZPZFhGblh6a0tTTlNvWlpuQlVDMHZVZDBFTDJ6NjlkdzVtSC1oQ3ZXSFdiRjFxRmF0US1xM3c3dGN4U3c?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-07-24"
+    },
+    {
+      "title": "1020 Kenbridge Ct, Sunnyvale, CA 94087 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVR1eWlRYTJUcGtsaUxrZVdRblc2VlY0QVA4T0ZZNTVhLXFORGkxaTJmQ1p0QW5uTG4tVW8yMWJvSTVFdUVCb1NORFlLbWoyZVJxaTRnNExYWFk4LUFzUDMzS2UtMmpUVDRDM2JsbDJaSm9TUVcwSjlQMU9WRUZtaXpBbUMyWmN3eUZ3T0JsYjZhZG8?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-23"
+    },
+    {
       "title": "6133 E Mountain View Rd, Paradise Valley, AZ 85253 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEFHcWcxc0VmT2kybmlpaFFMcUJfblpYTGdFd1BOY3NpSTdYVF9veVRNWDNFemhpTEFnZkJqbV82OXZid1FTTE5wWXlpYV9aeDVaZlRhc3Q4d0RlNDY0TmEzTnRHS0hsZXVkdktpQlA3UGtKQVVSU09KRGxyc2JIbk55NkhFYmFxYm5PajdQU2VXb3ZQYjEzeDFKbjhMMFF3TTJR?oc=5",
       "source": "Realtor.com",
       "published": "2026-07-23"
     },
     {
-      "title": "Google renews leases for millions of square feet of South Bay offices - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUk1laV81NExhb3l5VGJDMkhIOE1ZcGY2V2JDaDNjaWc0UFdYYVpaeUltcXd3X0JmV3V3bVRzNGFjVWdPRFYzS0UwUUFySDJHRDRuVE9fZGFaOEkxcE0xZXBWVk9qeTVJNHpMakh6NmdKbV9QYnctbW1YaW9jNzZxZ0VFVTdOb1NqWXViZ3lEZmdlWFdrR2oxcUVISWJfLVRDSnZ4X1dwQ25nQUxG0gGyAUFVX3lxTE15eTJSZ2JkQlZqZ0hUUnU4V21jMFFxSEFHcDUwcEJNdWRjYkVYR285cGpPbnBaUm9LNTJCazdZaGlTc1hkaVVpVXNOdWp5cHFzVFc5R0xUdjBCQUZyYU9kUTVxbUE0Z0JQMnNlN2ZfdlBnSVhxSU9vSXZYeTBibGluVjZrQ1RDVExwQVQ2MExqZ1VSb1dFU3o2X0Z0MktzUlNnY1lsVUxrOUFyNUprMzVNY1E?oc=5",
+      "title": "South Bay tech office and lab hub lands buyer at discounted price - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3dFcWhSSnlGNEh6UDFpajFUTlFFYTFMaE9jUmVaMnBFNk4ybGJfLTZCWUFzOXRUbnZoS08xWk55aTFNMlRoa0k2WDR2eWduU0dpb2dWV19FXzBINVFEZGxfSlhQZ0VvLVFBNG9RNzBqNEZTSDctNmZabGdQWkQzcGotWlFwOFF2YjV1M1JGZ0dXcTdYQXp1VENBaTRtSWR3NnNWY3Y3a3FkRFl60gGyAUFVX3lxTE1tcV9YNHFMNkJISEVlajkwWDZyZkVYN0ZPVVZFejRWb0VMZGN2VV9XSmtSTUYwUXJPRFplWmxhbjZvM1pSVDNaUVVBd20wWlBkZDZ6YTJYWk5kR3g5SGIxa256cW1VUENoZGE4OW90TWtyX0JvUEFyaWhxWGNJTER0U0RvNFRVLXJmdHJzT0FtTEZNMFV1TzBfN0tQb1dRY2dlenAtTVBrdHA0ZHdYWjRWZlE?oc=5",
       "source": "The Mercury News",
       "published": "2026-07-22"
     },
     {
-      "title": "South Bay tech office and lab hub lands buyer at discounted price - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHJ5ME9UaFVoN2x0aTU4bUUwUTBGdV9uWHBKcjk3WTFkekdKNV9LdWRHSElGcFBaMm5WLW9VMzllY1VFeDUxWjNXTlZsYkZHNk5KakxxT3ZVMzQxemdDUHJpQVVMSFhROU5DdVU3UHNid3BHNU4tc1oxcnlCS2dJeTluekJwLVNVRG15SXZfZXZOYXRMTVZEUjMxRnJTb3ZXblN6MkpmYldJcEhPaXJz0gG0AUFVX3lxTE1Ta2JEbVI0SFRrMEZmM2dLWWJBVnNuWGVaME9sQ2VrcEY2bnc5U2IwbHBveHBiOUFYWEJWQkVCMV9zV29EdjhCVFE4bFpqMENLSWMwUVRiOXJuMmRvcmRpZW5WYktoVjFNa1J6WWVGbXFaQVNtc1pETzNHUkpDQl9YUzJGenJRWUU5Yk0yQlg5eWxfUmFCR2I0ZE9wTHlPNkhhSENhR2tSTDI0al9rUk4xdTJZRA?oc=5",
-      "source": "SiliconValley.com",
+      "title": "Google renews leases for millions of square feet of South Bay offices - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUk1laV81NExhb3l5VGJDMkhIOE1ZcGY2V2JDaDNjaWc0UFdYYVpaeUltcXd3X0JmV3V3bVRzNGFjVWdPRFYzS0UwUUFySDJHRDRuVE9fZGFaOEkxcE0xZXBWVk9qeTVJNHpMakh6NmdKbV9QYnctbW1YaW9jNzZxZ0VFVTdOb1NqWXViZ3lEZmdlWFdrR2oxcUVISWJfLVRDSnZ4X1dwQ25nQUxG0gGyAUFVX3lxTE15eTJSZ2JkQlZqZ0hUUnU4V21jMFFxSEFHcDUwcEJNdWRjYkVYR285cGpPbnBaUm9LNTJCazdZaGlTc1hkaVVpVXNOdWp5cHFzVFc5R0xUdjBCQUZyYU9kUTVxbUE0Z0JQMnNlN2ZfdlBnSVhxSU9vSXZYeTBibGluVjZrQ1RDVExwQVQ2MExqZ1VSb1dFU3o2X0Z0MktzUlNnY1lsVUxrOUFyNUprMzVNY1E?oc=5",
+      "source": "The Mercury News",
       "published": "2026-07-22"
     },
     {
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlYVG5xTXdPaEQ2dlVheENRMl9aTU5zS3BLdDFfaVhnR0E0SFlXNUJpS3JHQ1laalFJam5XOWRTV1pjbGJ3OXZKTjdGWUZGcENfemo4em1JTlQzRGs3ZVBsQ1ZWZk8zWnRnNEdWQ1hDZWhYaGxkcTVTVHBuUU9EbHVYMDVuUjVzaTNaUUlZb2VDU1g4?oc=5",
       "source": "Realtor.com",
       "published": "2026-07-21"
-    },
-    {
-      "title": "1346 E Mountain View Rd Apt 201, Phoenix, AZ 85020 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUV0YmhlZHlsaU9hTmVqMEVkazltdU0ySXlid2kzdTVCaWZpWWZBTU5sLXViMkJDV05TWTlIaHhWZ3dFcUNHRXI2SThhOVl2UmFmY0pqcFhRRWVld0RDSWh2OU9aVkJOOGJaanBCbVRTM3RiT1BreTVYNTFqNTdtMF82OFRZVGRxVGpPVV93b2hnT1EtNmVpdHFCU2VnYkE5T2Ytd0YwVzd3ZnFDeUQzelNMcXlHVG5TUi1BcA?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-21"
-    },
-    {
-      "title": "South Bay estate tops Dr. Phillips home sales from July 13 to 19 - West Orange Times Observer",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXZZUEhqWDI5RFd2amZrWGdraUNyZVhOOVdpRFhmNXpjZGFsVldhTlh0RDhIQzlRa1preUtPV1Q2WmU3elFjc0NKeHJNSmQ1eWk1c0haV1U0SjJaVHFmeVczaENjMk1qVUdSZHN1RXdsY2dmU0JZY2VsbUNhVDBwdDZxRGNnZXJka0h0bTA0SThocWc5YzNnLUhEZ25YNzVfTzNLWHBWVFRHeW8tWDFHRzZn?oc=5",
-      "source": "West Orange Times Observer",
-      "published": "2026-07-20"
-    },
-    {
-      "title": "Apple, Amazon lease Sunnyvale office sites - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmZTYXc3U25sQkNmV0F3eDNjTTY3cm1ybnhLTVdxZlFGVVhJcDFmOVF5alE4dUxzOWVkWjJIQUxkVWFNMXZhc0hZeHJQczFWZENldXBxSmNLVXBpYmNuOUNCdkhFM1lUUjQwSGRfdWx5NVdiOHFxb1hGVG1qZU9qMXFvUmFyT2p0WkZ4MkM1ZHNWV0w0b09kRWFLLTZRRVZnN2FsUEhZV1l1bVdLLXfSAbMBQVVfeXFMTTQxM1lsbmhHWDRvdHVBcjFGRnlOZEVxV1lOaVpUU012RUNDYnNLZm81WW1iU3pYelVVekprX2xsZnhkTUpsQzFRdUtvTUtGLWpPRjA5SkR4a3FrUGZoT0NfdXBheUZUY01SU0tqRHhQYVc5MDRKcFczdmtSYXZyMVlrd2I0ZVFkMzZCek9zb3RlZE5ZUGFJcWQzMmI0bDV6dDZ5Y3hmZXBjU1ZpTVJEWlE4T3M?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-20"
-    },
-    {
-      "title": "Not all Bay Area housing markets are benefitting from the AI boom - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3F1RWhBZzlNb0RxYXZ6RXh3T0x0VEJiUXhyRWdOdldIaTByYUw0S1B4NnFpY0lSWE1HbVMzMjU5WUt5US1SeG44SmVvdHlXMks1dm1LbmE0NXpmQ2E4QTJYWHJlX2s3TFpOUnFsNTJUWkd4SkFLQlNyREZSOEtoR3JzVC10WGZOY25weEpnV3ZvVGtkSUxpamMxQlNKaGp6TUZlMEotc3NRMklmV0lUSWdn?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-07-20"
     }
   ]
 }
