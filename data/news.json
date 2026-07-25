@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T14:56:57.458Z",
+  "updated": "2026-07-25T14:38:07.209Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -27,9 +27,21 @@
       "published": "2026-07-24"
     },
     {
-      "title": "Dai Thanh Supermarket opens its largest San Jose grocery store so far - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3h2M21INXhlNUJTUTh4X0lVUnc4a3FQLWJXYTBYM2ppSEF2Z1FVVE1HbVlHakQyTlhmNDNiZ1ZMTXJESjV1Ylk1VmFPeWs0VGtibWpBcWdZeHd0X1V1dURJaWJXWVZFUWxBeWFVa1I3YmF2bDVWRDZXdkpUR1BpR3hHWHlOZGxibjFWc3BMMUlra2NjM19kRW83UlNCNzNseWFTbndYZXpGa05Z0gGyAUFVX3lxTE56UVdEdFVkTmtEWUg1cEpnSlVXbFh6WDFndjZjamMwdG5XSnAzUWE3c2JaT1N2SmFnaXNTaTNpVDJULXljXzFjdnUxX3h4Z18tbkotVWV0TGEzbjZIOVpYMEhqT0VXNmZyNmtSbWVmVDZnM3R2c2ZPZFhGblh6a0tTTlNvWlpuQlVDMHZVZDBFTDJ6NjlkdzVtSC1oQ3ZXSFdiRjFxRmF0US1xM3c3dGN4U3c?oc=5",
-      "source": "The Mercury News",
+      "title": "Dai Thanh Supermarket opens its largest San Jose grocery store so far - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXRkZXA5Z29rbC15ajBHU2Y5eDF5X2lvdmhpdjQ3b3BjLWdzQmlTTDVJb3ctYkltRjRNSUpoUE1vVk5wdlJhMGpieDctdGVBdGd5NmRyZk5nS3N4ZDlpUUVCa2xNZkpZMm9ZYmNoQkx5LXc0eHdTMV8yWTdoU2V6cmEyQUlkUzNYY2ZCbW1ESGtrclZaWGZ3WUVrZS1UTjhrWWN5SmZKcnV0QlhTeEHSAbMBQVVfeXFMTXBfNjQtdjVDN0hfMHVtM2tZcXB2d285S1JJcTJjNUdGZ0pfS3FjYW5YUEdodWpYLXdjeUgwV1oyVmF4RV9jX3BWZk5SbkFNeUhaOURKbjZmRkp4dHlQeE56Y1F0Q05KOWg5cFFjc0t3OTlKc0hJWmhDU0prQzBZR1ZJM2NNdzJwV1dxV0RVWTZONXhEMjZHbE51aHVYQXozRDdGbVBER25KSThRbDN6aUotZE0?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-07-24"
+    },
+    {
+      "title": "Miami dethrones NYC, Bay Area as America's hottest $30M home market as wealthy flee high-tax states - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlpWMnFnMlJkcDVZR3ViWEJ2NWN1MFZtQmVEaUVkR3IwZE5Fa290Q2R6TVNNRXF2MzdiY0dSRXNYdnRDMjFOZFZ0dFFxdnBqZU1Rd193QkhwUW1MWnRUUzc2T2dwcm1yNF9TOG5iTzBKR0p0SVA5X3JSWGl3a2ljeEhla01SYUNNcU1WTnVvN3F0QzFsRkpfQVNhdzFFY29XUElpZlBnS3cxdUNEOWhpMVk4NHpJRjdJSzg5N2ZraHBsOWpqU1BmQVFOdlJxUkc1SEE?oc=5",
+      "source": "New York Post",
+      "published": "2026-07-24"
+    },
+    {
+      "title": "News | Silicon Valley high-tech research office changes hands as rebound continues - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRlJsYlBaMzZtdHR0QTU4WUNxR0Q3TWxYdjQwQ3VjaGVzcGZhR1JVeldrQUtvNFE5RldfZzdKT3pRTEVCb3FkYjF2aUc1cW9OR1BwWkRHUHJhaVMwVlh5b3JVaE9GdGFYTEgtbFlxZ0Q1QnBCQ29wODNOT2tBWklTai1FbGNvUndzZTltOXpGV0t1TEwtUTlHQzJxYXFxcV9RcjBYVUtqV0pfZlIzTGhBTGEzYlRTT3h4?oc=5",
+      "source": "CoStar",
       "published": "2026-07-24"
     },
     {
@@ -60,18 +72,6 @@
       "title": "South Bay office leasing activity hits highest level since late 2024, report shows - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEJBMllNZFVranB2dE9WZmxfYjhiRGxWSFFmQ2s3bnVwWUJyQ09adl93aTJFb1JXSUdZYV83VUt1Ym94cXhtWElJUG1obVVFcWRSNEVZUFhqT3BoeklBTGxRUHBuS0JLbEFYNGlTV3dwRUN6NElFZVdEMkVjZ3h2VjRBcEZYcTZiaUlvQjBTX3RiNGJsXzRDeldzTnpjZWFybmsyUmFWTnhQNm0tZTYyUXoxZHpuQdIBuwFBVV95cUxQMHBNQjN4c1dFMGtaRmsxQVN5T2Z4VWxBSmFDd2hrU2xpSUZpYUlVQTRCS0MtX0NUeGpTX25ydlZZZ2xad2FDY18xRzRaUHd1UHE0QUdidVU3RXU1M0xuWDl1d0F1VW02QVNNU0FFY2RXS3JrcWlMaUg3OGhqYktJLThlRFhDeVJzYnJKbk44eGZvV01LSDQ3dmwyRDlsVUtxc0lQY1VZeHgtTWtUUTdjLURfSDhyTDZ4MUhB?oc=5",
       "source": "The Mercury News",
-      "published": "2026-07-21"
-    },
-    {
-      "title": "Apple Sunnyvale Expansion Adds Another Major Office - AppleMagazine - AppleMagazine",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10YXhSLUQ3Z1pra1V3OXhuUll5N2VHdGlHbTZoY1VxOGhHN19za2hxa0VtanhBNnJ2YkZ4b2paRmRxR3kwZzg5cXBTcmExMXZ1VWNvNWJmR2VjOHlfNWdOT3lELWNnaWFBNkFvQ05XajRJWEnSAXhBVV95cUxOYXRKbjlhUTVKUXhKRmdYMHg3MXg4eVpuVXlHRmhzeGhlMThKS0JmM3Z3Qk5OQUE5M2lUUWtNQkwzVmcxajFfU25WQWNlMlJZd29vY21KVGdHMmN3VzRCblJWaU55bEFwNGdwNXVrbmI5OWtsUmV0aS0?oc=5",
-      "source": "AppleMagazine",
-      "published": "2026-07-21"
-    },
-    {
-      "title": "1143 Solana Dr, Mountain View, CA 94040 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlYVG5xTXdPaEQ2dlVheENRMl9aTU5zS3BLdDFfaVhnR0E0SFlXNUJpS3JHQ1laalFJam5XOWRTV1pjbGJ3OXZKTjdGWUZGcENfemo4em1JTlQzRGs3ZVBsQ1ZWZk8zWnRnNEdWQ1hDZWhYaGxkcTVTVHBuUU9EbHVYMDVuUjVzaTNaUUlZb2VDU1g4?oc=5",
-      "source": "Realtor.com",
       "published": "2026-07-21"
     }
   ]
