@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T15:43:03.473Z",
+  "updated": "2026-07-28T15:22:58.939Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,6 +21,12 @@
       "published": "2026-06-03"
     },
     {
+      "title": "Silver Creek grocery store in South San Jose to close - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTdGTkp6dFFqQ1NoaERKcGhKcTFXeHY2X2Zha3NQS1JpN1hkVGo2cXhUWFZUb3NmbEZtNWdMaVRPaV9tNF9SWERvMm8ya1NpVDRsZ0NhYXB5NDZnRkY5OTY3QkZsQ0VuTjBSQzdwQm1sZzN0MFVybk5zS01iYmF5NDNHcDRlN3pwRlEtSDFJQUZfNnlNSFk3RFpUNlVqalBNamdab1F1N1Noa19aQ2Zz0gG0AUFVX3lxTFBsd1JxLTV4S1VXTncydURxTU9FaENUbXBpTVZwdTJtOGRaeURhVkpET1p2LXNlVDRDS1RoZzUzOEZ4V1U0bUNXUVIzellhbG85RUVkUC1YV1VrajA3czJwX3lTR2MtUzZBVjFZbC1iazBsaVROM1dudG5FYjdqOU9sYzNoRFBMUHRGMW1Da0tHQzQxbDVLck5naEhHdVF1MXpYU3drMUIyZWpLenFTVUg4aEdWMA?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-07-27"
+    },
+    {
       "title": "532 Tyrella Ave Apt 45, Mountain View, CA 94043 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHdZSllXX1ZhcXVCeWtTaEU5aDFIVW0ySGRGdWgxOGs1dTU2VmpTSHF1bGJuTm1mc3NVbTlsZ3hhNHdNc0pFQXhpLXdmVTZwaDhFT2huOWVCNnVlREZtZkxJZnhHcWIzZXZkYWF4dkJrYUFqUHB3cDFibkZVV1phOHFLYll0UUtXZjVtM0dsc0s5WE41c2tycWtCM1RVXzQ?oc=5",
       "source": "Realtor.com",
@@ -33,27 +39,21 @@
       "published": "2026-07-24"
     },
     {
-      "title": "Dai Thanh Supermarket opens its largest San Jose grocery store so far - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3h2M21INXhlNUJTUTh4X0lVUnc4a3FQLWJXYTBYM2ppSEF2Z1FVVE1HbVlHakQyTlhmNDNiZ1ZMTXJESjV1Ylk1VmFPeWs0VGtibWpBcWdZeHd0X1V1dURJaWJXWVZFUWxBeWFVa1I3YmF2bDVWRDZXdkpUR1BpR3hHWHlOZGxibjFWc3BMMUlra2NjM19kRW83UlNCNzNseWFTbndYZXpGa05Z0gGyAUFVX3lxTE56UVdEdFVkTmtEWUg1cEpnSlVXbFh6WDFndjZjamMwdG5XSnAzUWE3c2JaT1N2SmFnaXNTaTNpVDJULXljXzFjdnUxX3h4Z18tbkotVWV0TGEzbjZIOVpYMEhqT0VXNmZyNmtSbWVmVDZnM3R2c2ZPZFhGblh6a0tTTlNvWlpuQlVDMHZVZDBFTDJ6NjlkdzVtSC1oQ3ZXSFdiRjFxRmF0US1xM3c3dGN4U3c?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-24"
-    },
-    {
       "title": "Miami dethrones NYC, Bay Area as America's hottest $30M home market as wealthy flee high-tax states - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlpWMnFnMlJkcDVZR3ViWEJ2NWN1MFZtQmVEaUVkR3IwZE5Fa290Q2R6TVNNRXF2MzdiY0dSRXNYdnRDMjFOZFZ0dFFxdnBqZU1Rd193QkhwUW1MWnRUUzc2T2dwcm1yNF9TOG5iTzBKR0p0SVA5X3JSWGl3a2ljeEhla01SYUNNcU1WTnVvN3F0QzFsRkpfQVNhdzFFY29XUElpZlBnS3cxdUNEOWhpMVk4NHpJRjdJSzg5N2ZraHBsOWpqU1BmQVFOdlJxUkc1SEE?oc=5",
       "source": "New York Post",
       "published": "2026-07-24"
     },
     {
-      "title": "841 Peach Ave, Sunnyvale, CA 94087 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2plS1otNWdMaElkQUlFQXprWG9iemIzZDNuSWN5TTRfSzFYUHBLeFNvcXlCaC1tdnppaldtUXlQZFRISUVKQ0xZMHpOSlN6YThaeWxHamc3aEUwZ0hKX05nc2pKRU1pQkRvbm5teWV1enhfdVJ4Y3hKTzhmWEFBSFdWbU1ZazdYVnM3NXJB?oc=5",
-      "source": "Realtor.com",
+      "title": "Dai Thanh Supermarket opens its largest San Jose grocery store so far - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3h2M21INXhlNUJTUTh4X0lVUnc4a3FQLWJXYTBYM2ppSEF2Z1FVVE1HbVlHakQyTlhmNDNiZ1ZMTXJESjV1Ylk1VmFPeWs0VGtibWpBcWdZeHd0X1V1dURJaWJXWVZFUWxBeWFVa1I3YmF2bDVWRDZXdkpUR1BpR3hHWHlOZGxibjFWc3BMMUlra2NjM19kRW83UlNCNzNseWFTbndYZXpGa05Z0gGyAUFVX3lxTE56UVdEdFVkTmtEWUg1cEpnSlVXbFh6WDFndjZjamMwdG5XSnAzUWE3c2JaT1N2SmFnaXNTaTNpVDJULXljXzFjdnUxX3h4Z18tbkotVWV0TGEzbjZIOVpYMEhqT0VXNmZyNmtSbWVmVDZnM3R2c2ZPZFhGblh6a0tTTlNvWlpuQlVDMHZVZDBFTDJ6NjlkdzVtSC1oQ3ZXSFdiRjFxRmF0US1xM3c3dGN4U3c?oc=5",
+      "source": "The Mercury News",
       "published": "2026-07-24"
     },
     {
-      "title": "News | Silicon Valley high-tech research office changes hands as rebound continues - CoStar",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRlJsYlBaMzZtdHR0QTU4WUNxR0Q3TWxYdjQwQ3VjaGVzcGZhR1JVeldrQUtvNFE5RldfZzdKT3pRTEVCb3FkYjF2aUc1cW9OR1BwWkRHUHJhaVMwVlh5b3JVaE9GdGFYTEgtbFlxZ0Q1QnBCQ29wODNOT2tBWklTai1FbGNvUndzZTltOXpGV0t1TEwtUTlHQzJxYXFxcV9RcjBYVUtqV0pfZlIzTGhBTGEzYlRTT3h4?oc=5",
-      "source": "CoStar",
+      "title": "841 Peach Ave, Sunnyvale, CA 94087 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2plS1otNWdMaElkQUlFQXprWG9iemIzZDNuSWN5TTRfSzFYUHBLeFNvcXlCaC1tdnppaldtUXlQZFRISUVKQ0xZMHpOSlN6YThaeWxHamc3aEUwZ0hKX05nc2pKRU1pQkRvbm5teWV1enhfdVJ4Y3hKTzhmWEFBSFdWbU1ZazdYVnM3NXJB?oc=5",
+      "source": "Realtor.com",
       "published": "2026-07-24"
     },
     {
