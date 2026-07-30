@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T15:08:53.739Z",
+  "updated": "2026-07-30T15:11:23.049Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,10 +21,34 @@
       "published": "2026-07-06"
     },
     {
+      "title": "Nvidia eyes San Jose industrial building for possible AI and advanced tech work - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGt4MXFBdnFRVlgwSDF0cnZBd0ktWUdhVlRiVkN0ek1VOV9MWEttSHdVSWszd21ZYXJzTHB1QWdXS0gyT09XUjV6WG9CVm1MNGNJS3FLNVA0TUJXRzJsT0NlcHA1LXN1aENiNTlQdXNKUTY0YldIWG44bUFPbFE1dmFsVHF2ZEtpX3RzMGRvY2lXM29jUHcwZU1BRVE4Sy0yd1lkUm53akpHNU95bXFtMdIBtgFBVV95cUxNcS1Kb2ZiTWlVcHFJbUw5Vm1tTFJHZ3Y5WE1TS0xNbW5TcGxpS0s5MW5QeFVYZy1NdWg4X2p4UjN1bXFTLW9LOWV3Z2dmTFZ0MElGem9wcU5EZklvN3RGM0p0UjQ1YUZzbS1fTFhwQXdTOHJJbzFYZkdxRlNRSi0yeVZReTJlSzB6M2ZfbVUtU0ZUWXJxc2diZVlIaVpVdVZ2MlJxTUNtcThDSUNtS1JYRGxXM21tQQ?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-07-29"
+    },
+    {
       "title": "Silicon Valley Broker Associate Arpad Racz Helps First-Time - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS25KR00xcFRjTUZoZHZJR2JRMWRuSlRNT1c3WGNzZmZxRUhpeDZNd1NfV0RmMklqV1N3dWVvelR2X01HQXRtSzV0RVpMbEwzNXpsWE9wc3FkOEFxRU05N3dpZUVPNnMxOENDbU1IbmF2dUNFUUVWdXpraFEzWFdnUXZDVERTMHVTUEY2aG1WSnloeXo0WFBOVkp1QQ?oc=5",
       "source": "openPR.com",
       "published": "2026-07-29"
+    },
+    {
+      "title": "Cities With the Fastest-growing Home Prices in the San Jose Metro Area - Stacker",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0phZlZyZ1VDYTlPcnQ0NWI4U0Ixb3Noa2VfbzEzN1A1Y24taXZXckRGd2pRMFBIS2NWUVhsT0t0UUp1NTRGRjBhbGlmNG10VlEwcmJ1VnpWSHBJUlJKZVdILWpBdzFBckNxX3VxQmd5RHlFeUk0bzd3NzM4Z19DbHR4YnYxSU9TS29YbjUxYUpGNXM5S013R2J3azhrYUh5LTN5N291QQ?oc=5",
+      "source": "Stacker",
+      "published": "2026-07-28"
+    },
+    {
+      "title": "543 Shockley Aly Unit 46, Mountain View, CA 94040 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZk1ha1I5bzM5OE05amRvVWtHTnVZVGt5R2djSDZzYl81Um5Ka1ZURHpPQ2FmdE1qOFluWl9peTVGWU4zcmxjTzl6NnZpTy1US3BLd1dvSGwxYlg3WnJVNngtRVFuVnNacUVPMVFPcm9udWVyaFdnNWt5TnY5eWVCeXVSQnZlTDZZbDdGOVZBSDl4SXhxOVZWeEJ1dw?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-28"
+    },
+    {
+      "title": "604 S Fair Oaks Ave Apt 208, Sunnyvale, CA 94086 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDJ5bnYtWlRQVDdLYVltTnRSeWtMaUh4TEV6eTM4aDByV3F3dDFDcTUxMm9McER5bHZNY2R2OXFsQjNCdkZnUEp6OFdMVDRWXzFSWms5ZV9ISWZhUWtOLXI0QWg1OHRES0w5aGZUaldTN19ac0oydHpwV1Nsd0U5d1R1eFhNQklocGpOUXdiYmx3OWJvenhLNnJ1cV9sclFB?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-28"
     },
     {
       "title": "Silver Creek grocery store in South San Jose to close - The Mercury News",
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3h2M21INXhlNUJTUTh4X0lVUnc4a3FQLWJXYTBYM2ppSEF2Z1FVVE1HbVlHakQyTlhmNDNiZ1ZMTXJESjV1Ylk1VmFPeWs0VGtibWpBcWdZeHd0X1V1dURJaWJXWVZFUWxBeWFVa1I3YmF2bDVWRDZXdkpUR1BpR3hHWHlOZGxibjFWc3BMMUlra2NjM19kRW83UlNCNzNseWFTbndYZXpGa05Z0gGyAUFVX3lxTE56UVdEdFVkTmtEWUg1cEpnSlVXbFh6WDFndjZjamMwdG5XSnAzUWE3c2JaT1N2SmFnaXNTaTNpVDJULXljXzFjdnUxX3h4Z18tbkotVWV0TGEzbjZIOVpYMEhqT0VXNmZyNmtSbWVmVDZnM3R2c2ZPZFhGblh6a0tTTlNvWlpuQlVDMHZVZDBFTDJ6NjlkdzVtSC1oQ3ZXSFdiRjFxRmF0US1xM3c3dGN4U3c?oc=5",
       "source": "The Mercury News",
       "published": "2026-07-24"
-    },
-    {
-      "title": "841 Peach Ave, Sunnyvale, CA 94087 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2plS1otNWdMaElkQUlFQXprWG9iemIzZDNuSWN5TTRfSzFYUHBLeFNvcXlCaC1tdnppaldtUXlQZFRISUVKQ0xZMHpOSlN6YThaeWxHamc3aEUwZ0hKX05nc2pKRU1pQkRvbm5teWV1enhfdVJ4Y3hKTzhmWEFBSFdWbU1ZazdYVnM3NXJB?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-24"
-    },
-    {
-      "title": "1020 Kenbridge Ct, Sunnyvale, CA 94087 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVR1eWlRYTJUcGtsaUxrZVdRblc2VlY0QVA4T0ZZNTVhLXFORGkxaTJmQ1p0QW5uTG4tVW8yMWJvSTVFdUVCb1NORFlLbWoyZVJxaTRnNExYWFk4LUFzUDMzS2UtMmpUVDRDM2JsbDJaSm9TUVcwSjlQMU9WRUZtaXpBbUMyWmN3eUZ3T0JsYjZhZG8?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-07-23"
-    },
-    {
-      "title": "South Bay tech office and lab hub lands buyer at discounted price - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3dFcWhSSnlGNEh6UDFpajFUTlFFYTFMaE9jUmVaMnBFNk4ybGJfLTZCWUFzOXRUbnZoS08xWk55aTFNMlRoa0k2WDR2eWduU0dpb2dWV19FXzBINVFEZGxfSlhQZ0VvLVFBNG9RNzBqNEZTSDctNmZabGdQWkQzcGotWlFwOFF2YjV1M1JGZ0dXcTdYQXp1VENBaTRtSWR3NnNWY3Y3a3FkRFl60gGyAUFVX3lxTE1tcV9YNHFMNkJISEVlajkwWDZyZkVYN0ZPVVZFejRWb0VMZGN2VV9XSmtSTUYwUXJPRFplWmxhbjZvM1pSVDNaUVVBd20wWlBkZDZ6YTJYWk5kR3g5SGIxa256cW1VUENoZGE4OW90TWtyX0JvUEFyaWhxWGNJTER0U0RvNFRVLXJmdHJzT0FtTEZNMFV1TzBfN0tQb1dRY2dlenAtTVBrdHA0ZHdYWjRWZlE?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-22"
-    },
-    {
-      "title": "Google renews leases for millions of square feet of South Bay offices - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUk1laV81NExhb3l5VGJDMkhIOE1ZcGY2V2JDaDNjaWc0UFdYYVpaeUltcXd3X0JmV3V3bVRzNGFjVWdPRFYzS0UwUUFySDJHRDRuVE9fZGFaOEkxcE0xZXBWVk9qeTVJNHpMakh6NmdKbV9QYnctbW1YaW9jNzZxZ0VFVTdOb1NqWXViZ3lEZmdlWFdrR2oxcUVISWJfLVRDSnZ4X1dwQ25nQUxG0gGyAUFVX3lxTE15eTJSZ2JkQlZqZ0hUUnU4V21jMFFxSEFHcDUwcEJNdWRjYkVYR285cGpPbnBaUm9LNTJCazdZaGlTc1hkaVVpVXNOdWp5cHFzVFc5R0xUdjBCQUZyYU9kUTVxbUE0Z0JQMnNlN2ZfdlBnSVhxSU9vSXZYeTBibGluVjZrQ1RDVExwQVQ2MExqZ1VSb1dFU3o2X0Z0MktzUlNnY1lsVUxrOUFyNUprMzVNY1E?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-22"
     }
   ]
 }
