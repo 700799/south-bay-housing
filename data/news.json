@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:36:51.581Z",
+  "updated": "2026-08-03T15:44:08.608Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -13,6 +13,12 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTk9zYU9NcTIxb1ZTSmtCaTFWenR6Z3lKZjB1aEphZGJsX0NKazBGTnNjYld0LUxfd1ZWcTBKQ3dJRC1oaV9xd1hXSXoxZVZCdkcxRE9Qa0xLaU5ad1NSUlZ4YTdmVmFNYWpMWlJYanNXTW9ycnR5dnJvYjFVN3JWSkJzV2tUdXcxMFhyQkxpUFBLdFZHVkFlaDNORDNqTnhvWHJXOGRTa0VFNTgw?oc=5",
       "source": "Mountain View Voice",
       "published": "2026-07-09"
+    },
+    {
+      "title": "Prometheus picks up Sunnyvale apartments for $70M as AI-driven housing crunch tightens in Silicon Valley - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnplUGlMalVkekZsZi1IR0ZvXzhland5bjJyNXVZQi1RZkhNZm03RFlDTUhTOU1pdVhXQk05b19WSjJtYkJoSGZmb0pOS0h5N1FLUTJwQWhqeGZvV29TZGU1MGp2a3BuZ09iRkw5VFJyTkluZGY5QkV5WUVWNXVRU1o4Mmp4VXViNlNTSGt1UDNYWEdqWHBTMGV6TUdSdGl1OXFiRTAtWQ?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-07-06"
     },
     {
       "title": "State ballot measure could boost Santa Clara County affordable housing - Mountain View Voice",
@@ -39,9 +45,9 @@
       "published": "2026-07-30"
     },
     {
-      "title": "Nvidia eyes San Jose industrial building for possible AI and advanced tech work - The Mercury News",
+      "title": "Nvidia eyes San Jose industrial building for possible AI and advanced tech work - mercurynews.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGt4MXFBdnFRVlgwSDF0cnZBd0ktWUdhVlRiVkN0ek1VOV9MWEttSHdVSWszd21ZYXJzTHB1QWdXS0gyT09XUjV6WG9CVm1MNGNJS3FLNVA0TUJXRzJsT0NlcHA1LXN1aENiNTlQdXNKUTY0YldIWG44bUFPbFE1dmFsVHF2ZEtpX3RzMGRvY2lXM29jUHcwZU1BRVE4Sy0yd1lkUm53akpHNU95bXFtMdIBtgFBVV95cUxNcS1Kb2ZiTWlVcHFJbUw5Vm1tTFJHZ3Y5WE1TS0xNbW5TcGxpS0s5MW5QeFVYZy1NdWg4X2p4UjN1bXFTLW9LOWV3Z2dmTFZ0MElGem9wcU5EZklvN3RGM0p0UjQ1YUZzbS1fTFhwQXdTOHJJbzFYZkdxRlNRSi0yeVZReTJlSzB6M2ZfbVUtU0ZUWXJxc2diZVlIaVpVdVZ2MlJxTUNtcThDSUNtS1JYRGxXM21tQQ?oc=5",
-      "source": "The Mercury News",
+      "source": "mercurynews.com",
       "published": "2026-07-29"
     },
     {
@@ -63,15 +69,9 @@
       "published": "2026-07-28"
     },
     {
-      "title": "Silver Creek grocery store in South San Jose to close - The Mercury News",
+      "title": "Silver Creek grocery store in South San Jose to close - mercurynews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTdGTkp6dFFqQ1NoaERKcGhKcTFXeHY2X2Zha3NQS1JpN1hkVGo2cXhUWFZUb3NmbEZtNWdMaVRPaV9tNF9SWERvMm8ya1NpVDRsZ0NhYXB5NDZnRkY5OTY3QkZsQ0VuTjBSQzdwQm1sZzN0MFVybk5zS01iYmF5NDNHcDRlN3pwRlEtSDFJQUZfNnlNSFk3RFpUNlVqalBNamdab1F1N1Noa19aQ2Zz0gG0AUFVX3lxTFBsd1JxLTV4S1VXTncydURxTU9FaENUbXBpTVZwdTJtOGRaeURhVkpET1p2LXNlVDRDS1RoZzUzOEZ4V1U0bUNXUVIzellhbG85RUVkUC1YV1VrajA3czJwX3lTR2MtUzZBVjFZbC1iazBsaVROM1dudG5FYjdqOU9sYzNoRFBMUHRGMW1Da0tHQzQxbDVLck5naEhHdVF1MXpYU3drMUIyZWpLenFTVUg4aEdWMA?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-27"
-    },
-    {
-      "title": "807 Mulberry Ln, Sunnyvale, CA 94087 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGJhVTVaWWRQRnJpc1hlVG5RUWljaGZ5MGI2ZDl4dlNUdUVlSUNqeG5UZllUTXQwRnlQMlFiQmhGMXRLbzlfa3BZUkVDZTBlRmxtR2dKbWptWUFUUFZPSW1aUWM4SHk4Q0d0ZDhERzZ4YWVVMDJaTXpqSkdDbERSQTBHTmN1UGtNQ09SVHBKUHY?oc=5",
-      "source": "Realtor.com",
+      "source": "mercurynews.com",
       "published": "2026-07-27"
     }
   ]
