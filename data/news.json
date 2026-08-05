@@ -1,13 +1,7 @@
 {
-  "updated": "2026-08-04T15:25:13.914Z",
+  "updated": "2026-08-05T15:14:34.130Z",
   "source": "Google News RSS",
   "items": [
-    {
-      "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWlQbGFLZ0tmak9ZQUhRV3JiWG5JTGJ0MF9VRDhUVGVvTUR6NXU1ai1ocTEwMWlNQUx6SXh4bGxxdWdJNzRzeTd6OUU0UkZhdjBQNzNza09NNTNDc0JNSHVDNGhQR0Y2TXFVQTZYUVNkRVZhS2xKWjJLTHVrN19rOHBDRHdYRlVPbk43MVBGcG9zWkhHZUlrNGwtZ2w0cjRaNkUyaFVpajJMRVhHREE?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-07-24"
-    },
     {
       "title": "Mountain View sees slowest property value growth in Santa Clara County - Mountain View Voice",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTk9zYU9NcTIxb1ZTSmtCaTFWenR6Z3lKZjB1aEphZGJsX0NKazBGTnNjYld0LUxfd1ZWcTBKQ3dJRC1oaV9xd1hXSXoxZVZCdkcxRE9Qa0xLaU5ad1NSUlZ4YTdmVmFNYWpMWlJYanNXTW9ycnR5dnJvYjFVN3JWSkJzV2tUdXcxMFhyQkxpUFBLdFZHVkFlaDNORDNqTnhvWHJXOGRTa0VFNTgw?oc=5",
@@ -39,16 +33,16 @@
       "published": "2026-08-03"
     },
     {
-      "title": "Atherton is the country’s priciest zip code again, and Santa Clara County’s commercial sector heats up - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnBkU3NJcE1CMmNfNkNUYnhnUWNRaDU4M0NjcWhnelpJSlo2V29nTGFwNGdZY0FXbHc3QUlXRks4QUFialp6UGNFcXV6dHVkcFduOC1keDRhazJ2bVVzQVMzMjEtWm9kdjZ4RkxzZEd0U0dDU0FJcm5hZ1FkTHVZTWNvNWZHRlFMWjVlSmljN1ZtZFQ5cl8wNExucHNTOUR2dFRTN3JtRTVHcEE?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-08-01"
-    },
-    {
       "title": "1143 Solana Dr, Mountain View, CA 94040 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlYVG5xTXdPaEQ2dlVheENRMl9aTU5zS3BLdDFfaVhnR0E0SFlXNUJpS3JHQ1laalFJam5XOWRTV1pjbGJ3OXZKTjdGWUZGcENfemo4em1JTlQzRGs3ZVBsQ1ZWZk8zWnRnNEdWQ1hDZWhYaGxkcTVTVHBuUU9EbHVYMDVuUjVzaTNaUUlZb2VDU1g4?oc=5",
       "source": "Realtor.com",
       "published": "2026-07-31"
+    },
+    {
+      "title": "532 Tyrella Ave Apt 45, Mountain View, CA 94043 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHdZSllXX1ZhcXVCeWtTaEU5aDFIVW0ySGRGdWgxOGs1dTU2VmpTSHF1bGJuTm1mc3NVbTlsZ3hhNHdNc0pFQXhpLXdmVTZwaDhFT2huOWVCNnVlREZtZkxJZnhHcWIzZXZkYWF4dkJrYUFqUHB3cDFibkZVV1phOHFLYll0UUtXZjVtM0dsc0s5WE41c2tycWtCM1RVXzQ?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-30"
     },
     {
       "title": "1935 S Sunnyvale Rd # 172092A, Mesa, AZ 85206 - Realtor.com",
@@ -63,16 +57,22 @@
       "published": "2026-07-29"
     },
     {
-      "title": "543 Shockley Aly Unit 46, Mountain View, CA 94040 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZk1ha1I5bzM5OE05amRvVWtHTnVZVGt5R2djSDZzYl81Um5Ka1ZURHpPQ2FmdE1qOFluWl9peTVGWU4zcmxjTzl6NnZpTy1US3BLd1dvSGwxYlg3WnJVNngtRVFuVnNacUVPMVFPcm9udWVyaFdnNWt5TnY5eWVCeXVSQnZlTDZZbDdGOVZBSDl4SXhxOVZWeEJ1dw?oc=5",
+      "title": "241 Granada Park Cir, Mountain View, CA 94043 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1YyYkYtelBqWkdvTFM2SGxJWU41bkY0NU1XaFJpMjRITmJLbnowU25uTnJtS2dtd01seDBUNVZqM1NmSEJhV1RCQUJFMkJfYmZWVXlQaXRiZkZuSEExc2l3RFRyVW9fRXJELU94N3dvelNYV3V4TlhHYk50Q00xN3pIQjQyS0pGMmZCX09RVjhJNU51bDVmQ0Q5UUs?oc=5",
       "source": "Realtor.com",
+      "published": "2026-07-29"
+    },
+    {
+      "title": "Cities With the Fastest-growing Home Prices in the San Jose Metro Area - Stacker",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0phZlZyZ1VDYTlPcnQ0NWI4U0Ixb3Noa2VfbzEzN1A1Y24taXZXckRGd2pRMFBIS2NWUVhsT0t0UUp1NTRGRjBhbGlmNG10VlEwcmJ1VnpWSHBJUlJKZVdILWpBdzFBckNxX3VxQmd5RHlFeUk0bzd3NzM4Z19DbHR4YnYxSU9TS29YbjUxYUpGNXM5S013R2J3azhrYUh5LTN5N291QQ?oc=5",
+      "source": "Stacker",
       "published": "2026-07-28"
     },
     {
-      "title": "Silver Creek grocery store in South San Jose to close - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTdGTkp6dFFqQ1NoaERKcGhKcTFXeHY2X2Zha3NQS1JpN1hkVGo2cXhUWFZUb3NmbEZtNWdMaVRPaV9tNF9SWERvMm8ya1NpVDRsZ0NhYXB5NDZnRkY5OTY3QkZsQ0VuTjBSQzdwQm1sZzN0MFVybk5zS01iYmF5NDNHcDRlN3pwRlEtSDFJQUZfNnlNSFk3RFpUNlVqalBNamdab1F1N1Noa19aQ2Zz0gG0AUFVX3lxTFBsd1JxLTV4S1VXTncydURxTU9FaENUbXBpTVZwdTJtOGRaeURhVkpET1p2LXNlVDRDS1RoZzUzOEZ4V1U0bUNXUVIzellhbG85RUVkUC1YV1VrajA3czJwX3lTR2MtUzZBVjFZbC1iazBsaVROM1dudG5FYjdqOU9sYzNoRFBMUHRGMW1Da0tHQzQxbDVLck5naEhHdVF1MXpYU3drMUIyZWpLenFTVUg4aEdWMA?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-07-27"
+      "title": "11030 Firethorne Dr, Sunnyvale, CA 95014 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODBrYWZyQjV5bkJjX0dsdW1ZSmNZRWt5RWtsb256Y0RVNjQwQlFNOHFkYlpSeDdtTXRjWDRkNWVIRVRDUDRiUlFQQTF2ODRGZmxiTV96OVNTNEFST2RKNTJCQi1PWjFybGU3YzRHZVVaTU13V1hUbThMVTRnTnpHM2RaQzhiLWdDbW84ZGdVRDh1WDhpcnc?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-07-28"
     }
   ]
 }
