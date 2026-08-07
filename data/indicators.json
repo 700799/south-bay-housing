@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-06T15:15:29.144Z",
+  "updated": "2026-08-07T14:13:06.871Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 6.66,
+      "value": 6.69,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.08,
+          "delta": 0.03,
           "direction": "up"
         },
         "14d": {
@@ -18,11 +18,11 @@
           "direction": "up"
         },
         "30d": {
-          "delta": 0.17,
+          "delta": 0.26,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.13,
+          "delta": 0.21,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.04,
+      "value": 6.01,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.08,
-          "direction": "up"
+          "delta": -0.03,
+          "direction": "down"
         },
         "14d": {
-          "delta": 0.11,
+          "delta": 0.05,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.2,
+          "delta": 0.22,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.17,
+          "delta": 0.22,
           "direction": "up"
         }
       }
@@ -60,15 +60,15 @@
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.02,
-          "direction": "up"
+          "delta": -0.04,
+          "direction": "down"
         },
         "14d": {
-          "delta": 0,
-          "direction": "flat"
+          "delta": -0.04,
+          "direction": "down"
         },
         "30d": {
-          "delta": 0.14,
+          "delta": 0.15,
           "direction": "up"
         },
         "60d": {
@@ -155,24 +155,24 @@
     {
       "key": "listprice",
       "label": "Median List Price (South Bay Metro)",
-      "value": 1385000,
+      "value": 1346944,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -13000,
+          "delta": -38056,
           "direction": "down"
         },
         "14d": {
-          "delta": -13000,
+          "delta": -38056,
           "direction": "down"
         },
         "30d": {
-          "delta": -13000,
+          "delta": -38056,
           "direction": "down"
         },
         "60d": {
-          "delta": -13500,
+          "delta": -51056,
           "direction": "down"
         }
       },
@@ -181,24 +181,24 @@
     {
       "key": "newlistings",
       "label": "New Listings (South Bay Metro)",
-      "value": 1234,
+      "value": 1192,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -258,
+          "delta": -42,
           "direction": "down"
         },
         "14d": {
-          "delta": -258,
+          "delta": -42,
           "direction": "down"
         },
         "30d": {
-          "delta": -258,
+          "delta": -42,
           "direction": "down"
         },
         "60d": {
-          "delta": -398,
+          "delta": -300,
           "direction": "down"
         }
       }
@@ -206,49 +206,49 @@
     {
       "key": "inventory",
       "label": "Active Listings (South Bay Metro)",
-      "value": 2212,
+      "value": 2021,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": 13,
-          "direction": "up"
+          "delta": -191,
+          "direction": "down"
         },
         "14d": {
-          "delta": 13,
-          "direction": "up"
+          "delta": -191,
+          "direction": "down"
         },
         "30d": {
-          "delta": 13,
-          "direction": "up"
+          "delta": -191,
+          "direction": "down"
         },
         "60d": {
-          "delta": 193,
-          "direction": "up"
+          "delta": -178,
+          "direction": "down"
         }
       }
     },
     {
       "key": "dom",
       "label": "Median Days on Market",
-      "value": 37,
+      "value": 40,
       "unit": " days",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 8,
+          "delta": 3,
           "direction": "up"
         },
         "14d": {
-          "delta": 8,
+          "delta": 3,
           "direction": "up"
         },
         "30d": {
-          "delta": 8,
+          "delta": 3,
           "direction": "up"
         },
         "60d": {
-          "delta": 9,
+          "delta": 11,
           "direction": "up"
         }
       }
