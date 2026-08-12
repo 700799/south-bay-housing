@@ -41,9 +41,10 @@ If a fetch fails or no API key is set, it falls back to seed data in
    replace `FORM_ID` in `index.html` with your form ID and confirm the first email.
 5. **(Optional) first data run**: Actions → *Daily data update* → *Run workflow*.
    (Scheduled cron only runs from the default branch.)
-6. **Headshot**: the hero loads Anna's photo from her live site URL with an
-   automatic "AN" initials fallback. To self-host it, save the image to
-   `assets/img/anna-headshot.jpg` and point the hero `<img src>` there.
+6. **Headshot**: the hero loads Anna's photo from the self-hosted file
+   `assets/img/anna-headshot.jpg` (also used for the Open Graph, Twitter, and
+   schema.org images), with an automatic "AN" initials fallback if it ever
+   fails to load. To swap the photo, replace that file.
 
 ## Local development
 `fetch()` cannot read local JSON over `file://`, so use a tiny web server:
