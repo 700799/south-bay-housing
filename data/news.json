@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:16:12.457Z",
+  "updated": "2026-08-15T13:31:36.610Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,9 +21,9 @@
       "published": "2026-08-08"
     },
     {
-      "title": "News | Top property sales recognized for South Bay/San Jose - CoStar",
+      "title": "News | Top property sales recognized for South Bay/San Jose - costar.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0w3TmpJRDJ0QlZldWZtQkZDbUdjRDVKaHczWmNqWkw0ekhTSjFyaFppU2w4NlFObEdfRTYxNlpUS2pBTTJ2UFg1dEwtYmhYZXJkZHRmNjZDRXEzc2g3VW9OUm53M0t1V1E4RkRmSDRmNldOZURmbmg5RE9CVkx4SmNaSjlVeU5lcGtac3duUWRhTXNKaFlr?oc=5",
-      "source": "CoStar",
+      "source": "costar.com",
       "published": "2026-08-03"
     },
     {
@@ -39,20 +39,32 @@
       "published": "2026-07-06"
     },
     {
+      "title": "Affordable townhomes planned for East San Jose - San José Spotlight",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHNYckFXdVdtam9KSklIQ2VONlNLZlpaY05Nby0wM0NIVTFjMlBONjNjdUhyZ1J6YXBaTkZxNV91TFhXdEtnRnNzTUVzSVoyOEVZTE8wcmg0UnlFVzQ1dGIybnV0VEg0SmhmY0FESTlrcG1NTVZJdjg1YWdPRmlfeXJ3?oc=5",
+      "source": "San José Spotlight",
+      "published": "2026-08-14"
+    },
+    {
       "title": "Whiskey Myers Mountain View live concert - tickets - Karlobag.eu",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ29lalhTWXVPTFh2NFZGcTN3ajk0S2VfLWdhNDV3d1VNS2ViTUxxYl9QTzBhOUc5VW9BSVVNWE92cDVCOEVXV0tQTFRTc3JJSWVnNmtNUm12NG5MOEdYaGp6U2NvSVdFS0d1VXJVWmtYd3FKbmo1V3c3NjVQeEJKM1d4bmJEU3pQME5ZcGVwR3RKdXc?oc=5",
       "source": "Karlobag.eu",
       "published": "2026-08-14"
     },
     {
-      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - paloaltoonline.com",
+      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
+      "source": "SFGATE",
+      "published": "2026-08-11"
+    },
+    {
+      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
-      "source": "paloaltoonline.com",
+      "source": "Palo Alto Online",
       "published": "2026-08-10"
     },
     {
       "title": "Top Real Estate Agent in Sunnyvale, CA: Tony Vo - Newswire.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFFFYlB0LTFtZzBwbjdLNmpkMEltZGQ1R2xRVnFQcUlPWnA5Mm9MNDE3R3d2LXk2UjY5Q3o2RldzVTdCRVJlYVczeTZOeHBBRnBrSWlQU05aZEpLWUk0d3JIUjhpRVFZWTluZlRFMFM3UE56NnMtRThaMVgzeXhHVTRBdEl4Q1ZVb1hv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcG9FT2tJc1UyUFV0NmlYdXljVGJCUUpLSEstaml2ajV1RzVQbmRrOFp1OFhZTkstVkljN0JkWUpfRW1HS29KZ0J4ZlBRcC1sTWxWbUFsckpPVmdsTC1TVVd0eUFDMEVnbUUwTjBVSjdJY1VGYVpqaldOM2VYTkVCWQ?oc=5",
       "source": "Newswire.com",
       "published": "2026-08-10"
     },
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcklDMVYwQ3ZiZUhnUFJISHNmcEYtODdDelgzRlg2ckxLeE80a1Q3VkRaS3dZbjdfTDdxWnFJMjRlczRrQTRjX184SFlzOFNwSjZxSDN2UUxGUVZfT1lTQ0Z0RjEzaEpBbTMwS3NheVdMQWxqUGNNY1VZTFduYUtxRG1jUE1GWmZXdGJuZlotc0prRC1R?oc=5",
       "source": "San José Spotlight",
       "published": "2026-08-10"
-    },
-    {
-      "title": "642 Blythe Ct Apt 23, Sunnyvale, CA 94085 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkZoazNnVnRvNXBwSVNsR3V5SmhsQUVIdHdPWFUxVTRmWUFnTlJaZGpBcm5rWHNzUHNISk1FNGNwM2M2Vk5SWnQ0azAzcnkzek1pVHAwMENVSkxHbXBjTFRkbnNRaWZMYnpsdGNGbXFhOFU1SjA5clVTMXU0TlRVNHdDYkp3OE1hNDBQdmszWU43R1lKMzg0?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-08-10"
-    },
-    {
-      "title": "252 Ginko Ter, Sunnyvale, CA 94086 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTgzRjZ6dWdZaWxxNjFib3BDbGxFMVBHS1BRX2xRQU45d1NLNE5mMWk1bEJPMXlFOWppcm9teTBYMDdXWkhfTF91dzRYRnFYeTFHYXhxZ2s1RFQ1UHMyLTZCSC1oYlAtWl9aRW5MaFJSMDREdkIzQVdaSm5xaUhBdlYxRW5RR2Q5am4wZFR3?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-08-07"
     }
   ]
 }
