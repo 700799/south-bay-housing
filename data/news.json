@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T13:31:36.610Z",
+  "updated": "2026-08-16T13:32:27.985Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,10 +21,16 @@
       "published": "2026-08-08"
     },
     {
-      "title": "News | Top property sales recognized for South Bay/San Jose - costar.com",
+      "title": "News | Top property sales recognized for South Bay/San Jose - CoStar",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0w3TmpJRDJ0QlZldWZtQkZDbUdjRDVKaHczWmNqWkw0ekhTSjFyaFppU2w4NlFObEdfRTYxNlpUS2pBTTJ2UFg1dEwtYmhYZXJkZHRmNjZDRXEzc2g3VW9OUm53M0t1V1E4RkRmSDRmNldOZURmbmg5RE9CVkx4SmNaSjlVeU5lcGtac3duUWRhTXNKaFlr?oc=5",
-      "source": "costar.com",
+      "source": "CoStar",
       "published": "2026-08-03"
+    },
+    {
+      "title": "City of Santa Clara led Silicon Valley on housing production in 2025 - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1dTQ2Jnb21iWERwVkdjVy1CY0RXMGtGU3VqWVo4WEtRZXBXYkswd1I4UXc2UHFqX2F0RFlTLTB5MU43WVoyN0RlTmFGVnZHVmZGVGdZWUQ5ZGZPdHBybFVoNVd2VEpYcW1yX2VURGt1V1ZweGtnMFNLZ0w0M3BzaDBuUUtRdVFvd3Q1SmtaSVFFM1JSMGs3MDF6ZlVfWHIyalN2MGg1Yw?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-07-24"
     },
     {
       "title": "Mountain View sees slowest property value growth in Santa Clara County - Mountain View Voice",
@@ -60,12 +66,6 @@
       "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
       "source": "Palo Alto Online",
-      "published": "2026-08-10"
-    },
-    {
-      "title": "Top Real Estate Agent in Sunnyvale, CA: Tony Vo - Newswire.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcG9FT2tJc1UyUFV0NmlYdXljVGJCUUpLSEstaml2ajV1RzVQbmRrOFp1OFhZTkstVkljN0JkWUpfRW1HS29KZ0J4ZlBRcC1sTWxWbUFsckpPVmdsTC1TVVd0eUFDMEVnbUUwTjBVSjdJY1VGYVpqaldOM2VYTkVCWQ?oc=5",
-      "source": "Newswire.com",
       "published": "2026-08-10"
     },
     {
