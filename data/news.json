@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:45:59.889Z",
+  "updated": "2026-08-20T13:48:35.696Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -15,16 +15,16 @@
       "published": "2026-08-11"
     },
     {
-      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVGh2RFAwR2xIWGNRN3I4alBMTDhtLU1qaEROWlRvdFZ2NFY4bDhZVnRqV1lNS1VBQ0lCc0ZlbjdQLTAtTEZvZmtQN1JjcGV4bV9ESWh2X2NkLW9QazR2ZTZCa25jVkVyOUZGLVR0Y3JYTkszaENzWVYwYUcyRUlpYjJTMnFfWldrb3FwajBnbnZpUEE5dmt0cGdpQzhkQUFQM0M3QTk4Y0NYM082ZnB2b0gzZngzc25wbUptdDNVTXV3T2xYZ25OeVI4ZC1VSC1Pb0xxMW9DR0F2RGVyS2ZUSk43NTZUazJkZC1reDdIakl6aXpSSllVNWNoWnowdw?oc=5",
-      "source": "Detroit Free Press",
-      "published": "2026-08-08"
-    },
-    {
       "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Akron Beacon Journal",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLVZxaTJYVTFnZ1hnLTFrTkE0VTlNMDByZlAyWk1Ka0c5VFlFczZXdXA2cThDb2lyMGJXTW1ScnUyUGxQSnhMZXJhQmlIa21VTFVockFtaklOcXo1RDN4dkNSU1lubGhGVFBVRWtDcTB2Uk91dVk3Q0xUSWRqVTJmVFZfSU45bi1CX19qR25VaUgxZ3dhd2JkR1RMalJBQjNaaGtNcGY3SUpvek5lNEoxYmJkdndHUk1mYmpQd0tRbGQtUnUxdWh1eEVoTGtWeE5PNlo2bTRscFhscjMxTE44QXNYZjRpcllYMm43VkdqcU51elFmR21HRklMYmNoNXlsTkNGbkVLMVo?oc=5",
       "source": "Akron Beacon Journal",
       "published": "2026-08-08"
+    },
+    {
+      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVGh2RFAwR2xIWGNRN3I4alBMTDhtLU1qaEROWlRvdFZ2NFY4bDhZVnRqV1lNS1VBQ0lCc0ZlbjdQLTAtTEZvZmtQN1JjcGV4bV9ESWh2X2NkLW9QazR2ZTZCa25jVkVyOUZGLVR0Y3JYTkszaENzWVYwYUcyRUlpYjJTMnFfWldrb3FwajBnbnZpUEE5dmt0cGdpQzhkQUFQM0M3QTk4Y0NYM082ZnB2b0gzZngzc25wbUptdDNVTXV3T2xYZ25OeVI4ZC1VSC1Pb0xxMW9DR0F2RGVyS2ZUSk43NTZUazJkZC1reDdIakl6aXpSSllVNWNoWnowdw?oc=5",
+      "source": "Detroit Free Press",
+      "published": "2026-08-07"
     },
     {
       "title": "News | Top property sales recognized for South Bay/San Jose - CoStar",
@@ -45,6 +45,18 @@
       "published": "2026-07-06"
     },
     {
+      "title": "IBM San Jose research hub draws developer interest ahead of rezoning - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnoxRFh3TmJFVkxFeEQtZ1dObkI3aVF3U3kxVnQ5R1dVNkhwRm9qQVdka3ZxRVpxeEFiMlk1dlB2Z2ZhSzk0NGQ2ZWFRcTJIbEdjdnNSZUZWUEpTczZXMlN1cE1GbHloZ3N0ZWlmU0NHd1dHUmQ4MFNtcUJvQi13eDlKYkJBVVZISzBwU1h5SDRLajFFTVkzTjY1WXM5ZjU4dUVrbjNpTWJteWkxUUlnMtIBtgFBVV95cUxNaXZldE9KTU9XOTBrTDNnQWdvSmo1ejBIZTBzUUtXREl0RjJWcnNSVDNJZENGYl93Z1NuM0draUpUZWdyVFJjT0JfR2Z5QXBwR0R4WkdTYzlLYjdGMHFfenk1VHNDb3RYOGFpc0UyRm9ZMW4zYW41aFNWMlRJZ1d1T2g2QnI0M0UwVlZrNFU5dzg0dWJVaDM3Yl80d3JXS1RJUjBKdFhpbFFIN2R4Zkk3QmZncnFfZw?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-08-19"
+    },
+    {
+      "title": "IBM San Jose research hub draws developer interest ahead of rezoning - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZmFza3RLRU1kbm1sb0tqZVNRZkxNSUpxQ21YeWJiN1FXakpXWGN5WlRUTExGTVRISERfQlVYQUUzT1M0aUxHcTM5V3VRYnR5MHhqeTlIZEdmcnVzVVJMTElxajRLN3kzcWhja1Y1ckl3TFRTU1A2X19HR2JxMFFUVVpITm16R2owTWJ2RFJ5ZUZHbjNEc0tRVERsS3N2S1c1b3p4bU9faVE0Mk1melBR0gG0AUFVX3lxTFBFOVRnNGVEQkM0R25vbVBId1VRaks3NUQ5NzBvaThaVG45czRLTzVBNHZyZHFlVWZxY0FVM0tRenRZYWdLUGVaZEZWSnB5dmVmY2hnU3pBTUNLRlRTYWV0LUt5NUt6N2ZWTmZrbGJZYVYzS1B1OTlUN1BUTHBVQllIQXU0TXA4dk5GM1JvQUJpdzYtM1FHZ3pjem9NcTF2Z2IwYjFSTndXbnFwR3ExZFh2VmtFcA?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-08-19"
+    },
+    {
       "title": "South Bay estate tops Dr. Phillips home sales from Aug. 10 to 16 - Orange Observer News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGp2NWpZZlVsay1Sa3Nybk8xMTdKVEJLZFVtT1JOZGVONnY2S28wQ1d6bDRFUGtLWjlURFJuTFgweXlVS3paNUtPYkpveWRWeklOQkM2SHpYMVg3RGw2aWUzR2xwYzVvLUd2ZHJRc2VkMF9DVy0yUUJHZ0x2YU1GNGRRaC12SVo0MkFuRVFZLTFfaEVaZWJ2UW80anNjRnQ0cHRqR2U5am9rQmdWdmtOYg?oc=5",
       "source": "Orange Observer News",
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ29lalhTWXVPTFh2NFZGcTN3ajk0S2VfLWdhNDV3d1VNS2ViTUxxYl9QTzBhOUc5VW9BSVVNWE92cDVCOEVXV0tQTFRTc3JJSWVnNmtNUm12NG5MOEdYaGp6U2NvSVdFS0d1VXJVWmtYd3FKbmo1V3c3NjVQeEJKM1d4bmJEU3pQME5ZcGVwR3RKdXc?oc=5",
       "source": "Karlobag.eu",
       "published": "2026-08-14"
-    },
-    {
-      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
-      "source": "Palo Alto Online",
-      "published": "2026-08-10"
-    },
-    {
-      "title": "Mountain View residents face eviction to make way for condos - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcklDMVYwQ3ZiZUhnUFJISHNmcEYtODdDelgzRlg2ckxLeE80a1Q3VkRaS3dZbjdfTDdxWnFJMjRlczRrQTRjX184SFlzOFNwSjZxSDN2UUxGUVZfT1lTQ0Z0RjEzaEpBbTMwS3NheVdMQWxqUGNNY1VZTFduYUtxRG1jUE1GWmZXdGJuZlotc0prRC1R?oc=5",
-      "source": "San José Spotlight",
-      "published": "2026-08-10"
     }
   ]
 }
