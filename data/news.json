@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:32:59.086Z",
+  "updated": "2026-08-23T13:32:58.535Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,10 +21,10 @@
       "published": "2026-08-07"
     },
     {
-      "title": "News | Top property sales recognized for South Bay/San Jose - CoStar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0w3TmpJRDJ0QlZldWZtQkZDbUdjRDVKaHczWmNqWkw0ekhTSjFyaFppU2w4NlFObEdfRTYxNlpUS2pBTTJ2UFg1dEwtYmhYZXJkZHRmNjZDRXEzc2g3VW9OUm53M0t1V1E4RkRmSDRmNldOZURmbmg5RE9CVkx4SmNaSjlVeU5lcGtac3duUWRhTXNKaFlr?oc=5",
-      "source": "CoStar",
-      "published": "2026-08-03"
+      "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWlQbGFLZ0tmak9ZQUhRV3JiWG5JTGJ0MF9VRDhUVGVvTUR6NXU1ai1ocTEwMWlNQUx6SXh4bGxxdWdJNzRzeTd6OUU0UkZhdjBQNzNza09NNTNDc0JNSHVDNGhQR0Y2TXFVQTZYUVNkRVZhS2xKWjJLTHVrN19rOHBDRHdYRlVPbk43MVBGcG9zWkhHZUlrNGwtZ2w0cjRaNkUyaFVpajJMRVhHREE?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-07-24"
     },
     {
       "title": "Prometheus picks up Sunnyvale apartments for $70M as AI-driven housing crunch tightens in Silicon Valley - The Real Deal",
@@ -63,16 +63,16 @@
       "published": "2026-08-14"
     },
     {
-      "title": "Whiskey Myers Mountain View live concert - tickets - Karlobag.eu",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ29lalhTWXVPTFh2NFZGcTN3ajk0S2VfLWdhNDV3d1VNS2ViTUxxYl9QTzBhOUc5VW9BSVVNWE92cDVCOEVXV0tQTFRTc3JJSWVnNmtNUm12NG5MOEdYaGp6U2NvSVdFS0d1VXJVWmtYd3FKbmo1V3c3NjVQeEJKM1d4bmJEU3pQME5ZcGVwR3RKdXc?oc=5",
-      "source": "Karlobag.eu",
-      "published": "2026-08-14"
-    },
-    {
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
       "published": "2026-08-11"
+    },
+    {
+      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
+      "source": "Palo Alto Online",
+      "published": "2026-08-10"
     }
   ]
 }
