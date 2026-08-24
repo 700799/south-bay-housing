@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:32:58.535Z",
+  "updated": "2026-08-24T13:52:58.574Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -33,6 +33,12 @@
       "published": "2026-07-06"
     },
     {
+      "title": "State ballot measure could boost Santa Clara County affordable housing - Mountain View Voice",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEpkNEREaDNJQk5KRGRyNnExSmJhZUdHZ0ZaX05ROHp4a2V0VFhKN1BSY0dHZ01WREJLbDdIaV9oTW4tNWdTV1l4TnNJOFpRWUMzaE4xTExfLUt0VW5jcDlkSVoxTkVXcEdmck45cXI0cXBLV1N6Zjlrb2QyMlRtOU5RU01jQkFreTJfY2Itcl9uNFk4SGZ1dlYzNHZpMzREdkpwbndKNl9zbnJCOEY5eW9NUXdBUQ?oc=5",
+      "source": "Mountain View Voice",
+      "published": "2026-07-01"
+    },
+    {
       "title": "His rent is $0. A Bay Area affordable housing surge made it possible - East Bay Times",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1F3ODNlV1BxcFdjY09OZkFfc2dtaF9ncmN3YVc2YmhCa3VmaENuOFdQcEUtdUM1dVN4WF9IQUZEaldoc0ZHOW9vTmZJeG5GUnhxc2h0cmNlV2VCWjFnS19QNUd6UnBScmQtSjlYQm8yakpoSGZJT0xVMVlzRlpIRlNaa0Z3T0ItSFJBY3U0UDZ2OGxUdThv0gGXAUFVX3lxTE1vUXc4M2VXUHFwV2NjT05mQV9zZ21oX2dyY3dhVzZiaEJrdWZoQ244V1BwRS11QzV1U3hYX0hBRkRqV2hzRkc5b29OZkl4bkZSeHFzaHRyY2VXZUJaMWdLX1A1R3pScFJyZC1KOVhCbzJqSmhIZklPTFUxWXNGWkhGU1prRndPQi1IUkFjdTRQNnY4bFR1OG8?oc=5",
       "source": "East Bay Times",
@@ -63,16 +69,10 @@
       "published": "2026-08-14"
     },
     {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-08-11"
-    },
-    {
-      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
-      "source": "Palo Alto Online",
-      "published": "2026-08-10"
+      "title": "Whiskey Myers Mountain View live concert - tickets - Karlobag.eu",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ29lalhTWXVPTFh2NFZGcTN3ajk0S2VfLWdhNDV3d1VNS2ViTUxxYl9QTzBhOUc5VW9BSVVNWE92cDVCOEVXV0tQTFRTc3JJSWVnNmtNUm12NG5MOEdYaGp6U2NvSVdFS0d1VXJVWmtYd3FKbmo1V3c3NjVQeEJKM1d4bmJEU3pQME5ZcGVwR3RKdXc?oc=5",
+      "source": "Karlobag.eu",
+      "published": "2026-08-14"
     }
   ]
 }
