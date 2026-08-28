@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T22:51:34.619Z",
+  "updated": "2026-08-28T22:55:32.729Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -7,12 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGNSS0U4MEFYcHQ0eUE5WWFZb1dCUDZocF9FNE5RcDVqWTgyYnhXTHhIYlRwMFRhNG9NTnd5R3hxaVl0Q0RPaHB3OW1KZWtkV2RrTFd3UEtVRVV2eVo2NU9fMkszeUlIbnA0VHduaXlXNEgzZm5SUS1SVHhOeE9fRGxESm5uWGhMamFHeXVqczE4QTVKTVE?oc=5",
       "source": "The Business Journals",
       "published": "2026-08-20"
-    },
-    {
-      "title": "Sunnyvale Leads County in Tax-Base Growth - The Silicon Valley Voice",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xSkpRM0pOY3ZMbU1DYmtoc19ja3ZLMG44TkJMeE9pMXpsZDUwUnpKTXd4MGY2WENQWklZanpsNEhtejI3a1lBQVp6Nldsd0V5QWtMNnMzbm5HdFVhcV8ySUY5YnFGWEk3ZzNRamgyMDF2STRa0gF6QVVfeXFMT2FaWEJCUlZKQzVDQUJ2VHNIOXc3Qmt1a1lwa05tRnJFYTZNaldiVndIMUgtNjJYY1BobEVHSWltOTdqMkl4b1FxY25JS2lSckQtdC1YdS1LSkNtbGRaTTFuVm1vdERFSGp1LXBlNE9CSi14MXJFVFFBSGc?oc=5",
-      "source": "The Silicon Valley Voice",
-      "published": "2026-08-18"
     },
     {
       "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - The Tennessean",
@@ -33,9 +27,21 @@
       "published": "2026-07-06"
     },
     {
-      "title": "Senior housing development could sprout at San Jose train stop - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXVNdERxem9kWVZTd1Fkb1QyT3FvTjFhaWpaYnF1WWtPSzhKLU1ORDdZckk2MklPZlpiTHlKWVlZWWE1aG1VUV9OYXVIRm9kMG5DZTZnc184a2p0aXQ5Q3R6YWVlU0wtY25ncy03Z0tWVE43Z1RTeW5tOVNja0lmZDdTU2NZVWZLMGZDV2tsdFlTLThnSGRVSGVKZlIzTG82WlloeTl5TzBwb0FXTi1sajBhT0bSAbQBQVVfeXFMUGV1TXREcXpvZFlWU3dRZG9UMk9xb04xYWlqWmJxdVlrT0s4Si1NTkQ3WXJJNjJJT2ZaYkx5SllZWVlhNWhtVVFfTmF1SEZvZDBuQ2U2Z3NfOGtqdGl0OUN0emFlZVNMLWNuZ3MtN2dLVlRON2dUU3lubTlTY2tJZmQ3U1NjWVVmSzBmQ1drbHRZUy04Z0hkVUhlSmZSM0xvNlpZaHk5eU8wcG9BV04tbGowYU9G?oc=5",
+      "title": "Senior housing development could be built near light rail station in San Jose - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDVaUlRsQkFKb2Nya29WMm1hbHA1ODJsUUtrRk5LdGo0cHRSR0VPTWZvTlZXZmJteHBtZXZ2S1E4Z0lkY0JXdTc4R0NRd0xZZWtvSThhZ2ptNVdVOGZ0Z0QtMG9lZjFHZTRlNEVKZ042cGVqMXVLeHhrcEt4MlhzSTVRS3FsU0c3eGZiZ01nUTNyWk1mRXJ4MGRMZHlLSDZRR2p2aEs0aGNDU25MUEsw0gG0AUFVX3lxTFBldU10RHF6b2RZVlN3UWRvVDJPcW9OMWFpalpicXVZa09LOEotTU5EN1lySTYySU9mWmJMeUpZWVlZYTVobVVRX05hdUhGb2QwbkNlNmdzXzhranRpdDlDdHphZWVTTC1jbmdzLTdnS1ZUTjdnVFN5bm05U2NrSWZkN1NTY1lVZkswZkNXa2x0WVMtOGdIZFVIZUpmUjNMbzZaWWh5OXlPMHBvQVdOLWxqMGFPRg?oc=5",
       "source": "The Mercury News",
+      "published": "2026-08-27"
+    },
+    {
+      "title": "How much did the 10 most expensive homes sell for in South Bay, reported in the week of July 20? - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjdhM2x5RlVzUGhxcUxYMl93WU5KTHhBMnhNeldHSlJNQVk2MGloTWt6dTY5d2RFRC10VnZ6Nm81NWJsRzQxRTFkcFU1RUhFMVhmVGE2Q1hVMVBKQVNKek9Jd3J2WGdsZlg0NXBZSnF2dy1hakdnM1BxelJBcXBOcE9KYmxBeDh0ekdxaVFhOFgwWG1sNlNhWUNUNkJ0WjJNazgwZHlIUXM1b2VPOHl3VFdZV1hsUHd5Z2ZaMzZlNDJJR2l0SkpYZE5LWkFGQ3BZdk1oY1J30gHWAUFVX3lxTE52N2EzbHlGVXNQaHFxTFgyX3dZTkpMeEEyeE16V0dKUk1BWTYwaWhNa3p1Njl3ZEVELXRWdno2bzU1YmxHNDFFMWRwVTVFSEUxWGZUYTZDWFUxUEpBU0p6T0l3cnZYZ2xmWDQ1cFlKcXZ3LWFqR2czUHF6UkFxcE5wT0pibEF4OHR6R3FpUWE4WDBYbWw2U2FZQ1Q2QnRaMk1rODBkeUhRczVvZU84eXdUV1lXWGxQd3lnZlozNmU0MklHaXRKSlhkTktaQUZDcFl2TWhjUnc?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-08-27"
+    },
+    {
+      "title": "San Jose apartment complex sells for $122M as rents climb - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmpyWFRPNmhMQ0sxYUpIYTFDSGJ2Z0FSZDg0QkYyMHdZdi1tR2NYdFc2cENFX0NWQ2QzekNLN2ZJMUhHUWV6bUJLcHlFSk9aUWlBajZ6OGpSemxEbHNCZDZGeFF3dDdNYTdpSU9pQkFqLW5GQjltdXhFNmFycWZKMzk1ZlhqU01YSXNVQ29uZDNBZ0IydnkwUlRzdDJQZnRGcVo2ZEh3?oc=5",
+      "source": "The Business Journals",
       "published": "2026-08-27"
     },
     {
@@ -63,16 +69,10 @@
       "published": "2026-08-14"
     },
     {
-      "title": "San Francisco moves ahead of Santa Clara County as the state’s No. 2 most-expensive place to buy a home - Palo Alto Online",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUMyQ2RtODRDbWMtX00ySkJOa3NLSGhQWG9JUWVUWVBwZWJlN1lpajg1UTN4X0dzVzJIc3ZBMjVHbFdJVlMyYU9rSm8xQkhSZUdHTzllMkhsTWoxMnpvM0VUMDF2c2tLUHpoRFhIMTZGTGZzYTVwVTRDUVM5RnRaeUtIbHB3V1ZtZjJEUlpqanlQLXRwVlRuelpGby1NakE0MmpxZFMtczhBU3BCWUxBa3JwTU90SHp1Zzg4SGdtM0VSalBfOWdoSzZQZlVqSEpUS0FGTXIwMGw2SlNkTFNjbDNUbDczNmZPU1E?oc=5",
-      "source": "Palo Alto Online",
-      "published": "2026-08-10"
-    },
-    {
-      "title": "Top Real Estate Agent in Sunnyvale, CA: Tony Vo - Newswire.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFFFYlB0LTFtZzBwbjdLNmpkMEltZGQ1R2xRVnFQcUlPWnA5Mm9MNDE3R3d2LXk2UjY5Q3o2RldzVTdCRVJlYVczeTZOeHBBRnBrSWlQU05aZEpLWUk0d3JIUjhpRVFZWTluZlRFMFM3UE56NnMtRThaMVgzeXhHVTRBdEl4Q1ZVb1hv?oc=5",
-      "source": "Newswire.com",
-      "published": "2026-08-10"
+      "title": "Bay Area homeownership dilemma - KTVU",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3bWNPNTNoQ2loeEFReEY1MGZONHlkZHFyNGY5R2pMNmdPU0JkdGFpazQ3bWRSVXhWX3JXbjFidWN0TUY5TWVFb3hXdVlvRWxRblRkcmRfR3BpUVHSAWBBVV95cUxOLVMxbXBQSkljMUIwdFl1MDkxbHN2Vl9acjBrWEYzeDdvT2F4NWRkUFJpR2FJcVRDajZlNEhjRHhna3RFMHd1WGdMdjhmOEdxMHV2UkpHUG1SVFdqS0pJaWQ?oc=5",
+      "source": "KTVU",
+      "published": "2026-08-11"
     }
   ]
 }
