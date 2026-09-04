@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:57:49.226Z",
+  "updated": "2026-09-04T16:45:57.793Z",
   "source": "FRED",
   "rows": [
     {
@@ -60,15 +60,15 @@
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.15,
+          "delta": 0.13,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.08,
+          "delta": 0.14,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.04,
+          "delta": 0.09,
           "direction": "up"
         },
         "60d": {
@@ -155,24 +155,24 @@
     {
       "key": "listprice",
       "label": "Median List Price (South Bay Metro)",
-      "value": 1346944,
+      "value": 1349000,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -38056,
-          "direction": "down"
+          "delta": 2056,
+          "direction": "up"
         },
         "14d": {
-          "delta": -38056,
-          "direction": "down"
+          "delta": 2056,
+          "direction": "up"
         },
         "30d": {
-          "delta": -38056,
-          "direction": "down"
+          "delta": 2056,
+          "direction": "up"
         },
         "60d": {
-          "delta": -51056,
+          "delta": -36000,
           "direction": "down"
         }
       },
@@ -181,49 +181,49 @@
     {
       "key": "newlistings",
       "label": "New Listings (South Bay Metro)",
-      "value": 1192,
+      "value": 1292,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -42,
-          "direction": "down"
+          "delta": 100,
+          "direction": "up"
         },
         "14d": {
-          "delta": -42,
-          "direction": "down"
+          "delta": 100,
+          "direction": "up"
         },
         "30d": {
-          "delta": -42,
-          "direction": "down"
+          "delta": 100,
+          "direction": "up"
         },
         "60d": {
-          "delta": -300,
-          "direction": "down"
+          "delta": 58,
+          "direction": "up"
         }
       }
     },
     {
       "key": "inventory",
       "label": "Active Listings (South Bay Metro)",
-      "value": 2021,
+      "value": 1981,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -191,
+          "delta": -40,
           "direction": "down"
         },
         "14d": {
-          "delta": -191,
+          "delta": -40,
           "direction": "down"
         },
         "30d": {
-          "delta": -191,
+          "delta": -40,
           "direction": "down"
         },
         "60d": {
-          "delta": -178,
+          "delta": -231,
           "direction": "down"
         }
       }
@@ -231,25 +231,25 @@
     {
       "key": "dom",
       "label": "Median Days on Market",
-      "value": 40,
+      "value": 36,
       "unit": " days",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 3,
-          "direction": "up"
+          "delta": -4,
+          "direction": "down"
         },
         "14d": {
-          "delta": 3,
-          "direction": "up"
+          "delta": -4,
+          "direction": "down"
         },
         "30d": {
-          "delta": 3,
-          "direction": "up"
+          "delta": -4,
+          "direction": "down"
         },
         "60d": {
-          "delta": 11,
-          "direction": "up"
+          "delta": -1,
+          "direction": "down"
         }
       }
     },
