@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:50:33.425Z",
+  "updated": "2026-09-06T16:01:35.925Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -7,6 +7,18 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGNSS0U4MEFYcHQ0eUE5WWFZb1dCUDZocF9FNE5RcDVqWTgyYnhXTHhIYlRwMFRhNG9NTnd5R3hxaVl0Q0RPaHB3OW1KZWtkV2RrTFd3UEtVRVV2eVo2NU9fMkszeUlIbnA0VHduaXlXNEgzZm5SUS1SVHhOeE9fRGxESm5uWGhMamFHeXVqczE4QTVKTVE?oc=5",
       "source": "The Business Journals",
       "published": "2026-08-20"
+    },
+    {
+      "title": "Sunnyvale Leads County in Tax-Base Growth - The Silicon Valley Voice",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xSkpRM0pOY3ZMbU1DYmtoc19ja3ZLMG44TkJMeE9pMXpsZDUwUnpKTXd4MGY2WENQWklZanpsNEhtejI3a1lBQVp6Nldsd0V5QWtMNnMzbm5HdFVhcV8ySUY5YnFGWEk3ZzNRamgyMDF2STRa0gF6QVVfeXFMT2FaWEJCUlZKQzVDQUJ2VHNIOXc3Qmt1a1lwa05tRnJFYTZNaldiVndIMUgtNjJYY1BobEVHSWltOTdqMkl4b1FxY25JS2lSckQtdC1YdS1LSkNtbGRaTTFuVm1vdERFSGp1LXBlNE9CSi14MXJFVFFBSGc?oc=5",
+      "source": "The Silicon Valley Voice",
+      "published": "2026-08-18"
+    },
+    {
+      "title": "San Jose Spotlight: Santa Clara County Affordable Housing Stuck In Pipeline - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzFjcTBqdFo4SEJOcXVSU2JKYkxIa0N3TmZpV28yd1lkX0tfY2szclhuQ1FLaXk2VHBDM1FGcDI4bGhaWktlMTFSQU1RaHQ1Sm9SZFZmejhySHdnRDk5RXQ0OWVBSXdMdVFKVy1STjlwbVBKZGNfZlc2d2hnNE5LblNTeGg0aU1YeVpMSWs3di12NkFXX0ZMX2J3YjU0a09RM3hUS0c2OXU?oc=5",
+      "source": "SFGATE",
+      "published": "2026-08-14"
     },
     {
       "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - The Business Journals",
@@ -21,33 +33,27 @@
       "published": "2026-09-04"
     },
     {
-      "title": "Gamel Way developer cuts down affordable units for builder’s remedy project - Mountain View Voice",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVZXNjV0c1ZpWXFETk8tTFlUYld0aHF6ZE54ODJjdENNOHVCbTZ6QXN5Wkc4WWFlSXh6MlpvNERlSklqOE02Uk5QNWRUb0JnX0FEUkFEMEtWYzF3VFFzZDFIME5NRjNoaHR1ZWZUYmpFc0p1WTVPUmk4MEJudGgzeU14eUtzZ3lUcXBFRHhBM1hoLVduR3ktaU9CSXh4bzlrZUZmRGRxRld0QlgyMkZMQ3dUWVl0cmw3Zl9J?oc=5",
-      "source": "Mountain View Voice",
-      "published": "2026-09-04"
-    },
-    {
-      "title": "Buying binge for San Jose apartments grows with $300 million-plus deal - mercurynews.com",
+      "title": "Buying binge for San Jose apartments grows with $300 million-plus deal - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDdnbTVUb0RqSUtDTGJKZXdkbnc0ejM0cXVvMTMySUNtQ01OLTc4Y3Z3Rm9feWQ5YVZGa1k1MzZqbkoyZmxNTjlDeWdMZDlhWEZGalR2VlBfVkdsdWc3QVprbUJadE80YWY5ZTZ6Q3NTckxZcFNhSHJXLUdGOVE2YllPazVZbHY5NllmX1pQZ3cyNGpMQ2JjaHhXdmJiY1FCbDRNbUJtTdIBrAFBVV95cUxNUDBLamRodk9NYmg1R1RqLTc1QlVQM2ZKMXFPWnR6TTFjMlRsMjZhNnJnQkU5UGNFcy1aLXVsR3FNQjJ2Y2xmcTlkMWdzYzUxMF9SdFktQWVxNkV6YkVvUGVfbVdBQTZQNldGWDR0M1BBUG9iSUxXOGt5VTM2MTZqWTViNDdISFhsZVdjeHJJY1FwdVY4XzdCY1NrSzJNa0pqdHMwczROblM2LXJt?oc=5",
-      "source": "mercurynews.com",
+      "source": "The Mercury News",
       "published": "2026-09-03"
     },
     {
-      "title": "KKR Buys West San Jose's Lynhaven for $346.5 Million - Hoodline",
+      "title": "KKR Buys West San Jose's Lynhaven for $346.5 Million - hoodline.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFBkcWtrYTY5MVdxT3hsVXA4c3NSZ3dZZHUyaEVSV0k0SjVPSTRkODFORGpoeEl2aGtndEtSWGpTRDZVeDhucXFaNFZiaWJfY3VxWm1XUnFuaER0YmNDeGRuUGJHRDJHU1NOemxOb3JPc2MtVk1wVC04dnB6N3ZMUE9McTJaOVV4?oc=5",
-      "source": "Hoodline",
+      "source": "hoodline.com",
       "published": "2026-09-03"
     },
     {
-      "title": "City gives final approval to downtown San Jose affordable homes project - mercurynews.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PbWhrZnVmNHFJaTFuT0lMWkNoaVdrMjZCa2JaRmwyMEtKcWRkNDJqU0djQklxa0lXdTd1eU9wR1duX3FHMlk3RHF2V0c2MWtaQW9DMlBUMjN4dVR0QWlycHMtMGp2NTJIR3JDV2NHR0xNYUxjNzVVcTJCVVbSAcoBQVVfeXFMUG5MUUNURi1tSkt6Z0V2ajJRUkFTTkdlZjBmMUVzY2RKSUhLTnZ1bDk4QUFfdDVSNW5QZThScjBiLWxPc1BUc2VFTVJiM1E2Rlo4R1VuNVMxbnprWkExVzhyX2lUWmZ0ZU5RNHl4NmQyQWQxX3dtNmdVQzk1MmhqWWZUQzFyOGRYVmZETEtsVkNKcERKVW1nYzkwLWNGQ0gwTEJWemY3aHZUTEM4dXhxd2FWM0ZLOGpES1RPWmRmbElKekYxYlFGUV9qQQ?oc=5",
-      "source": "mercurynews.com",
-      "published": "2026-09-02"
+      "title": "Google, other companies eye South Bay tech building suitable for AI work - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF9fbXgtS1lQcHBmdTNLQ0RyUjlPQjZaXzllWm9NMUVnOEdUeVMxR0tJeVlNZ19tcGhzR3F2cU5sTlpicVNOUjgtbUlZS2h0Mi1vUFFHSXpYUUFJbVFCUkZZMVlySi15MlZXc2V1OTVta3M0OWQ5SlNrdmF5ajU0YzdvX21TTTRwNmxtY2xhSGhUZnJ6UXkxN3NKYlVUcWd1Ym5kN2tST2dyZm1i0gGyAUFVX3lxTE1iWTFSSUFEOUk4Q0Q4QmMta1poZWxLNlFOSUE4NkVpZ01lVkNTYjROLXRCbm85WFpxZ19lTjlEOEVfUk8wMGVpb0RZVlRSUU94cjdTdndCRUI4UEN6VjFOcUJkVGYtQV9wMUhXZXQ5VFNxM2lneklsdUlxU2g4am9BMU1JSk8yNHJMdGkweDJROHRjdUVPdHF2QWx2SzJ2X2VVSkZUSWtmUkdsazhTdkg1R1E?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-09-01"
     },
     {
-      "title": "Google, other companies eye South Bay tech building suitable for AI work - mercurynews.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF9fbXgtS1lQcHBmdTNLQ0RyUjlPQjZaXzllWm9NMUVnOEdUeVMxR0tJeVlNZ19tcGhzR3F2cU5sTlpicVNOUjgtbUlZS2h0Mi1vUFFHSXpYUUFJbVFCUkZZMVlySi15MlZXc2V1OTVta3M0OWQ5SlNrdmF5ajU0YzdvX21TTTRwNmxtY2xhSGhUZnJ6UXkxN3NKYlVUcWd1Ym5kN2tST2dyZm1i0gGyAUFVX3lxTE1iWTFSSUFEOUk4Q0Q4QmMta1poZWxLNlFOSUE4NkVpZ01lVkNTYjROLXRCbm85WFpxZ19lTjlEOEVfUk8wMGVpb0RZVlRSUU94cjdTdndCRUI4UEN6VjFOcUJkVGYtQV9wMUhXZXQ5VFNxM2lneklsdUlxU2g4am9BMU1JSk8yNHJMdGkweDJROHRjdUVPdHF2QWx2SzJ2X2VVSkZUSWtmUkdsazhTdkg1R1E?oc=5",
-      "source": "mercurynews.com",
+      "title": "Santa Clara County home aid workers see pay increase - mv-voice.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmtZamZMY05OekRQbGROWUNtdXRKcUo4aGFfcmxCeGh4Vmp4anhMaTl1ZThGVlp1bDlveUJPZVpnWlhyV0xURzFlSWVyZXFJUC1VS1BvZGc3Z1FzMWtpR0FRVnZtRUNjcHVpTVNVLTBHTGJUMTBVNnNwX0M0YkNfTzhUcTNQbkVPZTUtOVpXRlZZQlpTeERmZEZlMTFNRVF0SHAw?oc=5",
+      "source": "mv-voice.com",
       "published": "2026-09-01"
     },
     {
@@ -57,22 +63,16 @@
       "published": "2026-08-31"
     },
     {
-      "title": "Eight Mountain View Council Hopefuls Clash Over Housing, Hotel Tax at Packed Forum - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3NMMlRKSWppRXRUMllwT2JOWHhfRWpCNk92alNHS3M0MnhoT1dGT3JVRHF4VVRBdDdtYWFUWVcyOXFFMlBoVkhfRkZhU3BIdnJBU2VYSXdFVnR4eHFFdzRyMFduNnFSMHJEbjJzLTVyZkloUkNmZFRvcm9udFZIaVVWZXRUT2I2UFE2cVdPeGc3aWZpTFVvRTRrb1B4TjNJYmZ6RmRqUk9lVXBEcjNXQw?oc=5",
-      "source": "Hoodline",
+      "title": "3925 Mountain View Rd Apt C3, Oakwood, GA 30566 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3Bpdk5CYUN1X2t2OGtaMjRkYmo0eEVNdDZNcUp3RjNZUkRqcXpvMkpkdHhoRmNUM1dDc0dIU0w3LWk0UTkxOFNxZXJ3Y3ZHdGJmQ1hveGN1Y2hldFhJSm41Znd1SFRjeDBSYU1jR2Ywa0FGbndYVUNSQVRpeWl0Rk9fZjV5eERnbUh1UXZXaGlJRHhiQXNMX2NDQ1ZCSVU?oc=5",
+      "source": "Realtor.com",
       "published": "2026-08-31"
     },
     {
-      "title": "Santa Clara County home aid workers see pay increase - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUFLUWQ5b3ZGTk1MTkd6Ym1seE5OQ0pBMldsZk1ZYUhqVktsUGtpaF96WGdhV0JNSGdJMFhsVnVqX3d1ZVJXa3U1d2x2bFlEZUhZMHB4LTdhVGdxMUthY1JHdS04a25KeG5JRGtBVlMwLWV3UHBuOTdGWVJtaXF0Q01CSkJ0QzFySkE?oc=5",
-      "source": "San José Spotlight",
-      "published": "2026-08-30"
-    },
-    {
-      "title": "Umair Khan: ‘AI can be the great equalizer’ - Mountain View Voice",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1I5X3JYdnNLV3RJb09saW96S2R5Smg3ZFRlMVFIYlFDOGNzbzQ1M1RjajdxZndMY2dUaG1BN0RfUTBPVWhRR2xFMWFPcmRrV0d6dW1kYk1hZjZnUks4UkhMYjlpaU9aT1VYSjVLRnV0cEltRml6Smk4Y01iXzFERjVJQUJDRmxhU09VR0xrX0YtQQ?oc=5",
-      "source": "Mountain View Voice",
-      "published": "2026-08-27"
+      "title": "Eight Mountain View Council Hopefuls Clash Over Housing, Hotel Tax at Packed Forum - hoodline.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3NMMlRKSWppRXRUMllwT2JOWHhfRWpCNk92alNHS3M0MnhoT1dGT3JVRHF4VVRBdDdtYWFUWVcyOXFFMlBoVkhfRkZhU3BIdnJBU2VYSXdFVnR4eHFFdzRyMFduNnFSMHJEbjJzLTVyZkloUkNmZFRvcm9udFZIaVVWZXRUT2I2UFE2cVdPeGc3aWZpTFVvRTRrb1B4TjNJYmZ6RmRqUk9lVXBEcjNXQw?oc=5",
+      "source": "hoodline.com",
+      "published": "2026-08-31"
     }
   ]
 }
