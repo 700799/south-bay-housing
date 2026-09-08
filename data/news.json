@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T18:08:34.282Z",
+  "updated": "2026-09-08T17:06:55.163Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -19,12 +19,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xSkpRM0pOY3ZMbU1DYmtoc19ja3ZLMG44TkJMeE9pMXpsZDUwUnpKTXd4MGY2WENQWklZanpsNEhtejI3a1lBQVp6Nldsd0V5QWtMNnMzbm5HdFVhcV8ySUY5YnFGWEk3ZzNRamgyMDF2STRa0gF6QVVfeXFMT2FaWEJCUlZKQzVDQUJ2VHNIOXc3Qmt1a1lwa05tRnJFYTZNaldiVndIMUgtNjJYY1BobEVHSWltOTdqMkl4b1FxY25JS2lSckQtdC1YdS1LSkNtbGRaTTFuVm1vdERFSGp1LXBlNE9CSi14MXJFVFFBSGc?oc=5",
       "source": "The Silicon Valley Voice",
       "published": "2026-08-18"
-    },
-    {
-      "title": "San Jose Spotlight: Santa Clara County Affordable Housing Stuck In Pipeline - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzFjcTBqdFo4SEJOcXVSU2JKYkxIa0N3TmZpV28yd1lkX0tfY2szclhuQ1FLaXk2VHBDM1FGcDI4bGhaWktlMTFSQU1RaHQ1Sm9SZFZmejhySHdnRDk5RXQ0OWVBSXdMdVFKVy1STjlwbVBKZGNfZlc2d2hnNE5LblNTeGg0aU1YeVpMSWs3di12NkFXX0ZMX2J3YjU0a09RM3hUS0c2OXU?oc=5",
-      "source": "SFGATE",
-      "published": "2026-08-14"
     },
     {
       "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Knoxville News Sentinel",
@@ -51,12 +45,6 @@
       "published": "2026-09-04"
     },
     {
-      "title": "Tour Vishal Dadlani's Pune Farmhouse With Mountain View, Pool, And Home Studio - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFR0VDl2ZWFGd2YyNjBRQ3gwQ01xM0VsVVBRU1Q5d3FYRHExWkpMbnprTXhUR1M3ODh0cm5tQzNPS0ZJTk04dDhqQzVKOTRNU3VOWXBiakNHR0xaVG0zd3YwVHo2NmpaeTBJeFBCckdQMFNNTWhmaG9Nakh4Rk40dXNCZ2hkZkFOTGt0dS1wWnN6Wk1VcnFlR0tObXNCejl2MUhiWlI5SVRDOTd2cHJFQUxnN1dJQdIBvgFBVV95cUxNTXNvMUEzSHcwdjdZX3RucHFDTFZDNkJzeTE1VUk2TldFNURHdnJQVFhFTUhDTUMtNUc5ampsV0pqcmhSenVFQjZEZ1otZnpCMnFEOG44a1Z1REx4RXZ3YWF5dzRIVHNsdWRfaEVKYXQ3Szk2bjNGbW5XRWV4emFtek5JWVhQcjM0MGVaMklFbUpodFctOVpkVTNMZ1Z4V3hfVVBobVY5T0FJN0tqLUVtRGRuYjItQkp2YUMzRldn?oc=5",
-      "source": "NDTV",
-      "published": "2026-09-04"
-    },
-    {
       "title": "Buying binge for San Jose apartments grows with $300 million-plus deal - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDdnbTVUb0RqSUtDTGJKZXdkbnc0ejM0cXVvMTMySUNtQ01OLTc4Y3Z3Rm9feWQ5YVZGa1k1MzZqbkoyZmxNTjlDeWdMZDlhWEZGalR2VlBfVkdsdWc3QVprbUJadE80YWY5ZTZ6Q3NTckxZcFNhSHJXLUdGOVE2YllPazVZbHY5NllmX1pQZ3cyNGpMQ2JjaHhXdmJiY1FCbDRNbUJtTdIBrAFBVV95cUxNUDBLamRodk9NYmg1R1RqLTc1QlVQM2ZKMXFPWnR6TTFjMlRsMjZhNnJnQkU5UGNFcy1aLXVsR3FNQjJ2Y2xmcTlkMWdzYzUxMF9SdFktQWVxNkV6YkVvUGVfbVdBQTZQNldGWDR0M1BBUG9iSUxXOGt5VTM2MTZqWTViNDdISFhsZVdjeHJJY1FwdVY4XzdCY1NrSzJNa0pqdHMwczROblM2LXJt?oc=5",
       "source": "The Mercury News",
@@ -69,9 +57,21 @@
       "published": "2026-09-01"
     },
     {
+      "title": "Santa Clara County aims to protect voting rights - San José Spotlight",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWM3alUxdzlyVkdxdzJyR1dEZFJXOGZzZGxLOTFtNlJzSm9GclBMM1c0cDhSd3l4bFY2R2FqaFM1cHdkVmxzcC0zd2xZeWhnSmFkVWs3dlRhTlpPXy01U0dBcTZPMGg5UC1ibjc0YnZRZ3pvMjlWaFdRT1Z6bGd1S1R2c1I?oc=5",
+      "source": "San José Spotlight",
+      "published": "2026-09-01"
+    },
+    {
       "title": "Redevelopment plan draws backlash in South San Jose - San José Spotlight",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcElucTNuNHFKSkdLRkZIMVFTVUtfZTlEa3hqbEpCTW9KV28tcWtUcUVlSWM3WFVYV0FoV2hIdzdDMXZkVFl3bUFMbVhxY2FuQXhfMjAzZEEyYmpFQ2Zvc0pFVnhUcUh6MDJBUnZtMV9vVElQQ2I2Z0JLMW9uYXBZQVU3SGxCX2NQ?oc=5",
       "source": "San José Spotlight",
+      "published": "2026-08-31"
+    },
+    {
+      "title": "Real Estate Quarterly: South Bay Boom - labusinessjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDhkV2tKNU1ZeUhuZG5iOXRxdXFaYVgtcGRrV052UHZOMFljdDhRRUlfQVVEMDJ1YW52MWFlWUVxM3dxODduNzExeWJiZHh6aU1KZUtnRE5YcUg5S0dKdmlpVi1GUkcxZGRTQVZQSk5Xdmd5VlZNQ3dpMEVBMXBRRXlMcGNVQkttZVZB?oc=5",
+      "source": "labusinessjournal.com",
       "published": "2026-08-31"
     }
   ]
