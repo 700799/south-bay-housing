@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:04:44.410Z",
+  "updated": "2026-09-10T16:55:13.152Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,9 +21,9 @@
       "published": "2026-08-18"
     },
     {
-      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - IndyStar",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNamZHLTZscm5yTEVMblV0X21xaEMxVmlBSGN2LUdEWlB6N2xkaTRfNU0xWkkwUTNCVldEUmp6cExPVy05Zm9hQmZwaDFZWUU2QkN5RXFwczk4R1RkM3BQeEM1cnBQeUMzcUNoUDN0R0VVMWpvbm44a2ZMR2ozUzF6eFhmczVxMFF6aFJ6cll5TVQ3OEhRRFBHS2I4bklHeWp0MjBoaVlEVTdpQWVRNzZNc1JoU2ViS1RrR3dRbG9KZ2NXdEdfOU5GRnpBTmNxX3RWYVRzQlhtWlduajEwUnRmcXA3aVAwZU1YbmZ1UjhWVW9UQ25GOEU2ZzJWSDV4bHZiZlE?oc=5",
-      "source": "IndyStar",
+      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Knoxville News Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUDQ5c3BQSFRlSmtHTUJjc0h0NnhJeVZaQUtHV2xSUVV5T0VpRjVMeWhlRFlSYnJtak5KZUtXcGozMjJfYWEtN0l4aHlLVE1jLUZ6UW0tVWRiMHY3QjZuTVAtMkgxMkN4WUMxTVluQWdLOE1vcXJYc2JGVmx1ZzNfbzMzY2dCOUhrTy1CN25FeGZORTRhdDVjQkc5VE5JcFNjYzBMaE4ybTBsUHdsOEJYanp6SDdmVGV5dFdrSW4yY0JZTHhzcVNXUU8wT3pvU3pFVXpmQjBTci1kQU9wUUp0YkpJT0s5a09iT3BGZXNtNU04ZEltWHJlVktqRWNjcVpSZHc?oc=5",
+      "source": "Knoxville News Sentinel",
       "published": "2026-08-07"
     },
     {
@@ -31,6 +31,30 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWlQbGFLZ0tmak9ZQUhRV3JiWG5JTGJ0MF9VRDhUVGVvTUR6NXU1ai1ocTEwMWlNQUx6SXh4bGxxdWdJNzRzeTd6OUU0UkZhdjBQNzNza09NNTNDc0JNSHVDNGhQR0Y2TXFVQTZYUVNkRVZhS2xKWjJLTHVrN19rOHBDRHdYRlVPbk43MVBGcG9zWkhHZUlrNGwtZ2w0cjRaNkUyaFVpajJMRVhHREE?oc=5",
       "source": "The Business Journals",
       "published": "2026-07-24"
+    },
+    {
+      "title": "1159 LA Rochelle Ter Unit F, Sunnyvale, CA 94089 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEtaUi12U0NaczZ2YzFZS1ZRVlVha0toRzdlTi1ZVlFjQ1k4dF84aHQxYTZMeVZleVNLZnpWbHdDcUQySmZfNVRxR2JBbFNmZzJiZXMwMEZMQzRvV3lwdGpUTy1EX2FUSkJhN2wxQTBSTm9MVUxVY0hlVjJUS2taanBuTDREM3pXdHBkN0RQR1hDZTZ4c204cHJoR3lfZHRI?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-09-10"
+    },
+    {
+      "title": "Best Realtor in Mountain View, CA | Yvonne Yang Homes - ACCESS Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlJ0QldKa215MExyNmsxYWVkTVNibWNUMUg0aDdjVnFDYzMwVjQtWVR1eVhiazN2MHlJV0s5VWxDWHVjTWhKTldSTGZnZzljZF90S2VOQmt6c2k2Mi01VllMT3lQMnQ3b3dOeWJHMWV6Z09TZzBwT0F0UkIzYk5JQUZhWVNoeG1GLWE0Q29YOHFWeUhwcWp3akJOaXRyTFpQb1ZlR3Q1SDRVVGM?oc=5",
+      "source": "ACCESS Newswire",
+      "published": "2026-09-10"
+    },
+    {
+      "title": "Santa Clara County Data Centers Surge 23%, Now Second-Most in US - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSG1WSmRmdldtc3JJRE1mbHVsMFg3eG5IaHJUTkw1STFLRXU4eWE1TnBPd2xhVXRyNnZySm84MDd5Rl9sc1BXcEF4dWJOUzNNdmk0QzZOamQwM25STC05VjFTUVpJTHFZQzNLSnJMWUFoWDEyM2I1TkRoc3JnZDVwZVNrakhBcTU2RlhHX0FOMXM0bG0xblAw?oc=5",
+      "source": "Hoodline",
+      "published": "2026-09-10"
+    },
+    {
+      "title": "Santa Clara County among top locations for data centers in US, report shows - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEduUDhzMG02ZkZNRjRLdFhrTkJGWWV5M0h4ay1qZmxKZUkyRmpvT1JLcFBDSUs4ZVlUVktndGh2MlJvdGU0OWg1aGxmM0JjRFdzV3lLSEE4bnBkQ0s5U3BySVA3Y0ZQemhRV25QZEhyaVJhenJmRy1GYnZMTXRqbmtuMThQUnlQX2x3RkdGS2c3MkpGOGtna19lRXVXZmlGMUctUjdxNHllRUlxSWtJ0gG0AUFVX3lxTFBTaUtfU2cyaHBoTmZmRFhoTy05WExWOHBzTmZnS3NUbHNMZlRFWDN3VUNTQUhzeFByWndXSkR5dk1RSE5kYzd0akVGekYtZVlCbXg3VUdvcjJzRnpxemdDV2wycUVTTjFhX0xCb3k5T2VuZzRqc2JmcTdQYVNlTzNqRHM4RXVfdFpNVzBpTXFpR2FTMEdrS0JCcWtZV2JWTXpvV0RJQ19NYjVlUlFSWGl2bjRBRw?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-09-09"
     },
     {
       "title": "Sprouts Farmers Market proposed for shuttered San Jose store site - The Mercury News",
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUS1leVN2UHdNN1poUEdlWlVGX0NZWEUwQTl4eUlrd1ZLZlJSLXBFR0N6a2VNS3FtVlRxa0Z6T3NKdkVYRHB6SkQ0Vm9wcUhQeGZZdFN1dFc1V1dUajR0ZHM1TElmalB6U0NWS01mWlNjNFF4QTJLLXZQR3A1N1FNSkhQcGQzQQ?oc=5",
       "source": "San José Spotlight",
       "published": "2026-09-07"
-    },
-    {
-      "title": "KKR scoops up San Jose apartments for nearly $350M - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3VPc0ZfdjIycTNzR0liMkFQS1Fsam5sX3YxTlMyLXdNRXZITlhIOU1sYzk5X1dCTXVRQWN5Zzc4LXF2RVAwQnBjQW9jNkZCb0Jzck1PNU5OS2NPOURGbHJqZnpweVVwcEhiS3E5cEctcENYTGNzSXRIbkZkeWtENlYtVUdDMUYtUWQ3VUtNZ2tSRnRpbmZRUHd3?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-09-04"
-    },
-    {
-      "title": "Buying binge for San Jose apartments grows with $300 million-plus deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDdnbTVUb0RqSUtDTGJKZXdkbnc0ejM0cXVvMTMySUNtQ01OLTc4Y3Z3Rm9feWQ5YVZGa1k1MzZqbkoyZmxNTjlDeWdMZDlhWEZGalR2VlBfVkdsdWc3QVprbUJadE80YWY5ZTZ6Q3NTckxZcFNhSHJXLUdGOVE2YllPazVZbHY5NllmX1pQZ3cyNGpMQ2JjaHhXdmJiY1FCbDRNbUJtTdIBrAFBVV95cUxNUDBLamRodk9NYmg1R1RqLTc1QlVQM2ZKMXFPWnR6TTFjMlRsMjZhNnJnQkU5UGNFcy1aLXVsR3FNQjJ2Y2xmcTlkMWdzYzUxMF9SdFktQWVxNkV6YkVvUGVfbVdBQTZQNldGWDR0M1BBUG9iSUxXOGt5VTM2MTZqWTViNDdISFhsZVdjeHJJY1FwdVY4XzdCY1NrSzJNa0pqdHMwczROblM2LXJt?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-09-03"
-    },
-    {
-      "title": "KKR Buys West San Jose's Lynhaven for $346.5 Million - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFBkcWtrYTY5MVdxT3hsVXA4c3NSZ3dZZHUyaEVSV0k0SjVPSTRkODFORGpoeEl2aGtndEtSWGpTRDZVeDhucXFaNFZiaWJfY3VxWm1XUnFuaER0YmNDeGRuUGJHRDJHU1NOemxOb3JPc2MtVk1wVC04dnB6N3ZMUE9McTJaOVV4?oc=5",
-      "source": "Hoodline",
-      "published": "2026-09-03"
-    },
-    {
-      "title": "AI boom heats up Bay Area housing market as wealthy buyers drive demand for high-end homes across US - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3Awel9oWjZiaFpLWXMzc0VIem9keTd0TGNtNkFyeGozclR2ZjNjcHE5dE1ScjJxQURwQVZGSkhRLXB3cFg3ZWtCU2VGU29DMFZXWTZnUHU3ODJzRmQxNXRYczl6czYwZ1VMMzh4cElxTXlzYS0wdzIwWnI2dm1EbURjTHJNalN5VlRJaVE1MEZfalpqa3dQMVJyeXNYdWtPRk1PUFBqN29qWDVqdzhNYURMNVVxWjk5VzZLNHIyNGdiNF93RU9FTVJsTHdUVFlrRjVVOVJ3VdIB3AFBVV95cUxQUjVxa04xQ25aUEFqQUhGV1hFWkNXTms1OUNJR2hBQ1ZuOGFORElPbzlDYzhmNFczeHhUbzlKNTFtU3E0Z1ZueFA3SGdxOVdlbjdqUk5LQUlwLVZMZFRIcWVfMWF5V0NfaEt5QllXcTJpMExUTERSVzgtYjBrNzNib1p6M2g1dEdqNHFOU09lWTVNRUJ3MmJMZTFJV2syS0NKaUh0dkVraU5CWWlELU95NUlaUkt5RnNGbU9wWmVockxwQXBMRzBvWklQUVQ0UzhrUG0yeGpGbFA2X3B2?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-09-02"
     }
   ]
 }
