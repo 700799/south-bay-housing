@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T16:04:09.641Z",
+  "updated": "2026-09-13T16:52:23.629Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,16 +9,34 @@
       "published": "2026-09-01"
     },
     {
-      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Knoxville News Sentinel",
+      "title": "Fugetsu opens third South Bay location in Santa Clara - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUZzeThBSHh4SVd2bmZ1ZVRBTDBseHBjcmFaX0xlNlh6bDlQVXpndHJwdFNmcXNvT2FxMHBjWjVFNHZHWndLQk5nM1Q0d2w1M0xlNmFGN1lhdV9DTW9MTjRZczdkYzRnbFZBMWZGb05aYWU3Y0FXLTc5a1BYSXJUOWEzcVF5YVprVmVJVmdFYml4YnZrTHpF?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-08-19"
+    },
+    {
+      "title": "Sunnyvale Leads County in Tax-Base Growth - The Silicon Valley Voice",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xSkpRM0pOY3ZMbU1DYmtoc19ja3ZLMG44TkJMeE9pMXpsZDUwUnpKTXd4MGY2WENQWklZanpsNEhtejI3a1lBQVp6Nldsd0V5QWtMNnMzbm5HdFVhcV8ySUY5YnFGWEk3ZzNRamgyMDF2STRa0gF6QVVfeXFMT2FaWEJCUlZKQzVDQUJ2VHNIOXc3Qmt1a1lwa05tRnJFYTZNaldiVndIMUgtNjJYY1BobEVHSWltOTdqMkl4b1FxY25JS2lSckQtdC1YdS1LSkNtbGRaTTFuVm1vdERFSGp1LXBlNE9CSi14MXJFVFFBSGc?oc=5",
+      "source": "The Silicon Valley Voice",
+      "published": "2026-08-18"
+    },
+    {
+      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - knoxnews.com",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUDQ5c3BQSFRlSmtHTUJjc0h0NnhJeVZaQUtHV2xSUVV5T0VpRjVMeWhlRFlSYnJtak5KZUtXcGozMjJfYWEtN0l4aHlLVE1jLUZ6UW0tVWRiMHY3QjZuTVAtMkgxMkN4WUMxTVluQWdLOE1vcXJYc2JGVmx1ZzNfbzMzY2dCOUhrTy1CN25FeGZORTRhdDVjQkc5VE5JcFNjYzBMaE4ybTBsUHdsOEJYanp6SDdmVGV5dFdrSW4yY0JZTHhzcVNXUU8wT3pvU3pFVXpmQjBTci1kQU9wUUp0YkpJT0s5a09iT3BGZXNtNU04ZEltWHJlVktqRWNjcVpSZHc?oc=5",
-      "source": "Knoxville News Sentinel",
+      "source": "knoxnews.com",
       "published": "2026-08-07"
     },
     {
-      "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - bizjournals.com",
+      "title": "Bay Area housing market sees dramatic momentum shift in high-income South Bay neighborhood - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWlQbGFLZ0tmak9ZQUhRV3JiWG5JTGJ0MF9VRDhUVGVvTUR6NXU1ai1ocTEwMWlNQUx6SXh4bGxxdWdJNzRzeTd6OUU0UkZhdjBQNzNza09NNTNDc0JNSHVDNGhQR0Y2TXFVQTZYUVNkRVZhS2xKWjJLTHVrN19rOHBDRHdYRlVPbk43MVBGcG9zWkhHZUlrNGwtZ2w0cjRaNkUyaFVpajJMRVhHREE?oc=5",
-      "source": "bizjournals.com",
+      "source": "The Business Journals",
       "published": "2026-07-24"
+    },
+    {
+      "title": "Bay Area homeowners still get huge Prop 13 savings. But in some places, that is shrinking - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWklWSUYwMGJSelBEY3FoUzhES3JaVzNoYm03dmxlX3NPVHFfUExya0R1TEp1NGlsZkg1eTJnUG54d1BmRVRxZU85bldpblhDQmRJaTlIdFVEYzE5Sk93YmlpdkktMEdONlgxdnA3SmlZNWtDQ1JSMnZLSXM1NnBvRklaSXdDZlh6dld4M2UtWQ?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "2026-09-13"
     },
     {
       "title": "255 S Rengstorff Ave Apt 161, Mountain View, CA 94040 - Realtor.com",
@@ -55,24 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnU2WWxSak1WNW5DUUZCZnlNUjV6V1dzeGlCOU9PdUwwRU1qNUVabWRiS2sxV092R2xONXNRM2tpN3dNM1VNcFdrMWx4ZkFkUU1UZmVWVzVYaFlsSVItNFVlbGU1UkRaa3V6LWotN1N5ZXNGZ1RNNVdWNWh3X3Z6TDJqV0JmNTNoeDlfaUo5TkRqY1liQk1ITDA2S21lOW1zMmhMZmdxSDJSUUJzQkHSAbMBQVVfeXFMTVNHMURIWWJuLWN4WHJyOGRkdDlRZVh6Q09pcTcxZE9DakpzSHNTbGhKN0NLaldtQVNYc1dlRmdRQzEyWDh0MFRyUDFOS21td3drMm1VSFFlODktMXNueVR5VlFXTnlHYzlpNVVfeG5pMVdYRFFYS0hHaWlOQUl4cENEMDF2LXlzNG1hSENZMzdGWHkya2FaRHk1LVgwbnkxYm9hY2NPdU50SHd3MlBON1BYTEU?oc=5",
       "source": "The Mercury News",
       "published": "2026-09-08"
-    },
-    {
-      "title": "Mountain View developer reduces affordable homes in builder’s remedy project - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnc0QzktZlZOeC1lSTczWEhNcE5wbENvU3pEa25ia1VBelN2OUtMZnk4ZlpRLWRKQkVQanp6c2pQZkMySmZGUzFTb1MxWXNtdGxWYk9wQ3FEN0w2UW1Xa1RmbktBU2NqdkctR2EzbHJkckV5TzRLNUFKZlFsb0xhTHFBWmk5Q0kwTTJyVGFGek9zYWVWZ1E2Ymc0Z1l6MTdyX3FXY085UEw?oc=5",
-      "source": "San José Spotlight",
-      "published": "2026-09-08"
-    },
-    {
-      "title": "Candisari, Wahidin, Mountain View, Strategic, Vintage, Close to Toll Gate and Police Academy, 2011M2, Semarang - Rumah123",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaGVwTU1RNnpaS3BUVXRjOEd6RDFLRzdqa2w1VUlnbWZTcDVxNXhSM0FNenFqWnRPTVZDWFZHYVN6djQ4a3pLWU5Pcllxc0pEQWFjamFJOFZ2SEw0M01xeGQ1QlByZmdNZkdSYXhKM292cUk0UXdkQmQyTldMNDl0eFlqa2lmZ185Y2VqOUktODZ5SUtLdDRpQVctYU1NdVA0UXR6QVcya0FwNG5TV0V6RThBR2dqOGZkY3QzaENqM1pVYzNYbEgzb3p0ZTJoTk1JQTJXSVB3V1Fxb1NrNzRNc2Jtc0dRZHVmdktHN2pkVVhsZnhqdU5VY0hSOFZ0QQ?oc=5",
-      "source": "Rumah123",
-      "published": "2026-09-05"
-    },
-    {
-      "title": "KKR scoops up San Jose apartments for nearly $350M - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3VPc0ZfdjIycTNzR0liMkFQS1Fsam5sX3YxTlMyLXdNRXZITlhIOU1sYzk5X1dCTXVRQWN5Zzc4LXF2RVAwQnBjQW9jNkZCb0Jzck1PNU5OS2NPOURGbHJqZnpweVVwcEhiS3E5cEctcENYTGNzSXRIbkZkeWtENlYtVUdDMUYtUWQ3VUtNZ2tSRnRpbmZRUHd3?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-09-04"
     }
   ]
 }
