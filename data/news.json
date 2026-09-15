@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-14T18:24:27.001Z",
+  "updated": "2026-09-15T17:31:23.430Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Fugetsu opens third South Bay location in Santa Clara - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUZzeThBSHh4SVd2bmZ1ZVRBTDBseHBjcmFaX0xlNlh6bDlQVXpndHJwdFNmcXNvT2FxMHBjWjVFNHZHWndLQk5nM1Q0d2w1M0xlNmFGN1lhdV9DTW9MTjRZczdkYzRnbFZBMWZGb05aYWU3Y0FXLTc5a1BYSXJUOWEzcVF5YVprVmVJVmdFYml4YnZrTHpF?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-08-19"
+    },
     {
       "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets, Launches Enhanced Offers to Give More Money to Sellers - Knoxville News Sentinel",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUDQ5c3BQSFRlSmtHTUJjc0h0NnhJeVZaQUtHV2xSUVV5T0VpRjVMeWhlRFlSYnJtak5KZUtXcGozMjJfYWEtN0l4aHlLVE1jLUZ6UW0tVWRiMHY3QjZuTVAtMkgxMkN4WUMxTVluQWdLOE1vcXJYc2JGVmx1ZzNfbzMzY2dCOUhrTy1CN25FeGZORTRhdDVjQkc5VE5JcFNjYzBMaE4ybTBsUHdsOEJYanp6SDdmVGV5dFdrSW4yY0JZTHhzcVNXUU8wT3pvU3pFVXpmQjBTci1kQU9wUUp0YkpJT0s5a09iT3BGZXNtNU04ZEltWHJlVktqRWNjcVpSZHc?oc=5",
@@ -15,9 +21,27 @@
       "published": "2026-07-24"
     },
     {
-      "title": "Bay Area homeowners still get huge Prop 13 savings. But in some places, that is shrinking - sfchronicle.com",
+      "title": "South Bay inks 41% of last week’s luxe contract volume in LA County - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmRfZ2RHY2dWN0lfMjk4bmtWcmhtSXl5N1NJMC1KR2d6eGVoZWZmWnRzbHdDWTY4VFpLVC1BZmJIT0wtdzJYTDJmcXRldmgtN1B3Y2owMF9hV3NmQmJPaWEtQ0NBTXFNMUdveEFUbVdkc2FmeWgwVGQzWGVqSTVHc2VySXFuR0J3NFBDRTVYVjY?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-09-15"
+    },
+    {
+      "title": "San Jose apartment complex is bought by affordable homes nonprofit - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2sxRTFxRlZzdmNObzZqN2lsN1ZRV0d0TXNVV0ltMzhqdXBzQ3RPbDh6UnNwSWVuNXlsaUVFQmFPWTlZNTNZRHlEd3Z3Ni0yNE9rRUVkRHFlcFlxVjNDTHFlQXRORmh3OFBMRGItWDUzR051NEdwSUVJamZXLWd6eWFEbHlOMDNuNjJibzJEZV9ocnhhMGd0SWFhTFM2TjVyTU9fd3N4SXExQ3BrRUtRTC12Vmk5QdIBtgFBVV95cUxOQ2sxRTFxRlZzdmNObzZqN2lsN1ZRV0d0TXNVV0ltMzhqdXBzQ3RPbDh6UnNwSWVuNXlsaUVFQmFPWTlZNTNZRHlEd3Z3Ni0yNE9rRUVkRHFlcFlxVjNDTHFlQXRORmh3OFBMRGItWDUzR051NEdwSUVJamZXLWd6eWFEbHlOMDNuNjJibzJEZV9ocnhhMGd0SWFhTFM2TjVyTU9fd3N4SXExQ3BrRUtRTC12Vmk5QQ?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-09-15"
+    },
+    {
+      "title": "Expansion of autism center in San Jose advances with property purchase - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORENOVU9ZWURWYmFVQ1pzWlI0NkgzU2pZX0Jra050WWpyUHlOMFdSQUVZTUg1SFRjOURzWlFnLUhWemlkem5Ca3U1SmREc0c4czZEVE5jN29wU2V6MHdNR2pRM3FXQm1QbzdLbDhUcXJyOU1vSTdBX05qZTV3dmZZMG5WQ3ZubG84VW5mSlR4Y0JxdnR5cmxzOU8tRGZzV0ZVWjZpSG1HRURuVm_SAbABQVVfeXFMTUlib3RyT1ozNEEwTmNtZDhYODY2UXRQSGxmSnNWNnhZNTdaaVpfcVhERWljaTN4WkJ6Yzd6bmlVNXpSSjBhVWl4VFBReWd6WWpfX0twZE5GV0FuTkdLOUx5T1Jva2lUclAzQ29VeUxmMmZiTDNUSWJqLXpKNVZjbUZQYjdjdzBKbVdOcW5ZOVA0aVh1RFpHQnpJcXdfdVNKYzNFa0VNNGRzTWZJMGRfS1U?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-09-14"
+    },
+    {
+      "title": "Bay Area homeowners still get huge Prop 13 savings. But in some places, that is shrinking - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWklWSUYwMGJSelBEY3FoUzhES3JaVzNoYm03dmxlX3NPVHFfUExya0R1TEp1NGlsZkg1eTJnUG54d1BmRVRxZU85bldpblhDQmRJaTlIdFVEYzE5Sk93YmlpdkktMEdONlgxdnA3SmlZNWtDQ1JSMnZLSXM1NnBvRklaSXdDZlh6dld4M2UtWQ?oc=5",
-      "source": "sfchronicle.com",
+      "source": "San Francisco Chronicle",
       "published": "2026-09-13"
     },
     {
@@ -33,9 +57,9 @@
       "published": "2026-09-11"
     },
     {
-      "title": "Mountain View County outlines vision and priorities through 2030 - DiscoverAirdrie",
+      "title": "Mountain View County outlines vision and priorities through 2030 - discoverairdrie.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0Znc052VXdYcW9DZzZXc2hNWldIeF95UU8zd1ZjYi1wTGd4cHJTQm9iYkVRSVRqckc1d0JvTDRYOWpUa01hYTNZaGpmRnhLQjREX3NkNWp5MmVzT2Ryb1NhaEFRSXEwSWlLUTlwVTNSYWdkaFlaZXFxWW9QVnRVTkQ4cHVITEZmOXlDcHV4NjJvRUUtWU1Ib1V5dlN2RC1Ybk5WTjRDc2M?oc=5",
-      "source": "DiscoverAirdrie",
+      "source": "discoverairdrie.com",
       "published": "2026-09-11"
     },
     {
@@ -49,30 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSG1WSmRmdldtc3JJRE1mbHVsMFg3eG5IaHJUTkw1STFLRXU4eWE1TnBPd2xhVXRyNnZySm84MDd5Rl9sc1BXcEF4dWJOUzNNdmk0QzZOamQwM25STC05VjFTUVpJTHFZQzNLSnJMWUFoWDEyM2I1TkRoc3JnZDVwZVNrakhBcTU2RlhHX0FOMXM0bG0xblAw?oc=5",
       "source": "Hoodline",
       "published": "2026-09-10"
-    },
-    {
-      "title": "Santa Clara County among top locations for data centers in US, report shows - siliconvalley.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTllxS2U2WFV5Mmxwd1M0aXRROWxTU0dJSWU4TDhKYjR5VTFCSmdxajVEN2VCRUZ0ckFzNU5pNVZiWWNGcFdBQm13bmpScFRHcVVWYnFYWElWQ085NEhuZVFmMFZWSEtOS0NtSWhCNjVpSkFYaERtdVNVODVJbWJOY1UwYVdTR3lEa3NNSGdvUWhraWFRV1VOcFp2YVppRThxTVVLSlBiTldtRXdWc2tFZnpn0gG3AUFVX3lxTE5tRUthSHFXZVgwTjdQX2VfSF8wa20tR2djblMtb2pzbDlxdXFValBaYzBaRzk3M0kzU0pRZUZhMUJLWDhwV2R1aEdCU2JuVTlEWTNSVWxjenhKY2FMbEZTRWxlOHFTZE9odkFqbVdmUnVEZjdwaGZCcTh2NmtTa0FGNzNwZzBnemIyX2FybEVRWEh6Qmxqdmo3MUxnWXVKeGVXanVSZDBHS1pnWWpCZ1FtbDkwSDRuYw?oc=5",
-      "source": "siliconvalley.com",
-      "published": "2026-09-09"
-    },
-    {
-      "title": "Sprouts Farmers Market proposed for shuttered San Jose store site - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnU2WWxSak1WNW5DUUZCZnlNUjV6V1dzeGlCOU9PdUwwRU1qNUVabWRiS2sxV092R2xONXNRM2tpN3dNM1VNcFdrMWx4ZkFkUU1UZmVWVzVYaFlsSVItNFVlbGU1UkRaa3V6LWotN1N5ZXNGZ1RNNVdWNWh3X3Z6TDJqV0JmNTNoeDlfaUo5TkRqY1liQk1ITDA2S21lOW1zMmhMZmdxSDJSUUJzQkHSAbMBQVVfeXFMTVNHMURIWWJuLWN4WHJyOGRkdDlRZVh6Q09pcTcxZE9DakpzSHNTbGhKN0NLaldtQVNYc1dlRmdRQzEyWDh0MFRyUDFOS21td3drMm1VSFFlODktMXNueVR5VlFXTnlHYzlpNVVfeG5pMVdYRFFYS0hHaWlOQUl4cENEMDF2LXlzNG1hSENZMzdGWHkya2FaRHk1LVgwbnkxYm9hY2NPdU50SHd3MlBON1BYTEU?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-09-08"
-    },
-    {
-      "title": "Candisari, Wahidin, Mountain View, Strategic, Vintage, Close to Toll Gate and Police Academy, 2011M2, Semarang - Rumah123",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaGVwTU1RNnpaS3BUVXRjOEd6RDFLRzdqa2w1VUlnbWZTcDVxNXhSM0FNenFqWnRPTVZDWFZHYVN6djQ4a3pLWU5Pcllxc0pEQWFjamFJOFZ2SEw0M01xeGQ1QlByZmdNZkdSYXhKM292cUk0UXdkQmQyTldMNDl0eFlqa2lmZ185Y2VqOUktODZ5SUtLdDRpQVctYU1NdVA0UXR6QVcya0FwNG5TV0V6RThBR2dqOGZkY3QzaENqM1pVYzNYbEgzb3p0ZTJoTk1JQTJXSVB3V1Fxb1NrNzRNc2Jtc0dRZHVmdktHN2pkVVhsZnhqdU5VY0hSOFZ0QQ?oc=5",
-      "source": "Rumah123",
-      "published": "2026-09-05"
-    },
-    {
-      "title": "KKR scoops up San Jose apartments for nearly $350M - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3VPc0ZfdjIycTNzR0liMkFQS1Fsam5sX3YxTlMyLXdNRXZITlhIOU1sYzk5X1dCTXVRQWN5Zzc4LXF2RVAwQnBjQW9jNkZCb0Jzck1PNU5OS2NPOURGbHJqZnpweVVwcEhiS3E5cEctcENYTGNzSXRIbkZkeWtENlYtVUdDMUYtUWQ3VUtNZ2tSRnRpbmZRUHd3?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-09-04"
     }
   ]
 }
