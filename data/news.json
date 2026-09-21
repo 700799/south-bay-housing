@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:42:21.881Z",
+  "updated": "2026-09-21T18:31:59.383Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -15,12 +15,6 @@
       "published": "2026-09-20"
     },
     {
-      "title": "Archer battles Roswell, Buford & Grayson tangle, Jackson Co. faces Mountain View - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMFMzSXBPcTMyblN6ZmpBNXBkXzFDN29WdGZ5SldUS2g2eDR6UGpoVU90VGZwLTFabUFReGlfTHN5Wlk0TndqQnpuSGZ1LTg1VVBfYXJTWEhOaFJtaUNSRnU3U3pvUXF0NTduUlVCOU1BOUFoNmRUc1dGNHdaSEtqcGxWOUwwQUZsMGZualoycGZmTjVfOEdhanlBRnluYnpSNXFoUE8wNFY5bUtFVjBPZUJTUEFWOFRza2s5dXhIN1JTT1JUVkM3T2pSeFZyalRnTmFERGpIVGVkZGpVR1RIQzhyZDYtNXBXd3hOdWJqVGRSUi1QQlE?oc=5",
-      "source": "WSB-TV",
-      "published": "2026-09-19"
-    },
-    {
       "title": "Bay Area investor adds to Sacramento apartment portfolio with $13 million purchase - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHNlSVRmSzhaZmxOZXhvR212cFRZVVN6dC1nQzFaNTl2OGh6d0p3VUpIS2NxcGdVNGV1ZVNwNm1jWWhDMER1aTZUM2ROeUo3SXdFWlBxYXl5RlBYWC1YUDdmOVpQUUdmeGIybXpmWkdKekppNFhiekRBRVYzUWZLdHFVMXk2SlhjeWhqSHBOVEp3YzBpMEw0?oc=5",
       "source": "The Business Journals",
@@ -29,6 +23,12 @@
     {
       "title": "San Jose projects with hundreds of homes advance with property deal - East Bay Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEVsek83Vi03OEtLMm1TYWlCTmVHeFU0VjRreFU3NFFJV2ZaUzVRTE45bXRJSFJfZ1NZQ3BmQmJldVRkS3hlSXF6VHozblBKTFdPM25oUDJ3am9DY1N6Y3BhektyM3FhYXZpd0JLUERlVWtLMEZZcHFBRGQ0a0dMSDE2b3lJR1pDb083UzZlRXdoRnB4akl1ZW50TVdpWm9YaGRIdEZGckNKQ29PRnNYMDl30gGyAUFVX3lxTE5kRWx6TzdWLTc4S0sybVNhaUJOZUd4VTRWNGt4VTc0UUlXZlpTNVFMTjltdElIUl9nU1lDcGZCYmV1VGRLeGVJcXpUejNuUEpMV08zbmhQMndqb0NjU3pjcGF6S3IzcWFhdml3QktQRGVVa0swRllwcUFEZDRrR0xIMTZveUlHWkNvTzdTNmVFd2hGcHhqSXVlbnRNV2lab1hoZEh0RkZyQ0pDb09Gc1gwOXc?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-09-18"
+    },
+    {
+      "title": "More than 600 apartments could be headed to prime San Jose spot - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWV6VkllaG1xWjBlS0lPUXlsdGFnbDU5Q3gyUEFLSUdfTE5VVktuRUg2czVCbDFDclE1di1GdmM3YklvWVVfaUNsZnNCTDBWc3VORzhKVngwbE1DTWw4c0FhSms2bWJjUUN5TzdxVWNpRjNYTkJYaGhvNDJYTkVYMHJnSGFESjBvSDhMX3RmcThzMlRjVmVHRWN6MkV4SmJkc3Y5SWkzQXp6VEpkeUFnYVl30gGyAUFVX3lxTFBZZXpWSWVobXFaMGVLSU9ReWx0YWdsNTlDeDJQQUtJR19MTlVWS25FSDZzNUJsMUNyUTV2LUZ2YzdiSW9ZVV9pQ2xmc0JMMFZzdU5HOEpWeDBsTUNNbDhzQWFKazZtYmNRQ3lPN3FVY2lGM1hOQlhoaG80MlhORVgwcmdIYURKMG9IOExfdGZxOHMyVGNWZUdFY3oyRXhKYmRzdjlJaTNBenpUSmR5QWdhWXc?oc=5",
       "source": "East Bay Times",
       "published": "2026-09-18"
     },
@@ -45,9 +45,9 @@
       "published": "2026-09-17"
     },
     {
-      "title": "Investors Flock To Bay Area's Surging Rent Market - Bisnow",
+      "title": "Investors Flock To Bay Area's Surging Rent Market - bisnow.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE9DRkNxZVktLTYyclVSV3VPSW5zTVFPY1p6WkRURWl3OU9OQ0VuLUpucUJrWDNfUXgxMzZwUWN2cVhGWF9idFVNVXU1RVkzU1doa2tvaVFveFBMTVFXNnB6a0UxODd1YWdaQ2Q3YW1JenZ5bXhpVEZpbU1MbW1XUGNyUll6QWhTZjYzR0ZNQzhSa2R1UXNMeA?oc=5",
-      "source": "Bisnow",
+      "source": "bisnow.com",
       "published": "2026-09-16"
     },
     {
@@ -69,10 +69,10 @@
       "published": "2026-09-15"
     },
     {
-      "title": "255 S Rengstorff Ave Apt 161, Mountain View, CA 94040 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1JKOTZld29lNnZudWxpcF9nV1RrTVkyd2hHSU90eTVuaGJOYUpYcV9WREFjczlseTYzM2R4bGdxNVFwY1NvZi1lUUNocjl3OGc3QjRQT0ZMYkVHSWt0SUVmbWdwai1mbDZQZXoyVnBsaktpT2h6VHR5RmZVeVJic21zMGFSSWx4a0NCMXJ5VFdBOGxWblRsMjI2RnlLNEVZQUlGVy1lRQ?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-09-11"
+      "title": "Easy commute - 723 Sierra Vista Ave, #2, Mountain View, CA 94043 - youtu.be",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ckx0ZXFJVk4tc0lIM2FNcGlFUlAxOTJuWU54Rjc2eEhkYVFKcl9sUkxuN1VvZTRxZWlYcnVCdW1QcloyRW9UTVJCdkM1bGRkcFVTbW9MLUkwMnBU?oc=5",
+      "source": "youtu.be",
+      "published": "2026-09-14"
     }
   ]
 }
