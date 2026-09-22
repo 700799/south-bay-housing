@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T18:31:59.383Z",
+  "updated": "2026-09-22T17:33:25.636Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -7,6 +7,24 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
       "source": "The Business Journals",
       "published": "2026-08-26"
+    },
+    {
+      "title": "Homa Rassouli Highlights Three Reverse Mortgage Options for Santa Clara County Seniors in 2026 - macaubusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeS0tQXdGWUlmNm01M1U1WDg2S2tXTmYwNjlwQjNIU3lFMWdRLWVLRzZtOV9uNElGejJJdVdqSEQ5V0YxTWJrNEhBTnNzVW15am1WMkZIb21jY3BINi1Pb0RqNnRGWFdnb2ExZWNLTWVPbEhFbEU0NzN5dndEaDFxemRTNjhBZjBpeE1Mc3hwQnY4aWh3MHNJQ25rRnZydUd6RHBuQXBjWHZENlprbVVMUUV1MGRoX1B1cTZpYnlB?oc=5",
+      "source": "macaubusiness.com",
+      "published": "2026-09-22"
+    },
+    {
+      "title": "Blighted housing development in San Jose faces loan foreclosure - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWZiV3FwWlZDT2VSSVdEQXktZnRrMkFuS09pWXZ3bFp0MlFhZV9uNkxDMzdFcDFCaWQ4NXdqVlRySG9PXzUyZURHaG50SXcyOENQZ0dVWUVRc2daQ1g4dXgwa3N3NHprSW9yQTdVLW5Pdy0tdFF5MkZCREduU0J5bGtjS0VnbFNKMEc0WEV1M282bjBQMTNrNlVIX194Yk9wQW5pS09WNFhLaGZkeWFV0gG0AUFVX3lxTE4xU1I3amM2cWtBdFF5OWhGUlo3TjNad0pWWXhMRmc1MXd0d25KMHRvd1ZfX1lVTG15STJqelpfQnVGcVBvOUFGREJhZjlDSF91NkYtRExuWUpDbkwyVFo1akhjZEEyUXlWYkJSbjJHQWE5U3VxQmQ4S2tqdkZoSEp1Yjhod21xZGpsZVRKdGo0LTQwTTFEcFFpcm1HTVlCM2VDaVN1VmliV3JTbWRtcVU5d3NnYg?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-09-21"
+    },
+    {
+      "title": "Blighted housing development in San Jose faces loan foreclosure - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVlh3X3p3U3plNG5qdWxMWmQxVnVLcTJQMk9odWs2XzIwSHlLSmJKZ3h1OGUyUXV1TnplSmZrZFQtNkEtSzE4Q3BiZERGOWV4QnZSR0lOV0VpY1hsQkJQNUZ6SWtOOERELWEzYU1jbWotRFFxdEtGWV9TV1dXenA0WGdpQy1URll3ZWVVZ2ZaRHNnUkQxaGJUXzlHRkZoaFdaMDBuaHdXXzMtaEFIQW83RWtDd9IBswFBVV95cUxNVlh3X3p3U3plNG5qdWxMWmQxVnVLcTJQMk9odWs2XzIwSHlLSmJKZ3h1OGUyUXV1TnplSmZrZFQtNkEtSzE4Q3BiZERGOWV4QnZSR0lOV0VpY1hsQkJQNUZ6SWtOOERELWEzYU1jbWotRFFxdEtGWV9TV1dXenA0WGdpQy1URll3ZWVVZ2ZaRHNnUkQxaGJUXzlHRkZoaFdaMDBuaHdXXzMtaEFIQW83RWtDdw?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-09-21"
     },
     {
       "title": "Bay Area homebuyers weigh higher mortgage rates as real estate market shifts - CBS News",
@@ -21,15 +39,15 @@
       "published": "2026-09-18"
     },
     {
-      "title": "San Jose projects with hundreds of homes advance with property deal - East Bay Times",
+      "title": "San Jose projects with hundreds of homes advance with property deal - eastbaytimes.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEVsek83Vi03OEtLMm1TYWlCTmVHeFU0VjRreFU3NFFJV2ZaUzVRTE45bXRJSFJfZ1NZQ3BmQmJldVRkS3hlSXF6VHozblBKTFdPM25oUDJ3am9DY1N6Y3BhektyM3FhYXZpd0JLUERlVWtLMEZZcHFBRGQ0a0dMSDE2b3lJR1pDb083UzZlRXdoRnB4akl1ZW50TVdpWm9YaGRIdEZGckNKQ29PRnNYMDl30gGyAUFVX3lxTE5kRWx6TzdWLTc4S0sybVNhaUJOZUd4VTRWNGt4VTc0UUlXZlpTNVFMTjltdElIUl9nU1lDcGZCYmV1VGRLeGVJcXpUejNuUEpMV08zbmhQMndqb0NjU3pjcGF6S3IzcWFhdml3QktQRGVVa0swRllwcUFEZDRrR0xIMTZveUlHWkNvTzdTNmVFd2hGcHhqSXVlbnRNV2lab1hoZEh0RkZyQ0pDb09Gc1gwOXc?oc=5",
-      "source": "East Bay Times",
+      "source": "eastbaytimes.com",
       "published": "2026-09-18"
     },
     {
-      "title": "More than 600 apartments could be headed to prime San Jose spot - East Bay Times",
+      "title": "More than 600 apartments could be headed to prime San Jose spot - eastbaytimes.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWV6VkllaG1xWjBlS0lPUXlsdGFnbDU5Q3gyUEFLSUdfTE5VVktuRUg2czVCbDFDclE1di1GdmM3YklvWVVfaUNsZnNCTDBWc3VORzhKVngwbE1DTWw4c0FhSms2bWJjUUN5TzdxVWNpRjNYTkJYaGhvNDJYTkVYMHJnSGFESjBvSDhMX3RmcThzMlRjVmVHRWN6MkV4SmJkc3Y5SWkzQXp6VEpkeUFnYVl30gGyAUFVX3lxTFBZZXpWSWVobXFaMGVLSU9ReWx0YWdsNTlDeDJQQUtJR19MTlVWS25FSDZzNUJsMUNyUTV2LUZ2YzdiSW9ZVV9pQ2xmc0JMMFZzdU5HOEpWeDBsTUNNbDhzQWFKazZtYmNRQ3lPN3FVY2lGM1hOQlhoaG80MlhORVgwcmdIYURKMG9IOExfdGZxOHMyVGNWZUdFY3oyRXhKYmRzdjlJaTNBenpUSmR5QWdhWXc?oc=5",
-      "source": "East Bay Times",
+      "source": "eastbaytimes.com",
       "published": "2026-09-18"
     },
     {
@@ -39,21 +57,15 @@
       "published": "2026-09-17"
     },
     {
-      "title": "Mountain View's unique 'underground' house is on the market - independentherald.net",
+      "title": "Mountain View's unique 'underground' house is on the market - Independent Herald",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGdDRG1oV2FXaW55UFgzVnJvVHlnbTcxSnhyckxWQzFMMHVDRkhIRTJXUUhxdDduaDRyVXZ5R3phRlJOUFhZS3JnSkF1WmtReTBmS0ItMW1YYlRxM2hUZzhRQnFYT0ktdUJ0bW1SNFNTRV9CMjJ0bW1Nc24yRzRBVHhwVGlEVTZiX01LTGxzOWY?oc=5",
-      "source": "independentherald.net",
+      "source": "Independent Herald",
       "published": "2026-09-17"
     },
     {
-      "title": "Investors Flock To Bay Area's Surging Rent Market - bisnow.com",
+      "title": "Investors Flock To Bay Area's Surging Rent Market - Bisnow",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE9DRkNxZVktLTYyclVSV3VPSW5zTVFPY1p6WkRURWl3OU9OQ0VuLUpucUJrWDNfUXgxMzZwUWN2cVhGWF9idFVNVXU1RVkzU1doa2tvaVFveFBMTVFXNnB6a0UxODd1YWdaQ2Q3YW1JenZ5bXhpVEZpbU1MbW1XUGNyUll6QWhTZjYzR0ZNQzhSa2R1UXNMeA?oc=5",
-      "source": "bisnow.com",
-      "published": "2026-09-16"
-    },
-    {
-      "title": "Mountain View’s Century 16 theaters are closing next week — for now - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndFZGJIOWNVVHdIRXFPQU1la19yQ2xCUFFqRnFqajVJZnRTR1EyZjFKdHd4WjNMSkszNDNLOXpsaHduQ1k3VlBudk4xSFRXajFxZGJfMlRKUzB6UmtPTlNvWThCZmEzYW43czRieVgwTjJDY2NoejJHZDJSLXc5ejBRbFRUNnJRSUZZTG5NeFBXRkc4a2hqSVdsUFlCY2NmbVNPT0VqMEFDZ9IBrwFBVV95cUxQelExSEh0MFdVblhCdmtTclhsR0YzM2w1VVRDNE1qaXV1RUNHZ3JCanQxYVlvMWRyU2h5Y1NyVTU3cDlNa1lfUFJvOGdXZ19Pb3RlMmlkbTR2QnE4em5VbHZUcW5EY1pjUjIxTlktd28tNlNhTHRuWWU4MmFMeW5xS2h1MVFkZDBIQ1M2ZldZYUhPdXVrYXpGeFM1MnRWa2ZTWGpXRDJWTXUyR3J5R2ZN?oc=5",
-      "source": "SiliconValley.com",
+      "source": "Bisnow",
       "published": "2026-09-16"
     },
     {
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmRfZ2RHY2dWN0lfMjk4bmtWcmhtSXl5N1NJMC1KR2d6eGVoZWZmWnRzbHdDWTY4VFpLVC1BZmJIT0wtdzJYTDJmcXRldmgtN1B3Y2owMF9hV3NmQmJPaWEtQ0NBTXFNMUdveEFUbVdkc2FmeWgwVGQzWGVqSTVHc2VySXFuR0J3NFBDRTVYVjY?oc=5",
       "source": "The Real Deal",
       "published": "2026-09-15"
-    },
-    {
-      "title": "San Jose apartment complex bought by affordable homes nonprofit - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnVVMUlXWDc2M3RZbFpkQzFrUTF3Yy1ZWnRqSHZsWHRTVzZtR0lILUxFa3BwOEdBdTNSTXNpejVmRl9yNGtTN1QtaHN4ZnNSd3RsSWxwdTdDZDgwZ0lKSkVFTFRTX3VXV2IyNnV6REd1VXkyNDQ2ZjE2VVZ2VHFpeTlRMlV5UzhxZDFmQndMbmc3MmtvbktkejJabzhqRWVTaUVFcnNsdXNTNUVpeklLY3RR0gG3AUFVX3lxTE5FUWNjX25XRTBrUHpQQ0tWQllDbVl2WTFwMmR3SjUxblN1ek5TQjhTOEh5c1V0TlVVbTlHdUVETTJna2h3MDVvWER0NGFNU2JVdnNBN0NwdHo0dXRyeVdrMEFTeWVsUXpNY09BR2QwRlFVVzBNNUg5ZWJUXzRBeXc0b0sxOEFOYnR3REptWE1kLUJ4X3RrUmZpMzZTZ0tRSVVTY2NOUzgwV3piSlNobWdQbkREdnFkZw?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-09-15"
-    },
-    {
-      "title": "Easy commute - 723 Sierra Vista Ave, #2, Mountain View, CA 94043 - youtu.be",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ckx0ZXFJVk4tc0lIM2FNcGlFUlAxOTJuWU54Rjc2eEhkYVFKcl9sUkxuN1VvZTRxZWlYcnVCdW1QcloyRW9UTVJCdkM1bGRkcFVTbW9MLUkwMnBU?oc=5",
-      "source": "youtu.be",
-      "published": "2026-09-14"
     }
   ]
 }
