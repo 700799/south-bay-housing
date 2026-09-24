@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-23T17:45:29.429Z",
+  "updated": "2026-09-24T17:46:40.838Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 6.95,
+      "value": 7.03,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.19,
+          "delta": 0.08,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.24,
+          "delta": 0.27,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.28,
+          "delta": 0.38,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.4,
+          "delta": 0.45,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.26,
+      "value": 6.42,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.17,
+          "delta": 0.16,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.22,
+          "delta": 0.33,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.3,
+          "delta": 0.47,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.33,
+          "delta": 0.46,
           "direction": "up"
         }
       }
@@ -60,11 +60,11 @@
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.01,
+          "delta": -0.04,
           "direction": "down"
         },
         "14d": {
-          "delta": 0.18,
+          "delta": 0.16,
           "direction": "up"
         },
         "30d": {
@@ -72,7 +72,7 @@
           "direction": "up"
         },
         "60d": {
-          "delta": 0.25,
+          "delta": 0.27,
           "direction": "up"
         }
       }
