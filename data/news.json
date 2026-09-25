@@ -1,11 +1,78 @@
 {
-  "updated": "2026-05-30T13:00:00Z",
-  "source": "seed",
+  "updated": "2026-09-25T17:48:23.737Z",
+  "source": "Google News RSS",
   "items": [
-    {"title": "South Bay home prices hold firm as spring buyers compete for limited inventory", "link": "https://news.google.com/search?q=San%20Jose%20housing%20market", "source": "Google News", "published": "2026-05-29", "summary": "Santa Clara County continues to see multiple offers on well-priced homes despite higher mortgage rates, with San Jose and Sunnyvale leading demand."},
-    {"title": "Silicon Valley tech hiring rebound supports Bay Area housing demand", "link": "https://news.google.com/search?q=Silicon%20Valley%20housing", "source": "Google News", "published": "2026-05-28", "summary": "A pickup in tech employment across Mountain View and Santa Clara is bringing more qualified buyers back into the market this season."},
-    {"title": "Mortgage rates hover near 6.75% as markets weigh Fed's next move", "link": "https://news.google.com/search?q=mortgage%20rates", "source": "Google News", "published": "2026-05-28", "summary": "The 30-year fixed remains range-bound, keeping monthly payments elevated but stable for South Bay buyers."},
-    {"title": "Inventory ticks up across Santa Clara County heading into summer", "link": "https://news.google.com/search?q=Santa%20Clara%20County%20inventory", "source": "Google News", "published": "2026-05-27", "summary": "New listings rose month-over-month, giving buyers slightly more choice while days-on-market stayed low for turnkey homes."},
-    {"title": "Condo and townhome demand grows as buyers seek affordability in the South Bay", "link": "https://news.google.com/search?q=Bay%20Area%20condo%20market", "source": "Google News", "published": "2026-05-26", "summary": "First-time buyers are increasingly turning to townhomes and condos in San Jose and Sunnyvale to enter the market."}
+    {
+      "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-08-26"
+    },
+    {
+      "title": "Blackstone Buys Nvidia’s Sunnyvale Hub for $99.6M [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-25"
+    },
+    {
+      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmsyQWNsZHJTOU9PT3Q1Z1c0ZU1SYXF0TnY1V1ZRd3BIWkZEc0FvMmhjcEpHXzIzZTBTQVFHdnlVelBFRXdYNm5uRnUybmw2TUdpNUlrbmM0cy1kQkdfV3JDYWRYOTlmR1pWM1A3OVY3SF9UVFpScGRCUXpPMDFpakZIelpjUC1iNTFlSllJSFZHYUI1NFZPVWdXaHptZllNLU1QV3I4Y2lKVmxUSWfSAbMBQVVfeXFMTlNkRFFaNDhFcFYxMVVnYTRSeHpMbURObmVhVFhFX3ZwWDJsT1VaM0xXS2tpZEpPN0dpOXBwaVhvQVZ0a0draFBQRmR6aDh3MWxKUDhGazlGN21uSmNhMnkyYXk4RjZsMm5KOG51UTNJRlFKVzd1VTlfcHo3VFJqSFJMdk5LM0FKYXFIRnBzcFA2cVBrSGJOZDBoMmpHRFpGZEtub2djNE5OVUNzdUVoa2M0YlU?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-09-24"
+    },
+    {
+      "title": "Mormon Church's Real Estate Arm Pays $296.7M for Mountain View Apartments - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFFQU3EzbElxbkVRX3BxcnNZY1d3SXF1TjZvRFotYVFLVmZQWl9jM3JaVkdaeV9jT2t1dFZvbUY5TXRZeHJzSDRmQ1RwNmpFTFAxem1QdWRUbHNkeDE2TG80ZEVVX1d3Z0pEOWlqcFJPenI2WTZIWEpLa0VWV09EbjFULW11aHd5QkZDejd3Z3NtUm5MOHQxWmVQSVhJeTBfT201VA?oc=5",
+      "source": "Hoodline",
+      "published": "2026-09-24"
+    },
+    {
+      "title": "Blackstone Pays $99.6M for Nvidia-Leased Sunnyvale Building, Triple 2023 Price - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGx3WDl6ZjdYdUZMSVpPWWt3bWs3SzJGR1hRNkU2emtXQXRpc25vLUFrVVJQc1loNTB1Rm1JUEx1MVBjTl9CbDF0alc1RHpEUVFjNnlITENjUUNlaGdFWWJJeWI5aDhDaDA2THBCelY0VzIzcVZRM1VBdmF2Q3BLYjRsMUpOQmo3aEstS3I4UXR0U1JDcVlXbk51VnhVd1NlWlc5VjY3aXBxZw?oc=5",
+      "source": "Hoodline",
+      "published": "2026-09-24"
+    },
+    {
+      "title": "Nvidia-leased Sunnyvale building bought for $90 million-plus - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXk0SElaamYybGhSaWZTMGpmVUdSZmg5VExScWcxeWNya1otTm9jS3JobXNRUk5PZFBFVm9YX0dUR0F0ZXh5R1VHYXRDT21WRGM2UmMwUDY1SlJ5RzgybnlhWTE4ai1RcXlJYkxpSFc2RW9LSFcxb29DNWMwSElINERBaXpSTGxmbDZaMDNBOXRwR3g2a2ZnTW1BczhLNXYxR2tnT2ZIcHJ5Szc00gGyAUFVX3lxTFBqRFM0MEhBUkJHdk1aYXl3aU5VbU5OcllPczhrZ1MweHVJRFZnejl5TExWelR5UUt1ckU1N1BkNTZWWGNmaHY3QXcxcmJiYTc1UzI1OXY3VG9pckdNMjBKM1k2NjBkNEtKbDRXdno3YW5BY1QxeGptYUJfZXU5NENyVUVaa1JZVnVHNmY4LW5TS29HVVpvNk9HaDJNTnA4eUNNR2FQR0x0ZFhCYll2Tkk1bmc?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-09-23"
+    },
+    {
+      "title": "South Bay Multifamily Surges With Aerospace Boom - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUZnZFFVZUlYYlotWUFkT3dSdF9BQ2hCOHpac0JrVmNHNnFPTy1tRF9uSW9tdVFZak84SkpZVXFvbWx4ckJ1d1FNV1VaN1JVeHBiYWRfMEZCdkZnNlU2RXZRRTgwd3l3Q3BWWVlEckhwSi1NR0NFRFZWM29WUWVtb0YyVDhWbGsyNlpnTmZ3bG9Ka2RiNkdWZU1TX3JsWDBpWFQ1cHhuQQ?oc=5",
+      "source": "Bisnow",
+      "published": "2026-09-22"
+    },
+    {
+      "title": "Bay Area homebuyers weigh higher mortgage rates as real estate market shifts - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHlqdW11X2JJdGNxcDF4VHVzTGNzR1BwOHZOYTVvVElGS2p0eWtDNWhlSHgxMmVFU1Qwci14T29XR1hvQmFWWnVaaVl0blh5TmhLX2NkVmNueTVadndDdVhJcmkwTmdKd0dzdEktR0RoMnVMd0M1Y0hBb3JTWE96WS1DckxIVkhNb2RBa2NFX2hoWmdn?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-20"
+    },
+    {
+      "title": "Bay Area investor adds to Sacramento apartment portfolio with $13 million purchase - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHNlSVRmSzhaZmxOZXhvR212cFRZVVN6dC1nQzFaNTl2OGh6d0p3VUpIS2NxcGdVNGV1ZVNwNm1jWWhDMER1aTZUM2ROeUo3SXdFWlBxYXl5RlBYWC1YUDdmOVpQUUdmeGIybXpmWkdKekppNFhiekRBRVYzUWZLdHFVMXk2SlhjeWhqSHBOVEp3YzBpMEw0?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-09-18"
+    },
+    {
+      "title": "Bay Area Apartment Demand Draws More Investor Capital - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmQ5VWlPRDRTcVlQSks0TU1UQk9zX0hKVXpoNTNXMldYb0NodmRmUDBhb3Z2TTRVRkFuVlBienh6V002b0dWR1d3SXpIZXhmaVFmRDZwa1BaelR5RG1DOHI0UjF5Y0JlOWk5YkEwYmppVXZ1dzhwOHZobWpHVjRsd1pFbVBYOGx2SzZ2cTFOdU9aQWg3UDkyUA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17"
+    },
+    {
+      "title": "Mountain View's unique 'underground' house is on the market - Independent Herald",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGdDRG1oV2FXaW55UFgzVnJvVHlnbTcxSnhyckxWQzFMMHVDRkhIRTJXUUhxdDduaDRyVXZ5R3phRlJOUFhZS3JnSkF1WmtReTBmS0ItMW1YYlRxM2hUZzhRQnFYT0ktdUJ0bW1SNFNTRV9CMjJ0bW1Nc24yRzRBVHhwVGlEVTZiX01LTGxzOWY?oc=5",
+      "source": "Independent Herald",
+      "published": "2026-09-17"
+    },
+    {
+      "title": "South Bay inks 41% of last week’s luxe contract volume in LA County - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmRfZ2RHY2dWN0lfMjk4bmtWcmhtSXl5N1NJMC1KR2d6eGVoZWZmWnRzbHdDWTY4VFpLVC1BZmJIT0wtdzJYTDJmcXRldmgtN1B3Y2owMF9hV3NmQmJPaWEtQ0NBTXFNMUdveEFUbVdkc2FmeWgwVGQzWGVqSTVHc2VySXFuR0J3NFBDRTVYVjY?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-09-15"
+    }
   ]
 }
