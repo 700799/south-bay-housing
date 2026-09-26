@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:48:23.737Z",
+  "updated": "2026-09-26T16:54:48.832Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -7,6 +7,18 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
       "source": "The Business Journals",
       "published": "2026-08-26"
+    },
+    {
+      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHRiSnUwZTM1NnFZS21lbEJvajg4bUlnMEltNUJpNHhqamFnRmhidk50TjRPNzlKOE9uMGxTMHhMWnNvcEtTR2NvYmRMUS1YcFkwMXB4THBDVklsSkVRUmJyQU8wcFVZS2IxMXNUVUVlWEdrY1hqcHN0TzJRSkdFeVBoOGFsakRXLVh1a1ExUTQ0Q2tUUUg4TlVES1pVMnpxNTV2cTNCLUlJTTJT?oc=5",
+      "source": "The National Law Review",
+      "published": "2026-08-07"
+    },
+    {
+      "title": "CENTURY 21 Coastal Properties Announces More Than 50 Years of South Bay Real Estate Service Under Broker Jennette Toderick - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVUR5dWlwd2hubUI5N21RSmhBbG9GUlhBcExoOFZydFhJRFJuYjN4VnFnN2xMdDhqeTcwZnFvQkJFU0JpMnVtY3FVeVN2T0hYbVFJWHRCTndFZ1RYUjYyb3E3NmNOS3FVdEpTcGk1OTQ3LWFrVFBXb3Bvc004Vy1FRC12N1RmMExXbXRZU0pkVUozRlB0U2Y2TGV6YmJWWEFlVzhHazljZ1AwU2s4M0k1VUt6UkZXSDJOOGNrdmRmeW5FNnp5WnQxTXRKR2NVZjJ2RXQybnNqc3lEcC1EcnU4UDNxNkM3Sk9PUUw1X2E2N0EwTXVGSFFRQ0hxRHJRcU1jU256N1FkdXFZUG5hdVE?oc=5",
+      "source": "StreetInsider",
+      "published": "2026-09-26"
     },
     {
       "title": "Blackstone Buys Nvidia’s Sunnyvale Hub for $99.6M [2026] - shattered.io",
@@ -51,12 +63,6 @@
       "published": "2026-09-20"
     },
     {
-      "title": "Bay Area investor adds to Sacramento apartment portfolio with $13 million purchase - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHNlSVRmSzhaZmxOZXhvR212cFRZVVN6dC1nQzFaNTl2OGh6d0p3VUpIS2NxcGdVNGV1ZVNwNm1jWWhDMER1aTZUM2ROeUo3SXdFWlBxYXl5RlBYWC1YUDdmOVpQUUdmeGIybXpmWkdKekppNFhiekRBRVYzUWZLdHFVMXk2SlhjeWhqSHBOVEp3YzBpMEw0?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-09-18"
-    },
-    {
       "title": "Bay Area Apartment Demand Draws More Investor Capital - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmQ5VWlPRDRTcVlQSks0TU1UQk9zX0hKVXpoNTNXMldYb0NodmRmUDBhb3Z2TTRVRkFuVlBienh6V002b0dWR1d3SXpIZXhmaVFmRDZwa1BaelR5RG1DOHI0UjF5Y0JlOWk5YkEwYmppVXZ1dzhwOHZobWpHVjRsd1pFbVBYOGx2SzZ2cTFOdU9aQWg3UDkyUA?oc=5",
       "source": "Yahoo Finance",
@@ -67,12 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGdDRG1oV2FXaW55UFgzVnJvVHlnbTcxSnhyckxWQzFMMHVDRkhIRTJXUUhxdDduaDRyVXZ5R3phRlJOUFhZS3JnSkF1WmtReTBmS0ItMW1YYlRxM2hUZzhRQnFYT0ktdUJ0bW1SNFNTRV9CMjJ0bW1Nc24yRzRBVHhwVGlEVTZiX01LTGxzOWY?oc=5",
       "source": "Independent Herald",
       "published": "2026-09-17"
-    },
-    {
-      "title": "South Bay inks 41% of last week’s luxe contract volume in LA County - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmRfZ2RHY2dWN0lfMjk4bmtWcmhtSXl5N1NJMC1KR2d6eGVoZWZmWnRzbHdDWTY4VFpLVC1BZmJIT0wtdzJYTDJmcXRldmgtN1B3Y2owMF9hV3NmQmJPaWEtQ0NBTXFNMUdveEFUbVdkc2FmeWgwVGQzWGVqSTVHc2VySXFuR0J3NFBDRTVYVjY?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-09-15"
     }
   ]
 }
