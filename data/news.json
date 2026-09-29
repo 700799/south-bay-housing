@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-28T20:02:55.637Z",
+  "updated": "2026-09-29T18:29:20.166Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "In the news: Sunnyvale double stabbing, Lowrider Day in San Jose, 49er Faithful in Australia - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXBRemU1OG1RTDJheWFuM25PZGxURk5YUFlyMU5wMWt6cTA1dzJGN1JCSHFIZHp6c2JNR1JheHY5M2xpYVNMR1YyVnZvY0dmSHpsQVZSZWdqeWcxdWFXMkRWTlNSc3dpZ0RWUEhBaXhudW9oaEFINkxNTS1wNml1STVSWXNCdGwyVDVEZldXbHpuUXBrT1FDVWhodHRNRklrdzUwejVzQllaQUIwZ1NnLTlJR1dWZ3FGR0NVMjQzbUttTEZ0cWp0bS1GcEI5ajE5YjhDWXNJUnNPVzZpeUhYUDJkdHFCZkXSAe8BQVVfeXFMUDNEa05VUG1vd2MxaXRwTThnRE5VUkJoNWpETjYtX0J3MXROYkpvWGFNMEpaV2UwM0FQX21qeGZ4QzBjZ3BsLUZnNVhYb21OcjVfRjRzR2w0MjBLV1BMUktNZFh5OXdSSTJyN3dTQmN6WlplLTJoWVZJbHdXVUlISFlkR2NQV2ZKMmJ5LVhuRE1HdDF4dllZSlpvaWE5WVNPT25PS0hMQjA5eTY5UGhaMjUxTldxS3pjLUl2ekxRWTAyQnFIY0pEWG42SXJyeGtmREJfYmhhWHI0Mzd0UGlHM2EzLWlIYzR5STdMQWdBZm8?oc=5",
+      "source": "NBC Bay Area",
+      "published": "2026-09-07"
+    },
     {
       "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
@@ -15,8 +21,20 @@
       "published": "2026-08-07"
     },
     {
+      "title": "New plans emerge for stalled San Jose housing tower near SJSU campus - mercurynews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUhYMUprcXNlUUg0LXU3WmNuVnBvejVlcDdQcUVsR3B1MVlwTW9vMENYazI5T0t4UWJVS0xFYk4yaVdCeEN6OXM1T01YdDNlOWZzaDJhWHNicmowcXNIblc5ODBDZEZfQVo2Tnk1eDl4WXdmMFNSbTBkYTlSSWFUeUlmb0pFdXBMNVU5M094U2YteUJSUXlhRk8xODVrVTBMRXVMTmVLRdIBrAFBVV95cUxPUUgxdHVDMTBmMlJrVzRLMUo2N0R4bXVvbGJLQW43OGMxNTR3MkxGeVZqaUVnLXJsdzloOGJtSjRTM2hUd2E5bmE0Tl9nNWwyUWtoUWh1TmJTejQtNmNVZFM2SVo5c1lkS3lMTS1UZjNwdXh0VGkxZVZ1b2Y3RU9UZjhKS1FKVlhIaGZtU2ZralJqd3FtaHhEUmlkcUFkdXdqLXhfekN0NFVHSkMy?oc=5",
+      "source": "mercurynews.com",
+      "published": "2026-09-28"
+    },
+    {
       "title": "James Kuszmaul: More housing and safer streets - Mountain View Voice",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFlxQ3d5NWI1ZWpCVzQ3bVRJWFBhQXM4TjhuRWhJaHd4WEZtTFpvTTN5TnJva0dKamlRVmFCbzNCc3V1U0JxQ3QyMHBuSDhKSGIwS1VmX0s4YVN3bUVpUGE5LWd6MUFBS2d5ekxoS1ZFeEY0ZjNrMmpaelVjcmtlZXpYeFNBU0xfUjBNNkZwVWNKVjlqV0E?oc=5",
+      "source": "Mountain View Voice",
+      "published": "2026-09-28"
+    },
+    {
+      "title": "What will California’s next governor do about healthcare? Here are Becerra and Hilton’s plans - Mountain View Voice",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzlaQlp1dTNuY24zaVIxZ241Q1U0dVZwcXcyX3ZkcUhKNVpfWUtVN1RiNGM5X1ZHTXpZUjFpNXdMT3B4SjF3N3VPa3cxVlhINmhucUVlcXNhd1ItUFA4dW9UZjVVU1UtUktNTmxBZjJNLVN1QUxYTjJrbU1VSG9Pb0VDdmYyR050b3JhaUtjaXNQOFlCTUxPcVg1eFlzdWtiSlktd0dGNW10ZkRaTFlLb2FMOGpFQjhTNEdCcEgyTTJpRzNta1MxRXRsbV9jVFdLNjJsMw?oc=5",
       "source": "Mountain View Voice",
       "published": "2026-09-28"
     },
@@ -33,15 +51,15 @@
       "published": "2026-09-25"
     },
     {
-      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEl1R2M2YWlCT2dqaGxXZlhxZU1KOFdpTW9VT0Q3MW54QzFyNE1XYkJGZUFmT0c1STNfbWxEc210TDB2d3hFNXdDU2JpYkF6TklXTmNkU0FXb3l4WEI4X1BtZURjOFV3MUY4REYxMkI4TEh0blpycmtkNnhuV21lQ1B5R1FOMmcyTTFxRFB2XzVhZlVKNUFFc2xmZnM1X0NkVXliRnNJWVZ6LVAwRndyNtIBtgFBVV95cUxNOE9ZZnpWcDh4QjFMQUJyNFlTaWNNRlZxcmduTW5lODlkUnlNblVsVmsxT3ZteE1TX252Vzh5blAzVnltTFZQQVl0TGNLTmowQzhNd0JYa2FXRFZTdGZ5RXg4LWtKNGZBRms3a3R1NnRoUHRSTDhBdExRYzBSOXVib1l2cW5wWlZLQzRfdm1IbGhYWnp0Q1hGXzRBWE0xSGZXQTdoZGd4STF3UE5rMFlBUVBhWFZadw?oc=5",
-      "source": "SiliconValley.com",
+      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzRkeWxKckJncmhDY0JKcW8tcmZWYXdncnltMG1KWml6LXFzMEt6STFacUlIUEN5a0lrYnR6RW5rZEp1UWRGdVp3N3lDbWNOSnNPZ0VLX1VzeE1fM0FIa3hiUnZQeVU3TVdndHNjTVJScFpfOTB4SmZxa0F3WXlQUkJMODRaeXBKbndMQzJxdndUejFfNlE5QmhsZnRSYWozM2RsQ01CeXk0SkhZYkhr0gG0AUFVX3lxTE1ma1c0UEtuekpRbEhxUnp4UVQ2Tkh0cU4tT05TWHBHcWhPTXpMUThNTHRZTUlPbEthRVBYa3dRaUI3LXR6anpWSmNxeWpkZG1EdzJHWjE0V0tFRGNVQU5scnIzZEhIT29ZNVZwMlliQnR1MC1UUi1EN3BMeVpoREJCQ19PYnlISXRXWWRoTWVwSGx2WVFVUlZ5UlF6Ny1JdVc2b3daeFpIM0F0dHR0ZUFORVdwRA?oc=5",
+      "source": "East Bay Times",
       "published": "2026-09-24"
     },
     {
-      "title": "Mormon Church's Real Estate Arm Pays $296.7M for Mountain View Apartments - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFFQU3EzbElxbkVRX3BxcnNZY1d3SXF1TjZvRFotYVFLVmZQWl9jM3JaVkdaeV9jT2t1dFZvbUY5TXRZeHJzSDRmQ1RwNmpFTFAxem1QdWRUbHNkeDE2TG80ZEVVX1d3Z0pEOWlqcFJPenI2WTZIWEpLa0VWV09EbjFULW11aHd5QkZDejd3Z3NtUm5MOHQxWmVQSVhJeTBfT201VA?oc=5",
-      "source": "Hoodline",
+      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - siliconvalley.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEl1R2M2YWlCT2dqaGxXZlhxZU1KOFdpTW9VT0Q3MW54QzFyNE1XYkJGZUFmT0c1STNfbWxEc210TDB2d3hFNXdDU2JpYkF6TklXTmNkU0FXb3l4WEI4X1BtZURjOFV3MUY4REYxMkI4TEh0blpycmtkNnhuV21lQ1B5R1FOMmcyTTFxRFB2XzVhZlVKNUFFc2xmZnM1X0NkVXliRnNJWVZ6LVAwRndyNtIBtgFBVV95cUxNOE9ZZnpWcDh4QjFMQUJyNFlTaWNNRlZxcmduTW5lODlkUnlNblVsVmsxT3ZteE1TX252Vzh5blAzVnltTFZQQVl0TGNLTmowQzhNd0JYa2FXRFZTdGZ5RXg4LWtKNGZBRms3a3R1NnRoUHRSTDhBdExRYzBSOXVib1l2cW5wWlZLQzRfdm1IbGhYWnp0Q1hGXzRBWE0xSGZXQTdoZGd4STF3UE5rMFlBUVBhWFZadw?oc=5",
+      "source": "siliconvalley.com",
       "published": "2026-09-24"
     },
     {
@@ -55,24 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
       "published": "2026-09-23"
-    },
-    {
-      "title": "Nvidia-leased Sunnyvale building bought for $90 million-plus - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXk0SElaamYybGhSaWZTMGpmVUdSZmg5VExScWcxeWNya1otTm9jS3JobXNRUk5PZFBFVm9YX0dUR0F0ZXh5R1VHYXRDT21WRGM2UmMwUDY1SlJ5RzgybnlhWTE4ai1RcXlJYkxpSFc2RW9LSFcxb29DNWMwSElINERBaXpSTGxmbDZaMDNBOXRwR3g2a2ZnTW1BczhLNXYxR2tnT2ZIcHJ5Szc00gGyAUFVX3lxTFBqRFM0MEhBUkJHdk1aYXl3aU5VbU5OcllPczhrZ1MweHVJRFZnejl5TExWelR5UUt1ckU1N1BkNTZWWGNmaHY3QXcxcmJiYTc1UzI1OXY3VG9pckdNMjBKM1k2NjBkNEtKbDRXdno3YW5BY1QxeGptYUJfZXU5NENyVUVaa1JZVnVHNmY4LW5TS29HVVpvNk9HaDJNTnA4eUNNR2FQR0x0ZFhCYll2Tkk1bmc?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-09-23"
-    },
-    {
-      "title": "South Bay Multifamily Surges With Aerospace Boom - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUZnZFFVZUlYYlotWUFkT3dSdF9BQ2hCOHpac0JrVmNHNnFPTy1tRF9uSW9tdVFZak84SkpZVXFvbWx4ckJ1d1FNV1VaN1JVeHBiYWRfMEZCdkZnNlU2RXZRRTgwd3l3Q3BWWVlEckhwSi1NR0NFRFZWM29WUWVtb0YyVDhWbGsyNlpnTmZ3bG9Ka2RiNkdWZU1TX3JsWDBpWFQ1cHhuQQ?oc=5",
-      "source": "Bisnow",
-      "published": "2026-09-22"
-    },
-    {
-      "title": "Bay Area homebuyers weigh higher mortgage rates as real estate market shifts - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHlqdW11X2JJdGNxcDF4VHVzTGNzR1BwOHZOYTVvVElGS2p0eWtDNWhlSHgxMmVFU1Qwci14T29XR1hvQmFWWnVaaVl0blh5TmhLX2NkVmNueTVadndDdVhJcmkwTmdKd0dzdEktR0RoMnVMd0M1Y0hBb3JTWE96WS1DckxIVkhNb2RBa2NFX2hoWmdn?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-19"
     }
   ]
 }
