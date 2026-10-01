@@ -1,41 +1,16 @@
 {
-  "updated": "2026-09-30T18:17:49.058Z",
+  "updated": "2026-10-01T18:43:22.337Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 7.03,
+      "value": 7.28,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.08,
-          "direction": "up"
-        },
-        "14d": {
-          "delta": 0.27,
-          "direction": "up"
-        },
-        "30d": {
-          "delta": 0.38,
-          "direction": "up"
-        },
-        "60d": {
-          "delta": 0.45,
-          "direction": "up"
-        }
-      }
-    },
-    {
-      "key": "mortgage15",
-      "label": "15-Yr Fixed Mortgage",
-      "value": 6.42,
-      "unit": "%",
-      "good_when": "down",
-      "changes": {
-        "7d": {
-          "delta": 0.16,
+          "delta": 0.25,
           "direction": "up"
         },
         "14d": {
@@ -43,11 +18,36 @@
           "direction": "up"
         },
         "30d": {
-          "delta": 0.47,
+          "delta": 0.62,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.46,
+          "delta": 0.62,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "mortgage15",
+      "label": "15-Yr Fixed Mortgage",
+      "value": 6.6,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": 0.18,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 0.34,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 0.62,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.56,
           "direction": "up"
         }
       }
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 5.24,
+      "value": 5.26,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.28,
+          "delta": 0.3,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.27,
+          "delta": 0.26,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.51,
+          "delta": 0.53,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.56,
+          "delta": 0.51,
           "direction": "up"
         }
       }
@@ -105,24 +105,24 @@
     {
       "key": "sjunrate",
       "label": "San Jose-Metro Unemployment",
-      "value": 4.1,
+      "value": 4.3,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.1,
+          "delta": 0.2,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.1,
+          "delta": 0.2,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.1,
+          "delta": 0.2,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.6,
+          "delta": 0.3,
           "direction": "up"
         }
       }

@@ -1,17 +1,11 @@
 {
-  "updated": "2026-09-30T18:17:50.015Z",
+  "updated": "2026-10-01T18:43:23.191Z",
   "source": "Google News RSS",
   "items": [
     {
-      "title": "San Jose Spotlight: Santa Clara County Funds Independent Living Home Upgrades - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2ZMcTlZZm50WWUtTkhZa24wMVRUbjJXdm1Tb1A3TGRZSno0Q3gtNDRyeGk2ZTNMMkdFRzlhb3ppR0U2VFd1YnhJRHZYUUZOTGUwZ1VKaEpSQXNQY25SMU5rUHZ3QWxwTmx2UTJIRFRiaTdqLUtYb1MyRDBPRHhMVTJkaGRDTmZ4QzJPbzJMWXlIbmNHeTdsTEJuSHh6Z2ZyMkE?oc=5",
-      "source": "SFGATE",
-      "published": "2026-09-29"
-    },
-    {
-      "title": "In the news: Sunnyvale double stabbing, Lowrider Day in San Jose, 49er Faithful in Australia - nbcbayarea.com",
+      "title": "In the news: Sunnyvale double stabbing, Lowrider Day in San Jose, 49er Faithful in Australia - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXBRemU1OG1RTDJheWFuM25PZGxURk5YUFlyMU5wMWt6cTA1dzJGN1JCSHFIZHp6c2JNR1JheHY5M2xpYVNMR1YyVnZvY0dmSHpsQVZSZWdqeWcxdWFXMkRWTlNSc3dpZ0RWUEhBaXhudW9oaEFINkxNTS1wNml1STVSWXNCdGwyVDVEZldXbHpuUXBrT1FDVWhodHRNRklrdzUwejVzQllaQUIwZ1NnLTlJR1dWZ3FGR0NVMjQzbUttTEZ0cWp0bS1GcEI5ajE5YjhDWXNJUnNPVzZpeUhYUDJkdHFCZkXSAe8BQVVfeXFMUDNEa05VUG1vd2MxaXRwTThnRE5VUkJoNWpETjYtX0J3MXROYkpvWGFNMEpaV2UwM0FQX21qeGZ4QzBjZ3BsLUZnNVhYb21OcjVfRjRzR2w0MjBLV1BMUktNZFh5OXdSSTJyN3dTQmN6WlplLTJoWVZJbHdXVUlISFlkR2NQV2ZKMmJ5LVhuRE1HdDF4dllZSlpvaWE5WVNPT25PS0hMQjA5eTY5UGhaMjUxTldxS3pjLUl2ekxRWTAyQnFIY0pEWG42SXJyeGtmREJfYmhhWHI0Mzd0UGlHM2EzLWlIYzR5STdMQWdBZm8?oc=5",
-      "source": "nbcbayarea.com",
+      "source": "NBC Bay Area",
       "published": "2026-09-07"
     },
     {
@@ -27,9 +21,9 @@
       "published": "2026-08-07"
     },
     {
-      "title": "New housing development in Sunnyvale could shut down popular Greek restaurant - ABC7 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1dMVVItd3l1bllXYmFXWnpWTmVDQWVvTFVyVDRRUzZ4VnYtRnB1VjMwbmY5LW80dG1JSzVNOFFPM1JQSVJJYkotVUxiVjNiNm1KbDRtRFgtallzSmVVWENmY1UtSjlDdnRSM2d3VlpCY1dpM05ISlZZX3htQ3JlanhPcVF0SFZKOExwODczalhya2t0OVBJcGFhZVhYeGFzRFpkb3NiTWtMeXNTQkJfalhycTVlSi0zZHJTa2RUZ3FLMWxsbWxYYjhIOXVGcWFO0gHWAUFVX3lxTE5VM25sYmY4VDQyeEc4d0VIbWJGYjBWS1R6eGNhbHBJOFZVZG9QajRDR3RWZmNwYWRpSFV2a2UwR2RKbXZNMW53MDJsSTJVNENNREFwTUE4Y0tJQkdLc1NqVng3blBQR0hvSXl1RnMxaHh1dXZYNktrZjdPRkkyTjREbnhBTmw5em9Oblc1VUFsVnVON1BpQ3N0QWNhaGJTTTE2dVRFbkY3SmdlbUQ0bmE2cGJlUHdEM0NRWDRIdTAxZlJqWnNJWVhzTlJoWTBwek5XSXhfLXc?oc=5",
-      "source": "ABC7 San Francisco",
+      "title": "Erik Poicon: Promoting affordability and inclusion - Mountain View Voice",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllRRzN6X29Qc01RaWtKOVRzbDI4RVYybGExZUNSand5dkt0ZTZ5RkZRRElRV093RnpTWWIzVnZxVk4zYXJWdHZqTnNncFMxdUVyeGRWeFVENjZ0VnhkRnAza2ZrdVVDams3YUs2STdKNHozR2RKQ25ET1llQlEzM0NpYlMzdms1OHh4REFkVUNPVVpPbGE4cmZlaw?oc=5",
+      "source": "Mountain View Voice",
       "published": "2026-09-30"
     },
     {
@@ -39,14 +33,20 @@
       "published": "2026-09-30"
     },
     {
+      "title": "437 Kent Dr, Mountain View, CA 94043 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2xDN0R3X1BtSlBBSWN6X1BYcnBTdlIwZFctY3RFN200MkZwYjJVd1JSZHQ1Zm1lUVFZelI0OG1Pdmk5aENIajJCQzgyRk1BZkFMSDI0a01JMS1UY2FUOG1tMGI1LVlYRlJqY0cwQURQQ1otWGxfX1V0T05udGJ3SUxPOWR3SUV0LWF2VWhTLV8?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-09-29"
+    },
+    {
       "title": "New California law frees up funds for sober homeless housing - Mountain View Voice",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTRMR3pmQ1M3MWx2Y0N2MzlZNjhaaXNHVWN0aGJpZlRBU3hxN1pYd2tSa1dwemE1Vm1odFdfZTlyal9FVGU4M1FsaWhvR3dUb2k3Z2xBWVM4eFJxNVZTNkoza3k0WDF5UHY4MjlXN0d6aXJUSmlySExUdDVHXzhnZmhid0xFOGNhWEVYNFZFdlVyNFRxLUpMNzNTa1pSS3o5N01qc2Y2ZnMyMXhG?oc=5",
       "source": "Mountain View Voice",
       "published": "2026-09-29"
     },
     {
-      "title": "New plans emerge for stalled San Jose housing tower near SJSU campus - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUhYMUprcXNlUUg0LXU3WmNuVnBvejVlcDdQcUVsR3B1MVlwTW9vMENYazI5T0t4UWJVS0xFYk4yaVdCeEN6OXM1T01YdDNlOWZzaDJhWHNicmowcXNIblc5ODBDZEZfQVo2Tnk1eDl4WXdmMFNSbTBkYTlSSWFUeUlmb0pFdXBMNVU5M094U2YteUJSUXlhRk8xODVrVTBMRXVMTmVLRdIBrAFBVV95cUxPUUgxdHVDMTBmMlJrVzRLMUo2N0R4bXVvbGJLQW43OGMxNTR3MkxGeVZqaUVnLXJsdzloOGJtSjRTM2hUd2E5bmE0Tl9nNWwyUWtoUWh1TmJTejQtNmNVZFM2SVo5c1lkS3lMTS1UZjNwdXh0VGkxZVZ1b2Y3RU9UZjhKS1FKVlhIaGZtU2ZralJqd3FtaHhEUmlkcUFkdXdqLXhfekN0NFVHSkMy?oc=5",
+      "title": "San Jose’s latest downtown high-rise proposal features over 300 below-market-rate apartment - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUhYMUprcXNlUUg0LXU3WmNuVnBvejVlcDdQcUVsR3B1MVlwTW9vMENYazI5T0t4UWJVS0xFYk4yaVdCeEN6OXM1T01YdDNlOWZzaDJhWHNicmowcXNIblc5ODBDZEZfQVo2Tnk1eDl4WXdmMFNSbTBkYTlSSWFUeUlmb0pFdXBMNVU5M094U2YteUJSUXlhRk8xODVrVTBMRXVMTmVLRQ?oc=5",
       "source": "The Mercury News",
       "published": "2026-09-28"
     },
