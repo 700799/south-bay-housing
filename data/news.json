@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:43:23.191Z",
+  "updated": "2026-10-02T18:14:56.825Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,10 +9,16 @@
       "published": "2026-09-07"
     },
     {
-      "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-08-26"
+      "title": "Sunnyvale Leads County in Tax-Base Growth - The Silicon Valley Voice",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xSkpRM0pOY3ZMbU1DYmtoc19ja3ZLMG44TkJMeE9pMXpsZDUwUnpKTXd4MGY2WENQWklZanpsNEhtejI3a1lBQVp6Nldsd0V5QWtMNnMzbm5HdFVhcV8ySUY5YnFGWEk3ZzNRamgyMDF2STRa0gF6QVVfeXFMT2FaWEJCUlZKQzVDQUJ2VHNIOXc3Qmt1a1lwa05tRnJFYTZNaldiVndIMUgtNjJYY1BobEVHSWltOTdqMkl4b1FxY25JS2lSckQtdC1YdS1LSkNtbGRaTTFuVm1vdERFSGp1LXBlNE9CSi14MXJFVFFBSGc?oc=5",
+      "source": "The Silicon Valley Voice",
+      "published": "2026-08-18"
+    },
+    {
+      "title": "San Jose Spotlight: Santa Clara County Affordable Housing Stuck In Pipeline - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzFjcTBqdFo4SEJOcXVSU2JKYkxIa0N3TmZpV28yd1lkX0tfY2szclhuQ1FLaXk2VHBDM1FGcDI4bGhaWktlMTFSQU1RaHQ1Sm9SZFZmejhySHdnRDk5RXQ0OWVBSXdMdVFKVy1STjlwbVBKZGNfZlc2d2hnNE5LblNTeGg0aU1YeVpMSWs3di12NkFXX0ZMX2J3YjU0a09RM3hUS0c2OXU?oc=5",
+      "source": "SFGATE",
+      "published": "2026-08-14"
     },
     {
       "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets - The National Law Review",
@@ -21,27 +27,27 @@
       "published": "2026-08-07"
     },
     {
-      "title": "Erik Poicon: Promoting affordability and inclusion - Mountain View Voice",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllRRzN6X29Qc01RaWtKOVRzbDI4RVYybGExZUNSand5dkt0ZTZ5RkZRRElRV093RnpTWWIzVnZxVk4zYXJWdHZqTnNncFMxdUVyeGRWeFVENjZ0VnhkRnAza2ZrdVVDams3YUs2STdKNHozR2RKQ25ET1llQlEzM0NpYlMzdms1OHh4REFkVUNPVVpPbGE4cmZlaw?oc=5",
-      "source": "Mountain View Voice",
-      "published": "2026-09-30"
+      "title": "Sunnyvale: Family-owned restaurant looking for a new home - t.co",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mMUlZeXdlNURqeVdvTlI1WDBOOFlkZmZ3cnE0WGtJUk9rTWVCOGU3OUZRZUNyejhzUFRZ?oc=5",
+      "source": "t.co",
+      "published": "2026-10-02"
     },
     {
-      "title": "China’s Guolian completes Sunnyvale US property sale for reduced $15m price - Undercurrent News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmgyYzlxSWdUWFBzQUpRNHdHYU1lcWtCVVIzNnNLeHd5V25xMzZHNXJldlVlbGxGb3FyQ0h1NFFjMWFybERfSlVNSV9UMDlQeGdvX0FNUHVPLXU4QnJld3laRXFRRU8zbW56VWQ0YzZZcXVQTS1velZZY3NRbzk3QVY4bXpmRHdFUWNER0JrbjBjY3NZXzZhU19RRFlNNFR6QV91WmhUZDJUSTZKYjgxQXBnLWpDQ0VvUkE?oc=5",
-      "source": "Undercurrent News",
-      "published": "2026-09-30"
+      "title": "Proposal seeks to build more than 100 apartments near major San Jose shopping centers - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEdNbzRvbmhoNTc3al9xSWN6cF9iUTVVckxZaDY5YmFMY0ZLeVRlQ2tOMjJmd1NBX3Rnb000eS1XRHRnZ2lQOVZpOUQweTYzNUpiZGVzSUdBM29FeXE5US11ZmlyNE16Y1NyTlN0VDlFS0VqSEk2LTJfdGUtMFdnTWFyOXFCUWdpQnBSLUxhaE44b2hoMjRNZmJtckFkd1pZZW5EZFJIdmZrcllpa0Zv?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-10-01"
+    },
+    {
+      "title": "Sunnyvale: Family-owned restaurant looking for a new home - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTRwTVRWMnNvTjdLOXFnTnRoU1pabXJNWjBHS3E1TVpiNnBWa0NuRlpvTVVKNzNualBBYW4xb0tITlJhVW0zbmdTUGlTSmVRbV9qeE9vZ3RabDV0ZVF1SUEzWE9OaUdZS0Z1S25wdmhMR2lFWlZaU2RDZXBhTFpkLTg2cVdPSnJHU0NqNkRpQjIxQkF6LTVYZjZBSy0?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-01"
     },
     {
       "title": "437 Kent Dr, Mountain View, CA 94043 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2xDN0R3X1BtSlBBSWN6X1BYcnBTdlIwZFctY3RFN200MkZwYjJVd1JSZHQ1Zm1lUVFZelI0OG1Pdmk5aENIajJCQzgyRk1BZkFMSDI0a01JMS1UY2FUOG1tMGI1LVlYRlJqY0cwQURQQ1otWGxfX1V0T05udGJ3SUxPOWR3SUV0LWF2VWhTLV8?oc=5",
       "source": "Realtor.com",
-      "published": "2026-09-29"
-    },
-    {
-      "title": "New California law frees up funds for sober homeless housing - Mountain View Voice",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTRMR3pmQ1M3MWx2Y0N2MzlZNjhaaXNHVWN0aGJpZlRBU3hxN1pYd2tSa1dwemE1Vm1odFdfZTlyal9FVGU4M1FsaWhvR3dUb2k3Z2xBWVM4eFJxNVZTNkoza3k0WDF5UHY4MjlXN0d6aXJUSmlySExUdDVHXzhnZmhid0xFOGNhWEVYNFZFdlVyNFRxLUpMNzNTa1pSS3o5N01qc2Y2ZnMyMXhG?oc=5",
-      "source": "Mountain View Voice",
       "published": "2026-09-29"
     },
     {
@@ -67,12 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
       "source": "shattered.io",
       "published": "2026-09-25"
-    },
-    {
-      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmsyQWNsZHJTOU9PT3Q1Z1c0ZU1SYXF0TnY1V1ZRd3BIWkZEc0FvMmhjcEpHXzIzZTBTQVFHdnlVelBFRXdYNm5uRnUybmw2TUdpNUlrbmM0cy1kQkdfV3JDYWRYOTlmR1pWM1A3OVY3SF9UVFpScGRCUXpPMDFpakZIelpjUC1iNTFlSllJSFZHYUI1NFZPVWdXaHptZllNLU1QV3I4Y2lKVmxUSWfSAbMBQVVfeXFMTlNkRFFaNDhFcFYxMVVnYTRSeHpMbURObmVhVFhFX3ZwWDJsT1VaM0xXS2tpZEpPN0dpOXBwaVhvQVZ0a0draFBQRmR6aDh3MWxKUDhGazlGN21uSmNhMnkyYXk4RjZsMm5KOG51UTNJRlFKVzd1VTlfcHo3VFJqSFJMdk5LM0FKYXFIRnBzcFA2cVBrSGJOZDBoMmpHRFpGZEtub2djNE5OVUNzdUVoa2M0YlU?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-09-24"
     }
   ]
 }

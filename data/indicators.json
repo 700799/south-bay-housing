@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:43:22.337Z",
+  "updated": "2026-10-02T18:14:55.811Z",
   "source": "FRED",
   "rows": [
     {
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 5.26,
+      "value": 5.29,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.3,
+          "delta": 0.18,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.26,
+          "delta": 0.28,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.53,
+          "delta": 0.54,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.51,
+          "delta": 0.54,
           "direction": "up"
         }
       }
@@ -80,25 +80,25 @@
     {
       "key": "fedfunds",
       "label": "Fed Funds Rate",
-      "value": 3.63,
+      "value": 3.75,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0,
-          "direction": "flat"
+          "delta": 0.12,
+          "direction": "up"
         },
         "14d": {
-          "delta": 0,
-          "direction": "flat"
+          "delta": 0.12,
+          "direction": "up"
         },
         "30d": {
-          "delta": 0,
-          "direction": "flat"
+          "delta": 0.12,
+          "direction": "up"
         },
         "60d": {
-          "delta": 0,
-          "direction": "flat"
+          "delta": 0.12,
+          "direction": "up"
         }
       }
     },
@@ -155,25 +155,25 @@
     {
       "key": "listprice",
       "label": "Median List Price (South Bay Metro)",
-      "value": 1349000,
+      "value": 1388472,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": 2056,
+          "delta": 39472,
           "direction": "up"
         },
         "14d": {
-          "delta": 2056,
+          "delta": 39472,
           "direction": "up"
         },
         "30d": {
-          "delta": 2056,
+          "delta": 39472,
           "direction": "up"
         },
         "60d": {
-          "delta": -36000,
-          "direction": "down"
+          "delta": 41528,
+          "direction": "up"
         }
       },
       "format": "usd"
@@ -181,24 +181,24 @@
     {
       "key": "newlistings",
       "label": "New Listings (South Bay Metro)",
-      "value": 1292,
+      "value": 1336,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": 100,
+          "delta": 44,
           "direction": "up"
         },
         "14d": {
-          "delta": 100,
+          "delta": 44,
           "direction": "up"
         },
         "30d": {
-          "delta": 100,
+          "delta": 44,
           "direction": "up"
         },
         "60d": {
-          "delta": 58,
+          "delta": 144,
           "direction": "up"
         }
       }
@@ -206,49 +206,49 @@
     {
       "key": "inventory",
       "label": "Active Listings (South Bay Metro)",
-      "value": 1981,
+      "value": 2112,
       "unit": "",
       "good_when": "up",
       "changes": {
         "7d": {
-          "delta": -40,
-          "direction": "down"
+          "delta": 131,
+          "direction": "up"
         },
         "14d": {
-          "delta": -40,
-          "direction": "down"
+          "delta": 131,
+          "direction": "up"
         },
         "30d": {
-          "delta": -40,
-          "direction": "down"
+          "delta": 131,
+          "direction": "up"
         },
         "60d": {
-          "delta": -231,
-          "direction": "down"
+          "delta": 91,
+          "direction": "up"
         }
       }
     },
     {
       "key": "dom",
       "label": "Median Days on Market",
-      "value": 36,
+      "value": 35,
       "unit": " days",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -4,
+          "delta": -1,
           "direction": "down"
         },
         "14d": {
-          "delta": -4,
+          "delta": -1,
           "direction": "down"
         },
         "30d": {
-          "delta": -4,
+          "delta": -1,
           "direction": "down"
         },
         "60d": {
-          "delta": -1,
+          "delta": -5,
           "direction": "down"
         }
       }
