@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:14:56.825Z",
+  "updated": "2026-10-03T17:02:20.651Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -7,6 +7,12 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXBRemU1OG1RTDJheWFuM25PZGxURk5YUFlyMU5wMWt6cTA1dzJGN1JCSHFIZHp6c2JNR1JheHY5M2xpYVNMR1YyVnZvY0dmSHpsQVZSZWdqeWcxdWFXMkRWTlNSc3dpZ0RWUEhBaXhudW9oaEFINkxNTS1wNml1STVSWXNCdGwyVDVEZldXbHpuUXBrT1FDVWhodHRNRklrdzUwejVzQllaQUIwZ1NnLTlJR1dWZ3FGR0NVMjQzbUttTEZ0cWp0bS1GcEI5ajE5YjhDWXNJUnNPVzZpeUhYUDJkdHFCZkXSAe8BQVVfeXFMUDNEa05VUG1vd2MxaXRwTThnRE5VUkJoNWpETjYtX0J3MXROYkpvWGFNMEpaV2UwM0FQX21qeGZ4QzBjZ3BsLUZnNVhYb21OcjVfRjRzR2w0MjBLV1BMUktNZFh5OXdSSTJyN3dTQmN6WlplLTJoWVZJbHdXVUlISFlkR2NQV2ZKMmJ5LVhuRE1HdDF4dllZSlpvaWE5WVNPT25PS0hMQjA5eTY5UGhaMjUxTldxS3pjLUl2ekxRWTAyQnFIY0pEWG42SXJyeGtmREJfYmhhWHI0Mzd0UGlHM2EzLWlIYzR5STdMQWdBZm8?oc=5",
       "source": "NBC Bay Area",
       "published": "2026-09-07"
+    },
+    {
+      "title": "Seven Bay Area cities dominate list of highest-income ZIP codes in the country - Silicon Valley Business Journal - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGNSS0U4MEFYcHQ0eUE5WWFZb1dCUDZocF9FNE5RcDVqWTgyYnhXTHhIYlRwMFRhNG9NTnd5R3hxaVl0Q0RPaHB3OW1KZWtkV2RrTFd3UEtVRVV2eVo2NU9fMkszeUlIbnA0VHduaXlXNEgzZm5SUS1SVHhOeE9fRGxESm5uWGhMamFHeXVqczE4QTVKTVE?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-08-20"
     },
     {
       "title": "Sunnyvale Leads County in Tax-Base Growth - The Silicon Valley Voice",
@@ -21,22 +27,10 @@
       "published": "2026-08-14"
     },
     {
-      "title": "Brothers Buy Homes Expands Into San Jose and SF Bay Area Markets - The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHRiSnUwZTM1NnFZS21lbEJvajg4bUlnMEltNUJpNHhqamFnRmhidk50TjRPNzlKOE9uMGxTMHhMWnNvcEtTR2NvYmRMUS1YcFkwMXB4THBDVklsSkVRUmJyQU8wcFVZS2IxMXNUVUVlWEdrY1hqcHN0TzJRSkdFeVBoOGFsakRXLVh1a1ExUTQ0Q2tUUUg4TlVES1pVMnpxNTV2cTNCLUlJTTJT?oc=5",
-      "source": "The National Law Review",
-      "published": "2026-08-07"
-    },
-    {
       "title": "Sunnyvale: Family-owned restaurant looking for a new home - t.co",
       "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mMUlZeXdlNURqeVdvTlI1WDBOOFlkZmZ3cnE0WGtJUk9rTWVCOGU3OUZRZUNyejhzUFRZ?oc=5",
       "source": "t.co",
       "published": "2026-10-02"
-    },
-    {
-      "title": "Proposal seeks to build more than 100 apartments near major San Jose shopping centers - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEdNbzRvbmhoNTc3al9xSWN6cF9iUTVVckxZaDY5YmFMY0ZLeVRlQ2tOMjJmd1NBX3Rnb000eS1XRHRnZ2lQOVZpOUQweTYzNUpiZGVzSUdBM29FeXE5US11ZmlyNE16Y1NyTlN0VDlFS0VqSEk2LTJfdGUtMFdnTWFyOXFCUWdpQnBSLUxhaE44b2hoMjRNZmJtckFkd1pZZW5EZFJIdmZrcllpa0Zv?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-10-01"
     },
     {
       "title": "Sunnyvale: Family-owned restaurant looking for a new home - The Mercury News",
@@ -63,9 +57,9 @@
       "published": "2026-09-28"
     },
     {
-      "title": "CENTURY 21 Coastal Properties Announces More Than 50 Years of South Bay Real Estate Service Under Broker Jennette Toderick - StreetInsider",
+      "title": "CENTURY 21 Coastal Properties Announces More Than 50 Years of South Bay Real Estate Service Under Broker Jennette Toderick - streetinsider.com",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVUR5dWlwd2hubUI5N21RSmhBbG9GUlhBcExoOFZydFhJRFJuYjN4VnFnN2xMdDhqeTcwZnFvQkJFU0JpMnVtY3FVeVN2T0hYbVFJWHRCTndFZ1RYUjYyb3E3NmNOS3FVdEpTcGk1OTQ3LWFrVFBXb3Bvc004Vy1FRC12N1RmMExXbXRZU0pkVUozRlB0U2Y2TGV6YmJWWEFlVzhHazljZ1AwU2s4M0k1VUt6UkZXSDJOOGNrdmRmeW5FNnp5WnQxTXRKR2NVZjJ2RXQybnNqc3lEcC1EcnU4UDNxNkM3Sk9PUUw1X2E2N0EwTXVGSFFRQ0hxRHJRcU1jU256N1FkdXFZUG5hdVE?oc=5",
-      "source": "StreetInsider",
+      "source": "streetinsider.com",
       "published": "2026-09-26"
     },
     {
@@ -73,6 +67,12 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
       "source": "shattered.io",
       "published": "2026-09-25"
+    },
+    {
+      "title": "Mormon church real estate arm buys South Bay apartments in cash deal - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEl1R2M2YWlCT2dqaGxXZlhxZU1KOFdpTW9VT0Q3MW54QzFyNE1XYkJGZUFmT0c1STNfbWxEc210TDB2d3hFNXdDU2JpYkF6TklXTmNkU0FXb3l4WEI4X1BtZURjOFV3MUY4REYxMkI4TEh0blpycmtkNnhuV21lQ1B5R1FOMmcyTTFxRFB2XzVhZlVKNUFFc2xmZnM1X0NkVXliRnNJWVZ6LVAwRndyNtIBtgFBVV95cUxNOE9ZZnpWcDh4QjFMQUJyNFlTaWNNRlZxcmduTW5lODlkUnlNblVsVmsxT3ZteE1TX252Vzh5blAzVnltTFZQQVl0TGNLTmowQzhNd0JYa2FXRFZTdGZ5RXg4LWtKNGZBRms3a3R1NnRoUHRSTDhBdExRYzBSOXVib1l2cW5wWlZLQzRfdm1IbGhYWnp0Q1hGXzRBWE0xSGZXQTdoZGd4STF3UE5rMFlBUVBhWFZadw?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-09-24"
     }
   ]
 }
