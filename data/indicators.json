@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-07T19:14:19.398Z",
+  "updated": "2026-10-08T19:10:30.325Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 7.28,
+      "value": 7.4,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.25,
+          "delta": 0.12,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.33,
+          "delta": 0.37,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.62,
+          "delta": 0.69,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.62,
+          "delta": 0.71,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.6,
+      "value": 6.73,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.18,
+          "delta": 0.13,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.34,
+          "delta": 0.31,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.62,
+          "delta": 0.69,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.56,
+          "delta": 0.72,
           "direction": "up"
         }
       }
@@ -55,20 +55,20 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 5.31,
+      "value": 5.27,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.07,
+          "delta": 0.01,
           "direction": "up"
         },
         "14d": {
-          "delta": 0.35,
+          "delta": 0.31,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.53,
+          "delta": 0.49,
           "direction": "up"
         },
         "60d": {

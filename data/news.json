@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-07T19:14:20.294Z",
+  "updated": "2026-10-08T19:10:31.331Z",
   "source": "Google News RSS",
   "items": [
-    {
-      "title": "Clear the Shelters: Live from Santa Clara County Animal Services - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUU1TE5McXB0dFJ1TnFfb3RELXd4ejNVdFg4VzhOb05FU1VxemVCWkFxdFRGNFY5QnUyUnJ5TTNKX3l5akx0ZWhHT2M1Y3JwTUwwYkY4d0JsRWFDb3k4TmFxN2NveXZ5cFB1WkFsZW4wV2t6LW5ZRE1wS19YSU5IY0lHZG9oSTg5eGJnX3h5RjlyamVkM3UzM1N6TnpvZ1NRd3dCNE03UHVCTllUVHRQT0V2eDPSAbwBQVVfeXFMTnhmVzQ1eVpZUTVxZno0NkVRWWU0ZFFnWXp0TjNSUEtQNFV3d2laVmRHSm4wUVVrOHhuUG4wZ3FaZV9sZXFZRXpfaldPM0Q0YV9mSlc2OVFVVzQ2TWpMbk05alNHR2tQRl82c19vM1JITzU1N1BrcjN1VDY1VUtqQnJCdUF1NFBNUUFVdV84cjBDeUlzTXMxVWUwdWxjVzJZeWota2JKOXRudWpWaExZTjlmZmxLcS1vd2RfUnE?oc=5",
-      "source": "NBC Bay Area",
-      "published": "2026-08-28"
-    },
     {
       "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
@@ -39,28 +33,22 @@
       "published": "2026-10-07"
     },
     {
+      "title": "Brookfield, Coastal Ridge pick up San Jose student housing tower for $205M - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXdNdlMzdXNhUTF4dHhLM0poNmY1WVYtajRnUU1zcWlsRUpOenlJYWhVQWhWRDgtVHpob196NlVfLWprVUllMUpOWkJWV045bVdzaHVZTHljQ1VuU1dRYnowMVJhYzg3bklXQzE1aHBjNmllTFJNWkQ2ZnJISTJ2aXlxdXBKRTNjdWgwNHhoTGJKcGxYNl9oNUpOZ2dWV1cxOS1rQUgxU2J6Zw?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-10-07"
+    },
+    {
       "title": "308 Marquetta Cir, Mountain View, CA 94043 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmVXajJrQU5VVW1SbWYteHZpeTJab0trbUVNVkRaWExpVDBDV0NremZlTkJsdmthRV90ZE1QQ2Y0UElEX2JXd1ZxSHdDNG5fRDd2Z2Jla1RkTHEydmNQMUE4LWNRTlZiRU9lNzNyemdSTmI4TWRuMEdnTGI3LVhvc0s1aExROHJlU0RsQlFFakpBcUdGZWlaTA?oc=5",
       "source": "Realtor.com",
       "published": "2026-10-07"
     },
     {
-      "title": "Investor sees AI breathing life into Silicon Valley office market - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczdNZDJGdF9iLVIwU01OV0xrWXpzX0JmR1M5SzN4WENZMGl4bjNxR1pyZWQ4RmNRZWxQdnJISHR6a21qTU94S0tXcU9yM25DZDdzMFNMenJxVkVfaTB0LWpWNjRDNlVaTlUwVHN1eFp1Q2RsbmJZeXdxZ1FCVnVvWGd0bDRsYmhoYkN4TDhuNk13VUEwb2ZoTUVPUjVKZ3M?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-10-06"
-    },
-    {
-      "title": "Sunnyvale office building is bought for more than $200 million - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHFxeV9IbmpWbXhIbTVtWnRBYXNsbjc4SFNyWUU3VElxdTczZUxLTndXRVgyemFZZThWM3BMUWZmMW9Pb0hRVFVJMDNBaXNkWWhGT2pPcDNvUDN1bjZlbHBEMXhuX3BUNm9ZM1J6V1FwdVFwUEtXOUdSMTlHUzlZRFNIQVltRDFNMTZFTWg0cF9vS3RLRWdPQkt1R04wYy1NRkFmR2ZiaVpMbFRfZzFIaNIBtgFBVV95cUxNdV83SU5CbDNVcGZJeHFsVVdYdXNEZnlIWFVhOVNrNzhBLWR6UUpFYzRHNzhjZzg5bzQ1c21aVXc5elFMdEUzSHg0QWVqS1J4RGVWX1lpZy0yekt1RDZVd1N1QmMzQ2FxbFBablFfTVlScHUxSFp2ZGIwbnFUU2RVeDVrbnZNbC00eVN2bjJna2dxM0QxUEtZVFFDWWR4NDVKT3ZCdVZQTDNaeHZIVU9TcmNKUVZiZw?oc=5",
-      "source": "SiliconValley.com",
+      "title": "Election 2026: Mountain View City Council hopefuls address top issues - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhrSmxXbUdpX1F4Qzd0d3dRSFpKRUhtVU1aUk9VS2VrendXYWViRGptRGNKcXNCckFZcWN5ZC11eWU3VlNXaHUyYnlPOTFVSjNTN0xWOUJpN3N3YmJnMmVoRTBiUjdQcGh4SGEwWXVuNEw2ZzVqUmcwNHN0UmxsTzFHWlkzV1g5VVp4cm0zMnZZRlJQU1BJQndMenI1dFVTcXpxUGppcmo2ZWJXWTZwZDlKeldsVDFXN0dCZFpyaFpkNkY1dXR1ejVTNjJvcnVDRjB6TUt2ZlNPUQ?oc=5",
+      "source": "The Mercury News",
       "published": "2026-10-05"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-10-01"
     },
     {
       "title": "San Jose tech campus lands buyer for well over $260 million - SiliconValley.com",
@@ -69,9 +57,21 @@
       "published": "2026-10-01"
     },
     {
+      "title": "New plans emerge for stalled San Jose housing tower near SJSU campus - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGpMSVJNRzgxN0pPeWdubHZ1R1c3Z0RibmN6U19uSzhYUlhCaG1mTUlaRDUzVVIyZlU4N0lvWTV5MzNuUlhFSzBsZWFUX1V3VExJdjNpSWVSRVlBMUZyOFF3aUp4YVpXSXVVQWkzZGd2elpLS3JTb0tIaTBKVVVKNzVyRlhKUUZwYVVzOWpFTlg4N1B1ZmZTMXNwa1daVmFoTFk2SVRpTG84QdIBrwFBVV95cUxOU1FVWFh5YzlnUFZYQUltWjRaR3VSM1BINGpPZ0IxM29XZHZ0WG1YWXl4ck9qWXYxdDVQNmdJQzR4S2FxMWFzSDRFNl9pSkQwXzhwOUxoVmFTUXZfbm0zR2FZRkZDbGVFcnlwU3hZdXdBUTFsYzRQYV9DTlVMb3pEcl90aVIybU0yWTlGQ2VybkhhVGUyMF9xQjA4Ulc4ZmY4YnBPblRKZXhrYlExRWpz?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-09-28"
+    },
+    {
       "title": "San Jose’s latest downtown high-rise proposal features over 300 below-market-rate apartment - East Bay Times",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWNweHgwQlJzZVVpVmlIb0M0VFdvTWQzZUxPa0ttY2lNVUhjLWx6UF9KT055QU1hNjhtT05BeEV1UklaWTlPeVllTHhvdzBVYl96Tl9lbXJRU0h6QVMwYThtb2hlYkpnZEttaFZkLTFMSjZyRW5ZMXpNNURmeGh3YjdYN0NCSDc1SlRnMDFoYWZ2N3pMdURCUjFXbUF4aFVsTmpwWUpzMEY?oc=5",
       "source": "East Bay Times",
+      "published": "2026-09-28"
+    },
+    {
+      "title": "San Jose’s latest downtown high-rise proposal features over 300 below-market-rate apartment - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUhYMUprcXNlUUg0LXU3WmNuVnBvejVlcDdQcUVsR3B1MVlwTW9vMENYazI5T0t4UWJVS0xFYk4yaVdCeEN6OXM1T01YdDNlOWZzaDJhWHNicmowcXNIblc5ODBDZEZfQVo2Tnk1eDl4WXdmMFNSbTBkYTlSSWFUeUlmb0pFdXBMNVU5M094U2YteUJSUXlhRk8xODVrVTBMRXVMTmVLRQ?oc=5",
+      "source": "The Mercury News",
       "published": "2026-09-28"
     }
   ]
