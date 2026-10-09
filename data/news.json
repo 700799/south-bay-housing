@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:10:31.331Z",
+  "updated": "2026-10-09T18:41:07.126Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,10 +21,10 @@
       "published": "2026-08-18"
     },
     {
-      "title": "San Jose Spotlight: Santa Clara County Affordable Housing Stuck In Pipeline - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzFjcTBqdFo4SEJOcXVSU2JKYkxIa0N3TmZpV28yd1lkX0tfY2szclhuQ1FLaXk2VHBDM1FGcDI4bGhaWktlMTFSQU1RaHQ1Sm9SZFZmejhySHdnRDk5RXQ0OWVBSXdMdVFKVy1STjlwbVBKZGNfZlc2d2hnNE5LblNTeGg0aU1YeVpMSWs3di12NkFXX0ZMX2J3YjU0a09RM3hUS0c2OXU?oc=5",
-      "source": "SFGATE",
-      "published": "2026-08-14"
+      "title": "Drawbridge Realty Secures $219M Office In Sunnyvale - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2k0M3lJblRBV1RkZHB3YzFHZGxZNDdpa2p4NVQzRnFQUGpNS01vNHpHRGVvelBsc21xOE5aWWJSMmtEUnNPSksyWHBPYUhPMkdMQWczc2pscmZqaEg0VGdIenM3Tk5CU1VrazJPcGNXUFZ5T2ZaNVJqdi1SUmFjRDktYjFMdDg0SzJhTXlKLVZHbkNtQ2kzbDVJQmFsYl9OVWlXVm1uNzJpVkg0Z1E?oc=5",
+      "source": "Bisnow",
+      "published": "2026-10-08"
     },
     {
       "title": "San Jose student housing tower sale fetches more than $200 million - SiliconValley.com",
@@ -45,10 +45,16 @@
       "published": "2026-10-07"
     },
     {
-      "title": "Election 2026: Mountain View City Council hopefuls address top issues - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhrSmxXbUdpX1F4Qzd0d3dRSFpKRUhtVU1aUk9VS2VrendXYWViRGptRGNKcXNCckFZcWN5ZC11eWU3VlNXaHUyYnlPOTFVSjNTN0xWOUJpN3N3YmJnMmVoRTBiUjdQcGh4SGEwWXVuNEw2ZzVqUmcwNHN0UmxsTzFHWlkzV1g5VVp4cm0zMnZZRlJQU1BJQndMenI1dFVTcXpxUGppcmo2ZWJXWTZwZDlKeldsVDFXN0dCZFpyaFpkNkY1dXR1ejVTNjJvcnVDRjB6TUt2ZlNPUQ?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-10-05"
+      "title": "CSA outlines safety-net services for Mountain View area - Citizen Portal AI",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1JOQjJDU0RkTm0yVWpQNUFDNGdaMzI1TkkwSnh1eUo1bFc4UlExaE9kdEVvZXM1NXJHZGh2Xy03LWlJVUlkcm56RXpwMGZnT3VLdUZPMnEzYUpmdWdnN1pqUUJuOXk5cnBQTldDMzBTdXdmTzh1N3c1UGlTX01XSUtEMnJlSlFWZ3ZSOXN1Uk14am1oWDg2ekdoQWoyTHM?oc=5",
+      "source": "Citizen Portal AI",
+      "published": "2026-10-06"
+    },
+    {
+      "title": "Investor sees AI breathing life into Silicon Valley office market - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczdNZDJGdF9iLVIwU01OV0xrWXpzX0JmR1M5SzN4WENZMGl4bjNxR1pyZWQ4RmNRZWxQdnJISHR6a21qTU94S0tXcU9yM25DZDdzMFNMenJxVkVfaTB0LWpWNjRDNlVaTlUwVHN1eFp1Q2RsbmJZeXdxZ1FCVnVvWGd0bDRsYmhoYkN4TDhuNk13VUEwb2ZoTUVPUjVKZ3M?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-10-06"
     },
     {
       "title": "San Jose tech campus lands buyer for well over $260 million - SiliconValley.com",
@@ -57,21 +63,15 @@
       "published": "2026-10-01"
     },
     {
+      "title": "How rising mortgage rates are impacting the Bay Area real estate market - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFBGOUxldHA3MGRKdUxZa05hRHlGUXprZ1o4SHhrYnpEQ2ZhZGxoRll0Smh2NjgxYzdEN2VEWjZ2SDl6QlVkMHpzSW9yenhUUk4wSGx1MmI2Y1VpQ0hDOTZZZmN1NnVjcUdUeHl3RlVDaXhvQ182eENZX1RTYmViVklKZlVuaHZramlJN3NQa0lTZjhqZ0JxVERqZUhDUHVQczBIZFZNRU02ZVlfQU5vMjN2N1hzUVpteUUwaE1rQXBkQdIBygFBVV95cUxPX092MndZNW5CWkhlQkVkY05oc2FqZ1JYVDdaYnNkR3JlS21oMkNYVmFFNTFKZUZXWThPdHZRQ2NmeVN1NGhhNHBRbE9yRmVJQmtxS2M2aHhlNnpJMFJfWVV1eDM5S3ozNV9PVmR2RlA4YU5sSGxVY2dOcUl1UmhXNjJNUFFpZEZqUjhSWHJ6OWZreWsxNTlGU0JRU3JVclRnakhCeldJaV9aM05sZUtjd0U1QWpaMFpFb3piVDZQbVc4WVZIWEhoUmZR?oc=5",
+      "source": "NBC Bay Area",
+      "published": "2026-09-28"
+    },
+    {
       "title": "New plans emerge for stalled San Jose housing tower near SJSU campus - SiliconValley.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGpMSVJNRzgxN0pPeWdubHZ1R1c3Z0RibmN6U19uSzhYUlhCaG1mTUlaRDUzVVIyZlU4N0lvWTV5MzNuUlhFSzBsZWFUX1V3VExJdjNpSWVSRVlBMUZyOFF3aUp4YVpXSXVVQWkzZGd2elpLS3JTb0tIaTBKVVVKNzVyRlhKUUZwYVVzOWpFTlg4N1B1ZmZTMXNwa1daVmFoTFk2SVRpTG84QdIBrwFBVV95cUxOU1FVWFh5YzlnUFZYQUltWjRaR3VSM1BINGpPZ0IxM29XZHZ0WG1YWXl4ck9qWXYxdDVQNmdJQzR4S2FxMWFzSDRFNl9pSkQwXzhwOUxoVmFTUXZfbm0zR2FZRkZDbGVFcnlwU3hZdXdBUTFsYzRQYV9DTlVMb3pEcl90aVIybU0yWTlGQ2VybkhhVGUyMF9xQjA4Ulc4ZmY4YnBPblRKZXhrYlExRWpz?oc=5",
       "source": "SiliconValley.com",
-      "published": "2026-09-28"
-    },
-    {
-      "title": "San Jose’s latest downtown high-rise proposal features over 300 below-market-rate apartment - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWNweHgwQlJzZVVpVmlIb0M0VFdvTWQzZUxPa0ttY2lNVUhjLWx6UF9KT055QU1hNjhtT05BeEV1UklaWTlPeVllTHhvdzBVYl96Tl9lbXJRU0h6QVMwYThtb2hlYkpnZEttaFZkLTFMSjZyRW5ZMXpNNURmeGh3YjdYN0NCSDc1SlRnMDFoYWZ2N3pMdURCUjFXbUF4aFVsTmpwWUpzMEY?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-09-28"
-    },
-    {
-      "title": "San Jose’s latest downtown high-rise proposal features over 300 below-market-rate apartment - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUhYMUprcXNlUUg0LXU3WmNuVnBvejVlcDdQcUVsR3B1MVlwTW9vMENYazI5T0t4UWJVS0xFYk4yaVdCeEN6OXM1T01YdDNlOWZzaDJhWHNicmowcXNIblc5ODBDZEZfQVo2Tnk1eDl4WXdmMFNSbTBkYTlSSWFUeUlmb0pFdXBMNVU5M094U2YteUJSUXlhRk8xODVrVTBMRXVMTmVLRQ?oc=5",
-      "source": "The Mercury News",
       "published": "2026-09-28"
     }
   ]
