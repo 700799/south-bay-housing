@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-13T19:46:31.204Z",
+  "updated": "2026-10-14T17:49:37.047Z",
   "source": "Google News RSS",
   "items": [
-    {
-      "title": "In the news: Sunnyvale double stabbing, Lowrider Day in San Jose, 49er Faithful in Australia - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXBRemU1OG1RTDJheWFuM25PZGxURk5YUFlyMU5wMWt6cTA1dzJGN1JCSHFIZHp6c2JNR1JheHY5M2xpYVNMR1YyVnZvY0dmSHpsQVZSZWdqeWcxdWFXMkRWTlNSc3dpZ0RWUEhBaXhudW9oaEFINkxNTS1wNml1STVSWXNCdGwyVDVEZldXbHpuUXBrT1FDVWhodHRNRklrdzUwejVzQllaQUIwZ1NnLTlJR1dWZ3FGR0NVMjQzbUttTEZ0cWp0bS1GcEI5ajE5YjhDWXNJUnNPVzZpeUhYUDJkdHFCZkXSAe8BQVVfeXFMUDNEa05VUG1vd2MxaXRwTThnRE5VUkJoNWpETjYtX0J3MXROYkpvWGFNMEpaV2UwM0FQX21qeGZ4QzBjZ3BsLUZnNVhYb21OcjVfRjRzR2w0MjBLV1BMUktNZFh5OXdSSTJyN3dTQmN6WlplLTJoWVZJbHdXVUlISFlkR2NQV2ZKMmJ5LVhuRE1HdDF4dllZSlpvaWE5WVNPT25PS0hMQjA5eTY5UGhaMjUxTldxS3pjLUl2ekxRWTAyQnFIY0pEWG42SXJyeGtmREJfYmhhWHI0Mzd0UGlHM2EzLWlIYzR5STdMQWdBZm8?oc=5",
-      "source": "NBC Bay Area",
-      "published": "2026-09-07"
-    },
     {
       "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
@@ -21,15 +15,27 @@
       "published": "2026-08-20"
     },
     {
+      "title": "Eye-catching San Jose housing tower sells for robust price - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3c4S2lFMm1fcGJ5TDNRRkVrS21WOWNyekV4cDFWdS14M2E4U21YS0UxLUE4cVBpa0lnbUx3eWtMMGFBVExOMjUxOHUyZUZJcWdzVFNaZnVCdTgxT1B1clMtY05vQzhId1g1QzMzVXRLQzBxVTV0amZJekRkRzhvUkNKVG5pcG9aaTR4anYxTlo2NEtpVDJJQ0RjR2ZrYmRwWVZUUjR3TjVKc2NtT0HSAbMBQVVfeXFMTUEyZzA5Q2pfTDJJMnk1TDUtS19LYktyN01SclR4QnFjRWNoZFNSbkRCTmpJQkN1c2stWjdYVkVodDRqTjh5WFdnRjUyTDRZMDZsSGlLR2RnOWN5cEZNdDFJR0xuNFlLZDZlNXZBZ0JFX1VfTzFnUU0xbUFfSUhieG82VGY4THF3OXFPUzc4cE93cjBHMi1CNWpzbHJSOW1lMktMSmI5dmNSLXowc2E2Q0Zwdzg?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-10-14"
+    },
+    {
+      "title": "Kennedy Wilson JV acquires $176m San Jose multifamily property - Institutional Real Estate, Inc.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFFHbUt4ZGpRczJwYlk3MjVtaTl1WkQ4LUN5WjVELUZ0alNhUHRTSVZaX3NUV0ltMEdQdlA2bTAyZFJjVkJmWlNSS3BSRjhMWHQ4azVQWjlMVmxRSXpUNXY2V1Z0YUdEc0lpa18xOU1DTmk3Ukd4ekZfNEs4WndmSE5tdUJlRG9FeFhJaA?oc=5",
+      "source": "Institutional Real Estate, Inc.",
+      "published": "2026-10-14"
+    },
+    {
+      "title": "Ten Trails Mountain View - Cottage Collection Community - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONzBfQWROaTE5dWlEYXNnTlRxWnZfdjRXeEtzbkwtMnNvS2J5MEdDODBJU2hXN3JkUzdVQ1VfVWM4NkxsMEsycXA4VDhVckZFNkNqSi1CVXJZblZLNjM4MWx6LXJKM2lvS2dzMnUxelpDbWkzQW5MYU9HalNPTXBHVS1NVUwxTVhLX0hCclg4bnRyOFhkRFd6YnFmUlYzOTdzYnM2MDBIVXlCMWpPSDBTbmRBaGF1UHVXeVBFaGE4ODVGVXI3dXFoem1vd2ZxV0Z6RVh2M3YwdzZlamZkTU1xbXBiZmhBbGxjOVpPWVF0dkZxLUxX?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-14"
+    },
+    {
       "title": "Why abandoned Bay Area megastores are suddenly the hottest real estate in town - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkNfdGlGSkdNRzdpWHI3a1IwaXFPRFFmQmFEV2dnYm9ubVd0M3NFMGk4RTMyMHo0LXh2d0szVzVWM01ncUpYSk1PN2ZQMmJ3TndUS2FVZWo2cnBLbFBlUEV0UW1MYUlad3JJTDF4SnNoaGt2cVY1V1ZmR1ZTdVBGQ192b2hnTUNLZWUzX1p4dVNfRkNCTW04?oc=5",
       "source": "The Mercury News",
-      "published": "2026-10-12"
-    },
-    {
-      "title": "179 Easy St, Mountain View, CA 94043 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbW9idjBTNUpmcndoSXdIcmEzQjZGc2JrSUZKeFBpcHlkeU16T193SnNRcUhkNnJ0eDY2M2pDNF9BRU93VXBaY0RyaEpXNG1OdTdxMTR4SWtHZmhBRzU0aVhHUUtpUmlVTDdUUUYtUDBvTnd6ek5rOUtENWllVmV2ZG1CX1RSMlVHSWdaZTdyMXU?oc=5",
-      "source": "Realtor.com",
       "published": "2026-10-12"
     },
     {
@@ -66,12 +72,6 @@
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
-      "published": "2026-10-07"
-    },
-    {
-      "title": "Brookfield, Coastal Ridge pick up San Jose student housing tower for $205M - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXdNdlMzdXNhUTF4dHhLM0poNmY1WVYtajRnUU1zcWlsRUpOenlJYWhVQWhWRDgtVHpob196NlVfLWprVUllMUpOWkJWV045bVdzaHVZTHljQ1VuU1dRYnowMVJhYzg3bklXQzE1aHBjNmllTFJNWkQ2ZnJISTJ2aXlxdXBKRTNjdWgwNHhoTGJKcGxYNl9oNUpOZ2dWV1cxOS1rQUgxU2J6Zw?oc=5",
-      "source": "The Real Deal",
       "published": "2026-10-07"
     }
   ]
