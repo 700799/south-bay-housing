@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:49:35.849Z",
+  "updated": "2026-10-15T17:38:51.327Z",
   "source": "FRED",
   "rows": [
     {
@@ -10,19 +10,19 @@
       "good_when": "down",
       "changes": {
         "7d": {
+          "delta": 0,
+          "direction": "flat"
+        },
+        "14d": {
           "delta": 0.12,
           "direction": "up"
         },
-        "14d": {
-          "delta": 0.37,
-          "direction": "up"
-        },
         "30d": {
-          "delta": 0.69,
+          "delta": 0.64,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.71,
+          "delta": 0.73,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.73,
+      "value": 6.71,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.13,
-          "direction": "up"
+          "delta": -0.02,
+          "direction": "down"
         },
         "14d": {
-          "delta": 0.31,
+          "delta": 0.11,
           "direction": "up"
         },
         "30d": {
-          "delta": 0.69,
+          "delta": 0.62,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.72,
+          "delta": 0.75,
           "direction": "up"
         }
       }
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 5.24,
+      "value": 5.21,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.04,
+          "delta": -0.06,
           "direction": "down"
         },
         "14d": {
-          "delta": 0.07,
-          "direction": "up"
+          "delta": -0.05,
+          "direction": "down"
         },
         "30d": {
-          "delta": 0.41,
+          "delta": 0.25,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.52,
+          "delta": 0.53,
           "direction": "up"
         }
       }

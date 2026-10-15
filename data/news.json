@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:49:37.047Z",
+  "updated": "2026-10-15T17:38:52.163Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,10 +9,22 @@
       "published": "2026-08-26"
     },
     {
-      "title": "Seven Bay Area cities dominate list of highest-income ZIP codes in the country - Silicon Valley Business Journal - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGNSS0U4MEFYcHQ0eUE5WWFZb1dCUDZocF9FNE5RcDVqWTgyYnhXTHhIYlRwMFRhNG9NTnd5R3hxaVl0Q0RPaHB3OW1KZWtkV2RrTFd3UEtVRVV2eVo2NU9fMkszeUlIbnA0VHduaXlXNEgzZm5SUS1SVHhOeE9fRGxESm5uWGhMamFHeXVqczE4QTVKTVE?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-08-20"
+      "title": "Construction begins on a 15-story tower bringing 220 affordable apartments to downtown San Jose - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTG9ibkxMZlRDT1lyN0lOYmR4WU9xSkZJY0oyeDVDRVVUTy1Kb1lZNWR0RkJGT2NWMFUtcHNhcERTelRyTHFoZlNRYzhRSGFCbkFERkdBUWtnS256OTVFbjFsUjRqanBDeEJVN3NVaXB6TDFzcTRhMWxwQ1M1ZUZzWEVDaXBzSmg5UWdJXzkxMVVNWFEwemx6azBDSVZWZ1hVdmRKUDkyeTRJZw?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-15"
+    },
+    {
+      "title": "Is Hulic (TSE:3003) Undervalued On Its San Jose Rental Property Deal? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaG9pOGR2VElKYmttNGp6OU5LNFktLXdkRmZNR1ZTdThtZml0U05pMGZQb3hsOWUwYmdmWS1WLW14eG93SElCanRzUmhYOHduY2hmUlpoWl9VelBIb3VKNkdXczZZZXhRRTlBeW93bDN4UzJBR0dLWDV2ZlV2YWxuTGJnbGREZTAzMzJkQ1FDbmQxUmU2YjQ4WllJbmp6SXdPWElSVE1sWnh2X25NcGowMDcwRGVHcUdRUHlFSjhHc0NRUVBKRldmbENQVHRPZmpXaWE1Nkp6dE9DWGUxa3lQNW84TXRJTkYyRzNkWEl1c9IB9AFBVV95cUxPbDMtcVZvVThDQ2J6SThQVm4ycERyazR4T2VvZnp2V2Nzckpia3VxeEVPMlBfSEprVVFDU1RpWUpSdHZYQ3BRVl9Ndi03amthZGlFcVg2SDFIdm0zdUdaOE5nd3NDdk9aM29WUlY1Z2t6QVdsUGtHamVnYzIyQkdZOFd0MEhFUmZyZkhNc2dpZUVUQjJRMzRyUmw5bW9rb0hLSVctYkI0Wm5mZWZxckQ1RFZKNTdOU0VVWTBkcldMb0RFbmJjcThrMEtVUjdfM0dfUzhuVVdBaUl1eWN5M3dLZWlGWVhweTc4LTUyTzFnOEhTTnpf?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-15"
+    },
+    {
+      "title": "Bearkatz improve to 3-0 in league play with win over Mountain View - The Batesville Daily Guard",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaUpFbndxZGpxckJnN1BKdzlKM2dsUUFDaTdjQTJaOEl6NkdoWl9kTVV3dVhhZlk3OGNUakNLX0xVWlU2QjZBWWgxc2pObFFNZ1JnNUhvMkNfQ2FiNC1sVXhRSHRTZ21UZWVqX1RMMG5ob29iaDJ0Z0dOUmpWTUlIeG1qNmJtZmd1aVdXNGVzWmZERVNuYXNic3pWeDVROHVYUmRZdUNHREhPb1BjYlkyRnE1RnREMXY2YTU2Z3YzZy1jUS1DVVVmbVBac2l2SWFqa2xZbHB1TmdwV1dkaml3X0hGUEM3QQ?oc=5",
+      "source": "The Batesville Daily Guard",
+      "published": "2026-10-15"
     },
     {
       "title": "Eye-catching San Jose housing tower sells for robust price - SiliconValley.com",
@@ -21,9 +33,33 @@
       "published": "2026-10-14"
     },
     {
+      "title": "Downtown San Jose housing tower sells for over $170 million - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE1hM0RlMS1iQU03NHVXSDJQY2M5b3RuV1c1aE01MVowaEZvdVZ4WDJNOGd3eFdTMkZ6VGc3aGxYS0xPMjNkOXhrYmNWemdsaXZwX1E1T2NwckNDUW96OVk1TjJ6ZFlnd0J5cnpCZnF1cEM1bmFqYzVEUEdHRmVidnA5WE4xbS04c0lmQkUtY3RTTmdVRkQ3dVk4V1I1cGVXV0dJM1NDcy1iQTA?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-14"
+    },
+    {
+      "title": "San Jose apartment sale tops regional per-unit average - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkcySkM1c1ZXQmhEbkpKN2o4ZjlPYm5TS0NZWldJcVVpQXNJQzNHMEZCclhHbDJxa1poQUZOUDdJWWY4R2swLTJRMGFqMFZZMVU4N0NkcmtyS2wxUmVwU2MtN1dZZmdFdmVqYUZENm1peHBYV1VYZGIxektRSUFkSF9pWmU2aUZyTW9pMG05dHQ?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-10-14"
+    },
+    {
       "title": "Kennedy Wilson JV acquires $176m San Jose multifamily property - Institutional Real Estate, Inc.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFFHbUt4ZGpRczJwYlk3MjVtaTl1WkQ4LUN5WjVELUZ0alNhUHRTSVZaX3NUV0ltMEdQdlA2bTAyZFJjVkJmWlNSS3BSRjhMWHQ4azVQWjlMVmxRSXpUNXY2V1Z0YUdEc0lpa18xOU1DTmk3Ukd4ekZfNEs4WndmSE5tdUJlRG9FeFhJaA?oc=5",
       "source": "Institutional Real Estate, Inc.",
+      "published": "2026-10-14"
+    },
+    {
+      "title": "Kennedy Wilson Continues Multifamily Bets With $176M Buy in San Jose - Globest",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXZ3TVBCZm1LYkZPR3d6a1h1R1ZZcWYyN1pMa0pZRUg4RXJvbG9aZjFPSGQ5a1hrZl9WQlBOWUFpcEZiY3c5TXlnUVo0TWZfNEk2YXE4NjZ2cTNRNTFyZ254cHAzcng0WUpSUDc4N2NlWFIwWWxZSmVvaU5WcHNWdEhqQVE4WnJRU1BvMFliWF9IQnVJOHp1dFRrWnFPb0hsOE9IaDRR?oc=5",
+      "source": "Globest",
+      "published": "2026-10-14"
+    },
+    {
+      "title": "Downtown San Jose Apartment Tower Sells for $176 Million in Third Big Deal This Month - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm5ubGJYUmZLQnpVQjYwMW5rMC1OeS1HU0E2UUxEZl91ci1KS1IyUkRMdHpqOG5McWlIS3RueWo0bVBuS3dwV1VWM2FFYnBUeHAyUnc3eGs1SFJpLWxyem5odVJ2RzVRb3ktRlZOYkJBangyclcydk9pSHQtOHlXbmR4ZUhhVjl0bWpHcm1mNmFKd0xLNERueDFOemdEV3JoQ2tRTkI0VDVXSjBOVDZPSUVzelU?oc=5",
+      "source": "Hoodline",
       "published": "2026-10-14"
     },
     {
@@ -37,42 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkNfdGlGSkdNRzdpWHI3a1IwaXFPRFFmQmFEV2dnYm9ubVd0M3NFMGk4RTMyMHo0LXh2d0szVzVWM01ncUpYSk1PN2ZQMmJ3TndUS2FVZWo2cnBLbFBlUEV0UW1MYUlad3JJTDF4SnNoaGt2cVY1V1ZmR1ZTdVBGQ192b2hnTUNLZWUzX1p4dVNfRkNCTW04?oc=5",
       "source": "The Mercury News",
       "published": "2026-10-12"
-    },
-    {
-      "title": "Neena Pattar: The Best Choice for Home Buyers and Sellers in Sunnyvale, California | 2026 Real Estate Agents - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeGtMaXlDckdDcGxJRHBWamtwd19nR3NJcU5YQlYzVFo0eVBqQ2U1dTBnUk1lUXg3djBYWlJIVzNoWUpvbHd2N2Y2dWNWYUpJMTdaaE9VNVpoal9JU2htYkhWbERObDlMU0pMekttOG5NZjQ3a3pXc0RFQXdaVkF3RmxkWGdRMVQtWW9pMllIR3dhSHlUNnNCS3NZemViUjZ4MXVvdFRxMUlOdVNDNlJmNGN1TkxFb0RaYW9Xb1ZTVnpZUThXbXhMOTY4WENDTjBYLWN6aElmelBHRnJEdll5bS1HYV9VYk5RbmNQSw?oc=5",
-      "source": "USA Today",
-      "published": "2026-10-11"
-    },
-    {
-      "title": "Building permit values in Mountain View County top $26 million - The Albertan",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXFPNVBCRUxRa3dhTUstTFBFRlZjYjl5b3VSRUxOV2ZJdzBaNjBzMHBFN1FwM2JOci1yT3U4d254bDdob3M0bmREZDctWXdIQVdJQ2Z2bWE2Wk5Icjd0RTY4RWFXb1p4WmRPbnJDVzJ3TnJMamV6WVgtZVVmd1YyLWlKOUIyVTlyZWt1eFFlQ3BLbUJETEdRb0pZbkVjWFp5MDlZQ1BvRHVIdng1YzhHbmE2RFJLVF80c0NsVHJqZFNZdw?oc=5",
-      "source": "The Albertan",
-      "published": "2026-10-11"
-    },
-    {
-      "title": "Zoom’s HQ building in San Jose sells for $82 million in all-cash deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0l4ajkwSENkOGg2S0xLWGdmVUVaLVAtZ0ljNTRfOXAtSGZjY1pBLVlDNkc4R09ZdVgxYUIxNUlpcUwxQmFiR21lRXVKRUM0SVphaHVFZ2dvSGNqdjJBeW1ISXJ0ZXJZanFzS2FHM0VKUFpLZmpNMjI5VG5NMUtzVVpCd1VYSkpMWGdsci0zNDkwTURXVWdnSTViTjRpTndFZXNTLVN2OUdKRXlf?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-10-09"
-    },
-    {
-      "title": "Alta Housing Breaks Ground on 108-Unit Affordable Housing Community in Mountain View’s Terra Bella Neighborhood - Yield PRO",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yT0VtMTRCaUtyTmxSMmVMeVBOSzNIcnpFR3JTdUhWWVRtR3hjYUcxZGVNZEljSkxuTHhmdDNDVVZicjlCYmhURlZ3UERtS25hUUNNR2cxSUlpSXpseXc?oc=5",
-      "source": "Yield PRO",
-      "published": "2026-10-09"
-    },
-    {
-      "title": "Drawbridge Realty Acquires 180K SF Office Building In Sunnyvale For $219M - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2k0M3lJblRBV1RkZHB3YzFHZGxZNDdpa2p4NVQzRnFQUGpNS01vNHpHRGVvelBsc21xOE5aWWJSMmtEUnNPSksyWHBPYUhPMkdMQWczc2pscmZqaEg0VGdIenM3Tk5CU1VrazJPcGNXUFZ5T2ZaNVJqdi1SUmFjRDktYjFMdDg0SzJhTXlKLVZHbkNtQ2kzbDVJQmFsYl9OVWlXVm1uNzJpVkg0Z1E?oc=5",
-      "source": "Bisnow",
-      "published": "2026-10-08"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-10-07"
     }
   ]
 }
