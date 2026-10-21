@@ -1,12 +1,24 @@
 {
-  "updated": "2026-10-20T17:48:54.921Z",
+  "updated": "2026-10-21T17:56:37.413Z",
   "source": "Google News RSS",
   "items": [
     {
-      "title": "San Jose homebuyers search outside Silicon Valley at nation’s highest rate - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW1aUVhXNkVZWElNTWc3Z3BhN0V6blNFcVB5SEFyVnN1bzZaSWZmUTZ1YU9HQWs4UFJzckcxdlVlbVg0SjZKcGdTaE1vQTRDT2s2SENaaVNuZ19TcEhFTjB5dVoxODg4QS01TVFwbDctd0hVLVZNYjNBLXR1ZldYZWtScWtmaTlOUG4zS2VrTjJzMmVDbmpfTTRBWXA3dmZ1UzlFSkdR?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-08-26"
+      "title": "Downtown San Jose apartment hub is bought for more than $50 million - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOUxwVUY3bnZUSjFyV05MODA4aERHbUZyWXlGbHR2cVpyTDJHX0kySE5rV0lrM2lPbmUzaWZLdlpBRktlUEplU0RGbEJlZVAtenNvQmhHY1AwS0dpa1RvcWF0Z0RaZzRzRmJ1a21NTDNnb2thNWhtSDRib3BTbnhTLS1hSzZEYmJWTXFLZHVEaW04S1pZSE9iRjFHNDNlVDZrOXdBbG1ZQQ?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-21"
+    },
+    {
+      "title": "316 Santa Diana Ter, Sunnyvale, CA 94085 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhVcmV0elJKcVpabk90LWd5aW9oMVFoQWxoSVBrSWhJMloyZkNxOEN1U3ozMXVBLTJzTkRiQjNBQy04aTQ3UWdBTkdLbWlXR3FkWFZuZFA5d21Hbkp2QzJhNnliY25sM2ZjdURtdDZuRTZoZTV1ektTUG1kbkViVVVIME5JTFROQ0t2enllblEwY0tpTUE?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-21"
+    },
+    {
+      "title": "Company that manufactures Apple products buys South Bay buildings - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-20"
     },
     {
       "title": "What Silicon Valley cities saw the greatest rise in property values - The Business Journals",
@@ -21,10 +33,10 @@
       "published": "2026-10-19"
     },
     {
-      "title": "‘On a hot streak’: Big leases, smaller vacancy rates help rally in Silicon Valley office market - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHV1d3R0MnZNSWNNTmRZaWJneWhXNGszZE9xNXFmZDJOWUpHc2Z1SDMxUGhVcTZkN1pDRy01T0ttdVZQLURnSUtMWTZtTFE0ZktLM2NLbUd6ZkVZb0hodmF1SHZBbW9mc2VVYlMzZ1h1NFc4bm15ZEJ6Z2hHelh1alpaNGdValh5MlZyUFFfRU93MUJZTFQ1cGxqbDM0cWtaOS0teERPa1JHSUwx?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-10-16"
+      "title": "3-Bedroom Home for Sale in El Saltito Guadalupe, San Miguel de Allende | Rooftop & Mountain View’s - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82NkpncWZabXBhYVpFdTNQYW85djN2d044N05ranlhclltblhFaExzdlFsVWM2S0R1N25HWjdad09BbEZiV2ptY2RRQ1NHU05JbTBuU2tjclN5djly?oc=5",
+      "source": "YouTube",
+      "published": "2026-10-18"
     },
     {
       "title": "Ten Trails Mountain View - Cottage Collection Community - Realtor.com",
@@ -51,12 +63,6 @@
       "published": "2026-10-15"
     },
     {
-      "title": "Kennedy Wilson venture drops $176M on downtown San Jose apartments amid soaring rents - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5PYlhhODNESkRNS1pBMTJkSldvU0g4RjBHeVpLMUhqU0Qxa1R4VXNubmJEYklxdEczaTF6RHBGWFE2WUxYejdkNDZ0QU9Mb210WUFLQ2JRTWtjVzdZTHZpaFBVbUtyTUVZZWNlNG16Z1pCby1JVS1oTU8yUnNSaEM5eTRWaUc0Z2diVFp2N2ZldlFhdDdwbHdyWGJiZ2lrZzhXTlZVdk9oSmNwZUE?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-10-15"
-    },
-    {
       "title": "Downtown San Jose housing tower sells for over $170 million - SiliconValley.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3c4S2lFMm1fcGJ5TDNRRkVrS21WOWNyekV4cDFWdS14M2E4U21YS0UxLUE4cVBpa0lnbUx3eWtMMGFBVExOMjUxOHUyZUZJcWdzVFNaZnVCdTgxT1B1clMtY05vQzhId1g1QzMzVXRLQzBxVTV0amZJekRkRzhvUkNKVG5pcG9aaTR4anYxTlo2NEtpVDJJQ0RjR2ZrYmRwWVZUUjR3TjVKc2NtT0HSAbMBQVVfeXFMTUEyZzA5Q2pfTDJJMnk1TDUtS19LYktyN01SclR4QnFjRWNoZFNSbkRCTmpJQkN1c2stWjdYVkVodDRqTjh5WFdnRjUyTDRZMDZsSGlLR2RnOWN5cEZNdDFJR0xuNFlLZDZlNXZBZ0JFX1VfTzFnUU0xbUFfSUhieG82VGY4THF3OXFPUzc4cE93cjBHMi1CNWpzbHJSOW1lMktMSmI5dmNSLXowc2E2Q0Zwdzg?oc=5",
       "source": "SiliconValley.com",
@@ -66,12 +72,6 @@
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
-      "published": "2026-10-14"
-    },
-    {
-      "title": "San Jose apartment sale tops regional per-unit average - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkcySkM1c1ZXQmhEbkpKN2o4ZjlPYm5TS0NZWldJcVVpQXNJQzNHMEZCclhHbDJxa1poQUZOUDdJWWY4R2swLTJRMGFqMFZZMVU4N0NkcmtyS2wxUmVwU2MtN1dZZmdFdmVqYUZENm1peHBYV1VYZGIxektRSUFkSF9pWmU2aUZyTW9pMG05dHQ?oc=5",
-      "source": "The Business Journals",
       "published": "2026-10-14"
     }
   ]
