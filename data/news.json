@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-21T17:56:37.413Z",
+  "updated": "2026-10-22T17:52:40.220Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "San Jose apartment hub is bought in deal that hints at market strength - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakhmVndEMlZVclZEVGlvU1BjM2RDU2JzcHJSWkdSZXdzeVJHaldGWS1BTjhwMlhsNm1mVnJWZ2NNV19qYUp5N2RXenFnWXJKTWhLcFAxdzQ0LVU1djBBY1V3R3M2WENjbEpVVVcxOVZieHdBMUFJWS1MendDejhSbUZ3MHR3XzI5THlRLWt1ZkxIQjRwZ0Z5Nnl0d1hHaXA5V1pCODFEOXk3OW8?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-10-21"
+    },
     {
       "title": "Downtown San Jose apartment hub is bought for more than $50 million - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOUxwVUY3bnZUSjFyV05MODA4aERHbUZyWXlGbHR2cVpyTDJHX0kySE5rV0lrM2lPbmUzaWZLdlpBRktlUEplU0RGbEJlZVAtenNvQmhHY1AwS0dpa1RvcWF0Z0RaZzRzRmJ1a21NTDNnb2thNWhtSDRib3BTbnhTLS1hSzZEYmJWTXFLZHVEaW04S1pZSE9iRjFHNDNlVDZrOXdBbG1ZQQ?oc=5",
@@ -33,10 +39,16 @@
       "published": "2026-10-19"
     },
     {
-      "title": "3-Bedroom Home for Sale in El Saltito Guadalupe, San Miguel de Allende | Rooftop & Mountain View’s - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82NkpncWZabXBhYVpFdTNQYW85djN2d044N05ranlhclltblhFaExzdlFsVWM2S0R1N25HWjdad09BbEZiV2ptY2RRQ1NHU05JbTBuU2tjclN5djly?oc=5",
-      "source": "YouTube",
-      "published": "2026-10-18"
+      "title": "Blackstone Buys Nvidia’s Sunnyvale Hub for $99.6M [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
+      "source": "shattered.io",
+      "published": "2026-10-19"
+    },
+    {
+      "title": "‘On a hot streak’: Big leases, smaller vacancy rates help rally in Silicon Valley office market - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHV1d3R0MnZNSWNNTmRZaWJneWhXNGszZE9xNXFmZDJOWUpHc2Z1SDMxUGhVcTZkN1pDRy01T0ttdVZQLURnSUtMWTZtTFE0ZktLM2NLbUd6ZkVZb0hodmF1SHZBbW9mc2VVYlMzZ1h1NFc4bm15ZEJ6Z2hHelh1alpaNGdValh5MlZyUFFfRU93MUJZTFQ1cGxqbDM0cWtaOS0teERPa1JHSUwx?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-16"
     },
     {
       "title": "Ten Trails Mountain View - Cottage Collection Community - Realtor.com",
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTG9ibkxMZlRDT1lyN0lOYmR4WU9xSkZJY0oyeDVDRVVUTy1Kb1lZNWR0RkJGT2NWMFUtcHNhcERTelRyTHFoZlNRYzhRSGFCbkFERkdBUWtnS256OTVFbjFsUjRqanBDeEJVN3NVaXB6TDFzcTRhMWxwQ1M1ZUZzWEVDaXBzSmg5UWdJXzkxMVVNWFEwemx6azBDSVZWZ1hVdmRKUDkyeTRJZw?oc=5",
       "source": "The Mercury News",
       "published": "2026-10-15"
-    },
-    {
-      "title": "Downtown San Jose housing tower sells for over $170 million - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3c4S2lFMm1fcGJ5TDNRRkVrS21WOWNyekV4cDFWdS14M2E4U21YS0UxLUE4cVBpa0lnbUx3eWtMMGFBVExOMjUxOHUyZUZJcWdzVFNaZnVCdTgxT1B1clMtY05vQzhId1g1QzMzVXRLQzBxVTV0amZJekRkRzhvUkNKVG5pcG9aaTR4anYxTlo2NEtpVDJJQ0RjR2ZrYmRwWVZUUjR3TjVKc2NtT0HSAbMBQVVfeXFMTUEyZzA5Q2pfTDJJMnk1TDUtS19LYktyN01SclR4QnFjRWNoZFNSbkRCTmpJQkN1c2stWjdYVkVodDRqTjh5WFdnRjUyTDRZMDZsSGlLR2RnOWN5cEZNdDFJR0xuNFlLZDZlNXZBZ0JFX1VfTzFnUU0xbUFfSUhieG82VGY4THF3OXFPUzc4cE93cjBHMi1CNWpzbHJSOW1lMktMSmI5dmNSLXowc2E2Q0Zwdzg?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-10-14"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-10-14"
     }
   ]
 }

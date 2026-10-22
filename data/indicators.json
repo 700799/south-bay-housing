@@ -1,5 +1,308 @@
 {
-  "updated": "2026-10-21T17:56:36.518Z",
+  "updated": "2026-10-22T17:52:39.251Z",
   "source": "FRED",
-  "rows": []
+  "rows": [
+    {
+      "key": "mortgage30",
+      "label": "30-Yr Fixed Mortgage",
+      "value": 7.32,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": -0.08,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -0.08,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": 0.37,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.67,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "mortgage15",
+      "label": "15-Yr Fixed Mortgage",
+      "value": 6.68,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": -0.03,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -0.05,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": 0.42,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.73,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "dgs10",
+      "label": "10-Yr Treasury Yield",
+      "value": 5.12,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": -0.09,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -0.15,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": 0.11,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.38,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "fedfunds",
+      "label": "Fed Funds Rate",
+      "value": 3.75,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": 0.12,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 0.12,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 0.12,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.12,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "sjunrate",
+      "label": "San Jose-Metro Unemployment",
+      "value": 4.3,
+      "unit": "%",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": 0.2,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 0.2,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 0.2,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 0.3,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "umcsent",
+      "label": "Consumer Sentiment",
+      "value": 51.7,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": -3.5,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -3.5,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": -3.5,
+          "direction": "down"
+        },
+        "60d": {
+          "delta": 2.2,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "listprice",
+      "label": "Median List Price (South Bay Metro)",
+      "value": 1388472,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": 39472,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 39472,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 39472,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 41528,
+          "direction": "up"
+        }
+      },
+      "format": "usd"
+    },
+    {
+      "key": "newlistings",
+      "label": "New Listings (South Bay Metro)",
+      "value": 1336,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": 44,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 44,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 44,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 144,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "inventory",
+      "label": "Active Listings (South Bay Metro)",
+      "value": 2112,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": 131,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 131,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 131,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 91,
+          "direction": "up"
+        }
+      }
+    },
+    {
+      "key": "dom",
+      "label": "Median Days on Market",
+      "value": 35,
+      "unit": " days",
+      "good_when": "down",
+      "changes": {
+        "7d": {
+          "delta": -1,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -1,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": -1,
+          "direction": "down"
+        },
+        "60d": {
+          "delta": -5,
+          "direction": "down"
+        }
+      }
+    },
+    {
+      "key": "hpi",
+      "label": "Home Price Index (San Jose Metro)",
+      "value": 558.75,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": -8.21,
+          "direction": "down"
+        },
+        "14d": {
+          "delta": -8.21,
+          "direction": "down"
+        },
+        "30d": {
+          "delta": -8.21,
+          "direction": "down"
+        },
+        "60d": {
+          "delta": -8.21,
+          "direction": "down"
+        }
+      }
+    },
+    {
+      "key": "income",
+      "label": "Median Household Income (Santa Clara County)",
+      "value": 166984,
+      "unit": "",
+      "good_when": "up",
+      "changes": {
+        "7d": {
+          "delta": 12411,
+          "direction": "up"
+        },
+        "14d": {
+          "delta": 12411,
+          "direction": "up"
+        },
+        "30d": {
+          "delta": 12411,
+          "direction": "up"
+        },
+        "60d": {
+          "delta": 12411,
+          "direction": "up"
+        }
+      },
+      "format": "usd"
+    }
+  ]
 }
