@@ -1,11 +1,78 @@
 {
-  "updated": "2026-05-30T13:00:00Z",
-  "source": "seed",
+  "updated": "2026-10-26T19:03:24.766Z",
+  "source": "Google News RSS",
   "items": [
-    {"title": "South Bay home prices hold firm as spring buyers compete for limited inventory", "link": "https://news.google.com/search?q=San%20Jose%20housing%20market", "source": "Google News", "published": "2026-05-29", "summary": "Santa Clara County continues to see multiple offers on well-priced homes despite higher mortgage rates, with San Jose and Sunnyvale leading demand."},
-    {"title": "Silicon Valley tech hiring rebound supports Bay Area housing demand", "link": "https://news.google.com/search?q=Silicon%20Valley%20housing", "source": "Google News", "published": "2026-05-28", "summary": "A pickup in tech employment across Mountain View and Santa Clara is bringing more qualified buyers back into the market this season."},
-    {"title": "Mortgage rates hover near 6.75% as markets weigh Fed's next move", "link": "https://news.google.com/search?q=mortgage%20rates", "source": "Google News", "published": "2026-05-28", "summary": "The 30-year fixed remains range-bound, keeping monthly payments elevated but stable for South Bay buyers."},
-    {"title": "Inventory ticks up across Santa Clara County heading into summer", "link": "https://news.google.com/search?q=Santa%20Clara%20County%20inventory", "source": "Google News", "published": "2026-05-27", "summary": "New listings rose month-over-month, giving buyers slightly more choice while days-on-market stayed low for turnkey homes."},
-    {"title": "Condo and townhome demand grows as buyers seek affordability in the South Bay", "link": "https://news.google.com/search?q=Bay%20Area%20condo%20market", "source": "Google News", "published": "2026-05-26", "summary": "First-time buyers are increasingly turning to townhomes and condos in San Jose and Sunnyvale to enter the market."}
+    {
+      "title": "Why Santa Clara Homeowners Are Investing in Custom Pavers This Year - OCNJ Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGppZS1GekVFc1I0VDQ5aV9DTy05SFNTTEFXM1hxSlpsY1hqMGF4WkdhY2dPM3ZMRXVSNW0yQkZDenNxNzRmMEg2VnUyYkVNZFFIbVVEOGJSV0NOWGpOQWw1VUNrbGZHWUwxNUFEdWJDT0d4UE1mUGc3RlcwcFR5TXVGRk1aRzRiOU5la25iaWVNTDF4UU9sc3dKLXZ4aFVfT0dmZE5IVFB1Ni1saC1vNUdhRQ?oc=5",
+      "source": "OCNJ Daily",
+      "published": "2026-10-26"
+    },
+    {
+      "title": "Santa Clara County report shows increased property values - San José Spotlight",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamFIcHRIMWo3TnljV2llVlNCLU45YTl4Q3N0VWhmck9WM1czNklLRnZGVG9BTnVnRHBPQm1KLW9jZzh5UFBSRWlNVkJwRDFHN2JZVWI3ZVQtZzZOZU1IQ1kteHpXT2kxMmoxWEpyeUswY2hudUpnSjlfa2RDLU5jYThoYy14TElQbzExMXRpaWk?oc=5",
+      "source": "San José Spotlight",
+      "published": "2026-10-25"
+    },
+    {
+      "title": "890 Muender Ave, Sunnyvale, CA 94086 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1Awd1NpdDJORzNBbjJSWEFsZjRyOGg3Q3hPdHlGX0NYUG1wYWFWUFlPb2tndi12ZmZGTFF1SnBYeExneFpUU3J5OFZYSXJJWWpvNFJ6VXF2dms0Nm5yNGRHZ1FDaHNkeXNOX2c1eUFsSVdCS1I1THV4R0tZUk41bi1xQTB1VmNUejRyN244djk?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-25"
+    },
+    {
+      "title": "Kennedy Wilson and Partners Acquire 312-Unit San Jose Community for $176M - Multifamily & Affordable Housing Business",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3dqYk5GNVlpNExsRktnS0hENlc0d3pMR3J3TWNsUzkyQ2VydDh4eTgzdGFLZzVmN3Q2NjJVVVR5M3hJRF9lbFFERnI4bFdTbEJJdTJQbThiSnFFN2tKTHprbW0zcFBJbUEzNnU5X2pTY1R0UElUeXF1dmxHeGFtSExFLUM5QzVkMTlJU2dYS1plZTlWd3BfT1VHSU9VaTFvQ2Jrc1Zhcy1VN3ZWaHlBZDFscng?oc=5",
+      "source": "Multifamily & Affordable Housing Business",
+      "published": "2026-10-22"
+    },
+    {
+      "title": "Alta Housing Breaks Ground on Fourth Mountain View Affordable - Connect CRE",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnpFZzFFam52aFNiQnRmTWFNNEVja003SDU2QjI0SzBJczh5X21NSzZicjdBT1NEdzFLMmFmbVlBOGVDQjRHdWYwTW9BM1oxSm0tMEhPRjdqbjdsdnJKZWd6R3AycDY1ZGZRcURoN0FoTVIzcFViNzc2X1BvUkdjX29kcnI5dEhIOUR4dGgydVFSU09uNUNFdTdTdWtJZw?oc=5",
+      "source": "Connect CRE",
+      "published": "2026-10-22"
+    },
+    {
+      "title": "Express: City commission appointments spark debate | Pairing dining with mahjong - Mountain View Voice",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVN1QW5sWTNVOVI1Y0lmMjhfQzFTQjBBQ0t5azZIclRvN3NRcE5TZU13YTkyOXk3QS1qdjNQcHZ6b0Y1SU5OdmcyTU1EZzJBU1hncllVdWVzcHRWdWV1eDdqSDUwdnZjVDV2RW5kWFM3NC05eTdqdURoeElSNzYzRkNkVGs4ZlQ4eW93R1AzODlfZXVTMkpSSFd1bjF4QTdwYTV0ZktMZnNwRDNyT19BUGJ0UHA?oc=5",
+      "source": "Mountain View Voice",
+      "published": "2026-10-22"
+    },
+    {
+      "title": "Downtown San Jose apartment hub is bought for more than $50 million - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOUxwVUY3bnZUSjFyV05MODA4aERHbUZyWXlGbHR2cVpyTDJHX0kySE5rV0lrM2lPbmUzaWZLdlpBRktlUEplU0RGbEJlZVAtenNvQmhHY1AwS0dpa1RvcWF0Z0RaZzRzRmJ1a21NTDNnb2thNWhtSDRib3BTbnhTLS1hSzZEYmJWTXFLZHVEaW04S1pZSE9iRjFHNDNlVDZrOXdBbG1ZQQ?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-21"
+    },
+    {
+      "title": "Blackstone Buys Nvidia’s Sunnyvale Hub for $99.6M [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
+      "source": "shattered.io",
+      "published": "2026-10-21"
+    },
+    {
+      "title": "316 Santa Diana Ter, Sunnyvale, CA 94085 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhVcmV0elJKcVpabk90LWd5aW9oMVFoQWxoSVBrSWhJMloyZkNxOEN1U3ozMXVBLTJzTkRiQjNBQy04aTQ3UWdBTkdLbWlXR3FkWFZuZFA5d21Hbkp2QzJhNnliY25sM2ZjdURtdDZuRTZoZTV1ektTUG1kbkViVVVIME5JTFROQ0t2enllblEwY0tpTUE?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-21"
+    },
+    {
+      "title": "Company that manufactures Apple products buys South Bay buildings - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-20"
+    },
+    {
+      "title": "What Silicon Valley cities saw the greatest rise in property values - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkowYWI4Z1FBaGJxWW85bW9PS29fa0JMNUo3V1VTYWhreXlpdFVpSVRfd2J3Z3psd1NPcVZkaGJ0SEoxSUk1SUViOGJrX0hBUVdfd3hqOGNMNWxPejFYUERzaVFhWWhvMkt5YnB5UVVaQlVQZjlRckNURG5LSUE0ZS1RbWlrM0E3QnNXai1hYlJ4OU90WGFDTjRSeUo?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-10-20"
+    },
+    {
+      "title": "Community garden in San Jose told to leave as property owner sells land - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVU3T0VXOXR3NGk1ekpVUnZuQV9McGVFc3JNTk5CODhfUUpmUDZlSl9rQ1VpUXFhZjJJSnl1aGtUdy1kU21KOXVlQjFoLXg1NWtmRndGWTIzRHc1Qm9rblp1ZmpEVnRTOU1KTHlZU2Z1cnFETzNoVnVhT21iNnBxUy1xRHRscVdrMVJENEFtZm9fM2p4cm8tTUNET2N2RlJiMEpuM2c3aGdiNURXVF9jenlTTHE5Zw?oc=5",
+      "source": "CBS News",
+      "published": "2026-10-19"
+    }
   ]
 }
