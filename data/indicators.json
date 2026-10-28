@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:35:07.639Z",
+  "updated": "2026-10-28T18:40:56.847Z",
   "source": "FRED",
   "rows": [
     {
@@ -60,7 +60,7 @@
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.09,
+          "delta": -0.15,
           "direction": "down"
         },
         "14d": {
@@ -68,11 +68,11 @@
           "direction": "down"
         },
         "30d": {
-          "delta": -0.11,
+          "delta": -0.17,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.3,
+          "delta": 0.33,
           "direction": "up"
         }
       }
@@ -105,24 +105,24 @@
     {
       "key": "sjunrate",
       "label": "San Jose-Metro Unemployment",
-      "value": 4.3,
+      "value": 4.2,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.2,
-          "direction": "up"
+          "delta": -0.1,
+          "direction": "down"
         },
         "14d": {
-          "delta": 0.2,
-          "direction": "up"
+          "delta": -0.1,
+          "direction": "down"
         },
         "30d": {
-          "delta": 0.2,
-          "direction": "up"
+          "delta": -0.1,
+          "direction": "down"
         },
         "60d": {
-          "delta": 0.3,
+          "delta": 0.1,
           "direction": "up"
         }
       }
