@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T18:40:56.847Z",
+  "updated": "2026-10-29T18:49:12.543Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 7.32,
+      "value": 7.24,
       "unit": "%",
       "good_when": "down",
       "changes": {
@@ -14,15 +14,15 @@
           "direction": "down"
         },
         "14d": {
-          "delta": -0.08,
+          "delta": -0.16,
           "direction": "down"
         },
         "30d": {
-          "delta": 0.37,
+          "delta": 0.21,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.67,
+          "delta": 0.58,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.68,
+      "value": 6.6,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.03,
+          "delta": -0.08,
           "direction": "down"
         },
         "14d": {
-          "delta": -0.05,
+          "delta": -0.11,
           "direction": "down"
         },
         "30d": {
-          "delta": 0.42,
+          "delta": 0.18,
           "direction": "up"
         },
         "60d": {
-          "delta": 0.73,
+          "delta": 0.62,
           "direction": "up"
         }
       }
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 5,
+      "value": 4.99,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.15,
+          "delta": -0.13,
           "direction": "down"
         },
         "14d": {
-          "delta": -0.24,
+          "delta": -0.22,
           "direction": "down"
         },
         "30d": {
-          "delta": -0.17,
+          "delta": -0.18,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.33,
+          "delta": 0.26,
           "direction": "up"
         }
       }
