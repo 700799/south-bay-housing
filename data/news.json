@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T18:49:13.458Z",
+  "updated": "2026-10-30T18:26:41.669Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "San Jose Spotlight: Santa Clara County Report Shows Increased Property Values - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk96OF9QUXdiazg0QWpQampDZ0s0WE5wZlpvaGE3c3VBS1ZaOTVJV2V4NkRTZlhsejM5bDRkS3hhOWRlcUxuWXo5dmRSUjJuZWhuNkZTYVFLOUZuRDdab2x6emRBcVpFRU5ZN0NPVXVnU3B5dUtuM0FWWjN4Tkw3U3gzZlR3QWdvQkxaSXRCY184YkFCQnVTZm1FLWcwNy1zOWg4?oc=5",
+      "source": "SFGATE",
+      "published": "2026-10-25"
+    },
+    {
+      "title": "828 Van Dyck Ct, Sunnyvale, CA 94087 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGVGbG0xdWM5bThhcER1Q3NUUDFER1VVSmNaRXRDQWVBYmlVQ3lPazlvaGFTQ1ZYOVhBdmRiSUVCR19iRUc5QkZPeVRCUkdoRUdadVFfZ2hKWWZEdGN5VDdVMk1MVXBQc1l1VGRXanpxNV9IM1l4OEN3WHFNeHB5LWtQS1ZPN3RodllQXzNsOE4?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-30"
+    },
     {
       "title": "News | Downtown San Jose heats up as more apartments change hands - CoStar",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem9rVDY0TkIyNzZXWlNVYVQ1cXNzN25TMkF1QlJWUUdGbWlpMFVoR1JpNFVqd1oxVm9GZzVHV2FVWXAwTXpZcW5vb3l4MWREQW4tMGxERl9Ec1lZT3A0NkptcmpvdngycTN1MEU3WU9Rd1BTSldpR09iRmVNVWt4ckMtN2NEd3FWdHYtTWE4ZW9MZ21MWmk1bXUwYVVCV0FHTXc?oc=5",
@@ -15,27 +27,39 @@
       "published": "2026-10-28"
     },
     {
+      "title": "605 E Evelyn Ave Unit 2170, Sunnyvale, CA 94041 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVC1McDdUY0gtZVVpckVBbFI3MUdZd1NGZFBqSVRfTXFMSzMzazgySWc4bWdIMVJjSjYwQy1WS0taRVV3NXlWdWJoMmlKR3gtSDB2aTZGWWcwWXNyMjg1X1ZmQTlWNENkUEczUHVuZG9Ib1ZjOE44ejNwM0VSZDctYWNGSW1PX3VrbEFFQk5YZzBzLXpLa0ZQNnE1bFFUZw?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-28"
+    },
+    {
       "title": "Who Is the Top Real Estate Agent in Fremont, CA? Neena Pattar Closes Recent Sales in Fremont and Sunnyvale - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlQtMVpNRm5raFJ2cmVTT2JkeHpwLXJrVzZwOTNwX180MFItMm9Za0tvMXhjMnljSjVxWkpYeGEzWGV1dEJPRlFpNC12S0xuODFKUUJWNkFib3E4aHc1RWJGcmdLaVZpSzZLUDhNZEFQVGNyMnFsTmVPNktMWXBCR1AwbnZkMWlha0hsY3JPb0xZUVlWQ2t2REs3cw?oc=5",
       "source": "openPR.com",
       "published": "2026-10-28"
     },
     {
-      "title": "Blackstone Buys Nvidia’s Sunnyvale Hub for $99.6M [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVvWFZzRkNwQ0VLSUlzWkVoNFMzSVpwNnFLYXVSV0ZINmhaVkY1LTBqX3BpQjZvUlRMVE1wTEpNNjVSM2puYzZRRzZFd0V6WHV4dGVwWnAzVS1DWEN6OTRETVZ1RlJyOFdzT3ZiX1gxXzl1S1g2emY1bGVOZHU2NVpB?oc=5",
-      "source": "shattered.io",
-      "published": "2026-10-26"
+      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
+      "source": "SFGATE",
+      "published": "2026-10-27"
     },
     {
-      "title": "Santa Clara County report shows increased property values - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamFIcHRIMWo3TnljV2llVlNCLU45YTl4Q3N0VWhmck9WM1czNklLRnZGVG9BTnVnRHBPQm1KLW9jZzh5UFBSRWlNVkJwRDFHN2JZVWI3ZVQtZzZOZU1IQ1kteHpXT2kxMmoxWEpyeUswY2hudUpnSjlfa2RDLU5jYThoYy14TElQbzExMXRpaWk?oc=5",
-      "source": "San José Spotlight",
-      "published": "2026-10-25"
+      "title": "What does it cost to own a luxury home near Cupertino? Inside Silicon Valley's expensive real estate marke - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQc3V2Tzl1aWhUelRkbU9jMGpUS096bUREQXBLbzU0M1FsWEc5RWVlbWtldHhRYWZQd0R1UzJkMWJJMFBFdzZkeHRBbGhwUkJJeDE2aVZBb1lneUhUUXhwQVNJXzNVS2FDSGRRMmduSDQ4LURPNWRnRVFkejRVdFQxSHVuaXdjYmpKbF9DZmdKYnMzcEFkOGo1LVJFckdaVnZGRURZWDFCdXluN3hhRW5tc213bW9oVlBvXzB6ZUtGSjZrRXkwWVJTb1BYbG1tcjcxT2RFbzlwdUxwRWxBX1FiYjlza1ZxQ1psTFdMSUxfTUMyVVA0TVJpSEVXRFFKR2FPcG4wVlR6OEZZMnJuV193MTAxVHVVUkQzc0RjZlhoc2J6cEFqeDJINmVFVDQzaGdtTXRRR3lLLXZmQdIBvwJBVV95cUxQd0RMMVhzZVYyUE4wTV9JNXQ5ellIbjlhTFQtOFZVcUxGZkxBcWRWQUlNT2lKYXdPZldhWXRRMU85WGJUWjMwclFlWWxubVRXQlRWTVRPOVZqZ1VLOEVuQUtjdVdSMjBxbU5EMlJRN24tNVJoZGgzSzZRRENlcnMtZVh4TnE5SzhnR3U4Nm9fb1ZNY2YweGh3R05MMU83bUY1YjBWaXpFbTAyZm1fYk1odmtjX3BYdkUwR3lsc04wdVpBaGRySmtBQ1FuMV9yQTBxSFJMaDdyWHg0RWRtZVBETnFYM3RHTUpYeXh1UTd6V2UxaHBJNFAwT0JuNnE1UWt6eXFJTl9jaVBRai16OHpxX2VORlhKVDFXSDh0Z2ktMHVlR1RCa1g2d3k2UkJuUEd4ajNEcWNPUW1Ic3gzTk9F?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-10-27"
     },
     {
       "title": "Kennedy Wilson and Partners Acquire 312-Unit San Jose Community for $176M - Multifamily & Affordable Housing Business",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3dqYk5GNVlpNExsRktnS0hENlc0d3pMR3J3TWNsUzkyQ2VydDh4eTgzdGFLZzVmN3Q2NjJVVVR5M3hJRF9lbFFERnI4bFdTbEJJdTJQbThiSnFFN2tKTHprbW0zcFBJbUEzNnU5X2pTY1R0UElUeXF1dmxHeGFtSExFLUM5QzVkMTlJU2dYS1plZTlWd3BfT1VHSU9VaTFvQ2Jrc1Zhcy1VN3ZWaHlBZDFscng?oc=5",
       "source": "Multifamily & Affordable Housing Business",
+      "published": "2026-10-22"
+    },
+    {
+      "title": "1269 Poplar Ave Apt 201, Sunnyvale, CA 94086 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlNuZVhOcnVJa0RqWWZRaHY1NXZ4bllxUkd3VHRrT3lOMG1uQnA1RVprZDE3cDZRYmZOMmNYVFhLbkV4c3Q5ZVZtZVdObXFadktyV0tvWV9Zc0lZbGlNT0dFSlNZMmNQTnB3ald2UzNxQVF1UHpTVlRnY1ZVQktJcWFET1lVQURpMkxRNGg2SkJXcW5FS3JWNl9lVQ?oc=5",
+      "source": "Realtor.com",
       "published": "2026-10-22"
     },
     {
@@ -45,34 +69,10 @@
       "published": "2026-10-21"
     },
     {
-      "title": "Company that manufactures Apple products buys South Bay buildings - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
-      "source": "The Mercury News",
+      "title": "Company that manufactures Apple products buys South Bay buildings - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzlEWEV0M1A5b19mUVdMUHNyV1RhZ3g4ME1fdFU4U3FQNUJWSHhhZzVuc0RfZmVmeUxmUHBWeGxUNWRYaFB5OUdoVVk0NEc0cTZtNlItQU5iNUdWMDNXSTFfakhfOWNWUDRRRWc0bnVNeXhiUmRMZzZEbTZueEd3U3V4eHY3MFhFV3Y0Zm01UnlNaUVNdkxxNEdpaVhQbHZWWldLRHpXOENmSWl6anA0?oc=5",
+      "source": "East Bay Times",
       "published": "2026-10-20"
-    },
-    {
-      "title": "Assessor Reports County Property Values Growth Led by Homes in Richest Cities - San Jose Inside",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjk5cWhHSzdzNlBjX1pSOEtfVEl4Q1pGR3lQTXlycm54c1ZRYTZIb0Z2dG5HRWM2azJsRTRhS004R3lkWkgtU1pBZDY1ZzlfdTNUVXBmUXZMakxvSlJSZXp6SC11SWQ1WTBna1NfaTR0Y3RHbEFRSUxMYnF1UXJhYXRad3gwUWR2MEd1cXhsTjg5V1BCTHhnZmZYTHB1MFZfVFo5a2ZJSi1wR1o3dlBwLVBVUQ?oc=5",
-      "source": "San Jose Inside",
-      "published": "2026-10-19"
-    },
-    {
-      "title": "What Silicon Valley cities saw the greatest rise in property values - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkowYWI4Z1FBaGJxWW85bW9PS29fa0JMNUo3V1VTYWhreXlpdFVpSVRfd2J3Z3psd1NPcVZkaGJ0SEoxSUk1SUViOGJrX0hBUVdfd3hqOGNMNWxPejFYUERzaVFhWWhvMkt5YnB5UVVaQlVQZjlRckNURG5LSUE0ZS1RbWlrM0E3QnNXai1hYlJ4OU90WGFDTjRSeUo?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-10-19"
-    },
-    {
-      "title": "‘On a hot streak’: Big leases, smaller vacancy rates help rally in Silicon Valley office market - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHV1d3R0MnZNSWNNTmRZaWJneWhXNGszZE9xNXFmZDJOWUpHc2Z1SDMxUGhVcTZkN1pDRy01T0ttdVZQLURnSUtMWTZtTFE0ZktLM2NLbUd6ZkVZb0hodmF1SHZBbW9mc2VVYlMzZ1h1NFc4bm15ZEJ6Z2hHelh1alpaNGdValh5MlZyUFFfRU93MUJZTFQ1cGxqbDM0cWtaOS0teERPa1JHSUwx?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-10-16"
-    },
-    {
-      "title": "Kennedy Wilson venture drops $176M on downtown San Jose apartments amid soaring rents - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5PYlhhODNESkRNS1pBMTJkSldvU0g4RjBHeVpLMUhqU0Qxa1R4VXNubmJEYklxdEczaTF6RHBGWFE2WUxYejdkNDZ0QU9Mb210WUFLQ2JRTWtjVzdZTHZpaFBVbUtyTUVZZWNlNG16Z1pCby1JVS1oTU8yUnNSaEM5eTRWaUc0Z2diVFp2N2ZldlFhdDdwbHdyWGJiZ2lrZzhXTlZVdk9oSmNwZUE?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-10-15"
     }
   ]
 }
