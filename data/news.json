@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:26:41.669Z",
+  "updated": "2026-10-31T17:31:50.291Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,10 +9,40 @@
       "published": "2026-10-25"
     },
     {
+      "title": "1678 Lewiston Dr, Sunnyvale, CA 94087 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzMyZjBuU2RCejZ1Z1NHa3h0S2VMeVpxLURjR25QMmJVZ3JMNWZobEFOcVV4Zldaa19LN1lKUVlhZWoxcE9NNENLSFhIRGpQZEVlMk9jenpjb29EOVFfMHg4QmNZYm9QTnNQRUsxQWZqT2RBTGhOUzhnM3BRcnl1MlR6TGl2S2Y4R0RQOVpiT1h5QQ?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-31"
+    },
+    {
+      "title": "501 Hope Ter Apt 1, Sunnyvale, CA 94087 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk10MVJYalVfRkZ4bDRFRkhvNGxMUlZmMkdzeElOQUtzdXFGcUJUZVZxV0FkR2tmbWdaY0JVVzVSaHUtUC1IeGF0RXBuREFrT3M3WHBmN2VadEZJQVBxcWppZ1BUeVRpdDVuZ2xGWnd4bEU1M1FHRHFuNUdXbGtieUZrWVpYZWxNNHFVMzdxVC1VMEdt?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-31"
+    },
+    {
+      "title": "San Jose Multifamily Market Heats Up as Investment Activity Accelerates - Multifamily Executive",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3kzUHVlUEhyNDJkTnlacUVYUGd2VUtJTGlXWDUtbDhCNGl6THJtU3hoNXRKQ0dfQWozNndsdkxVYjdDd01oM3ZrRll1SHVkYzZ6X0VOQ2tBOGtVSml6OFJoZzNxeHBhdElTMmVpLXVaRENuejh2SEllbGVKdnZfNTRsNFlJLUdpLVFETkRsUk5QMlN2YnFoQU9kV1MzbFItYlVwU1BhREdzWjkyZTI2bXAwbXoxdm45S05N?oc=5",
+      "source": "Multifamily Executive",
+      "published": "2026-10-30"
+    },
+    {
       "title": "828 Van Dyck Ct, Sunnyvale, CA 94087 - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGVGbG0xdWM5bThhcER1Q3NUUDFER1VVSmNaRXRDQWVBYmlVQ3lPazlvaGFTQ1ZYOVhBdmRiSUVCR19iRUc5QkZPeVRCUkdoRUdadVFfZ2hKWWZEdGN5VDdVMk1MVXBQc1l1VGRXanpxNV9IM1l4OEN3WHFNeHB5LWtQS1ZPN3RodllQXzNsOE4?oc=5",
       "source": "Realtor.com",
       "published": "2026-10-30"
+    },
+    {
+      "title": "Real Estate, Climate and Wild Parties? Here’s How Anthropic’s IPO Could Affect the Bay Area - KQED",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWtLdXFTQkVaOW5WU0Z0NFEzcnd2c3dkV2FLLUFlOXhGb0lqdHZBcDhUbTFfQmQwdlRMaXd5SDJvOUczbk9ObmNXQ1lZQlRXOV8wZTA3VjZOdmdPSlVadnVGZXFOTEd1bURFSFVZcWRjd3RGOUMxSWxucWFnaXV0dlA1Vk5zQUtwdVczU0toUDdiaVN6ZEk0ZFQyeXpueVV3ZGRvRXFqamhGMC1EaVE?oc=5",
+      "source": "KQED",
+      "published": "2026-10-29"
+    },
+    {
+      "title": "605 E Evelyn Ave Unit 2170, Sunnyvale, CA 94041 - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVC1McDdUY0gtZVVpckVBbFI3MUdZd1NGZFBqSVRfTXFMSzMzazgySWc4bWdIMVJjSjYwQy1WS0taRVV3NXlWdWJoMmlKR3gtSDB2aTZGWWcwWXNyMjg1X1ZmQTlWNENkUEczUHVuZG9Ib1ZjOE44ejNwM0VSZDctYWNGSW1PX3VrbEFFQk5YZzBzLXpLa0ZQNnE1bFFUZw?oc=5",
+      "source": "Realtor.com",
+      "published": "2026-10-29"
     },
     {
       "title": "News | Downtown San Jose heats up as more apartments change hands - CoStar",
@@ -27,52 +57,22 @@
       "published": "2026-10-28"
     },
     {
-      "title": "605 E Evelyn Ave Unit 2170, Sunnyvale, CA 94041 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVC1McDdUY0gtZVVpckVBbFI3MUdZd1NGZFBqSVRfTXFMSzMzazgySWc4bWdIMVJjSjYwQy1WS0taRVV3NXlWdWJoMmlKR3gtSDB2aTZGWWcwWXNyMjg1X1ZmQTlWNENkUEczUHVuZG9Ib1ZjOE44ejNwM0VSZDctYWNGSW1PX3VrbEFFQk5YZzBzLXpLa0ZQNnE1bFFUZw?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-10-28"
-    },
-    {
       "title": "Who Is the Top Real Estate Agent in Fremont, CA? Neena Pattar Closes Recent Sales in Fremont and Sunnyvale - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlQtMVpNRm5raFJ2cmVTT2JkeHpwLXJrVzZwOTNwX180MFItMm9Za0tvMXhjMnljSjVxWkpYeGEzWGV1dEJPRlFpNC12S0xuODFKUUJWNkFib3E4aHc1RWJGcmdLaVZpSzZLUDhNZEFQVGNyMnFsTmVPNktMWXBCR1AwbnZkMWlha0hsY3JPb0xZUVlWQ2t2REs3cw?oc=5",
       "source": "openPR.com",
       "published": "2026-10-28"
     },
     {
+      "title": "Anthropic's IPO expected to reshape San Francisco's housing market: 'Most of us can't afford houses' - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2NHMGEzeHNpRm1TUUVVWVZWYkRrTWpyMjRPOUgzM1hoQUNTZHhsWm03MHhUX3p1RjV0eHZrNjhqS2Y5UEd5Tl9UZDJSVlF6QlVGcHhxMnctcUdUeEVxUkRObVVkd3Y4RVMwdnczcE9feksxM2xmc0RiTnREYXZmXzU3QzluNXdnUkhnelYyR2hsLVpoaTFFMV9KREdTVWNVT3JiM0NTR0lraFZpbGFPN3daWWVIbnVOREoyVGUyaHJHd9IBxwFBVV95cUxQT3IydmxrNnN5Z1gxQkxRemJKc0UyQlF4YlMxbDBPdzBBUm5jOUVQOGVBQVBGdmtEU2xHWm5Rdmp6SXNaNzEwTFJVcDgybDBPOHVobUN1enZJUGNVejVKUFJrYm15cmlGMXpBaFVxcWFUQjBGVWRGdWJCbFhuZmYtaUZvWml2NU82dkZpdU9xYV9pUnVqX3BQanNacnVELU5WTDNhWndkWjNoS2ViYndaZ2RXWnNEVlFSTzl3bHlWa2VTLUhLaE9v?oc=5",
+      "source": "ABC7 Bay Area",
+      "published": "2026-10-27"
+    },
+    {
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
       "published": "2026-10-27"
-    },
-    {
-      "title": "What does it cost to own a luxury home near Cupertino? Inside Silicon Valley's expensive real estate marke - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQc3V2Tzl1aWhUelRkbU9jMGpUS096bUREQXBLbzU0M1FsWEc5RWVlbWtldHhRYWZQd0R1UzJkMWJJMFBFdzZkeHRBbGhwUkJJeDE2aVZBb1lneUhUUXhwQVNJXzNVS2FDSGRRMmduSDQ4LURPNWRnRVFkejRVdFQxSHVuaXdjYmpKbF9DZmdKYnMzcEFkOGo1LVJFckdaVnZGRURZWDFCdXluN3hhRW5tc213bW9oVlBvXzB6ZUtGSjZrRXkwWVJTb1BYbG1tcjcxT2RFbzlwdUxwRWxBX1FiYjlza1ZxQ1psTFdMSUxfTUMyVVA0TVJpSEVXRFFKR2FPcG4wVlR6OEZZMnJuV193MTAxVHVVUkQzc0RjZlhoc2J6cEFqeDJINmVFVDQzaGdtTXRRR3lLLXZmQdIBvwJBVV95cUxQd0RMMVhzZVYyUE4wTV9JNXQ5ellIbjlhTFQtOFZVcUxGZkxBcWRWQUlNT2lKYXdPZldhWXRRMU85WGJUWjMwclFlWWxubVRXQlRWTVRPOVZqZ1VLOEVuQUtjdVdSMjBxbU5EMlJRN24tNVJoZGgzSzZRRENlcnMtZVh4TnE5SzhnR3U4Nm9fb1ZNY2YweGh3R05MMU83bUY1YjBWaXpFbTAyZm1fYk1odmtjX3BYdkUwR3lsc04wdVpBaGRySmtBQ1FuMV9yQTBxSFJMaDdyWHg0RWRtZVBETnFYM3RHTUpYeXh1UTd6V2UxaHBJNFAwT0JuNnE1UWt6eXFJTl9jaVBRai16OHpxX2VORlhKVDFXSDh0Z2ktMHVlR1RCa1g2d3k2UkJuUEd4ajNEcWNPUW1Ic3gzTk9F?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-10-27"
-    },
-    {
-      "title": "Kennedy Wilson and Partners Acquire 312-Unit San Jose Community for $176M - Multifamily & Affordable Housing Business",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3dqYk5GNVlpNExsRktnS0hENlc0d3pMR3J3TWNsUzkyQ2VydDh4eTgzdGFLZzVmN3Q2NjJVVVR5M3hJRF9lbFFERnI4bFdTbEJJdTJQbThiSnFFN2tKTHprbW0zcFBJbUEzNnU5X2pTY1R0UElUeXF1dmxHeGFtSExFLUM5QzVkMTlJU2dYS1plZTlWd3BfT1VHSU9VaTFvQ2Jrc1Zhcy1VN3ZWaHlBZDFscng?oc=5",
-      "source": "Multifamily & Affordable Housing Business",
-      "published": "2026-10-22"
-    },
-    {
-      "title": "1269 Poplar Ave Apt 201, Sunnyvale, CA 94086 - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlNuZVhOcnVJa0RqWWZRaHY1NXZ4bllxUkd3VHRrT3lOMG1uQnA1RVprZDE3cDZRYmZOMmNYVFhLbkV4c3Q5ZVZtZVdObXFadktyV0tvWV9Zc0lZbGlNT0dFSlNZMmNQTnB3ald2UzNxQVF1UHpTVlRnY1ZVQktJcWFET1lVQURpMkxRNGg2SkJXcW5FS3JWNl9lVQ?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-10-22"
-    },
-    {
-      "title": "Downtown San Jose apartment hub is bought for more than $50 million - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcm1jemVpQTFLVmpwb0poRDUydFh0d0RSVEdiRjJBUFJseDJGeUFJVENGamZXaHMzcnQ5MXppQXpTV1ZaZ3FqZkJTc1ZNeWtoUHk5ZDRYM195S3hRQmxfbkR2NGhOMmw5N3JkUlE0aGFSVWZxY3lpeXJPYzg1UVpRUFExajdGbXNKaUV0UWg1ZDFMNE1vRG9aMzB3NVBHbHQ5a0VRQW0xSlBBcE9iN0VoTnNPY2VJazlHZEJaR0lR0gGyAUFVX3lxTE5LUkNmS2VWblMwRnphMnNpdUktR18tUURnSnhtMG81MUNyaEdnZjUwcC1EMUx0WkpyY1llR05FYTNnVm1mbms2c3lLWHgyUXZYWFQ2MHpVWDlyYy1wMVZXUG9ET0RHMWFXWEgxM191ZVR4dTQxNlRvNGhHOG94ZlBuQTdYbGZ6ZzdUZElXekV5dlhybnB5LTRESHRQajdsNEpJNDVsUG1neE95ZF95dFdndFE?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-10-21"
-    },
-    {
-      "title": "Company that manufactures Apple products buys South Bay buildings - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzlEWEV0M1A5b19mUVdMUHNyV1RhZ3g4ME1fdFU4U3FQNUJWSHhhZzVuc0RfZmVmeUxmUHBWeGxUNWRYaFB5OUdoVVk0NEc0cTZtNlItQU5iNUdWMDNXSTFfakhfOWNWUDRRRWc0bnVNeXhiUmRMZzZEbTZueEd3U3V4eHY3MFhFV3Y0Zm01UnlNaUVNdkxxNEdpaVhQbHZWWldLRHpXOENmSWl6anA0?oc=5",
-      "source": "East Bay Times",
-      "published": "2026-10-20"
     }
   ]
 }
