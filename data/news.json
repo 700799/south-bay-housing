@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T20:18:36.851Z",
+  "updated": "2026-11-05T20:29:35.124Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -9,10 +9,22 @@
       "published": "2026-10-25"
     },
     {
-      "title": "Santa Clara County rents two San Jose office buildings in market boost - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTdxVzJLblV1eDJ0TW0wM0dZM0lqMTI2c09oTWRjTUZ0U3FOR2ZhSzFCa2Y1dVRDOFAxVEhYeFktc1JYSXFIejVsTU43Um10Z2pLMGM5UE1QQWVCZlJDU0F6NEZZUElyS0laY0FBUGtvdjVTaWdxVkVKUkllZEpnTjIzYVRnVTkzRElyWlI2WTVKQW8wVjFiTFgydk05eFhMUDRJc3NmeFpZTHRCTXc?oc=5",
+      "title": "Medical device tech company sells Sunnyvale site to real estate firm - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnlqdDAySEI3SWRpV3VwMDhic19TS2dORTUxcnc2QWZUOWtWZXhUc01qVXZ1VlVVU01HMWRWSGlNSGZFQXFQd2xtZ3k2dWRSOENjM2pERWlWZnRGU3RSa2ZSaGRaandaOXRLY01rYmZPZXZHYURRajI2Yk40NzdSNlZSNjdnWlhFOEZ0VHlhdVZsdDJteHdOaWxrVzJxWFVzMUJUMDAtVlZiZHF1NGc?oc=5",
       "source": "The Mercury News",
-      "published": "2026-10-19"
+      "published": "2026-11-05"
+    },
+    {
+      "title": "Foreclosed Signia San Jose hotel heading to market - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3NaVU5iMGlLMnBZRmNXekdKdG1OYmhINjAtanRiMXF1NXlOQlJjVXJ1ZDF1MVlwSENsNUNnUUU3Y1J4Y3IxcTdJUzlPM0tZeW5DVElDNmlKemxmYndLQVFia3gwbkZRTmtkdm9QUnpfNFNSaGt2bDdrWVR1Mzh2bjhRZ3FjUnQ2eTRXSE9BQkJKUzRtV1FkeWpfVWVFckQ3UEVj?oc=5",
+      "source": "The Real Deal",
+      "published": "2026-11-04"
+    },
+    {
+      "title": "JLL Arranges Sale of Home2 Suites Boston South Bay - Boston Real Estate Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRE0zU09jOXdhVkZVNV91Q1o5SWlTVmtJWVNEMUNxSGZXNEs1ZmdDTzdKWWVpcWRfUEdDRjVTY3EzSXBPVE9RbVRWNHhVaXZsWS1wRDRGM0VkbUpZcTQ5bTg2OGx1a045aWg1UEhWTl9JaVk2WUxON0w1TzlPTGV2UXdvMUgtazZRTU9TU2pB?oc=5",
+      "source": "Boston Real Estate Times",
+      "published": "2026-11-04"
     },
     {
       "title": "PCCP-led group surrenders San Jose biotech campus in $50M foreclosure - The Real Deal",
@@ -21,9 +33,9 @@
       "published": "2026-11-03"
     },
     {
-      "title": "Another downtown San Jose apartment tower hits the market - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGs2ZDhEZ1BPUmc3dFZBT3ZWQXJOSmhHOHM2U1pzT3J6TjFMX2h4d04yczJrcHJqRDB5bzlLRlJIWFJfdXA1YzZ2MVVKcGM2YWZnNk9Cb3FMbG5YdE5YdDJSakEzX3dCQWlwZDJ2dGt4bFJaSTA2S0Fld3pRSi1BYlZXRldBUlNEc0d4YmhzcWd0SVhaZWdMMks5WVJ6cTg?oc=5",
-      "source": "The Business Journals",
+      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
+      "source": "SFGATE",
       "published": "2026-11-03"
     },
     {
@@ -39,40 +51,28 @@
       "published": "2026-11-03"
     },
     {
+      "title": "Chance Price's Mountain View High School Football Stats - MaxPreps",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0lGTHJ4NHU3eHhZQUh5Rk9ha1NtZ29TV1Y4M2gybzEwelgtZjRGY0tLNDFodFQzX0RlMVY5cW9DaVpmbXJVdzZ1QzRpNXpmREx0SFZfSUd1eTRBQTRNd19wSEpuNTJCMmNkcWM5V1ZLdktWUVYwODlwSDYtX1hCbFk2bjBybG5UV19ial9kZ3pJTTJ1V3o2QmU4YWNfbEVrcC1faFg5NV9DWjJ2bmdYU2NxSQ?oc=5",
+      "source": "MaxPreps",
+      "published": "2026-11-02"
+    },
+    {
       "title": "Tucked Into The Ozarks, Mountain View Is A Folk Music Town Where Homes Still Sell Cheap - Fast Food Club",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWtqaElHYTVDVjJYUmdIU3JfZnR2dGFRTHloQXU5cS14Y21KUFAzRkVkeHh5REdSRTRucjVES2NKdGY3WnFKR2lJUUszbmNEMVNvNXdoSnh1bUJtYmJQVlRiWE9kandleFN6UjlTYXpJaVZSNnpwWFFoNUZrczFnaUc1SEdFclRZSl95UWk2YlRSdHpaeWJjMFFud3FpSHBVc0hIMHlUVjRGVnhDSi1TS19nWUZJck9jS1hkQUxkS3Y?oc=5",
       "source": "Fast Food Club",
       "published": "2026-11-02"
     },
     {
-      "title": "Alta Housing Breaks Ground on Fourth Mountain View Affordable - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnpFZzFFam52aFNiQnRmTWFNNEVja003SDU2QjI0SzBJczh5X21NSzZicjdBT1NEdzFLMmFmbVlBOGVDQjRHdWYwTW9BM1oxSm0tMEhPRjdqbjdsdnJKZWd6R3AycDY1ZGZRcURoN0FoTVIzcFViNzc2X1BvUkdjX29kcnI5dEhIOUR4dGgydVFSU09uNUNFdTdTdWtJZw?oc=5",
-      "source": "Connect CRE",
-      "published": "2026-10-22"
+      "title": "Car dealership could replace retail site near Westfield Oakridge mall in San Jose - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFJCZFJkb2l5bFhrZkw1ZnQ4aHpjeDNxMFF3eHZ2YzY2VjNNNGd3d3FwMDVkc0dPenlMdUwyZnlaSDVUak9rUTlkeEs2UWJKMnN5d2J6ODg0UTdyZ1pEcFdsTExmZ2UzRWNtRm1PcHNFeEhFT0RtX3ZOV05QMlJ3WnNwSEx1d3hBMGFRR1V3YkJUR3d5dXNPS2xIQW1YVjBxaUZNOFkteFE4WlpvTkZN0gG0AUFVX3lxTE9NVjlmZDdOQUJITmlKNHBnM2UxUzdiSnFQNlFsN190UGtVQk9ETi1UTzdDY1VvRXU1N1oxelJPdjhGQUlfY2F5VFM2YUJxMThuNVZyNEFPZEJidmxVWEtLNkpCYUk4MWEyLXJxazN0X2JjZEl1MUdqbmNvNlJRSEF2RmtidFhnNHJjbFRvcFZNR1I1cEUzbnFCaWJScVRRSkJ6QmRiREQtNmJTQnZid2wzbktHZQ?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-10-28"
     },
     {
       "title": "Company that manufactures Apple products buys South Bay buildings - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
       "source": "The Mercury News",
       "published": "2026-10-20"
-    },
-    {
-      "title": "Assessor Reports County Property Values Growth Led by Homes in Richest Cities - San Jose Inside",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjk5cWhHSzdzNlBjX1pSOEtfVEl4Q1pGR3lQTXlycm54c1ZRYTZIb0Z2dG5HRWM2azJsRTRhS004R3lkWkgtU1pBZDY1ZzlfdTNUVXBmUXZMakxvSlJSZXp6SC11SWQ1WTBna1NfaTR0Y3RHbEFRSUxMYnF1UXJhYXRad3gwUWR2MEd1cXhsTjg5V1BCTHhnZmZYTHB1MFZfVFo5a2ZJSi1wR1o3dlBwLVBVUQ?oc=5",
-      "source": "San Jose Inside",
-      "published": "2026-10-19"
-    },
-    {
-      "title": "What Silicon Valley cities saw the greatest rise in property values - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkowYWI4Z1FBaGJxWW85bW9PS29fa0JMNUo3V1VTYWhreXlpdFVpSVRfd2J3Z3psd1NPcVZkaGJ0SEoxSUk1SUViOGJrX0hBUVdfd3hqOGNMNWxPejFYUERzaVFhWWhvMkt5YnB5UVVaQlVQZjlRckNURG5LSUE0ZS1RbWlrM0E3QnNXai1hYlJ4OU90WGFDTjRSeUo?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-10-19"
-    },
-    {
-      "title": "Kennedy Wilson venture drops $176M on downtown San Jose apartments amid soaring rents - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5PYlhhODNESkRNS1pBMTJkSldvU0g4RjBHeVpLMUhqU0Qxa1R4VXNubmJEYklxdEczaTF6RHBGWFE2WUxYejdkNDZ0QU9Mb210WUFLQ2JRTWtjVzdZTHZpaFBVbUtyTUVZZWNlNG16Z1pCby1JVS1oTU8yUnNSaEM5eTRWaUc0Z2diVFp2N2ZldlFhdDdwbHdyWGJiZ2lrZzhXTlZVdk9oSmNwZUE?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-10-15"
     }
   ]
 }

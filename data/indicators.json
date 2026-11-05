@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-04T20:18:36.154Z",
+  "updated": "2026-11-05T20:29:34.405Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 7.24,
+      "value": 7.18,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.08,
+          "delta": -0.06,
           "direction": "down"
         },
         "14d": {
-          "delta": -0.16,
+          "delta": -0.14,
           "direction": "down"
         },
         "30d": {
-          "delta": 0.21,
-          "direction": "up"
+          "delta": -0.1,
+          "direction": "down"
         },
         "60d": {
-          "delta": 0.58,
+          "delta": 0.47,
           "direction": "up"
         }
       }
@@ -30,12 +30,12 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.6,
+      "value": 6.57,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.08,
+          "delta": -0.03,
           "direction": "down"
         },
         "14d": {
@@ -43,11 +43,11 @@
           "direction": "down"
         },
         "30d": {
-          "delta": 0.18,
-          "direction": "up"
+          "delta": -0.03,
+          "direction": "down"
         },
         "60d": {
-          "delta": 0.62,
+          "delta": 0.53,
           "direction": "up"
         }
       }
@@ -55,24 +55,24 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 4.91,
+      "value": 4.95,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.09,
+          "delta": -0.04,
           "direction": "down"
         },
         "14d": {
-          "delta": -0.24,
+          "delta": -0.17,
           "direction": "down"
         },
         "30d": {
-          "delta": -0.37,
+          "delta": -0.33,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.14,
+          "delta": 0.17,
           "direction": "up"
         }
       }
