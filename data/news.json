@@ -1,17 +1,11 @@
 {
-  "updated": "2026-11-06T19:52:26.543Z",
+  "updated": "2026-11-07T17:57:33.179Z",
   "source": "Google News RSS",
   "items": [
     {
       "title": "Silicon Valley rejected the billionaire wealth tax while voters in LA and San Francisco wanted it - Fortune",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1VfQmM1dGgtQUZwVnRoa0s4TW9vSDhjblk1Z0dldkg5eUpDWGVuVy1UUldyd3JiTUZPX1JJNDl3Nk9fZ3ZKVjA5QlgzelBpSkM4X1Voc0VTTVRpMkdPSnhhUlRWc3BqeVVjMGFleXJXSFU3dDFtWGFWRGxjbjhaa0VGS2JNWkZ1UVhqenA1amhNaVdJNEFfVzRLRVNRbFkxUU42TVRSZlc2Rnc1bGpjc1JwMHJzM09MQUVBbUliZG9Sdw?oc=5",
       "source": "Fortune",
-      "published": "2026-11-06"
-    },
-    {
-      "title": "Bay Area ban on new gas-powered water heaters won't start until 2028. Here's what you need to know - Petaluma Argus-Courier",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVZ1WXdpOHVpVFkzZnM5Zy14MkdKRnhZZVVabGRvb0tYaG9XTGU2bm9nMlVPU1B6bzN4QlZsVThZYkRTdlY2VFlBVlY2WWhfa01CVFBHSkhwM2dqdndPbDhidkhTcXJpUUo5Skx6d0RDbzJkY1Z2Y2t5RWFGQ3d4VzUtVnd2NWFJN3RNRg?oc=5",
-      "source": "Petaluma Argus-Courier",
       "published": "2026-11-06"
     },
     {
@@ -27,10 +21,10 @@
       "published": "2026-11-05"
     },
     {
-      "title": "Foreclosed Signia San Jose hotel heading to market - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3NaVU5iMGlLMnBZRmNXekdKdG1OYmhINjAtanRiMXF1NXlOQlJjVXJ1ZDF1MVlwSENsNUNnUUU3Y1J4Y3IxcTdJUzlPM0tZeW5DVElDNmlKemxmYndLQVFia3gwbkZRTmtkdm9QUnpfNFNSaGt2bDdrWVR1Mzh2bjhRZ3FjUnQ2eTRXSE9BQkJKUzRtV1FkeWpfVWVFckQ3UEVj?oc=5",
-      "source": "The Real Deal",
-      "published": "2026-11-04"
+      "title": "Battery company rents big South Bay building sought by other tech firms - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFZ5NWsyMTg1Vk9VOVhHRGxTcV9abUl0aTlFUGNVR2xvanNMY0tmRUllTEVxQi1waTN5ZFJtRW13RjVyaXA1VkVPblZLLUtjdVNHbDFSTFF4LVBoYXlhLXlzdnczbXd2dGtYbWxsSkJuWEtkUVp2Vkl1MGdXVk5TbU5wZFVrZ1huRlhvdDVKNHJWNkU3cTl3a1d6N08wUFM3cHpPRjRUT0JuYmliQ1hpZm9n?oc=5",
+      "source": "East Bay Times",
+      "published": "2026-11-05"
     },
     {
       "title": "JLL Arranges Sale of Home2 Suites Boston South Bay - Boston Real Estate Times",
@@ -39,21 +33,15 @@
       "published": "2026-11-04"
     },
     {
-      "title": "PCCP-led group surrenders San Jose biotech campus in $50M foreclosure - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTh1OUNPMGdXOFhibUlUanpfVEJGSzYxMm5FdENSRmJhbDRueXJKakN6cnhLSDY5RGFyVEtLZVZCLVdSOGdHWnVQbjBaS1F6RUREbWhBdjhlcFZRNDEzNEt6blpHVjg4NndfTUVLTVpVVmxuY2lseFRRdi0tdUlnQ1lhUXRIRjNXVnFCZTBlX2NIRjM5a0hqdTdSLTZVODJSMG1RUHR2Z0JzMVJz?oc=5",
+      "title": "Foreclosed Signia San Jose hotel heading to market - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3NaVU5iMGlLMnBZRmNXekdKdG1OYmhINjAtanRiMXF1NXlOQlJjVXJ1ZDF1MVlwSENsNUNnUUU3Y1J4Y3IxcTdJUzlPM0tZeW5DVElDNmlKemxmYndLQVFia3gwbkZRTmtkdm9QUnpfNFNSaGt2bDdrWVR1Mzh2bjhRZ3FjUnQ2eTRXSE9BQkJKUzRtV1FkeWpfVWVFckQ3UEVj?oc=5",
       "source": "The Real Deal",
-      "published": "2026-11-03"
+      "published": "2026-11-04"
     },
     {
       "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
-      "published": "2026-11-03"
-    },
-    {
-      "title": "San Jose hotel tower is expected to go up for sale sometime in 2027 - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTdSYzZxZ2VPblBaSTNfeUttVi1mMEstakdsZ0UwSEdnbUxodkZncVF3ZWVWOV92c2x4ZlRGV1hxdlI2MXZoNk9iUWhGeUhMUDludTVJN01pck5DTU80R1BlaU9vcXNzZ1FfQWVSaFU0RmhQaDZDZ2F4b1U1WTh0aVE3YWZQa3Q1a0p4MEpPX0V2ZUVlZVotaDhLeWhJNW9WOXl6VGpBdGZKQ05qaW9N?oc=5",
-      "source": "The Mercury News",
       "published": "2026-11-03"
     },
     {
@@ -63,16 +51,28 @@
       "published": "2026-11-02"
     },
     {
-      "title": "Car dealership could replace retail site near Westfield Oakridge mall in San Jose - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFJCZFJkb2l5bFhrZkw1ZnQ4aHpjeDNxMFF3eHZ2YzY2VjNNNGd3d3FwMDVkc0dPenlMdUwyZnlaSDVUak9rUTlkeEs2UWJKMnN5d2J6ODg0UTdyZ1pEcFdsTExmZ2UzRWNtRm1PcHNFeEhFT0RtX3ZOV05QMlJ3WnNwSEx1d3hBMGFRR1V3YkJUR3d5dXNPS2xIQW1YVjBxaUZNOFkteFE4WlpvTkZN0gG0AUFVX3lxTE9NVjlmZDdOQUJITmlKNHBnM2UxUzdiSnFQNlFsN190UGtVQk9ETi1UTzdDY1VvRXU1N1oxelJPdjhGQUlfY2F5VFM2YUJxMThuNVZyNEFPZEJidmxVWEtLNkpCYUk4MWEyLXJxazN0X2JjZEl1MUdqbmNvNlJRSEF2RmtidFhnNHJjbFRvcFZNR1I1cEUzbnFCaWJScVRRSkJ6QmRiREQtNmJTQnZid2wzbktHZQ?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-10-28"
-    },
-    {
       "title": "Santa Clara County report shows increased property values - San José Spotlight",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamFIcHRIMWo3TnljV2llVlNCLU45YTl4Q3N0VWhmck9WM1czNklLRnZGVG9BTnVnRHBPQm1KLW9jZzh5UFBSRWlNVkJwRDFHN2JZVWI3ZVQtZzZOZU1IQ1kteHpXT2kxMmoxWEpyeUswY2hudUpnSjlfa2RDLU5jYThoYy14TElQbzExMXRpaWk?oc=5",
       "source": "San José Spotlight",
       "published": "2026-10-25"
+    },
+    {
+      "title": "Company that manufactures Apple products buys South Bay buildings - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-10-20"
+    },
+    {
+      "title": "The Hidden Cost of AI in the Bay Area Housing Market - M-A Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzZOLWE3MmkwcnhaZm1nQ0dkSndwV0xpNzJHaWJsTDNhb0thanR4VGxPVDdWS3MyV2ZnejFCYktqNEZCN0JmUjdQS2RBbUNITEZLV0h1X0FyZUVtYVBtMVV4LXRUamlac0hqWFhKYmVUMnI3NUlJYWpSTE5ISEkzay0tdw?oc=5",
+      "source": "M-A Chronicle",
+      "published": "2026-10-19"
+    },
+    {
+      "title": "Assessor Reports County Property Values Growth Led by Homes in Richest Cities - San Jose Inside",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjk5cWhHSzdzNlBjX1pSOEtfVEl4Q1pGR3lQTXlycm54c1ZRYTZIb0Z2dG5HRWM2azJsRTRhS004R3lkWkgtU1pBZDY1ZzlfdTNUVXBmUXZMakxvSlJSZXp6SC11SWQ1WTBna1NfaTR0Y3RHbEFRSUxMYnF1UXJhYXRad3gwUWR2MEd1cXhsTjg5V1BCTHhnZmZYTHB1MFZfVFo5a2ZJSi1wR1o3dlBwLVBVUQ?oc=5",
+      "source": "San Jose Inside",
+      "published": "2026-10-19"
     }
   ]
 }
