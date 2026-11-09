@@ -12,8 +12,12 @@ with market data that refreshes daily via GitHub Actions.
   unemployment, consumer sentiment, inventory, days-on-market (FRED) — *updated daily*.
 - **Mortgage rate chart** — 30-yr & 15-yr fixed over the past year (Chart.js).
 - **Bay Area housing news** — top headlines pulled daily from news RSS.
-- **Sold-homes browser** — pill filters by city, price band, and property type
-  (combine filters: OR within a group, AND across groups).
+- **Featured listings** — photo-card grid of homes for sale, pending, and sold,
+  with pill filters by status, city, and property type (OR within a group, AND
+  across groups). Curated in `data/listings.json`; optional IDX embed for live
+  MLS search.
+- **City & neighborhood guides** — original write-ups of ~30 South Bay
+  neighborhoods (`data/neighborhoods.json`), expandable inside each city card.
 - **Top 5 books + Top 5 journal/research summaries** on buying/selling a home.
 - **Contact CTA** — phone, email, and a contact form.
 
@@ -26,8 +30,42 @@ If a fetch fails or no API key is set, it falls back to seed data in
 
 - Mortgage rates + indicators: **FRED API** (free key required).
 - News: Google News RSS (no key).
-- `sold-homes.json`, `books.json`, `journals.json`: **curated** — edit by hand;
-  the workflow never overwrites them.
+- `listings.json`, `neighborhoods.json`, `books.json`, `journals.json`:
+  **curated** — edit by hand; the workflow never overwrites them.
+
+## Managing listings
+Listings live in `data/listings.json` — one object per home in `items`. The file
+ships empty (the drawer shows a "no listings posted" message); copy the
+`_example` entry into `items` and edit it. Setting `"sample": true` on an entry
+renders a red **Sample** badge for layout previews.
+
+```json
+{
+  "id": "1234-oak-st",
+  "status": "active",            // active | pending | sold
+  "price": 1895000,              // sale price when status is "sold"
+  "address": "1234 Oak St",
+  "city": "Sunnyvale",
+  "neighborhood": "Cherry Chase", // optional
+  "beds": 3, "baths": 2, "sqft": 1650, "lot": 6000,
+  "type": "Single Family",       // Single Family | Townhouse | Condo | Multi-Family
+  "year": 1958,                  // optional
+  "photo": "assets/img/listings/1234-oak-st.jpg",   // optional; blank shows a placeholder
+  "url": "https://...",          // optional MLS / brochure link
+  "blurb": "One or two sentences about the home.",
+  "date": "2026-11-01"           // list date, or sale date when sold
+}
+```
+
+Put photos in `assets/img/listings/` (landscape, ~1200×750 works well). Sorting
+is for-sale → pending → sold, newest first within each group.
+
+### Live MLS search (IDX)
+Active MLS listings can't be copied by hand — they come from a licensed IDX
+feed. Get the embed code (widget, iframe, or script) from Coldwell Banker's
+agent tools or an IDX vendor, paste it inside `<div id="idxEmbed">` in
+`index.html`, and the "Search all South Bay homes" block un-hides itself
+automatically beneath the featured listings.
 
 ## One-time setup (done in GitHub, not in code)
 1. **Enable GitHub Pages**: Settings → Pages → *Deploy from a branch* → `main` / `/root`.

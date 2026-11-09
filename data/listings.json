@@ -1,0 +1,23 @@
+{
+  "_readme": "Curated listings \u2014 edit by hand; the daily workflow never touches this file. Fields: id, status (active|pending|sold), price (number), address, city, neighborhood (optional), beds, baths, sqft, lot (optional, sq ft), type (Single Family|Townhouse|Condo|Multi-Family), year (optional), photo (optional path under assets/img/listings/), url (optional MLS/Zillow/brochure link), blurb, date (ISO list or sale date), sample (true shows a 'Sample' badge; for layout previews only). Copy _example into items to add a home.",
+  "updated": "2026-11-09",
+  "items": [],
+  "_example": {
+    "id": "1234-oak-st",
+    "status": "active",
+    "price": 1895000,
+    "address": "1234 Oak St",
+    "city": "Sunnyvale",
+    "neighborhood": "Cherry Chase",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1650,
+    "lot": 6000,
+    "type": "Single Family",
+    "year": 1958,
+    "photo": "assets/img/listings/1234-oak-st.jpg",
+    "url": "",
+    "blurb": "One or two sentences about the home.",
+    "date": "2026-11-01"
+  }
+}
