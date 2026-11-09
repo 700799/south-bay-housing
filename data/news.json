@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T18:14:45.478Z",
+  "updated": "2026-11-09T22:53:52.846Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "News | Top industrial leases recognized for South Bay/San Jose - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9mVGpxS0IzWWFLT3pYZDBaY3hOVnVYajZ6Z1JSM2daOVRjWDBPUEVudkpTdXNWdV82OW5PcFNZbkh3UElwWWpUSk42U3p3Zm1IRnAtUDFtQUdmazMwdjFMWWxFMEpmY0FPZm55b0pGOW5vSWozNlJub2NDdWFESUVzWVZib18yT3hnWmQzcnBSZnVRZ2luaEZXZ0M?oc=5",
+      "source": "CoStar",
+      "published": "2026-11-09"
+    },
     {
       "title": "WareSpace Acquires 109,000 Square Feet Of Industrial Properties In Houston And Bay Area To Expand Flexible Warehousing - Pulse 2.0",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamJpRmprN01ISkQ1YUpOeTRkQzRuZUtkTHZfQ0xMZmJMRFNHSWxtLU0wMTczcHZYQ1RwcERZRjhKMWphQ3dCTkJ1WkxUYUVBc1k0OUlnVEdfeXE5Q0NvWk1ydG9WMUZNUFNuX2hVYnJsZExvVzhhNjhMU1VPclJIazZHWGVCTU5pYnFSdEZjRVlsU2ZHbGZrWlZEc0lGUzBjWlZqLVk3Ny1WTl9NbmlJNXZxdDF0TjZaTTdYNnNYZXdiZ081bVVfQnZSVGlqdUtuZXNV?oc=5",
@@ -15,14 +21,20 @@
       "published": "2026-11-07"
     },
     {
-      "title": "Medical device tech company sells Sunnyvale site to real estate firm - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnlqdDAySEI3SWRpV3VwMDhic19TS2dORTUxcnc2QWZUOWtWZXhUc01qVXZ1VlVVU01HMWRWSGlNSGZFQXFQd2xtZ3k2dWRSOENjM2pERWlWZnRGU3RSa2ZSaGRaandaOXRLY01rYmZPZXZHYURRajI2Yk40NzdSNlZSNjdnWlhFOEZ0VHlhdVZsdDJteHdOaWxrVzJxWFVzMUJUMDAtVlZiZHF1NGc?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-11-05"
+      "title": "Pause put on Bay Area gas-powered water heater ban - Santa Cruz Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzJLQ0tpNmJ5QmNyWC1FVUlqOTJEemRiUTJfODVmYWhKY2trZ0ZKM3RpemgwX1M1Mi1RWVRuSDBSN2NUTUJmcWlwczEwN1p1Slc5VXY4NnNxSmxXZnV5aDcxMUNUNjBYZnc2Y3B6T1ZRWXRaMWJiZXVBOHFKZG1zX1RQSXNRUmJ1d1lGd2ZrU0w0R1U?oc=5",
+      "source": "Santa Cruz Sentinel",
+      "published": "2026-11-06"
     },
     {
-      "title": "Pause put on Bay Area gas-powered water heater ban - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHhtTGNzeXpLZ3JOd1p6VjZ4cmpqVFhrY3RSNkV1eEU1bXN2LXpuOWVRbXg1LWlVWjM3MHU2TnloTjhYemdlbVVPd0lmN2xZNllzdUFxY2RIRGY0YUtMc1NwT3FBSjZKdk9NN2VTaDl6d2JvWF9BaFdjeUNQMS15YzkwWEM0X3RQRDQ0?oc=5",
+      "title": "Bay Area ban on new gas-powered water heaters won't start until 2028. Here's what you need to know - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekp3MmFuMExiWC1fRU1ZdEw4eVp1b1RiUHZOVXNSUzZyUlJwSXJtWG1lT0s1QmVjc0lyYTNvVmFyNFJvbUFRWVdfNmJhZXFsVS1rSzZVTktVcjhMQ0RmRWFHNUlwUVFZbDQ1NVUzS29tZGYzcF9ZZGhpVGtscE5vcmRha2haZzdXcGUxYzNB?oc=5",
+      "source": "The Press Democrat",
+      "published": "2026-11-06"
+    },
+    {
+      "title": "Medical device tech company sells Sunnyvale site to real estate firm - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnlqdDAySEI3SWRpV3VwMDhic19TS2dORTUxcnc2QWZUOWtWZXhUc01qVXZ1VlVVU01HMWRWSGlNSGZFQXFQd2xtZ3k2dWRSOENjM2pERWlWZnRGU3RSa2ZSaGRaandaOXRLY01rYmZPZXZHYURRajI2Yk40NzdSNlZSNjdnWlhFOEZ0VHlhdVZsdDJteHdOaWxrVzJxWFVzMUJUMDAtVlZiZHF1NGc?oc=5",
       "source": "The Mercury News",
       "published": "2026-11-05"
     },
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWhnd1V6SlpaMUVRa3ByZUJSZ0cxbFVjTkRlTWdzR3Y5MlI1dWhlX0loWWJ5ZUptQVFMZmpHTzFTTDBPOUlsaXlwdXpCMnBQemRQeWZJQTdCS1lmYnY1U1d4LWFoWDFOVTVOZDdCbzR4Nk5NX3VZeHR2VVFrZzBZLWdfaWpYaGpfdG9FeHU3YmVXaWxoTXUtcU5MeVk4dVFfbGs4cE1DSXdEM2NrZ0E?oc=5",
       "source": "The Mercury News",
       "published": "2026-10-20"
-    },
-    {
-      "title": "The Hidden Cost of AI in the Bay Area Housing Market - M-A Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzZOLWE3MmkwcnhaZm1nQ0dkSndwV0xpNzJHaWJsTDNhb0thanR4VGxPVDdWS3MyV2ZnejFCYktqNEZCN0JmUjdQS2RBbUNITEZLV0h1X0FyZUVtYVBtMVV4LXRUamlac0hqWFhKYmVUMnI3NUlJYWpSTE5ISEkzay0tdw?oc=5",
-      "source": "M-A Chronicle",
-      "published": "2026-10-19"
-    },
-    {
-      "title": "Assessor Reports County Property Values Growth Led by Homes in Richest Cities - San Jose Inside",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjk5cWhHSzdzNlBjX1pSOEtfVEl4Q1pGR3lQTXlycm54c1ZRYTZIb0Z2dG5HRWM2azJsRTRhS004R3lkWkgtU1pBZDY1ZzlfdTNUVXBmUXZMakxvSlJSZXp6SC11SWQ1WTBna1NfaTR0Y3RHbEFRSUxMYnF1UXJhYXRad3gwUWR2MEd1cXhsTjg5V1BCTHhnZmZYTHB1MFZfVFo5a2ZJSi1wR1o3dlBwLVBVUQ?oc=5",
-      "source": "San Jose Inside",
-      "published": "2026-10-19"
     }
   ]
 }
