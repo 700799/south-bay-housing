@@ -34,9 +34,10 @@ If a fetch fails or no API key is set, it falls back to seed data in
   **curated** — edit by hand; the workflow never overwrites them.
 
 ## Managing listings
-Listings live in `data/listings.json` — one object per home. The five shipped
-entries are flagged `"sample": true` (they render a red **Sample** badge); delete
-them and add real homes:
+Listings live in `data/listings.json` — one object per home in `items`. The file
+ships empty (the drawer shows a "no listings posted" message); copy the
+`_example` entry into `items` and edit it. Setting `"sample": true` on an entry
+renders a red **Sample** badge for layout previews.
 
 ```json
 {
