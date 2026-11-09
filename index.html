@@ -35,7 +35,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=15" />
+  <link rel="stylesheet" href="css/styles.css?v=16" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -117,6 +117,7 @@
       <a href="#top" class="brand">Anna <span>Nguyen</span></a>
       <button class="nav-toggle" aria-label="Toggle menu" id="navToggle">☰</button>
       <nav class="nav-links" id="navLinks">
+        <button type="button" data-drawer="listings">Listings</button>
         <button type="button" data-drawer="market">Market</button>
         <button type="button" data-drawer="mortgage">Mortgage</button>
         <button type="button" data-drawer="calculator">Calculator</button>
@@ -164,6 +165,13 @@
           <span class="hub-title">Meet Anna Nguyen</span>
           <span class="hub-blurb">Engineering precision, marketing savvy, and Silicon Valley roots.</span>
           <span class="hub-foot"><span class="hub-stat">Facebook · Cisco · VeriSign</span>
+          <span class="hub-go">Open →</span></span>
+        </button>
+
+        <button class="hub-card" type="button" data-drawer="listings">
+          <span class="hub-title">Featured listings</span>
+          <span class="hub-blurb">Homes for sale, pending, and recently sold across the South Bay.</span>
+          <span class="hub-foot"><span class="hub-stat" id="cardStat-listings">Browse homes</span>
           <span class="hub-go">Open →</span></span>
         </button>
 
@@ -324,6 +332,28 @@
     <div class="drawer-body">
       <p class="lead">Anna Nguyen brings a background in key roles at companies like <strong>Facebook, Cisco, and VeriSign</strong> to her real estate practice. That experience inside the Valley's leading employers gives her a firsthand understanding of the tech-driven forces that move the South Bay housing market — and a sharp, analytical approach to pricing, negotiation, and strategy for her clients.</p>
       <p class="cred-line">MBA, Santa Clara University &nbsp;·&nbsp; BS, University of Washington &nbsp;·&nbsp; South Bay specialist</p>
+    </div>
+  </aside>
+
+  <!-- Listings -->
+  <aside class="drawer drawer--wide" id="drawer-listings" role="dialog" aria-modal="true" aria-labelledby="dt-listings" aria-hidden="true" tabindex="-1">
+    <div class="drawer-head">
+      <div><p class="drawer-cat">Homes</p><h2 class="drawer-title" id="dt-listings">Featured listings</h2></div>
+      <button class="drawer-close" data-close aria-label="Close panel">✕</button>
+    </div>
+    <div class="drawer-body">
+      <p class="lead">Homes I'm representing across San Jose, Santa Clara, Sunnyvale &amp; Mountain View — for sale, pending, and recently sold. Tap the filters to narrow the list, or <a href="#contact" class="linklike" data-close>reach out</a> to hear about homes before they hit the market.</p>
+      <div id="listingsRoot"><p style="color:var(--slate)">Loading listings…</p></div>
+
+      <!-- Live MLS search (IDX). Hidden until an embed is pasted into #idxEmbed. -->
+      <div id="idxBlock" class="idx-block" hidden>
+        <h3 class="subhead">Search all South Bay homes</h3>
+        <p class="lead">Every active listing on the MLS, updated continuously.</p>
+        <div id="idxEmbed">
+          <!-- ▼▼▼ PASTE THE IDX EMBED CODE (widget / iframe / script) FROM COLDWELL BANKER OR YOUR IDX VENDOR HERE ▼▼▼ -->
+          <!-- ▲▲▲ the block above un-hides itself automatically once something is pasted here ▲▲▲ -->
+        </div>
+      </div>
     </div>
   </aside>
 
@@ -669,11 +699,12 @@
   </aside>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=14"></script>
-  <script src="js/chart.js?v=14"></script>
-  <script src="js/calculator.js?v=14"></script>
-  <script src="js/drawer.js?v=14"></script>
-  <script src="js/forms.js?v=14"></script>
-  <script src="js/main.js?v=14"></script>
+  <script src="js/render.js?v=15"></script>
+  <script src="js/listings.js?v=15"></script>
+  <script src="js/chart.js?v=15"></script>
+  <script src="js/calculator.js?v=15"></script>
+  <script src="js/drawer.js?v=15"></script>
+  <script src="js/forms.js?v=15"></script>
+  <script src="js/main.js?v=15"></script>
 </body>
 </html>
