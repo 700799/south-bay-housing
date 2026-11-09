@@ -53,6 +53,17 @@
     else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
   });
 
+  // Called by main.js to replace a card's 2-3 preview lines once data loads.
+  // lines: array of strings; empty entries are dropped, max three shown.
+  window.setCardPreview = function (id, lines) {
+    const el = document.getElementById('preview-' + id);
+    if (!el || !Array.isArray(lines)) return;
+    const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const items = lines.filter((l) => l && String(l).trim()).slice(0, 3);
+    if (!items.length) return;
+    el.innerHTML = items.map((l) => `<li class="live">${esc(l)}</li>`).join('');
+  };
+
   // Called by main.js to fill a card's live stat chip once data loads.
   window.setCardStat = function (id, html, live) {
     const el = document.getElementById('cardStat-' + id);

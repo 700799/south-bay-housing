@@ -35,7 +35,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=17" />
+  <link rel="stylesheet" href="css/styles.css?v=18" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -164,6 +164,7 @@
         <button class="hub-card" type="button" data-drawer="about">
           <span class="hub-title">Meet Anna Nguyen</span>
           <span class="hub-blurb">Engineering precision, marketing savvy, and Silicon Valley roots.</span>
+          <ul class="hub-preview" id="preview-about"><li>Former roles at Facebook, Cisco &amp; VeriSign</li><li>MBA, Santa Clara Univ. · BS, Univ. of Washington</li><li>Analytical pricing, negotiation &amp; strategy</li></ul>
           <span class="hub-foot"><span class="hub-stat">Facebook · Cisco · VeriSign</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -171,6 +172,7 @@
         <button class="hub-card" type="button" data-drawer="listings">
           <span class="hub-title">Featured listings</span>
           <span class="hub-blurb">Homes for sale, pending, and recently sold across the South Bay.</span>
+          <ul class="hub-preview" id="preview-listings"><li>Homes for sale, pending &amp; recently sold</li><li>Filter by status, city &amp; property type</li><li>Loading…</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-listings">Browse homes</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -178,6 +180,7 @@
         <button class="hub-card" type="button" data-drawer="market">
           <span class="hub-title">Live market snapshot</span>
           <span class="hub-blurb">Daily South Bay &amp; U.S. housing signals, straight from the Federal Reserve.</span>
+          <ul class="hub-preview" id="preview-market"><li>30-yr fixed, median list price &amp; inventory</li><li>7-day and 30-day changes on every stat</li><li>Loading live data…</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-market">Updated daily</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -185,6 +188,7 @@
         <button class="hub-card" type="button" data-drawer="indicators">
           <span class="hub-title">Daily market dashboard</span>
           <span class="hub-blurb">Every key economic and housing signal in one comparison table.</span>
+          <ul class="hub-preview" id="preview-indicators"><li>Rates, Treasury yield, Fed funds, jobs</li><li>Prices, new listings, inventory, days on market</li><li>7 / 14 / 30 / 60-day comparison columns</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-indicators">12 daily indicators</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -192,6 +196,7 @@
         <button class="hub-card" type="button" data-drawer="mortgage">
           <span class="hub-title">Mortgage rate trends</span>
           <span class="hub-blurb">30- and 15-year fixed rates over the past year. Lower rates, more buying power.</span>
+          <ul class="hub-preview" id="preview-mortgage"><li>30-year &amp; 15-year fixed, past 12 months</li><li>Loading live rates…</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-mortgage">Updated daily</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -199,6 +204,7 @@
         <button class="hub-card" type="button" data-drawer="calculator">
           <span class="hub-title">Affordability calculator</span>
           <span class="hub-blurb">Estimate your monthly payment on a South Bay home in seconds.</span>
+          <ul class="hub-preview" id="preview-calculator"><li>Monthly payment on a $1.5M home at today's rate</li><li>Adjust price, down payment, term, tax &amp; HOA</li><li>Full principal / interest / tax breakdown</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-calculator">Live rate prefilled</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -206,6 +212,7 @@
         <button class="hub-card" type="button" data-drawer="news">
           <span class="hub-title">Bay Area headlines</span>
           <span class="hub-blurb">The latest South Bay real-estate coverage, refreshed automatically each day.</span>
+          <ul class="hub-preview" id="preview-news"><li>Loading headlines…</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-news">Updated daily</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -213,6 +220,7 @@
         <button class="hub-card" type="button" data-drawer="factors">
           <span class="hub-title">What moves the market</span>
           <span class="hub-blurb">The forces that shape buying and selling in Silicon Valley.</span>
+          <ul class="hub-preview" id="preview-factors"><li>Tech jobs · Rates · Inventory &amp; lock-in</li><li>Schools &amp; location · Prop 13 · Seasonality</li><li>How each shifts buyer vs. seller leverage</li></ul>
           <span class="hub-foot"><span class="hub-stat">6 key drivers</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -220,6 +228,7 @@
         <button class="hub-card" type="button" data-drawer="guides">
           <span class="hub-title">Buyer &amp; seller guides</span>
           <span class="hub-blurb">Your roadmap from first step to keys — for both sides of the deal.</span>
+          <ul class="hub-preview" id="preview-guides"><li>Buy: pre-approval → tour → offer → escrow → keys</li><li>Sell: price → stage → list → offers → close</li><li>7 steps each, what to expect at every stage</li></ul>
           <span class="hub-foot"><span class="hub-stat">Buy &amp; sell timelines</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -227,6 +236,7 @@
         <button class="hub-card" type="button" data-drawer="cities">
           <span class="hub-title">City guides</span>
           <span class="hub-blurb">San Jose, Santa Clara, Sunnyvale &amp; Mountain View at a glance.</span>
+          <ul class="hub-preview" id="preview-cities"><li>San Jose · Santa Clara · Sunnyvale · Mountain View</li><li>Character, housing stock &amp; who each fits</li><li>Neighborhood-by-neighborhood guides</li></ul>
           <span class="hub-foot"><span class="hub-stat" id="cardStat-cities">4 communities</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -234,6 +244,7 @@
         <button class="hub-card" type="button" data-drawer="learn">
           <span class="hub-title">Top reads</span>
           <span class="hub-blurb">The best books and research on buying &amp; selling, summarized.</span>
+          <ul class="hub-preview" id="preview-learn"><li>Books: Millionaire RE Agent, Your First Home…</li><li>Research: lock-in effect, seasonality, anchoring…</li><li>Short summaries with South Bay takeaways</li></ul>
           <span class="hub-foot"><span class="hub-stat">Top 5 books · 5 papers</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -241,6 +252,7 @@
         <button class="hub-card" type="button" data-drawer="inspection">
           <span class="hub-title">Inspection checklist</span>
           <span class="hub-blurb">The 10 checks that matter most in our older, seismic South Bay housing stock.</span>
+          <ul class="hub-preview" id="preview-inspection"><li>Foundation &amp; seismic · Sewer lateral · Roof</li><li>Electrical panel · Plumbing · Permits vs. sq ft</li><li>Drainage &amp; soils · Termites · HVAC · Hazards</li></ul>
           <span class="hub-foot"><span class="hub-stat">10-point checklist</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -248,6 +260,7 @@
         <button class="hub-card" type="button" data-drawer="costs">
           <span class="hub-title">Closing costs</span>
           <span class="hub-blurb">Who customarily pays what in a California transaction.</span>
+          <ul class="hub-preview" id="preview-costs"><li>Seller: commission, owner's title, transfer tax</li><li>Buyer: lender fees, appraisal, inspections</li><li>Split: escrow fee, prorated property taxes</li></ul>
           <span class="hub-foot"><span class="hub-stat">11 line items</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -255,6 +268,7 @@
         <button class="hub-card" type="button" data-drawer="faq">
           <span class="hub-title">Glossary &amp; FAQ</span>
           <span class="hub-blurb">Plain-English terms and the questions that come up most.</span>
+          <ul class="hub-preview" id="preview-faq"><li>Pre-approval · Escrow · Contingency · PITI · Prop 13</li><li>How much down? How long? Buy at high rates?</li><li>What does it cost to sell in California?</li></ul>
           <span class="hub-foot"><span class="hub-stat">10 terms · 5 FAQs</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -262,6 +276,7 @@
         <button class="hub-card" type="button" data-drawer="valuation">
           <span class="hub-title">Home valuation</span>
           <span class="hub-blurb">What's your South Bay home worth? Get a complimentary estimate.</span>
+          <ul class="hub-preview" id="preview-valuation"><li>Complimentary comparative market analysis</li><li>Based on recent nearby comparable sales</li><li>Takes a minute — no obligation</li></ul>
           <span class="hub-foot"><span class="hub-stat">Free, no obligation</span>
           <span class="hub-go">Open →</span></span>
         </button>
@@ -703,12 +718,12 @@
   </aside>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=16"></script>
-  <script src="js/listings.js?v=16"></script>
-  <script src="js/chart.js?v=16"></script>
-  <script src="js/calculator.js?v=16"></script>
-  <script src="js/drawer.js?v=16"></script>
-  <script src="js/forms.js?v=16"></script>
-  <script src="js/main.js?v=16"></script>
+  <script src="js/render.js?v=17"></script>
+  <script src="js/listings.js?v=17"></script>
+  <script src="js/chart.js?v=17"></script>
+  <script src="js/calculator.js?v=17"></script>
+  <script src="js/drawer.js?v=17"></script>
+  <script src="js/forms.js?v=17"></script>
+  <script src="js/main.js?v=17"></script>
 </body>
 </html>
