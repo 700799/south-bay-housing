@@ -1,0 +1,62 @@
+{
+  "_readme": "Neighborhood guides shown inside the City guides drawer. Curated — edit by hand. Keep descriptions general; avoid quoting prices or school scores that go stale.",
+  "updated": "2026-11-09",
+  "cities": [
+    {
+      "city": "Sunnyvale",
+      "intro": "Sunnyvale is a city of distinct mid-century neighborhoods, most built between the late 1940s and early 1970s, wrapped around a revitalized downtown. Homes here are prized for strong schools, short commutes to Apple, Google, LinkedIn and Nvidia, and a flat, bikeable street grid.",
+      "neighborhoods": [
+        { "name": "Cherry Chase", "blurb": "South Sunnyvale's best-known family neighborhood, named for the elementary school at its center. Mostly single-story ranch homes on generous lots, with a steady stream of tasteful expansions and rebuilds. Consistently among the most competitive pockets in the city." },
+        { "name": "Birdland", "blurb": "Streets named for birds — Lark, Robin, Oriole — give this west-side neighborhood its nickname. Classic 1950s–60s ranches, mature trees, and quick access to Cupertino and the Apple campus make it a perennial favorite for move-up buyers." },
+        { "name": "Ponderosa Park", "blurb": "Centered on its namesake park and community center, Ponderosa is a quiet, walkable grid of mid-century homes between El Camino Real and Highway 101. Popular with buyers who want a traditional single-family home close to the Peninsula commute." },
+        { "name": "Heritage District & Downtown", "blurb": "The historic core around Murphy Avenue, with the city's oldest homes — Craftsman bungalows, Victorians and 1920s cottages — alongside newer townhomes and condos. Walk to restaurants, the Caltrain station, farmers' market and the rebuilt downtown." },
+        { "name": "Lakewood Village", "blurb": "A north Sunnyvale neighborhood of affordable-by-Sunnyvale-standards ranch homes near Lakewood Park. Easy access to 237 and 101 and to the Moffett Park tech campuses; a strong choice for first-time single-family buyers." },
+        { "name": "Raynor Park & Ortega Park", "blurb": "Two adjacent park-anchored neighborhoods in the city's southeast, bordering Santa Clara. Mid-century ranches on tree-lined streets, with many homes updated or expanded; the parks, library branch and nearby shopping keep it family-oriented." },
+        { "name": "Sunnyvale West", "blurb": "Bounded roughly by Mary Avenue, Fremont Avenue and the Cupertino line, this is one of the most sought-after addresses in the city. Larger lots, well-kept Eichler-era and ranch homes, and proximity to top-rated schools drive strong demand." },
+        { "name": "Cumberland & Serra Park", "blurb": "Tucked into the hills' edge near the Los Altos border, these quiet neighborhoods feature slightly larger homes and lots than central Sunnyvale. Serra Park and Cumberland Elementary anchor a leafy, low-traffic setting." }
+      ]
+    },
+    {
+      "city": "Santa Clara",
+      "intro": "Santa Clara sits at the geographic center of Silicon Valley, home to Nvidia, Intel, Levi's Stadium and Santa Clara University. Its neighborhoods range from the historic Old Quad to master-planned Rivermark, with a mix of mid-century single-family homes, newer townhomes and condos. Residents also benefit from the city's own electric utility, Silicon Valley Power, which keeps rates lower than surrounding cities.",
+      "neighborhoods": [
+        { "name": "Rivermark", "blurb": "A master-planned community from the early 2000s on the north side, built around Rivermark Plaza and Don Callejon School. Townhomes, condos and single-family homes with modern floor plans, plus parks, trails and a short hop to the 237 corridor employers." },
+        { "name": "Old Quad", "blurb": "The city's original downtown grid next to Santa Clara University — Victorians, bungalows and Craftsman homes, many historically designated. Walkable to the university, Caltrain and Franklin Square; attracts buyers who value character and a central location." },
+        { "name": "Forest Park & Westwood", "blurb": "West Santa Clara neighborhoods bordering Sunnyvale and Cupertino, with 1950s–60s ranch homes on quiet streets. Among the city's most desirable pockets for families thanks to location, schools and easy access to Lawrence Expressway." },
+        { "name": "Killarney Farms", "blurb": "A tight-knit neighborhood of mid-century ranches near Central Park and the International Swim Center. Known for its block parties and strong neighborhood association, with Santa Clara's main library and civic center a short walk away." },
+        { "name": "Bowers Park & Laurelwood", "blurb": "Established neighborhoods in the central-west part of the city between El Camino Real and Highway 101. Mostly single-story homes on mid-sized lots; convenient to Santana Row, Valley Fair and the San Tomas Expressway." },
+        { "name": "Mission College & Northside", "blurb": "The area around Mission College and Great America, where newer townhome and condo communities sit near major employers and Levi's Stadium. A practical choice for buyers prioritizing commute and newer construction." },
+        { "name": "Agnew & Lick Mill", "blurb": "Historic Agnew Village and the surrounding Lick Mill corridor blend older homes with newer high-density developments along Tasman Drive and the VTA light rail. Steps from the Nvidia campus and the Guadalupe River trail." }
+      ]
+    },
+    {
+      "city": "Mountain View",
+      "intro": "Mountain View pairs a lively Castro Street downtown with leafy residential neighborhoods and the Google headquarters along the Bay. It is among the most competitive markets in the South Bay, with buyers drawn by walkability, Caltrain access and Los Altos-adjacent schools.",
+      "neighborhoods": [
+        { "name": "Old Mountain View", "blurb": "The downtown core along Castro Street — restaurants, the Center for the Performing Arts, Caltrain and the Sunday farmers' market, all walkable. Housing mixes historic bungalows with newer townhomes and condos; the premium is for the lifestyle." },
+        { "name": "Cuesta Park", "blurb": "Named for the city's large central park, this is Mountain View's classic family neighborhood: ranch and Eichler homes on quiet streets near the Los Altos border and El Camino Hospital. Strong schools and lot sizes keep demand high." },
+        { "name": "Waverly Park", "blurb": "South of Cuesta Park toward Los Altos, Waverly Park features larger mid-century homes on deeper lots, with many expanded to two stories. One of the city's most sought-after addresses for move-up buyers." },
+        { "name": "Monta Loma", "blurb": "A northwest neighborhood of 1950s Eichler and Mackay mid-century modern homes, prized by design-minded buyers. Close to the San Antonio Road corridor, Palo Alto, and the new shopping at The Village." },
+        { "name": "Rex Manor & Shoreline West", "blurb": "North-central neighborhoods between Shoreline Boulevard and Rengstorff Avenue, a short bike ride to the Google campus. Ranch homes alongside townhomes; a practical choice for tech commuters who still want a yard." },
+        { "name": "St. Francis Acres & Sylvan Park", "blurb": "East-side neighborhoods near Sylvan Park and the Stevens Creek Trail, with a mix of ranch homes and newer townhome developments. Quick access to 85 and 237 and to downtown Mountain View." },
+        { "name": "San Antonio & The Crossings", "blurb": "The west end along San Antonio Road near Palo Alto, anchored by The Village at San Antonio Center. Newer condos and townhomes, including the transit-oriented Crossings community, appeal to buyers who want new construction and walkable shopping." }
+      ]
+    },
+    {
+      "city": "San Jose",
+      "intro": "San Jose is the largest city in Northern California and spans everything from century-old bungalow districts to brand-new hillside estates. With dozens of distinct neighborhoods and the widest price range in the South Bay, it offers a fit for nearly every buyer — the key is knowing which pocket matches your priorities.",
+      "neighborhoods": [
+        { "name": "Willow Glen", "blurb": "San Jose's most beloved neighborhood — tree-lined streets of 1920s–40s bungalows, Tudors and Spanish Revival homes around the Lincoln Avenue shopping district. Walkable, charming and consistently in demand; expect competition for well-kept originals and remodels alike." },
+        { "name": "Almaden Valley", "blurb": "The city's premier family suburb in the southwest hills: larger homes on bigger lots, top-rated schools and Almaden Quicksilver Park at your doorstep. A longer commute is the trade-off for space, quiet and views." },
+        { "name": "Cambrian Park", "blurb": "West of Almaden and bordering Campbell and Los Gatos, Cambrian is a mid-century ranch neighborhood known for good schools and strong value. A favorite of move-up buyers priced out of Los Gatos who want the same feel next door." },
+        { "name": "Rose Garden", "blurb": "Named for the Municipal Rose Garden, this central neighborhood features grand 1920s–30s homes on wide streets near The Alameda, Santana Row and the Diridon transit hub. Historic character with a central location." },
+        { "name": "Evergreen", "blurb": "The southeast foothills, where newer subdivisions from the 1980s–2000s offer larger, more modern homes with views. Popular with families for its schools, Evergreen Village Square and relative value per square foot." },
+        { "name": "Silver Creek", "blurb": "Gated and golf-course communities in the Evergreen hills, with some of San Jose's largest and newest homes. For buyers who want a resort-style setting within the city limits." },
+        { "name": "Berryessa & North San Jose", "blurb": "The north side near the Berryessa BART station and the Milpitas tech corridor. Mid-century ranches in Berryessa and newer townhomes and condos in North San Jose; one of the easiest commutes to the East Bay and the 237 employers." },
+        { "name": "Downtown, Japantown & Naglee Park", "blurb": "The urban core: downtown condo towers and lofts, the historic Japantown district with its bungalows and shops, and Naglee Park's stately turn-of-the-century homes next to San Jose State. Walkable, transit-rich and full of character." },
+        { "name": "West San Jose", "blurb": "The neighborhoods west of 880 toward Cupertino and Saratoga, drawing buyers for Cupertino and Campbell Union school boundaries and proximity to Santana Row and Apple. Mostly mid-century ranches with a steady stream of remodels and rebuilds." },
+        { "name": "Blossom Valley", "blurb": "A large south San Jose area of 1960s–70s homes between Almaden and Santa Teresa, with light rail along Highway 87 and easy access to 85. Offers some of the most attainable single-family homes in the city." }
+      ]
+    }
+  ]
+}

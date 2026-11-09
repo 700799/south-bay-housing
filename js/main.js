@@ -70,6 +70,7 @@
     hydrate('data/indicators.json', (d) => { window.renderStatTiles(d); window.renderIndicators(d); window.renderTrendTabs(d); updateMarketCards(d); });
     hydrate('data/mortgage-rates.json', (d) => { window.renderMortgageChart(d); if (window.applyLiveRate) window.applyLiveRate(d); updateMortgageCards(d); });
     hydrate('data/news.json', (d) => { window.renderNews(d); updateNewsCard(d); });
+    hydrate('data/neighborhoods.json', (d) => window.renderNeighborhoods(d));
     hydrate('data/listings.json', (d) => window.renderListings(d));
     hydrate('data/books.json', (d) => window.renderLit('booksList', d));
     hydrate('data/journals.json', (d) => window.renderLit('journalsList', d));

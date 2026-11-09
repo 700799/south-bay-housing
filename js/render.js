@@ -161,6 +161,26 @@
     el.innerHTML = items.length ? items.map(litItem).join('') : 'No items available.';
   };
 
+  // ---- Neighborhood guides (inside each city card of the Cities drawer) ----
+  window.renderNeighborhoods = function (data) {
+    const cities = (data && data.cities) || [];
+    let total = 0;
+    cities.forEach((c) => {
+      const el = document.querySelector(`.nbhd[data-city="${CSS.escape(c.city)}"]`);
+      if (!el) return;
+      const list = c.neighborhoods || [];
+      total += list.length;
+      el.innerHTML = `<details class="nbhd-list">
+        <summary>${list.length} neighborhood${list.length === 1 ? '' : 's'} in ${esc(c.city)}</summary>
+        ${c.intro ? `<p class="nbhd-intro">${esc(c.intro)}</p>` : ''}
+        <dl class="nbhd-items">
+          ${list.map((n) => `<dt>${esc(n.name)}</dt><dd>${esc(n.blurb)}</dd>`).join('')}
+        </dl>
+      </details>`;
+    });
+    if (total && window.setCardStat) window.setCardStat('cities', `4 cities · ${total} neighborhoods`);
+  };
+
   // ---- Footer "last updated" ----
   window.renderMeta = function (meta) {
     const el = document.getElementById('dataUpdated');

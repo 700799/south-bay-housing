@@ -35,7 +35,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=16" />
+  <link rel="stylesheet" href="css/styles.css?v=17" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -227,7 +227,7 @@
         <button class="hub-card" type="button" data-drawer="cities">
           <span class="hub-title">City guides</span>
           <span class="hub-blurb">San Jose, Santa Clara, Sunnyvale &amp; Mountain View at a glance.</span>
-          <span class="hub-foot"><span class="hub-stat">4 communities</span>
+          <span class="hub-foot"><span class="hub-stat" id="cardStat-cities">4 communities</span>
           <span class="hub-go">Open →</span></span>
         </button>
 
@@ -538,31 +538,35 @@
       <button class="drawer-close" data-close aria-label="Close panel">✕</button>
     </div>
     <div class="drawer-body">
-      <p class="lead">A quick look at the four communities I serve — each with its own character and market.</p>
+      <p class="lead">A quick look at the four communities I serve — each with its own character and market. Expand a city's neighborhoods to see where each pocket shines.</p>
       <div class="grid grid-2">
         <div class="card city-card">
           <h3>San Jose Real Estate</h3>
           <p>Homes for sale in San Jose span the widest range of neighborhoods and price points in the Bay Area — from Willow Glen and Almaden to Evergreen and North San Jose. Strong for first-time buyers seeking relative value and for families wanting space.</p>
           <p class="city-meta">Big employers nearby · Diverse housing stock · Broadest price range in the South Bay</p>
           <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/San-Jose_CA" target="_blank" rel="noopener">View active listings in San Jose →</a>
+          <div class="nbhd" data-city="San Jose"></div>
         </div>
         <div class="card city-card">
           <h3>Santa Clara Real Estate</h3>
           <p>Buying or selling a home in Santa Clara puts you central and convenient — home to major tech campuses, Levi's Stadium, and Santa Clara University. Popular with buyers who want a short commute and a mix of established homes and newer townhome communities.</p>
           <p class="city-meta">Tech-campus adjacent · Central location · Mix of homes &amp; townhomes</p>
           <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Santa-Clara_CA" target="_blank" rel="noopener">View active listings in Santa Clara →</a>
+          <div class="nbhd" data-city="Santa Clara"></div>
         </div>
         <div class="card city-card">
           <h3>Sunnyvale Real Estate</h3>
           <p>Sunnyvale homes are consistently in demand for top-rated schools, a walkable downtown, and proximity to major employers. Inventory moves fast, and well-priced homes routinely draw multiple offers.</p>
           <p class="city-meta">Strong schools · Walkable downtown · High demand, fast market</p>
           <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Sunnyvale_CA" target="_blank" rel="noopener">View active listings in Sunnyvale →</a>
+          <div class="nbhd" data-city="Sunnyvale"></div>
         </div>
         <div class="card city-card">
           <h3>Mountain View Real Estate</h3>
           <p>Mountain View real estate blends tech energy with community charm — home to Google and a vibrant Castro Street. Among the most competitive, and priciest, markets in the South Bay.</p>
           <p class="city-meta">Premium pricing · Major employer base · Vibrant downtown</p>
           <a class="city-listings" href="https://www.realtor.com/realestateandhomes-search/Mountain-View_CA" target="_blank" rel="noopener">View active listings in Mountain View →</a>
+          <div class="nbhd" data-city="Mountain View"></div>
         </div>
       </div>
     </div>
@@ -699,12 +703,12 @@
   </aside>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=15"></script>
-  <script src="js/listings.js?v=15"></script>
-  <script src="js/chart.js?v=15"></script>
-  <script src="js/calculator.js?v=15"></script>
-  <script src="js/drawer.js?v=15"></script>
-  <script src="js/forms.js?v=15"></script>
-  <script src="js/main.js?v=15"></script>
+  <script src="js/render.js?v=16"></script>
+  <script src="js/listings.js?v=16"></script>
+  <script src="js/chart.js?v=16"></script>
+  <script src="js/calculator.js?v=16"></script>
+  <script src="js/drawer.js?v=16"></script>
+  <script src="js/forms.js?v=16"></script>
+  <script src="js/main.js?v=16"></script>
 </body>
 </html>

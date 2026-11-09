@@ -16,6 +16,8 @@ with market data that refreshes daily via GitHub Actions.
   with pill filters by status, city, and property type (OR within a group, AND
   across groups). Curated in `data/listings.json`; optional IDX embed for live
   MLS search.
+- **City & neighborhood guides** — original write-ups of ~30 South Bay
+  neighborhoods (`data/neighborhoods.json`), expandable inside each city card.
 - **Top 5 books + Top 5 journal/research summaries** on buying/selling a home.
 - **Contact CTA** — phone, email, and a contact form.
 
@@ -28,8 +30,8 @@ If a fetch fails or no API key is set, it falls back to seed data in
 
 - Mortgage rates + indicators: **FRED API** (free key required).
 - News: Google News RSS (no key).
-- `listings.json`, `books.json`, `journals.json`: **curated** — edit by hand;
-  the workflow never overwrites them.
+- `listings.json`, `neighborhoods.json`, `books.json`, `journals.json`:
+  **curated** — edit by hand; the workflow never overwrites them.
 
 ## Managing listings
 Listings live in `data/listings.json` — one object per home. The five shipped
