@@ -307,7 +307,12 @@ form.contact-form textarea { min-height: 110px; resize: vertical; }
 .hub-card:hover { transform: translateY(-3px); border-color: var(--gold); box-shadow: 0 12px 30px rgba(20, 33, 61, .14); }
 .hub-card:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 .hub-title { font-family: var(--serif); font-size: 1.25rem; line-height: 1.2; color: var(--navy); font-weight: 700; }
-.hub-blurb { color: var(--slate); font-size: .92rem; flex: 1 0 auto; }
+.hub-blurb { color: var(--slate); font-size: .92rem; }
+.hub-preview { list-style: none; margin: 2px 0 4px; padding: 10px 0 0; border-top: 1px dashed var(--line); display: grid; gap: 4px; flex: 1 0 auto; align-content: start; }
+.hub-preview li { color: var(--ink); font-size: .84rem; line-height: 1.4; padding-left: 14px; position: relative; overflow-wrap: anywhere; }
+.hub-preview li::before { content: ""; position: absolute; left: 0; top: .55em; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
+.hub-preview li.live { font-variant-numeric: tabular-nums; }
+.hub-preview li.up { color: var(--green); } .hub-preview li.down { color: var(--red); }
 .hub-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 4px; }
 .hub-stat { background: #f1efe9; color: var(--navy); border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; font-size: .8rem; font-weight: 700; font-variant-numeric: tabular-nums; }
 .hub-stat.live { background: #eef6f0; color: var(--green); border-color: #cfe7d8; }
