@@ -35,7 +35,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/styles.css?v=18" />
+  <link rel="stylesheet" href="css/styles.css?v=19" />
 
   <!-- SEO: structured data for Google -->
   <script type="application/ld+json">
@@ -117,7 +117,7 @@
       <a href="#top" class="brand">Anna <span>Nguyen</span></a>
       <button class="nav-toggle" aria-label="Toggle menu" id="navToggle">☰</button>
       <nav class="nav-links" id="navLinks">
-        <button type="button" data-drawer="listings">Listings</button>
+        <button type="button" data-drawer="listings" data-listings-entry hidden>Listings</button>
         <button type="button" data-drawer="market">Market</button>
         <button type="button" data-drawer="mortgage">Mortgage</button>
         <button type="button" data-drawer="calculator">Calculator</button>
@@ -169,7 +169,8 @@
           <span class="hub-go">Open →</span></span>
         </button>
 
-        <button class="hub-card" type="button" data-drawer="listings">
+        <!-- Listings entry points stay hidden until data/listings.json has at least one home. -->
+        <button class="hub-card" type="button" data-drawer="listings" data-listings-entry hidden>
           <span class="hub-title">Featured listings</span>
           <span class="hub-blurb">Homes for sale, pending, and recently sold across the South Bay.</span>
           <ul class="hub-preview" id="preview-listings"><li>Homes for sale, pending &amp; recently sold</li><li>Filter by status, city &amp; property type</li><li>Loading…</li></ul>
@@ -718,12 +719,12 @@
   </aside>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
-  <script src="js/render.js?v=17"></script>
-  <script src="js/listings.js?v=17"></script>
-  <script src="js/chart.js?v=17"></script>
-  <script src="js/calculator.js?v=17"></script>
-  <script src="js/drawer.js?v=17"></script>
-  <script src="js/forms.js?v=17"></script>
-  <script src="js/main.js?v=17"></script>
+  <script src="js/render.js?v=18"></script>
+  <script src="js/listings.js?v=18"></script>
+  <script src="js/chart.js?v=18"></script>
+  <script src="js/calculator.js?v=18"></script>
+  <script src="js/drawer.js?v=18"></script>
+  <script src="js/forms.js?v=18"></script>
+  <script src="js/main.js?v=18"></script>
 </body>
 </html>
