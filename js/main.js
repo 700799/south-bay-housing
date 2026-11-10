@@ -111,7 +111,10 @@
       setPreview('news', items.slice(0, 3).map((n) => short(clean(n))));
     }
     function updateListingsCard(d) {
-      const items = ((d && d.items) || []).filter((h) => h.status !== 'sold');
+      const all = (d && d.items) || [];
+      // Reveal the nav button and hub card only once there is at least one home.
+      document.querySelectorAll('[data-listings-entry]').forEach((el) => { el.hidden = !all.length; });
+      const items = all.filter((h) => h.status !== 'sold');
       if (!items.length) {
         setPreview('listings', ['No homes posted right now', 'Ask about off-market & coming-soon homes', 'Recently sold homes appear here too']);
         return;

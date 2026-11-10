@@ -39,6 +39,9 @@ ships empty (the drawer shows a "no listings posted" message); copy the
 `_example` entry into `items` and edit it. Setting `"sample": true` on an entry
 renders a red **Sample** badge for layout previews.
 
+While `items` is empty, the Listings nav button and hub card are hidden; they
+appear automatically as soon as one home (any status) is added.
+
 ```json
 {
   "id": "1234-oak-st",
