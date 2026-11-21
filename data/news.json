@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:57:08.725Z",
+  "updated": "2026-11-21T19:58:08.708Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,12 +21,6 @@
       "published": "2026-11-19"
     },
     {
-      "title": "West Boise housing and education project at Mountain View Church advances despite neighbor concerns - Idaho News 6",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWxpNGhXWUFwRThWZ1JqRjdYWURHMnhHUzhhMVV0aTdzdUJKUzlzVEVmOWhwdnBvUjFYWXZ6QUtYNjRmUlJrN0puNl9kbUNIWi01bUJ3cVlXVGM5bExNbm9EdzBqbzhfYWhZdWRvWkd5NHVfNWUtY3FKbVlxTGZ6djhyQzdSTWdSdUFlX3pXak9CR05ER3Q5MVVPVUM3SGZfMWNvQzZlS1g3XzZrS2N2elpoZ3VFdXQ0bFlGamctb2tqbUs4S0c4ZEhsdXBiQQ?oc=5",
-      "source": "Idaho News 6",
-      "published": "2026-11-19"
-    },
-    {
       "title": "What are the 10 most expensive homes that sold in Santa Clara County, reported in the week of Oct. 12? - East Bay Times",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnozQU1rTW9rTGJGcXZZRFJwZ1hnX0lxUnEzTDJZMkJuemhFQnpZVTRCWkJsYU9Sbk85alprSjMzeC1OemxPRmVDYUxFdmdDeHBaOWJtSExHOHFPYV9uYV9DS3g3X3F2bkpobldEWmFFVUpUTVJDX3VXaTJCdE92NmFUR3pnZEJra3FsbWF6UkotMVJiTDJlMVNFa0Q1VkN1cG1wWkVieHdnc2E3SGNmNXpWeW5aQlFYU3YxVlpGcEl4bW9FS25vb1Z2ZEVNaWh6MHlmejV4TQ?oc=5",
       "source": "East Bay Times",
@@ -39,6 +33,12 @@
       "published": "2026-11-18"
     },
     {
+      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
+      "source": "SFGATE",
+      "published": "2026-11-17"
+    },
+    {
       "title": "Home values in these Bay Area cities are the lowest they’ve been in a decade - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpSbllfOHlVbG5kZTFWUUkyVjhGUkNxOEloYjFobU9DM0VYbzVQVl9GMEIzajZZX1ZYQlR1b3RvREt4cFN5RUlWTlRYWWMzTXhaQjZJZkd5dVVUM1ZaR0E1WE9qT1BiSV81RWhHc1ZmaW9SUGtUTy1qaFc3R1ZYd0RYSUNianM?oc=5",
       "source": "San Francisco Chronicle",
@@ -49,6 +49,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmpzLXNxelo4bDA0cWY5Mkc0UnhhOWROWENDNk9jTVRPeXBtd2pjLWplZElmMEQtaGVQZThmeWZsT3BadzJvd2k5eC0td2dqcERCMzJsREozUEw2SklCWDJqZktxMnMxMVpxWWZtLVhGZFhtaXhObEFaQkpueWZwRE5tT0Q2RzBxUWJhbG5idFdNTnNyRU05bTE5LWlHbkpsNUdnSU5YMUZtLWVvY3c?oc=5",
       "source": "The Mercury News",
       "published": "2026-11-16"
+    },
+    {
+      "title": "How much you need to earn to buy — or rent — a single-family home in the Bay Area - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWNmdHYwaDdoSDVaZjI0OWZBNVNqY0hCSEZVanhxMkhnZG1zUDJ3SnI5Sm5UR2sxXzMyTmZzRzBSWEJvcVVsNWlKYlZWa193WnVmZjdfSC1fVGxpc21OT082cjAxdDFJYUdNY0NWNEstaFBhNl9EaFJibmR3LWNaTjdnV1NoeExVNFU0?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "2026-11-15"
     },
     {
       "title": "Mountain View approves 36-unit rowhouse project despite desire for condos instead - Mountain View Voice",
@@ -67,12 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWx5R1MxM00zQWJFTWhPbERQTkh4YjZhQnoyNXBBbUR1dllCZXR3YWcyU2pKY29WMU9DVWJjT3JQaFZ3eFkzX0ZHcDJlU2diUTJxUTlSTFViTjVkOUp2QUJXeElCR2NPSGVPNDlKU3VhUnF2Zl9wME1aUFNvNnhfNHdXalpQSjR2aXppT0VqSVNzbVNtUFhLdDBQYnI4ZUpONk5NdU1vVk9ldw?oc=5",
       "source": "Hoodline",
       "published": "2026-11-07"
-    },
-    {
-      "title": "Medical device tech company sells Sunnyvale site to real estate firm - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYThRWjRaMkVrWm5HaHhMS0lJdnhRN3VrUzNLbWplR1c5RERtMGp1ckdJdllQVUt4Yi04VklUVGJXR1pNMGVDcEtxYTQzbW5iZmpwZXNuOGh5N1VUWHRSMDk5X3pJeXQtaXNHRXA2OWVGQzdfS1VTbGNJSXZQZmRWem45TEVRdXVwRVJGc0h6TTNPRkd4UlRsWGRaV2ozRWZHbHI3dE1QcUlDM2dVSzVnadIBtgFBVV95cUxPSk04MnRPVFZfbFZ4S092QnF1eExJSXJvTXFyN19LUlNHZXkyQXlVU0xmQUhITkZmclY3Q2ZNV2NtNktnU21NdkwzX05GbUU4anU3dmFKTVd1OVN4bzhrY0lKWldDQVhQNVF0cE5yRUVyREVCNGthU29OM2JoNnZYeVpVbjF0cXU4RGRRb0xqbTViQk1Bc01GVEN3RnBiSFlRSzNtZEFnZTUyMld5eVVva3AyR2Fodw?oc=5",
-      "source": "SiliconValley.com",
-      "published": "2026-11-05"
     }
   ]
 }
