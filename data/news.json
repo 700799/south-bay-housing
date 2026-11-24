@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-22T20:11:25.991Z",
+  "updated": "2026-11-24T00:37:20.674Z",
   "source": "Google News RSS",
   "items": [
     {
-      "title": "Qualcomm trims South Bay jobs as pace of Bay Area tech layoffs slows - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRKSXV4TGZxanpXbVFNZ3NnN1ZmMEREYjFjRldhWTVXSThXaUdtd1NPSm8tMTdyQWthMWFYR1lEOEhWQkRlZ1BJbC1hdnJzNHJYRDJjT0RKNkJlaWJaUVhjT0VUcFRxbWNGcHBXOUNmVTlZOExXUk9FX3Bwb1d2VjlpWTRlVmNiVTlYZEEzSl85Y01sVHZSem14eHhNT0VhS29jUVJoa0NhYkdYRkg4?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-11-18"
+      "title": "San Jose Spotlight: Santa Clara County Report Shows Increased Property Values - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk96OF9QUXdiazg0QWpQampDZ0s0WE5wZlpvaGE3c3VBS1ZaOTVJV2V4NkRTZlhsejM5bDRkS3hhOWRlcUxuWXo5dmRSUjJuZWhuNkZTYVFLOUZuRDdab2x6emRBcVpFRU5ZN0NPVXVnU3B5dUtuM0FWWjN4Tkw3U3gzZlR3QWdvQkxaSXRCY184YkFCQnVTZm1FLWcwNy1zOWg4?oc=5",
+      "source": "SFGATE",
+      "published": "2026-10-25"
+    },
+    {
+      "title": "New 2027 BMW X5 40 xDrive for sale in Mountain View, CA - 5UX63JF04V9648151 - JD Power",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnNfZzgxU0psaUx4REhuSFY0ZnhOR21yaGh1cndwT1Fvd2NPOW5xcjQwSW43SXdnMTk1WEhBcDRIdVhqZnFwbUpSQXVJeV9Ha0xrYlNoZHlYQkNQZ0dYVm1scUIwZnhSYzNNcWVlUDUyckhiTzAtaEJaVmVVTE5XYkhXUmRkUVhHMkE0T1VwZHYxcXVXMHI5alJDRmVtUQ?oc=5",
+      "source": "JD Power",
+      "published": "2026-11-21"
     },
     {
       "title": "Mountain View approves row house project instead of condos - San José Spotlight",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORlBOeUZUQWNaUm5IY2tERXEwQmFMbXBqYmRpcWZraXY0cGczblgtVjM0Q1lWaC0xZzhkWTJMV0YtbGdqUC1ucmQ3d3pTc0tTNlp3Z001T0lxdEZZVWV2bWlCYkJUNUxWM2NzWW53VTYyS01uRkNDdll2QjJFbnVoNi12cFkwa3lvSnBoWHZRc0NlQQ?oc=5",
       "source": "San José Spotlight",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "Downtown San Jose Building Sells for $3.3 Million - Wisevoter",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnRWaG5QZXZnRW1CQWVyREhMcEV6eTlmQkpyZGktTHlYR1JHcjl3UnFlMUY5cVdOeDlrb0RFWThCYU9CSEhod1Rib0k2d0pwT2ZqRndKTnZMX2lySEdONWV0WThtV2hLMko1Rmdhd3dPaFY2d0VLOV9KN2FYbWFRYzZxbGZjTlRrcjBOelQ3a1NhdHpxWFI3TWFiWldwdw?oc=5",
-      "source": "Wisevoter",
       "published": "2026-11-20"
     },
     {
@@ -33,6 +33,12 @@
       "published": "2026-11-19"
     },
     {
+      "title": "Building permits in Mountain View County top $13 million so far - The Albertan",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQzdLbkpRY2RSNU1uN2VxQWpaN3N5Q3JYMGdEdUp5MG1HV3piN0o3d3I4cDJobnNlTzVWaDF6WFB3S2VERGVwb01lenRiNHJ4XzBkbWcxRW1VbXVZam5UaG01NTU2VFpTbXJXUXhUM0l3dHVUVDhINk5KVmNRRVpuTmYxaWFLOFJlck52WVVCUXk2UkZ1cXdCY19hdFpvc0RhcmFIbEx6Rk1uOGJxRU9IU01XZXJJbVNKV25qQnluVjRjckk?oc=5",
+      "source": "The Albertan",
+      "published": "2026-11-19"
+    },
+    {
       "title": "Longmont puts $30,000 toward residents’ effort to buy Mountain View Mobile Home Park - Longmont Times-Call",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXNVdkhBdXR3UzI0NFJ2LWctS0lnYUpxeHBlRE5sVEFRb0U4X3pWalkyT3ZlQnlJcVJXbzFKTDQ4ck92YURwZXRuTGk1ck11NGlJSWFrdmRVLTlMOHQyRS1iZUZ5dHk0MldORl9NYnd2WWFEczg0c05sLWgyLTRUSmljM3IxV3hQ?oc=5",
       "source": "Longmont Times-Call",
@@ -43,6 +49,12 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
       "source": "SFGATE",
       "published": "2026-11-17"
+    },
+    {
+      "title": "Home values in these Bay Area cities are the lowest they’ve been in a decade - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpSbllfOHlVbG5kZTFWUUkyVjhGUkNxOEloYjFobU9DM0VYbzVQVl9GMEIzajZZX1ZYQlR1b3RvREt4cFN5RUlWTlRYWWMzTXhaQjZJZkd5dVVUM1ZaR0E1WE9qT1BiSV81RWhHc1ZmaW9SUGtUTy1qaFc3R1ZYd0RYSUNianM?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "2026-11-16"
     },
     {
       "title": "Oakridge Mall in San Jose is bought by Macerich in mega retail deal - The Mercury News",
@@ -61,18 +73,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2lzaEVoUnYzckNnN3A2TnNJdHVkcjIyZUNMOF9fTFJZUnZULWVsY2Q1ZWQzUnNaN21VUFcxWHJ0cjBmN0lJdV9RaTd6R1FjbEZOa1BNR0drWkI5NXJvWkp6WEZmYU1oaTRPRUdwX0RBQUZxVENZUzlxX3dBVHExdkQ3bGo4ZzVMbnZOUklGNkdiZU5E?oc=5",
       "source": "San José Spotlight",
       "published": "2026-11-15"
-    },
-    {
-      "title": "What happens when real estate agents have split allegiances? - Mountain View Voice",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmFObldUR1NkR0E3SVJlQV96X3BXVDdIQWVjTk9Qbk94RE5CLUd5Zm03QWhlV3R2YlhzdnRMWU5Dckd0Sl9mdVFJUW0taWtqaDVweDdLYVhET1llWGg2TTR1ZEFKNG1pRC1KaHJVZzFmdlhCV0ZLV1hYd3JiMlRhelZXWm9HczNqeU1mM3gxeFh4UGpUQWFyNTF5MjZocGVMMUlKck5xT0R3bUE?oc=5",
-      "source": "Mountain View Voice",
-      "published": "2026-11-13"
-    },
-    {
-      "title": "Sunnyvale Office Building Sells for $35.8M to Graymark - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWx5R1MxM00zQWJFTWhPbERQTkh4YjZhQnoyNXBBbUR1dllCZXR3YWcyU2pKY29WMU9DVWJjT3JQaFZ3eFkzX0ZHcDJlU2diUTJxUTlSTFViTjVkOUp2QUJXeElCR2NPSGVPNDlKU3VhUnF2Zl9wME1aUFNvNnhfNHdXalpQSjR2aXppT0VqSVNzbVNtUFhLdDBQYnI4ZUpONk5NdU1vVk9ldw?oc=5",
-      "source": "Hoodline",
-      "published": "2026-11-07"
     }
   ]
 }
