@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-24T22:56:16.153Z",
+  "updated": "2026-11-25T22:10:30.677Z",
   "source": "FRED",
   "rows": [
     {
       "key": "mortgage30",
       "label": "30-Yr Fixed Mortgage",
-      "value": 7.28,
+      "value": 7.21,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.17,
-          "direction": "up"
-        },
-        "14d": {
           "delta": 0.1,
           "direction": "up"
         },
+        "14d": {
+          "delta": 0.03,
+          "direction": "up"
+        },
         "30d": {
-          "delta": -0.12,
+          "delta": -0.11,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.33,
+          "delta": 0.18,
           "direction": "up"
         }
       }
@@ -30,24 +30,24 @@
     {
       "key": "mortgage15",
       "label": "15-Yr Fixed Mortgage",
-      "value": 6.66,
+      "value": 6.54,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": 0.21,
-          "direction": "up"
-        },
-        "14d": {
           "delta": 0.09,
           "direction": "up"
         },
+        "14d": {
+          "delta": -0.03,
+          "direction": "down"
+        },
         "30d": {
-          "delta": -0.05,
+          "delta": -0.14,
           "direction": "down"
         },
         "60d": {
-          "delta": 0.4,
+          "delta": 0.12,
           "direction": "up"
         }
       }
@@ -55,20 +55,20 @@
     {
       "key": "dgs10",
       "label": "10-Yr Treasury Yield",
-      "value": 4.92,
+      "value": 4.91,
       "unit": "%",
       "good_when": "down",
       "changes": {
         "7d": {
-          "delta": -0.2,
+          "delta": -0.19,
           "direction": "down"
         },
         "14d": {
-          "delta": 0.04,
-          "direction": "up"
+          "delta": -0.07,
+          "direction": "down"
         },
         "30d": {
-          "delta": -0.08,
+          "delta": -0.09,
           "direction": "down"
         },
         "60d": {
