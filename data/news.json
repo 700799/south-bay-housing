@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-25T22:10:31.439Z",
+  "updated": "2026-11-26T22:09:11.921Z",
   "source": "Google News RSS",
   "items": [
+    {
+      "title": "Qualcomm trims South Bay jobs as pace of Bay Area tech layoffs slows - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRKSXV4TGZxanpXbVFNZ3NnN1ZmMEREYjFjRldhWTVXSThXaUdtd1NPSm8tMTdyQWthMWFYR1lEOEhWQkRlZ1BJbC1hdnJzNHJYRDJjT0RKNkJlaWJaUVhjT0VUcFRxbWNGcHBXOUNmVTlZOExXUk9FX3Bwb1d2VjlpWTRlVmNiVTlYZEEzSl85Y01sVHZSem14eHhNT0VhS29jUVJoa0NhYkdYRkg4?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "San Jose Spotlight: Santa Clara County Report Shows Increased Property Values - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk96OF9QUXdiazg0QWpQampDZ0s0WE5wZlpvaGE3c3VBS1ZaOTVJV2V4NkRTZlhsejM5bDRkS3hhOWRlcUxuWXo5dmRSUjJuZWhuNkZTYVFLOUZuRDdab2x6emRBcVpFRU5ZN0NPVXVnU3B5dUtuM0FWWjN4Tkw3U3gzZlR3QWdvQkxaSXRCY184YkFCQnVTZm1FLWcwNy1zOWg4?oc=5",
+      "source": "SFGATE",
+      "published": "2026-10-25"
+    },
+    {
+      "title": "Marcus & Millichap Palo Alto Office Brokers Sale of Multifamily Property Near Santa Clara University - Yield PRO",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wbGZFMTNhbWRkRHFnM2RSTnNLclRlNjUtdUpFQ0hibm82Rld4bkg2WmlvR00xOF9NYmo0anRtVVBHS2pBUUZXNkFMblotZlNSYm1kQW82encwMFROZ2gtN0VpRDM?oc=5",
+      "source": "Yield PRO",
+      "published": "2026-11-26"
+    },
+    {
+      "title": "South Bay Entertainment Videos: Cliff Booth, the Torrance Turkey Trot, the Terranea tree lighting and more for Thanksgiving weekend - Easy Reader",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2huVFkyMDVQMHMycG9PZ1FCa0twMjVkNTN4YmFPX0ZVNjVDYVRCUlU3NmI5NkxJeEJRdUZpR29sWFRpankyWW9QbW5UQjh2UFVoUno2NWJOczdiSFRoMUFNYVd2STB6QVVIZWJnQk9fMU1ubHJla0NkWk5JTnJlZzkwZ1c2b3pOTW1LMmttWlpPZnlrTFJKa1J1RnBtR2ZPb3FkajJIXzEzd3AweEppeEFTTVRkekRqRGZpQm5vUzJ2dE5PdUYyT2FIUWVreHZtdU5rS05oS1dSV0RyS0xlV1Mtd1J2RWJWYks4?oc=5",
+      "source": "Easy Reader",
+      "published": "2026-11-26"
+    },
     {
       "title": "Google expands again with purchase of two big Sunnyvale tech buildings - The Mercury News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDRoY0lvS2pidjM4ZGtlQkFqc1VqUXQzcHFnS25NaVExU2cwR0RGbnpzMksxTzhiZU9mMFFleDdIU292RXAxSDVoeF80NGxjaWZ3bTR6RlVBelZITE52cjI0Y1hQclpkMWhzcGEzZFF6a1hNandQSmdqMEZqMnJTTDNnNTl4RFJnelBDeDBUVWROVEtMYnpnWHRUdUdfTW9vbFpsRGg4dHhpTUpKYVRRdg?oc=5",
@@ -9,9 +33,15 @@
       "published": "2026-11-25"
     },
     {
-      "title": "San Jose apartment complex lands buyer for slightly below-average price - East Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODJHS2xmVTdtZGlMYXgxcjI3azlxUmNjbTJEbEdWZkluMGoyRmR6cmpoTGFlc2MxZjlURlFJM1REdmtPeGVYM0dpN09fRy1tVk9BLWZGcUR4WXZHdG5aZWtIbXM3ajhxRmNKTEFTRmZ4TlYwTUZvN3FoSjlFTlhURTN3dkF0aXdLbkxXNGFxRHRXZFZUV2FCZ1N3STJ2NGFXM3lkMi1VRkk?oc=5",
-      "source": "East Bay Times",
+      "title": "AI-fueled housing surge prices out buyers in San Francisco - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVThjUDh1MU9aZGxCd1BwMXRBUEc0WGJySXhDdENRODJzSGRjUjBvYUdtSW9PME80ZWxQUkdSMGw0cGhub252RFRFSVdLQjR6djc0eEg1bHREbDRrQ2FCUlkwUGlHS2xlRG9zVElaMGJhdkFYQ3N3Zzdxb09tWC1UVEpzTC1lejFONXdDeGtUYlXSAZYBQVVfeXFMT0E3WVB4eFh3R3ZOeTJqSkRsa0hZeEF1eTB5Q2NRRDd3aWY3RVZhWXVUUmU3dzRMUUI4R0ZHTE9sTU05cjM1LVpVc2sxN0YxQnUwNlRiRkJNekpFYlFlUGt0c29rZEtfYi1KSWY1MDF4MU9zZGtoZEU3NGd6aFhRRERCejlTdTIyVTdHWUlKU2tkNDlmendR?oc=5",
+      "source": "ABC7 Bay Area",
+      "published": "2026-11-24"
+    },
+    {
+      "title": "San Jose apartment complex lands buyer for slightly below-average price - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZE91S3FILW9VMFdsdFlfRHZEOXVEZlZlbGdKalNJQWhkajlxNEttbU10bE5RNmVHc0NNbUQ0bHJBSGpWT0NLeW5xcExFcXhwV3JyVnRlTnJ3YTZXeDg5bzhUbml4NDFDbHd2Z05ZNVFLZ2hKS2pNemJFUklSeTVJaGRXUDBUYjlhSE5jdlMxekM4SmN2U281MDVpVEgwMVdEaTFBSkp1Zw?oc=5",
+      "source": "The Mercury News",
       "published": "2026-11-24"
     },
     {
@@ -33,46 +63,16 @@
       "published": "2026-11-20"
     },
     {
+      "title": "New 2027 Chevrolet Tahoe LT, 2WD for sale in Mountain View, CA - 1GNS5NKD0VR174118 - JD Power",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnZnUVNNV0ZnRnBBVXRoYWc0MVVRU1FxMEhjNWlROS1YZFVGcHh0QjhKblo4aHVFZ0JGWHptQTVLWklPbjhjZFhyaXZUU0hlWXRrQjZFUHBFVmo0cE9waXJCTTJWRDJvQTNOVURMbmhGeTVVNFpkb1VCY2t6TUVUa1RQS3BqcmZOdFp2S1d3NHR0b2tZczNqMnNJcm9ILXZQS2xRY1N6Uno4QQ?oc=5",
+      "source": "JD Power",
+      "published": "2026-11-20"
+    },
+    {
       "title": "Real Estate, Climate and Wild Parties? Here’s How Anthropic’s IPO Could Affect the Bay Area - KQED",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWtLdXFTQkVaOW5WU0Z0NFEzcnd2c3dkV2FLLUFlOXhGb0lqdHZBcDhUbTFfQmQwdlRMaXd5SDJvOUczbk9ObmNXQ1lZQlRXOV8wZTA3VjZOdmdPSlVadnVGZXFOTEd1bURFSFVZcWRjd3RGOUMxSWxucWFnaXV0dlA1Vk5zQUtwdVczU0toUDdiaVN6ZEk0ZFQyeXpueVV3ZGRvRXFqamhGMC1EaVE?oc=5",
       "source": "KQED",
       "published": "2026-11-19"
-    },
-    {
-      "title": "Home values keep rising in SF, even as the rest of the Bay Area slows down - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1phVzM4TkU2eFlKWDBYbWNJX2ZuOWVlVVNFSUcwdy00YklMVk1lNzlBRXMzbldNLW1NSTRIOFg3TG5KRkFZcUVGWU5KaDFuR0VJcXBQR1l6bERNUXUweC1wMGZTbkI1ZjJiS2h1TGFOMEJrTDB0cVVkWWl2d2d6Vg?oc=5",
-      "source": "SFGATE",
-      "published": "2026-11-19"
-    },
-    {
-      "title": "Real Estate Data: Latest Bay Area real estate and homes sold by county and price - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFX3I0d1l1SUs3UXB6a3h1LWNyVXdPem1lU3Z3aW1qblBoWDJZVWhZZFdyaXRpVXItQXVDdjhWVHVnLUlPWXE0a2h4LURHZkF3NUtDNmZSYUFGT0h2RXRrSERBczh3QmUzLTB2TTYxZ3VKQkk?oc=5",
-      "source": "SFGATE",
-      "published": "2026-11-17"
-    },
-    {
-      "title": "Home values in these Bay Area cities are the lowest they’ve been in a decade - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpSbllfOHlVbG5kZTFWUUkyVjhGUkNxOEloYjFobU9DM0VYbzVQVl9GMEIzajZZX1ZYQlR1b3RvREt4cFN5RUlWTlRYWWMzTXhaQjZJZkd5dVVUM1ZaR0E1WE9qT1BiSV81RWhHc1ZmaW9SUGtUTy1qaFc3R1ZYd0RYSUNianM?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "2026-11-16"
-    },
-    {
-      "title": "Oakridge Mall in San Jose is bought by Macerich in mega retail deal - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmpzLXNxelo4bDA0cWY5Mkc0UnhhOWROWENDNk9jTVRPeXBtd2pjLWplZElmMEQtaGVQZThmeWZsT3BadzJvd2k5eC0td2dqcERCMzJsREozUEw2SklCWDJqZktxMnMxMVpxWWZtLVhGZFhtaXhObEFaQkpueWZwRE5tT0Q2RzBxUWJhbG5idFdNTnNyRU05bTE5LWlHbkpsNUdnSU5YMUZtLWVvY3c?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-11-16"
-    },
-    {
-      "title": "$11B state bond to boost affordable housing in Silicon Valley - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2lzaEVoUnYzckNnN3A2TnNJdHVkcjIyZUNMOF9fTFJZUnZULWVsY2Q1ZWQzUnNaN21VUFcxWHJ0cjBmN0lJdV9RaTd6R1FjbEZOa1BNR0drWkI5NXJvWkp6WEZmYU1oaTRPRUdwX0RBQUZxVENZUzlxX3dBVHExdkQ3bGo4ZzVMbnZOUklGNkdiZU5E?oc=5",
-      "source": "San José Spotlight",
-      "published": "2026-11-15"
-    },
-    {
-      "title": "Mountain View, HI 96771 [Updated 11/11] - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1p2WldxcGZ5V2ExT3Q0NlB4REg4c21IVW5TcGlfMDhUVzBQMWtUcENSdXUzckJTeEY0Vlhoazh1LUJEVmVYV2hkandkSGttUi1tRURjekQxcGgxOFhCSzMwYjhWc1BGZWUwVkwzTnNaWUdNYk5JdjM0R3dLZEhHUTR5NFl6TEtWd3NiVWFR?oc=5",
-      "source": "Realtor.com",
-      "published": "2026-11-11"
     }
   ]
 }
