@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-26T22:09:11.921Z",
+  "updated": "2026-11-27T21:50:05.689Z",
   "source": "Google News RSS",
   "items": [
-    {
-      "title": "Qualcomm trims South Bay jobs as pace of Bay Area tech layoffs slows - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRKSXV4TGZxanpXbVFNZ3NnN1ZmMEREYjFjRldhWTVXSThXaUdtd1NPSm8tMTdyQWthMWFYR1lEOEhWQkRlZ1BJbC1hdnJzNHJYRDJjT0RKNkJlaWJaUVhjT0VUcFRxbWNGcHBXOUNmVTlZOExXUk9FX3Bwb1d2VjlpWTRlVmNiVTlYZEEzSl85Y01sVHZSem14eHhNT0VhS29jUVJoa0NhYkdYRkg4?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-11-18"
-    },
     {
       "title": "San Jose Spotlight: Santa Clara County Report Shows Increased Property Values - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk96OF9QUXdiazg0QWpQampDZ0s0WE5wZlpvaGE3c3VBS1ZaOTVJV2V4NkRTZlhsejM5bDRkS3hhOWRlcUxuWXo5dmRSUjJuZWhuNkZTYVFLOUZuRDdab2x6emRBcVpFRU5ZN0NPVXVnU3B5dUtuM0FWWjN4Tkw3U3gzZlR3QWdvQkxaSXRCY184YkFCQnVTZm1FLWcwNy1zOWg4?oc=5",
       "source": "SFGATE",
       "published": "2026-10-25"
+    },
+    {
+      "title": "Mountain View Minimum Wage to Hit $20.25 - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnR4bVpaRElKRXlCazhZN3FkNEs0YU9uZWV2S24zcXhidHI0S3hCSEdQNUoyT0NiM1Z5ZXZqZ1FZUlctVFBZaVpyRjh4U2VSeTk3UUVYNWI1NnQwTVR6by1fX211TmZMcW9DSDBSWFdERzFjWE5WTnpUY0dwSmN6eHRPemxHWUN3c0hwQXBPWE1JWUV1NFdnY1dNel8?oc=5",
+      "source": "Wisevoter",
+      "published": "2026-11-27"
     },
     {
       "title": "Marcus & Millichap Palo Alto Office Brokers Sale of Multifamily Property Near Santa Clara University - Yield PRO",
@@ -21,9 +21,9 @@
       "published": "2026-11-26"
     },
     {
-      "title": "South Bay Entertainment Videos: Cliff Booth, the Torrance Turkey Trot, the Terranea tree lighting and more for Thanksgiving weekend - Easy Reader",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ2huVFkyMDVQMHMycG9PZ1FCa0twMjVkNTN4YmFPX0ZVNjVDYVRCUlU3NmI5NkxJeEJRdUZpR29sWFRpankyWW9QbW5UQjh2UFVoUno2NWJOczdiSFRoMUFNYVd2STB6QVVIZWJnQk9fMU1ubHJla0NkWk5JTnJlZzkwZ1c2b3pOTW1LMmttWlpPZnlrTFJKa1J1RnBtR2ZPb3FkajJIXzEzd3AweEppeEFTTVRkekRqRGZpQm5vUzJ2dE5PdUYyT2FIUWVreHZtdU5rS05oS1dSV0RyS0xlV1Mtd1J2RWJWYks4?oc=5",
-      "source": "Easy Reader",
+      "title": "Bike Exchange Moves to Mountain View HQ - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdENLc2FRN2NuVThQSFRZSU04MmtHTnBOZTdIOWs3ajRKNHNqQzNCZ0luTGEyNm5ybXlaX2tINjNmd0JzYmh4SEQ4UnhTVlcwNDU3Nndic256S09rOVFUNUk1THZvQ0dvZGVLX01jRDlqSHJxU1ZZdTVpRDZ3MTlmMkdIQ1k3elYxeWpKdjR2VUJiRjdvMXdyaUJiamYyb2xYaFI1UUpraEFmenN0LUNpOHJJYkk?oc=5",
+      "source": "Wisevoter",
       "published": "2026-11-26"
     },
     {
@@ -33,27 +33,9 @@
       "published": "2026-11-25"
     },
     {
-      "title": "AI-fueled housing surge prices out buyers in San Francisco - ABC7 Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVThjUDh1MU9aZGxCd1BwMXRBUEc0WGJySXhDdENRODJzSGRjUjBvYUdtSW9PME80ZWxQUkdSMGw0cGhub252RFRFSVdLQjR6djc0eEg1bHREbDRrQ2FCUlkwUGlHS2xlRG9zVElaMGJhdkFYQ3N3Zzdxb09tWC1UVEpzTC1lejFONXdDeGtUYlXSAZYBQVVfeXFMT0E3WVB4eFh3R3ZOeTJqSkRsa0hZeEF1eTB5Q2NRRDd3aWY3RVZhWXVUUmU3dzRMUUI4R0ZHTE9sTU05cjM1LVpVc2sxN0YxQnUwNlRiRkJNekpFYlFlUGt0c29rZEtfYi1KSWY1MDF4MU9zZGtoZEU3NGd6aFhRRERCejlTdTIyVTdHWUlKU2tkNDlmendR?oc=5",
-      "source": "ABC7 Bay Area",
-      "published": "2026-11-24"
-    },
-    {
-      "title": "San Jose apartment complex lands buyer for slightly below-average price - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZE91S3FILW9VMFdsdFlfRHZEOXVEZlZlbGdKalNJQWhkajlxNEttbU10bE5RNmVHc0NNbUQ0bHJBSGpWT0NLeW5xcExFcXhwV3JyVnRlTnJ3YTZXeDg5bzhUbml4NDFDbHd2Z05ZNVFLZ2hKS2pNemJFUklSeTVJaGRXUDBUYjlhSE5jdlMxekM4SmN2U281MDVpVEgwMVdEaTFBSkp1Zw?oc=5",
-      "source": "The Mercury News",
-      "published": "2026-11-24"
-    },
-    {
-      "title": "Santa Clara Apartment Trade Comes in at $360K per Unit - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc25ZYjlWeFh5eWRkSFR0cTQ3bUZ1WndGdGFzdTQwVjctNzgwSjVoVE4yZXVlMDN6Sldfai14aEQ3Rk9IU1RmcURjZEJZWTltaFkydzUxbkVNTWZJbmlnbmFRRjVQX1pqazhQWWpYb1U2VzJTMVRwbWxBRzBDQ2djSk9zdGY3dzZZOVAzcDc1SVlkWWc?oc=5",
-      "source": "Connect CRE",
-      "published": "2026-11-24"
-    },
-    {
-      "title": "Interstate Equities Buys San Jose Apartments for $25M - Wisevoter",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd25KWjY1UWx1MWcxd0ZzekF2UmRKd1dTYnlvMTZaNzlwZEhsVVpETXFVbWUwQ1NRRURjdlJndkN2aXlIVDc4V0NNTG4yejdMRzJGcHR4a2QtY2l5OWZKSEhKUnZqelFQU20xTkl4bnFySTVFaFRRc20zanlqc0tsM0N3UGFYbDJacExQQnVHbVJrOEZsdzRqZnpUOFl6clNKanhEYnM3QTM?oc=5",
-      "source": "Wisevoter",
+      "title": "San Jose apartment complex lands buyer for slightly below-average price - East Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODJHS2xmVTdtZGlMYXgxcjI3azlxUmNjbTJEbEdWZkluMGoyRmR6cmpoTGFlc2MxZjlURlFJM1REdmtPeGVYM0dpN09fRy1tVk9BLWZGcUR4WXZHdG5aZWtIbXM3ajhxRmNKTEFTRmZ4TlYwTUZvN3FoSjlFTlhURTN3dkF0aXdLbkxXNGFxRHRXZFZUV2FCZ1N3STJ2NGFXM3lkMi1VRkk?oc=5",
+      "source": "East Bay Times",
       "published": "2026-11-24"
     },
     {
@@ -63,16 +45,34 @@
       "published": "2026-11-20"
     },
     {
+      "title": "Century-old building on high-profile San Jose corner is bought for less than prior value - SiliconValley.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTdkeXJic292NmtTa1JzdmplV0xsNDlkcDVJQTlaVXoxZkl5eGNJMEZsQlU1Y0s1R2htQ08xMG9pM2ZIZ25HWkJGenVxRTNiYWVIeW5zaU5EdVVuYlNtSXJ3cUZrczNDOFFXRk1kbFNiMGlDeEl3WWMzWUZIWUl0VlpTakliY2VaLWNPc1BSV0lzR3ZWQ1dENUxZVnljbUZQYjBvUW96V1k0NFN1Z3fSAbMBQVVfeXFMTzViNjFWZVlrR3d5WUE4LTdsQU12VjVfdUptb3NNWk5IRWdLbXdYQmpVQU1YX21Ta1lGVjE4UzNBX3MyZV92d1AzVndYLV91UlBScHp2SXhWQkF5V3RYUnBNVUhHck1tNWd5OVpMbGpYNVhQbi16Qm0wdHR2eGpTT2hVa0NYYkhZdDd3ck1SWlA2TVhPLURzTFptUmJBaTlpSXJleEdZaXQ2XzRsekZrTjgtbzA?oc=5",
+      "source": "SiliconValley.com",
+      "published": "2026-11-20"
+    },
+    {
       "title": "New 2027 Chevrolet Tahoe LT, 2WD for sale in Mountain View, CA - 1GNS5NKD0VR174118 - JD Power",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnZnUVNNV0ZnRnBBVXRoYWc0MVVRU1FxMEhjNWlROS1YZFVGcHh0QjhKblo4aHVFZ0JGWHptQTVLWklPbjhjZFhyaXZUU0hlWXRrQjZFUHBFVmo0cE9waXJCTTJWRDJvQTNOVURMbmhGeTVVNFpkb1VCY2t6TUVUa1RQS3BqcmZOdFp2S1d3NHR0b2tZczNqMnNJcm9ILXZQS2xRY1N6Uno4QQ?oc=5",
       "source": "JD Power",
       "published": "2026-11-20"
     },
     {
-      "title": "Real Estate, Climate and Wild Parties? Here’s How Anthropic’s IPO Could Affect the Bay Area - KQED",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWtLdXFTQkVaOW5WU0Z0NFEzcnd2c3dkV2FLLUFlOXhGb0lqdHZBcDhUbTFfQmQwdlRMaXd5SDJvOUczbk9ObmNXQ1lZQlRXOV8wZTA3VjZOdmdPSlVadnVGZXFOTEd1bURFSFVZcWRjd3RGOUMxSWxucWFnaXV0dlA1Vk5zQUtwdVczU0toUDdiaVN6ZEk0ZFQyeXpueVV3ZGRvRXFqamhGMC1EaVE?oc=5",
-      "source": "KQED",
-      "published": "2026-11-19"
+      "title": "Longmont puts $30,000 toward residents’ effort to buy Mountain View Mobile Home Park - Longmont Times-Call",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXNVdkhBdXR3UzI0NFJ2LWctS0lnYUpxeHBlRE5sVEFRb0U4X3pWalkyT3ZlQnlJcVJXbzFKTDQ4ck92YURwZXRuTGk1ck11NGlJSWFrdmRVLTlMOHQyRS1iZUZ5dHk0MldORl9NYnd2WWFEczg0c05sLWgyLTRUSmljM3IxV3hQ?oc=5",
+      "source": "Longmont Times-Call",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "Home values in these Bay Area cities are the lowest they’ve been in a decade - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpSbllfOHlVbG5kZTFWUUkyVjhGUkNxOEloYjFobU9DM0VYbzVQVl9GMEIzajZZX1ZYQlR1b3RvREt4cFN5RUlWTlRYWWMzTXhaQjZJZkd5dVVUM1ZaR0E1WE9qT1BiSV81RWhHc1ZmaW9SUGtUTy1qaFc3R1ZYd0RYSUNianM?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "Oakridge Mall in San Jose is bought by Macerich in mega retail deal - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmpzLXNxelo4bDA0cWY5Mkc0UnhhOWROWENDNk9jTVRPeXBtd2pjLWplZElmMEQtaGVQZThmeWZsT3BadzJvd2k5eC0td2dqcERCMzJsREozUEw2SklCWDJqZktxMnMxMVpxWWZtLVhGZFhtaXhObEFaQkpueWZwRE5tT0Q2RzBxUWJhbG5idFdNTnNyRU05bTE5LWlHbkpsNUdnSU5YMUZtLWVvY3c?oc=5",
+      "source": "The Mercury News",
+      "published": "2026-11-16"
     }
   ]
 }
